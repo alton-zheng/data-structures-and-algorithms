@@ -12,7 +12,7 @@ public class Solution2 {
 
     public int[] twoSum(int[] nums, int target) {
 
-        HashMap<Integer, Integer> record = new HashMap<Integer, Integer>();
+        HashMap<Integer, Integer> record = new HashMap<>();
         for(int i = 0 ; i < nums.length ; i ++)
             record.put(nums[i], i);
 
