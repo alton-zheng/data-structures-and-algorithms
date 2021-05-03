@@ -5,8 +5,8 @@
 | 001 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](Q00001-Q00100/00001-Two-Sum/cpp-00001/) | [Java](Q00001-Q00100/00001-Two-Sum/java-00001/src/) |
 | 002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [C++](Q00001-Q00100/00002-Add-Two-Numbers/cpp-0002/) | [Java](Q00001-Q00100/00002-Add-Two-Numbers/java-00002/src) |
 | 003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [C++](Q00001-Q00100/00003-Longest-Substring-Without-Repeating-Characters/cpp-00003/) | [Java](Q00001-Q00100/00003-Longest-Substring-Without-Repeating-Characters/java-00003/src/) |
-| 004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C++](Q00401-Q00500/0004-Median-of-Two-Sorted-Arrays/cpp-0004/) | |
-| 005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++](Q00401-Q00500/0005-Longest-Palindromic-Substring/cpp-0005/) | |
+| 004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C++](Q00001-Q00100/00004-Median-of-Two-Sorted-Arrays/cpp-0004/) | [Java](Q00001-Q00100/00004-Median-of-Two-Sorted-Arrays/java-00004/src) |
+| 005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++](Q00401-Q00500/0005-Longest-Palindromic-Substring/cpp-0005/) | [] |
 | | | | |
 | 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [C++](Q00401-Q00500/0007-Reverse-Integer/cpp-0007/) | |
 | | | | |
@@ -14,20 +14,20 @@
 | 011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [C++](Q00401-Q00500/0011-Container-With-Most-Water/cpp-0011/) | |
 | 012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [C++](Q00401-Q00500/0012-Integer-to-Roman/cpp-0012/) | |
 | 013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [C++](Q00401-Q00500/0013-Roman-to-Integer/cpp-0013/) | |
-| 014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [C++](Q00401-Q00500/0014-Longest-Common-Prefix/cpp-0014/) | |
+| 014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [C++](Q00001-Q00100/00014-Longest-Common-Prefix/cpp-00014) | [Java](Q00001-Q00100/00014-Longest-Common-Prefix/java-00014) |
 | 015 | [3Sum](https://leetcode.com/problems/3sum/description/) | [0001-0500/C++](0015-3Sum/cpp-0015/) | |
 | 016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) | [C++](Q00401-Q00500/0016-3Sum-Closest/cpp-0016/) | |
 | 017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [C++](Q00401-Q00500/0017-Letter-Combinations-of-a-Phone-Number/cpp-0017/) | [Java](Q00401-Q00500/0017-Letter-Combinations-of-a-Phone-Number/java-0017/src/) |
 | 018 | [4Sum](https://leetcode.com/problems/4sum/description/) | [C++](Q00401-Q00500/0018-4Sum/cpp-0018/) | |
 | 019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [C++](Q00401-Q00500/0019-Remove-Nth-Node-From-End-of-List/cpp-0019/) | [Java](Q00401-Q00500/0019-Remove-Nth-Node-From-End-of-List/java-0019/src/) |
 | 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [C++](Q00001-Q00100/00020-Valid-Parentheses/cpp-00020/) | [Java](Q00001-Q00100/00020-Valid-Parentheses/j-00020/src/) |
-| 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [C++](Q00401-Q00500/0021-Merge-Two-Sorted-Lists/cpp-0021/) | |
+| 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [C++](Q00001-Q00100/00021-Merge-Two-Sorted-Lists/cpp-0021/) | [Java](Q00001-Q00100/00021-Merge-Two-Sorted-Lists/java-00021/src) |
 | 022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [C++](Q00401-Q00500/0022-Generate-Parentheses/cpp-0022/) | [Java](Q00401-Q00500/0022-Generate-Parentheses/java-0022/) |
 | 023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [C++](Q00401-Q00500/0023-Merge-k-Sorted-Lists/cpp-0023/) | |
 | 024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [C++](Q00401-Q00500/0024-Swap-Nodes-in-Pairs/cpp-0024/) | [Java](Q00401-Q00500/0024-Swap-Nodes-in-Pairs/java-0024/src/) |
 | 025 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [C++](Q00401-Q00500/0025-Reverse-Nodes-in-k-Group/cpp-0025/) | |
-| 026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [C++](Q00401-Q00500/0026-Remove-Duplicates-from-Sorted-Array/cpp-0026/) | |
-| 027 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [C++](Q00401-Q00500/0027-Remove-Element/cpp-0027/) | |
+| 026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [C++](Q00001-Q00100/00026-Remove-Duplicates-from-Sorted-Array/cpp-00026) | [Java](Q00001-Q00100/00026-Remove-Duplicates-from-Sorted-Array/java-00026) |
+| 027 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [C++](Q00001-Q00100/00027-Remove-Element/cpp-00027) | [Java](Q00001-Q00100/00027-Remove-Element/java-00027) |
 | 028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [C++](Q00401-Q00500/0028-Implement-strStr/cpp-0028/) | |
 | 029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | | |
 | | | | |
@@ -181,7 +181,7 @@
 | [x] 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [C++](Q00201-Q00300/0203-Remove-Linked-List-Elements/cpp-0203) | [Java](Q00201-Q00300/0203-Remove-Linked-List-Elements/java-0203) |
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [C++](Q00201-Q00300/0204-Count-Primes/cpp-0204/) | |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | [C++](Q00201-Q00300/0205-Isomorphic-Strings/cpp-0205/) | |
-| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [C++](Q00401-Q00500/0206-Reverse-Linked-List/cpp-0206/) | [Java](Q00401-Q00500/0206-Reverse-Linked-List/java-0206/src/) |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [C++](Q00201-Q00300/0206-Reverse-Linked-List/cpp-0206/) | [Java](Q00201-Q00300/0206-Reverse-Linked-List/java-0206/src) |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [C++](Q00201-Q00300/0207-Course-Schedule/cpp-0207/) | |
 | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | [C++](Q00201-Q00300/0208-Implement-Trie-Prefix-Tree/cpp-0208/) | |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/) | [C++](Q00401-Q00500/0209-Minimum-Size-Subarray-Sum/cpp-0209/) | [Java](Q00401-Q00500/0209-Minimum-Size-Subarray-Sum/java-0209/src/) |

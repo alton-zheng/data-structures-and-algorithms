@@ -8,31 +8,39 @@
 
 using namespace std;
 
-
 /// Horizonal Scan
 /// Time Complexity: O(len(strs) * max len of string)
 /// Space Complexity: O(1)
+
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
-
-        if(strs.size() == 0)
+        if (!strs.size()) {
             return "";
-
-        string res = strs[0];
-
-        for(int i = 1 ; i < strs.size() ; i ++){
-            for(int j = 0 ; j < res.size() ; j ++)
-                if(j >= strs[i].size() || res[j] != strs[i][j]){
-                    res = res.substr(0, j);
-                    break;
-                }
         }
 
-        return res;
+        string prefix = strs[0];
+        int count = strs.size();
+        for (int i = 1; i < count; ++i) {
+            prefix = longestCommonPrefix(prefix, strs[i]);
+            if (!prefix.size()) {
+                break;
+            }
+        }
+
+        return prefix;
+    }
+
+    string longestCommonPrefix(const string& str1, const string& str2) {
+
+        int length = min(str1.size(), str2.size());
+        int index = 0;
+        while (index < length && str1[index] == str2[index]) {
+            ++index;
+        }
+        return str1.substr(0, index);
     }
 };
-
 
 int main() {
 
