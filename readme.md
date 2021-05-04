@@ -13,7 +13,7 @@
 | 010 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [C++](Q00401-Q00500/0010-Regular-Expression-Matching/cpp-0010/) | |
 | 011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [C++](Q00401-Q00500/0011-Container-With-Most-Water/cpp-0011/) | |
 | 012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [C++](Q00401-Q00500/0012-Integer-to-Roman/cpp-0012/) | |
-| 013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [C++](Q00401-Q00500/0013-Roman-to-Integer/cpp-0013/) | |
+| 013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [C++](Q00001-Q00100/00013-Roman-to-Integer/cpp-00013) | [Java](Q00001-Q00100/00013-Roman-to-Integer/java-00013) |
 | 014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [C++](Q00001-Q00100/00014-Longest-Common-Prefix/cpp-00014) | [Java](Q00001-Q00100/00014-Longest-Common-Prefix/java-00014) |
 | 015 | [3Sum](https://leetcode.com/problems/3sum/description/) | [0001-0500/C++](0015-3Sum/cpp-0015/) | |
 | 016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) | [C++](Q00401-Q00500/0016-3Sum-Closest/cpp-0016/) | |
@@ -28,7 +28,7 @@
 | 025 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [C++](Q00401-Q00500/0025-Reverse-Nodes-in-k-Group/cpp-0025/) | |
 | 026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [C++](Q00001-Q00100/00026-Remove-Duplicates-from-Sorted-Array/cpp-00026) | [Java](Q00001-Q00100/00026-Remove-Duplicates-from-Sorted-Array/java-00026) |
 | 027 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [C++](Q00001-Q00100/00027-Remove-Element/cpp-00027) | [Java](Q00001-Q00100/00027-Remove-Element/java-00027) |
-| 028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [C++](Q00401-Q00500/0028-Implement-strStr/cpp-0028/) | |
+| 028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [C++](Q00001-Q00100/00028-Implement-strStr/cpp-00028) | [Java](Q00001-Q00100/0028-Implement-strStr/cpp-0028/main.cpp -> Q00001-Q00100/00028-Implement-strStr/java-00028) |
 | 029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | | |
 | | | | |
 | 033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [C++](Q00401-Q00500/0033-Search-in-Rotated-Sorted-Array/cpp-0033/) | |
