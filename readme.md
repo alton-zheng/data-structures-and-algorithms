@@ -33,7 +33,7 @@
 | | | | |
 | 033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [C++](Q00401-Q00500/0033-Search-in-Rotated-Sorted-Array/cpp-0033/) | |
 | 034 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | [C++](Q00401-Q00500/0034-Search-for-a-Range/cpp-0034/) | |
-| | | | |
+| 035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C++](Q00001-Q00100/00035-Search-Insert-Position/cpp-00035) | [Java](Q00001-Q00100/00035-Search-Insert-Position/java-00035) |
 | 036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [C++](Q00401-Q00500/0036-Valid-Sudoku/cpp-0036/) | |
 | 037 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | [C++](Q00401-Q00500/0037-Sudoku-Solver/cpp-0037/) | |
 | 038 | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | [C++](Q00401-Q00500/0038-Count-and-Say/cpp-0038/) | |
@@ -173,12 +173,12 @@
 | | | | |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [C++](Q00101-Q00200/0191-Number-of-1-Bits/cpp-0191/) | |
 | | | | |
-| 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | [C++](Q00401-Q00500/0198-House-Robber/cpp-0198/) | [Java](Q00401-Q00500/0198-House-Robber/java-0198/src/) |
+| 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | [C++](Q00101-Q00200/0198-House-Robber/cpp-0198) | [Java](Q00101-Q00200/0198-House-Robber/java-0198) |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [C++](Q00401-Q00500/199-Binary-Tree-Right-Side-View/cpp-0199/) | |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [C++](Q00401-Q00500/0200-Number-of-Islands/cpp-0200/) | [Java](Q00401-Q00500/0200-Number-of-Islands/java-0200/src/) |
 | | | | |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/description/) | [C++](Q00201-Q00300/0202-Happy-Number/cpp-0202/) | |
-| [x] 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [C++](Q00201-Q00300/0203-Remove-Linked-List-Elements/cpp-0203) | [Java](Q00201-Q00300/0203-Remove-Linked-List-Elements/java-0203) |
+| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [C++](Q00201-Q00300/0203-Remove-Linked-List-Elements/cpp-0203) | [Java](Q00201-Q00300/0203-Remove-Linked-List-Elements/java-0203) |
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [C++](Q00201-Q00300/0204-Count-Primes/cpp-0204/) | |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | [C++](Q00201-Q00300/0205-Isomorphic-Strings/cpp-0205/) | |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [C++](Q00201-Q00300/0206-Reverse-Linked-List/cpp-0206/) | [Java](Q00201-Q00300/0206-Reverse-Linked-List/java-0206/src) |
@@ -545,7 +545,7 @@
 | 737 | [Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii/description/) | [C++](0501-1000/0737-Sentence-Similarity-II/cpp-0737/) | |
 | | | | |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | [C++](0501-1000/0739-Daily-Temperatures/cpp-0739/) | |
-| 740 | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/) | [C++](0501-1000/0740-Delete-and-Earn/cpp-0740/) | |
+| 740 | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/) | [C++](0501-1000/0740-Delete-and-Earn/cpp-0740/) | [Java](0501-1000/0740-Delete-and-Earn/java-00740) |
 | 741 | [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/description/) | [C++](0501-1000/0741-Cherry-Pickup/cpp-0741/) | |
 | | | | |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [C++](0501-1000/0746-Min-Cost-Climbing-Stairs/cpp-0746/) | |
