@@ -1,7 +1,3 @@
-/// Source : https://leetcode.com/problems/plus-one/description/
-/// Author : liuyubobobo
-/// Time   : 2018-06-03
-
 #include <iostream>
 #include <vector>
 
