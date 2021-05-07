@@ -9,13 +9,13 @@
 | 005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++](Q00401-Q00500/0005-Longest-Palindromic-Substring/cpp-0005/) | [] |
 | | | | |
 | 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [C++](Q00401-Q00500/0007-Reverse-Integer/cpp-0007/) | |
-| | | | |
+| 00009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](Q00001-Q00100/00009-Palindrome-Number/cpp-00009) | [Java](Q00001-Q00100/00009-Palindrome-Number/java-00009) |
 | 010 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [C++](Q00401-Q00500/0010-Regular-Expression-Matching/cpp-0010/) | |
 | 011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [C++](Q00401-Q00500/0011-Container-With-Most-Water/cpp-0011/) | |
 | 012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [C++](Q00401-Q00500/0012-Integer-to-Roman/cpp-0012/) | |
 | 013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [C++](Q00001-Q00100/00013-Roman-to-Integer/cpp-00013) | [Java](Q00001-Q00100/00013-Roman-to-Integer/java-00013) |
 | 014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [C++](Q00001-Q00100/00014-Longest-Common-Prefix/cpp-00014) | [Java](Q00001-Q00100/00014-Longest-Common-Prefix/java-00014) |
-| 015 | [3Sum](https://leetcode.com/problems/3sum/description/) | [0001-0500/C++](0015-3Sum/cpp-0015/) | |
+| 015 | [3Sum](https://leetcode.com/problems/3sum/description/) | [C++](Q00001-Q00100/00015-3Sum/cpp-00015) | [Java]([C++](Q00001-Q00100/00015-3Sum/java-00015)) |
 | 016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) | [C++](Q00401-Q00500/0016-3Sum-Closest/cpp-0016/) | |
 | 017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [C++](Q00401-Q00500/0017-Letter-Combinations-of-a-Phone-Number/cpp-0017/) | [Java](Q00401-Q00500/0017-Letter-Combinations-of-a-Phone-Number/java-0017/src/) |
 | 018 | [4Sum](https://leetcode.com/problems/4sum/description/) | [C++](Q00401-Q00500/0018-4Sum/cpp-0018/) | |
@@ -83,7 +83,7 @@
 | 085 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [C++](Q00401-Q00500/0085-Maximal-Rectangle/cpp-0085/) | |
 | 086 | [Partition List](https://leetcode.com/problems/partition-list/description/) | [C++](Q00401-Q00500/0086-Partition-List/cpp-0086/) | |
 | 087 | [Scramble String](https://leetcode.com/problems/scramble-string/description/) | [C++](Q00401-Q00500/0087-Scramble-String/cpp-0087/) | |
-| 088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [C++](Q00401-Q00500/0088-Merge-Sorted-Array/cpp-0088/) | [Java](Q00401-Q00500/0088-Merge-Sorted-Array/java-0088/) |
+| 088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [C++](Q00001-Q00100/00088-Merge-Sorted-Array/java-00088) | [Java](Q00001-Q00100/00088-Merge-Sorted-Array/java-00088) |
 | 089 | [Gray Code](https://leetcode.com/problems/gray-code/) | [C++](Q00401-Q00500/0089-Gray-Code/cpp-0089/) | |
 | | | | |
 | 091 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [C++](Q00401-Q00500/0091-Decode-Ways/cpp-0091/) | |
@@ -1143,7 +1143,7 @@
 | 1483 | [Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) | [C++](1001-1500/1483-Kth-Ancestor-of-a-Tree-Node/cpp-1483/) | |
 | 1484 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - |
 | 1485 | [Clone Binary Tree With Random Pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/) | [C++](1001-1500/1485-Clone-Binary-Tree-With-Random-Pointer/cpp-1485/) | |
-| 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [C++](1001-1500/1486-XOR-Operation-in-an-Array/cpp-1486/) | |
+| 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [C++](1001-1500/01486-XOR-Operation-in-an-Array/cpp-01486) | [Java](1001-1500/01486-XOR-Operation-in-an-Array/java-01486) |
 | 1487 | [Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/) | [C++](1001-1500/1487-Making-File-Names-Unique/cpp-1487/) | |
 | 1488 | [Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/) | [C++](1001-1500/1488-Avoid-Flood-in-The-City/cpp-1488/) | |
 | 1489 | [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | [C++](1001-1500/1489-Find-Critical-and-Pseudo-Critical-Edges-in-Minimum-Spanning-Tree/cpp-1489/) | |
