@@ -565,7 +565,7 @@
 | 765 | [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/description/) | [C++](0501-1000/0765-Couples-Holding-Hands/cpp-0765/) | |
 | 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) | [C++](0501-1000/0766-Toeplitz-Matrix/cpp-0766/) | |
 | | | | |
-| 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [C++](0501-1000/0771-Jewels-and-Stones/cpp-0771/) | |
+| 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [C++](Q00701-Q00800/0771-Jewels-and-Stones/cpp-0771) | [Java](Q00701-Q00800/0771-Jewels-and-Stones/java-0771) |
 | 772 | [Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/description/) | [C++](0501-1000/0772-Basic-Calculator-III/cpp-0772/) | |
 | | | | |
 | 774 | [Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) | [C++](0501-1000/0774-Minimize-Max-Distance-to-Gas-Station/cpp-0774/) | |
@@ -1058,105 +1058,105 @@
 | 1398 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - |
 | 1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group/) | [C++](1001-1500/1399-Count-Largest-Group/cpp-1399/) | |
 | 1400 | [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/) | [C++](1001-1500/1400-Construct-K-Palindrome-Strings/cpp-1400/) | |
-| 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | [C++](1001-1500/1401-Circle-and-Rectangle-Overlapping/cpp-1401/) | |
-| 1402 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | [C++](1001-1500/1402-Reducing-Dishes/cpp-1402/) | |
-| 1403 | [Minimum Subsequence in Non Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) | [C++](1001-1500/1403-Minimum-Subsequence-in-Non-Increasing-Order/cpp-1403/) | |
-| 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | [C++](1001-1500/1404-Number-of-Steps-to-Reduce-a-Number-in-Binary-Representation-to-One/cpp-1404/) | |
-| 1405 | [Longest Happy String](https://leetcode.com/problems/longest-happy-string/) | [C++](1001-1500/1405-Longest-Happy-String/cpp-1405/) | |
-| 1406 | [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | [C++](1001-1500/1406-Stone-Game-III/cpp-1406/) | |
+| 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | [C++](Q01401-Q01500/1401-Circle-and-Rectangle-Overlapping/cpp-1401/) | |
+| 1402 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | [C++](Q01401-Q01500/1402-Reducing-Dishes/cpp-1402/) | |
+| 1403 | [Minimum Subsequence in Non Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) | [C++](Q01401-Q01500/1403-Minimum-Subsequence-in-Non-Increasing-Order/cpp-1403/) | |
+| 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | [C++](Q01401-Q01500/1404-Number-of-Steps-to-Reduce-a-Number-in-Binary-Representation-to-One/cpp-1404/) | |
+| 1405 | [Longest Happy String](https://leetcode.com/problems/longest-happy-string/) | [C++](Q01401-Q01500/1405-Longest-Happy-String/cpp-1405/) | |
+| 1406 | [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | [C++](Q01401-Q01500/1406-Stone-Game-III/cpp-1406/) | |
 | 1407 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - |
-| 1408 | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) | [C++](1001-1500/1408-String-Matching-in-an-Array/cpp-1408/) | |
-| 1409 | [Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/) | [C++](1001-1500/1409-Queries-on-a-Permutation-With-Key/cpp-1409/) | |
-| 1410 | [HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/) | [C++](1001-1500/1410-HTML-Entity-Parser/cpp-1410/) | |
+| 1408 | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) | [C++](Q01401-Q01500/1408-String-Matching-in-an-Array/cpp-1408/) | |
+| 1409 | [Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/) | [C++](Q01401-Q01500/1409-Queries-on-a-Permutation-With-Key/cpp-1409/) | |
+| 1410 | [HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/) | [C++](Q01401-Q01500/1410-HTML-Entity-Parser/cpp-1410/) | |
 | 1411 | [Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) | [C++](1001-1500/1411-Number-of-Ways-to-Paint-N×3-Grid/cpp-1411/) | |
 | 1412 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - |
-| 1413 | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | [C++](1001-1500/1413-Minimum-Value-to-Get-Positive-Step-by-Step-Sum/cpp-1413/) | |
-| 1414 | [Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | [C++](1001-1500/1414-Find-the-Minimum-Number-of-Fibonacci-Numbers-Whose-Sum-Is-K/cpp-1414/) | |
-| 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [C++](1001-1500/1415-The-k-th-Lexicographical-String-of-All-Happy-Strings-of-Length-n/cpp-1415/) | |
-| 1416 | [Restore The Array](https://leetcode.com/problems/restore-the-array/) | [C++](1001-1500/1416-Restore-The-Array/cpp-1416/) | |
-| 1417 | [Reformat The String](https://leetcode.com/problems/reformat-the-string/) | [C++](1001-1500/1417-Reformat-The-String/cpp-1417/) | |
-| 1418 | [Display Table of Food Orders in a Restaurant](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/) | [C++](1001-1500/1418-Display-Table-of-Food-Orders-in-a-Restaurant/cpp-1418/) | |
-| 1419 | [Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/) | [C++](1001-1500/1419-Minimum-Number-of-Frogs-Croaking/cpp-1419/) | |
-| 1420 | [Build Array Where You Can Find The Maximum Exactly K Comparisons](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | [C++](1001-1500/1420-Build-Array-Where-You-Can-Find-The-Maximum-Exactly-K-Comparisons/cpp-1420/) | |
+| 1413 | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | [C++](Q01401-Q01500/1413-Minimum-Value-to-Get-Positive-Step-by-Step-Sum/cpp-1413/) | |
+| 1414 | [Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | [C++](Q01401-Q01500/1414-Find-the-Minimum-Number-of-Fibonacci-Numbers-Whose-Sum-Is-K/cpp-1414/) | |
+| 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [C++](Q01401-Q01500/1415-The-k-th-Lexicographical-String-of-All-Happy-Strings-of-Length-n/cpp-1415/) | |
+| 1416 | [Restore The Array](https://leetcode.com/problems/restore-the-array/) | [C++](Q01401-Q01500/1416-Restore-The-Array/cpp-1416/) | |
+| 1417 | [Reformat The String](https://leetcode.com/problems/reformat-the-string/) | [C++](Q01401-Q01500/1417-Reformat-The-String/cpp-1417/) | |
+| 1418 | [Display Table of Food Orders in a Restaurant](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/) | [C++](Q01401-Q01500/1418-Display-Table-of-Food-Orders-in-a-Restaurant/cpp-1418/) | |
+| 1419 | [Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/) | [C++](Q01401-Q01500/1419-Minimum-Number-of-Frogs-Croaking/cpp-1419/) | |
+| 1420 | [Build Array Where You Can Find The Maximum Exactly K Comparisons](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | [C++](Q01401-Q01500/1420-Build-Array-Where-You-Can-Find-The-Maximum-Exactly-K-Comparisons/cpp-1420/) | |
 | 1421 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - |
-| 1422 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [C++](1001-1500/1422-Maximum-Score-After-Splitting-a-String/cpp-1422/) | |
-| 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [C++](1001-1500/1423-Maximum-Points-You-Can-Obtain-from-Cards/cpp-1423/) | |
-| 1424 | [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/) | [C++](1001-1500/1424-Diagonal-Traverse-II/cpp-1424/) | |
-| 1425 | [Constrained Subset Sum](https://leetcode.com/problems/constrained-subset-sum/) | [C++](1001-1500/1425-Constrained-Subset-Sum/cpp-1425/) | |
-| 1426 | [Counting Elements](https://leetcode.com/problems/counting-elements/) | [C++](1001-1500/1426-Counting-Elements/cpp-1426/) | |
-| 1427 | [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) | [C++](1001-1500/1427-Perform-String-Shifts/cpp-1427/) | |
-| 1428 | [Leftmost Column with at Least a One](https://leetcode.com/problems/leftmost-column-with-at-least-a-one/) | [C++](1001-1500/1428-Leftmost-Column-with-at-Least-a-One/cpp-1428/) | |
-| 1429 | [First Unique Number](https://leetcode.com/problems/first-unique-number/) | [C++](1001-1500/1429-First-Unique-Number/cpp-1429/) | |
-| 1430 | [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/) | [C++](1001-1500/1430-Check-If-a-String-Is-a-Valid-Sequence-from-Root-to-Leaves-Path-in-a-Binary-Tree/cpp-1430/) | |
-| 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [C++](1001-1500/1431-Kids-With-the-Greatest-Number-of-Candies/cpp-1431/) | |
-| 1432 | [Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) | [C++](1001-1500/1432-Max-Difference-You-Can-Get-From-Changing-an-Integer/cpp-1432/) | |
-| 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/) | [C++](1001-1500/1433-Check-If-a-String-Can-Break-Another-String/cpp-1433/) | |
-| 1434 | [Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/) | [C++](1001-1500/1434-Number-of-Ways-to-Wear-Different-Hats-to-Each-Other/cpp-1434/) | |
+| 1422 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [C++](Q01401-Q01500/1422-Maximum-Score-After-Splitting-a-String/cpp-1422/) | |
+| 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [C++](Q01401-Q01500/1423-Maximum-Points-You-Can-Obtain-from-Cards/cpp-1423/) | |
+| 1424 | [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/) | [C++](Q01401-Q01500/1424-Diagonal-Traverse-II/cpp-1424/) | |
+| 1425 | [Constrained Subset Sum](https://leetcode.com/problems/constrained-subset-sum/) | [C++](Q01401-Q01500/1425-Constrained-Subset-Sum/cpp-1425/) | |
+| 1426 | [Counting Elements](https://leetcode.com/problems/counting-elements/) | [C++](Q01401-Q01500/1426-Counting-Elements/cpp-1426/) | |
+| 1427 | [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) | [C++](Q01401-Q01500/1427-Perform-String-Shifts/cpp-1427/) | |
+| 1428 | [Leftmost Column with at Least a One](https://leetcode.com/problems/leftmost-column-with-at-least-a-one/) | [C++](Q01401-Q01500/1428-Leftmost-Column-with-at-Least-a-One/cpp-1428/) | |
+| 1429 | [First Unique Number](https://leetcode.com/problems/first-unique-number/) | [C++](Q01401-Q01500/1429-First-Unique-Number/cpp-1429/) | |
+| 1430 | [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/) | [C++](Q01401-Q01500/1430-Check-If-a-String-Is-a-Valid-Sequence-from-Root-to-Leaves-Path-in-a-Binary-Tree/cpp-1430/) | |
+| 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [C++](Q01401-Q01500/1431-Kids-With-the-Greatest-Number-of-Candies/cpp-1431/) | |
+| 1432 | [Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) | [C++](Q01401-Q01500/1432-Max-Difference-You-Can-Get-From-Changing-an-Integer/cpp-1432/) | |
+| 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/) | [C++](Q01401-Q01500/1433-Check-If-a-String-Can-Break-Another-String/cpp-1433/) | |
+| 1434 | [Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/) | [C++](Q01401-Q01500/1434-Number-of-Ways-to-Wear-Different-Hats-to-Each-Other/cpp-1434/) | |
 | 1435 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - |
-| 1436 | [Destination City](https://leetcode.com/problems/destination-city/) | [C++](1001-1500/1436-Destination-City/cpp-1436/) | |
-| 1437 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | [C++](1001-1500/1437-Check-If-All-1s-Are-at-Least-Length-K-Places-Away/cpp-1437/)| |
-| 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | [C++](1001-1500/1438-Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-or-Equal-to-Limit/cpp-1438/) | |
-| 1439 | [Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/) | [C++](1001-1500/1439-Find-the-Kth-Smallest-Sum-of-a-Matrix-With-Sorted-Rows/cpp-1439/) | |
+| 1436 | [Destination City](https://leetcode.com/problems/destination-city/) | [C++](Q01401-Q01500/1436-Destination-City/cpp-1436/) | |
+| 1437 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | [C++](Q01401-Q01500/1437-Check-If-All-1s-Are-at-Least-Length-K-Places-Away/cpp-1437/)| |
+| 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | [C++](Q01401-Q01500/1438-Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-or-Equal-to-Limit/cpp-1438/) | |
+| 1439 | [Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/) | [C++](Q01401-Q01500/1439-Find-the-Kth-Smallest-Sum-of-a-Matrix-With-Sorted-Rows/cpp-1439/) | |
 | 1440 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - |
-| 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | [C++](1001-1500/1441-Build-an-Array-With-Stack-Operations/cpp-1441/) | |
-| 1442 | [Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | [C++](1001-1500/1442-Count-Triplets-That-Can-Form-Two-Arrays-of-Equal-XOR/cpp-1442/) | |
-| 1443 | [Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) | [C++](1001-1500/1443-Minimum-Time-to-Collect-All-Apples-in-a-Tree/cpp-1443/) | |
-| 1444 | [Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/) | [C++](1001-1500/1444-Number-of-Ways-of-Cutting-a-Pizza/cpp-1444/) | |
+| 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | [C++](Q01401-Q01500/1441-Build-an-Array-With-Stack-Operations/cpp-1441/) | |
+| 1442 | [Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | [C++](Q01401-Q01500/1442-Count-Triplets-That-Can-Form-Two-Arrays-of-Equal-XOR/cpp-1442/) | |
+| 1443 | [Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) | [C++](Q01401-Q01500/1443-Minimum-Time-to-Collect-All-Apples-in-a-Tree/cpp-1443/) | |
+| 1444 | [Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/) | [C++](Q01401-Q01500/1444-Number-of-Ways-of-Cutting-a-Pizza/cpp-1444/) | |
 | 1445 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - |
-| 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | [C++](1001-1500/1446-Consecutive-Characters/cpp-1446/) | |
-| 1447 | [Simplified Fractions](https://leetcode.com/problems/simplified-fractions/) | [C++](1001-1500/1447-Simplified-Fractions/cpp-1447/) | |
-| 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [C++](1001-1500/1448-Count-Good-Nodes-in-Binary-Tree/cpp-1448/) | |
-| 1449 | [Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/) | [C++](1001-1500/1449-Form-Largest-Integer-With-Digits-That-Add-up-to-Target/cpp-1449/) | |
-| 1450 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | [C++](1001-1500/1450-Number-of-Students-Doing-Homework-at-a-Given-Time/cpp-1450/) | |
-| 1451 | [Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/) | [C++](1001-1500/1451-Rearrange-Words-in-a-Sentence/cpp-1451/) | |
-| 1452 | [People Whose List of Favorite Companies Is Not a Subset of Another List](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/) | [C++](1001-1500/1452-People-Whose-List-of-Favorite-Companies-Is-Not-a-Subset-of-Another-List/cpp-1452/) | |
-| 1453 | [Maximum Number of Darts Inside of a Circular Dartboard](https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/) | [C++](1001-1500/1453-Maximum-Number-of-Darts-Inside-of-a-Circular-Dartboard/cpp-1453/) | |
+| 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | [C++](Q01401-Q01500/1446-Consecutive-Characters/cpp-1446/) | |
+| 1447 | [Simplified Fractions](https://leetcode.com/problems/simplified-fractions/) | [C++](Q01401-Q01500/1447-Simplified-Fractions/cpp-1447/) | |
+| 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [C++](Q01401-Q01500/1448-Count-Good-Nodes-in-Binary-Tree/cpp-1448/) | |
+| 1449 | [Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/) | [C++](Q01401-Q01500/1449-Form-Largest-Integer-With-Digits-That-Add-up-to-Target/cpp-1449/) | |
+| 1450 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | [C++](Q01401-Q01500/1450-Number-of-Students-Doing-Homework-at-a-Given-Time/cpp-1450/) | |
+| 1451 | [Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/) | [C++](Q01401-Q01500/1451-Rearrange-Words-in-a-Sentence/cpp-1451/) | |
+| 1452 | [People Whose List of Favorite Companies Is Not a Subset of Another List](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/) | [C++](Q01401-Q01500/1452-People-Whose-List-of-Favorite-Companies-Is-Not-a-Subset-of-Another-List/cpp-1452/) | |
+| 1453 | [Maximum Number of Darts Inside of a Circular Dartboard](https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/) | [C++](Q01401-Q01500/1453-Maximum-Number-of-Darts-Inside-of-a-Circular-Dartboard/cpp-1453/) | |
 | 1454 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - |
-| 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | [C++](1001-1500/1455-Check-If-a-Word-Occurs-As-a-Prefix-of-Any-Word-in-a-Sentence/cpp-1455/) | |
-| 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [C++](1001-1500/1456-Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length/cpp-1456/) | |
-| 1457 | [Pseudo Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | [C++](1001-1500/1457-Pseudo-Palindromic-Paths-in-a-Binary-Tree/) | |
-| 1458 | [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | [C++](1001-1500/1458-Max-Dot-Product-of-Two-Subsequences/cpp-1458/) | |
+| 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | [C++](Q01401-Q01500/1455-Check-If-a-Word-Occurs-As-a-Prefix-of-Any-Word-in-a-Sentence/cpp-1455/) | |
+| 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [C++](Q01401-Q01500/1456-Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length/cpp-1456/) | |
+| 1457 | [Pseudo Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | [C++](Q01401-Q01500/1457-Pseudo-Palindromic-Paths-in-a-Binary-Tree/) | |
+| 1458 | [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | [C++](Q01401-Q01500/1458-Max-Dot-Product-of-Two-Subsequences/cpp-1458/) | |
 | 1459 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - |
-| 1460 | [Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/) | [C++](1001-1500/1460-Make-Two-Arrays-Equal-by-Reversing-Sub-arrays/cpp-1460/) | |
-| 1461 | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [C++](1001-1500/1461-Check-If-a-String-Contains-All-Binary-Codes-of-Size-K/cpp-1461/) | |
-| 1462 | [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/) | [C++](1001-1500/1462-Course-Schedule-IV/cpp-1462/) | |
-| 1463 | [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | [C++](1001-1500/1463-Cherry-Pickup-II/cpp-1463/) | |
-| 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [C++](1001-1500/1464-Maximum-Product-of-Two-Elements-in-an-Array/cpp-1464/) | |
-| 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | [C++](1001-1500/1465-Maximum-Area-of-a-Piece-of-Cake-After-Horizontal-and-Vertical-Cuts/cpp-1465/) | |
-| 1466 | [Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | [C++](1001-1500/1466-Reorder-Routes-to-Make-All-Paths-Lead-to-the-City-Zero/cpp-1466/) | |
-| 1467 | [Probability of a Two Boxes Having The Same Number of Distinct Balls](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | [C++](1001-1500/1467-Probability-of-a-Two-Boxes-Having-The-Same-Number-of-Distinct-Balls/cpp-1467/) | |
+| 1460 | [Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/) | [C++](Q01401-Q01500/1460-Make-Two-Arrays-Equal-by-Reversing-Sub-arrays/cpp-1460/) | |
+| 1461 | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [C++](Q01401-Q01500/1461-Check-If-a-String-Contains-All-Binary-Codes-of-Size-K/cpp-1461/) | |
+| 1462 | [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/) | [C++](Q01401-Q01500/1462-Course-Schedule-IV/cpp-1462/) | |
+| 1463 | [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | [C++](Q01401-Q01500/1463-Cherry-Pickup-II/cpp-1463/) | |
+| 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [C++](Q01401-Q01500/1464-Maximum-Product-of-Two-Elements-in-an-Array/cpp-1464/) | |
+| 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | [C++](Q01401-Q01500/1465-Maximum-Area-of-a-Piece-of-Cake-After-Horizontal-and-Vertical-Cuts/cpp-1465/) | |
+| 1466 | [Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | [C++](Q01401-Q01500/1466-Reorder-Routes-to-Make-All-Paths-Lead-to-the-City-Zero/cpp-1466/) | |
+| 1467 | [Probability of a Two Boxes Having The Same Number of Distinct Balls](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | [C++](Q01401-Q01500/1467-Probability-of-a-Two-Boxes-Having-The-Same-Number-of-Distinct-Balls/cpp-1467/) | |
 | 1468 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - |
-| 1469 | [Find All the Lonely Nodes](https://leetcode.com/problems/find-all-the-lonely-nodes/) | [C++](1001-1500/1469-Find-All-the-Lonely-Nodes/cpp-1469/) | |
-| 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [C++](1001-1500/1470-Shuffle-the-Array/cpp-1470/) | |
-| 1471 | [The k Strongest Values in an Array](https://leetcode.com/problems/the-k-strongest-values-in-an-array/) | [C++](1001-1500/1471-The-k-Strongest-Values-in-an-Array/cpp-1471/) | |
-| 1472 | [Design Browser History](https://leetcode.com/problems/design-browser-history/) | [C++](1001-1500/1472-Design-Browser-History/cpp-1472/) | |
-| 1473 | [Paint House III](https://leetcode.com/problems/paint-house-iii/) | [C++](1001-1500/1473-Paint-House-III/cpp-1473/) | |
-| 1474 | [Delete N Nodes After M Nodes of a Linked List](https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/) | [C++](1001-1500/1474-Delete-N-Nodes-After-M-Nodes-of-a-Linked-List/cpp-1474/) | |
-| 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | [C++](1001-1500/1475-Final-Prices-With-a-Special-Discount-in-a-Shop/cpp-1475/) | |
-| 1476 | [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) | [C++](1001-1500/1476-Subrectangle-Queries/cpp-1476/) | |
-| 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [C++](1001-1500/1477-Find-Two-Non-overlapping-Sub-arrays-Each-With-Target-Sum/cpp-1477/) | |
-| 1478 | [Allocate Mailboxes](https://leetcode.com/problems/allocate-mailboxes/) | [C++](1001-1500/1478-Allocate-Mailboxes/cpp-1478/) | |
+| 1469 | [Find All the Lonely Nodes](https://leetcode.com/problems/find-all-the-lonely-nodes/) | [C++](Q01401-Q01500/1469-Find-All-the-Lonely-Nodes/cpp-1469/) | |
+| 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [C++](Q01401-Q01500/1470-Shuffle-the-Array/cpp-1470/) | |
+| 1471 | [The k Strongest Values in an Array](https://leetcode.com/problems/the-k-strongest-values-in-an-array/) | [C++](Q01401-Q01500/1471-The-k-Strongest-Values-in-an-Array/cpp-1471/) | |
+| 1472 | [Design Browser History](https://leetcode.com/problems/design-browser-history/) | [C++](Q01401-Q01500/1472-Design-Browser-History/cpp-1472/) | |
+| 1473 | [Paint House III](https://leetcode.com/problems/paint-house-iii/) | [C++](Q01401-Q01500/1473-Paint-House-III/cpp-1473/) | |
+| 1474 | [Delete N Nodes After M Nodes of a Linked List](https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/) | [C++](Q01401-Q01500/1474-Delete-N-Nodes-After-M-Nodes-of-a-Linked-List/cpp-1474/) | |
+| 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | [C++](Q01401-Q01500/1475-Final-Prices-With-a-Special-Discount-in-a-Shop/cpp-1475/) | |
+| 1476 | [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) | [C++](Q01401-Q01500/1476-Subrectangle-Queries/cpp-1476/) | |
+| 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [C++](Q01401-Q01500/1477-Find-Two-Non-overlapping-Sub-arrays-Each-With-Target-Sum/cpp-1477/) | |
+| 1478 | [Allocate Mailboxes](https://leetcode.com/problems/allocate-mailboxes/) | [C++](Q01401-Q01500/1478-Allocate-Mailboxes/cpp-1478/) | |
 | 1479 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - |
-| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [C++](1001-1500/1480-Running-Sum-of-1d-Array/cpp-1480/) | |
-| 1481 | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) | [C++](1001-1500/1481-Least-Number-of-Unique-Integers-after-K-Removals/cpp-1481/) | |
-| 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [C++](1001-1500/1482-Minimum-Number-of-Days-to-Make-m-Bouquets/cpp-1482/) | |
-| 1483 | [Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) | [C++](1001-1500/1483-Kth-Ancestor-of-a-Tree-Node/cpp-1483/) | |
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [C++](Q01401-Q01500/01480-Running-Sum-of-1d-Array/cpp-01480/) | [Java](Q01401-Q01500/01480-Running-Sum-of-1d-Array/java-01480) |
+| 1481 | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) | [C++](Q01401-Q01500/1481-Least-Number-of-Unique-Integers-after-K-Removals/cpp-1481/) | |
+| 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [C++](Q01401-Q01500/1482-Minimum-Number-of-Days-to-Make-m-Bouquets/cpp-1482/) | |
+| 1483 | [Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) | [C++](Q01401-Q01500/1483-Kth-Ancestor-of-a-Tree-Node/cpp-1483/) | |
 | 1484 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - |
-| 1485 | [Clone Binary Tree With Random Pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/) | [C++](1001-1500/1485-Clone-Binary-Tree-With-Random-Pointer/cpp-1485/) | |
-| 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [C++](1001-1500/01486-XOR-Operation-in-an-Array/cpp-01486) | [Java](1001-1500/01486-XOR-Operation-in-an-Array/java-01486) |
-| 1487 | [Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/) | [C++](1001-1500/1487-Making-File-Names-Unique/cpp-1487/) | |
-| 1488 | [Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/) | [C++](1001-1500/1488-Avoid-Flood-in-The-City/cpp-1488/) | |
-| 1489 | [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | [C++](1001-1500/1489-Find-Critical-and-Pseudo-Critical-Edges-in-Minimum-Spanning-Tree/cpp-1489/) | |
-| 1490 | [Clone N-ary Tree](https://leetcode.com/problems/clone-n-ary-tree/) | [C++](1001-1500/1490-Clone-N-ary-Tree/cpp-1490/) | |
-| 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [C++](1001-1500/1491-Average-Salary-Excluding-the-Minimum-and-Maximum-Salary/cpp-1491/) | |
-| 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | [C++](1001-1500/1492-The-kth-Factor-of-n/cpp-1492/) | |
+| 1485 | [Clone Binary Tree With Random Pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/) | [C++](Q01401-Q01500/1485-Clone-Binary-Tree-With-Random-Pointer/cpp-1485/) | |
+| 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [C++](Q01401-Q01500/01486-XOR-Operation-in-an-Array/cpp-01486) | [Java](Q01401-Q01500/01486-XOR-Operation-in-an-Array/java-01486) |
+| 1487 | [Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/) | [C++](Q01401-Q01500/1487-Making-File-Names-Unique/cpp-1487/) | |
+| 1488 | [Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/) | [C++](Q01401-Q01500/1488-Avoid-Flood-in-The-City/cpp-1488/) | |
+| 1489 | [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | [C++](Q01401-Q01500/1489-Find-Critical-and-Pseudo-Critical-Edges-in-Minimum-Spanning-Tree/cpp-1489/) | |
+| 1490 | [Clone N-ary Tree](https://leetcode.com/problems/clone-n-ary-tree/) | [C++](Q01401-Q01500/1490-Clone-N-ary-Tree/cpp-1490/) | |
+| 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [C++](Q01401-Q01500/1491-Average-Salary-Excluding-the-Minimum-and-Maximum-Salary/cpp-1491/) | |
+| 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | [C++](Q01401-Q01500/1492-The-kth-Factor-of-n/cpp-1492/) | |
 | 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | [C++](1001-1500/1493-Longest-Subarray-of-1's-After-Deleting-One-Element/cpp-1493/) | |
-| 1494 | [Parallel Courses II](https://leetcode.com/problems/parallel-courses-ii/) | [C++](1001-1500/1494-Parallel-Courses-II/cpp-1494/) | |
+| 1494 | [Parallel Courses II](https://leetcode.com/problems/parallel-courses-ii/) | [C++](Q01401-Q01500/1494-Parallel-Courses-II/cpp-1494/) | |
 | 1495 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - |
-| 1496 | [Path Crossing](https://leetcode.com/problems/path-crossing/) | [C++](1001-1500/1496-Path-Crossing/cpp-1496/) | |
-| 1497 | [Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | [C++](1001-1500/1497-Check-If-Array-Pairs-Are-Divisible-by-k/cpp-1497/) | |
-| 1498 | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | [C++](1001-1500/1498-Number-of-Subsequences-That-Satisfy-the-Given-Sum-Condition/cpp-1498/) | |
-| 1499 | [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/) | [C++](1001-1500/1499-Max-Value-of-Equation/cpp-1499/) | |
+| 1496 | [Path Crossing](https://leetcode.com/problems/path-crossing/) | [C++](Q01401-Q01500/1496-Path-Crossing/cpp-1496/) | |
+| 1497 | [Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | [C++](Q01401-Q01500/1497-Check-If-Array-Pairs-Are-Divisible-by-k/cpp-1497/) | |
+| 1498 | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | [C++](Q01401-Q01500/1498-Number-of-Subsequences-That-Satisfy-the-Given-Sum-Condition/cpp-1498/) | |
+| 1499 | [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/) | [C++](Q01401-Q01500/1499-Max-Value-of-Equation/cpp-1499/) | |
 | | | | |
 | 1506 | [Find Root of N-Ary Tree](https://leetcode.com/problems/find-root-of-n-ary-tree/) | [C++](1501-2000/1506-Find-Root-of-N-Ary-Tree/cpp-1506/) | |
 | | | | |
@@ -1262,7 +1262,7 @@
 | 1669 | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | [C++](1501-2000/1669-Merge-In-Between-Linked-Lists/cpp-1669/) | |
 | 1670 | [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/) | [C++](1501-2000/1670-Design-Front-Middle-Back-Queue/cpp-1670/) | |
 | 1671 | [Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) | [C++](1501-2000/1671-Minimum-Number-of-Removals-to-Make-Mountain-Array/cpp-1671/) | |
-| 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [C++](1501-2000/1672-Richest-Customer-Wealth/cpp-1672/) | |
+| 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [C++](Q01601-Q01700/01672-Richest-Customer-Wealth/cpp-01672) | [Java](Q01601-Q01700/01672-Richest-Customer-Wealth/java-01672) |
 | 1673 | [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) | [C++](1501-2000/1673-Find-the-Most-Competitive-Subsequence/cpp-1673/) | |
 | 1674 | [Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) | [C++](1501-2000/1674-Minimum-Moves-to-Make-Array-Complementary/cpp-1674/) | |
 | 1675 | [Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/) | [C++](1501-2000/1675-Minimize-Deviation-in-Array/cpp-1675/) | |
@@ -1313,7 +1313,7 @@
 | 1720 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | [C++](1501-2000/01720-Decode-XORed-Array/cpp-01720/) | [Java](1501-2000/01720-Decode-XORed-Array/java-01720) |
 | 1721 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [C++](1501-2000/1721-Swapping-Nodes-in-a-Linked-List/cpp-1721/) | |
 | 1722 | [Minimize Hamming Distance After Swap Operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/) | [C++](1501-2000/1722-Minimize-Hamming-Distance-After-Swap-Operations/cpp-1722/) | |
-| 1723 | [Find Minimum Time to Finish All Jobs](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/) | [C++](1501-2000/1723-Find-Minimum-Time-to-Finish-All-Jobs/cpp-1723/) | |
+| 1723 | [Find Minimum Time to Finish All Jobs](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/) | [C++](Q01701-Q01800/01723-Find-Minimum-Time-to-Finish-All-Jobs/cpp-01723) | [Java](Q01701-Q01800/01723-Find-Minimum-Time-to-Finish-All-Jobs/java-01723) |
 | 1724 | [Checking Existence of Edge Length Limited Paths II](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths-ii/) | [C++](1501-2000/1724-Checking-Existence-of-Edge-Length-Limited-Paths-II/cpp-1724/) | |
 | 1725 | [Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/) | [C++](1501-2000/1725-Number-Of-Rectangles-That-Can-Form-The-Largest-Square/cpp-1725/) | |
 | 1726 | [Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/) | [C++](1501-2000/1726-Tuple-with-Same-Product/cpp-1726/)| |
