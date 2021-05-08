@@ -1139,7 +1139,7 @@
 | 1479 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [C++](Q01401-Q01500/01480-Running-Sum-of-1d-Array/cpp-01480/) | [Java](Q01401-Q01500/01480-Running-Sum-of-1d-Array/java-01480) |
 | 1481 | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) | [C++](Q01401-Q01500/1481-Least-Number-of-Unique-Integers-after-K-Removals/cpp-1481/) | |
-| 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [C++](Q01401-Q01500/1482-Minimum-Number-of-Days-to-Make-m-Bouquets/cpp-1482/) | |
+| 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [C++](Q01401-Q01500/01482-Minimum-Number-of-Days-to-Make-m-Bouquets/cpp-01482/) | |
 | 1483 | [Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) | [C++](Q01401-Q01500/1483-Kth-Ancestor-of-a-Tree-Node/cpp-1483/) | |
 | 1484 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - |
 | 1485 | [Clone Binary Tree With Random Pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/) | [C++](Q01401-Q01500/1485-Clone-Binary-Tree-With-Random-Pointer/cpp-1485/) | |
