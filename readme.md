@@ -592,86 +592,86 @@
 | 799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/description/) | [C++](0501-1000/0799-Champagne-Tower/cpp-0799/) | |
 | 800 | [Similar RGB Color](https://leetcode.com/problems/similar-rgb-color/description/) | [C++](0501-1000/0800-Similar-RGB-Color/cpp-0800/) | |
 | | | | |
-| 803 | [Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/) | [C++](0501-1000/0803-Bricks-Falling-When-Hit/cpp-0803/) | |
-| 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [C++](0501-1000/0804-Unique-Morse-Code-Words/cpp-0804/) | |
-| 805 | [Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/description/) | [C++](0501-1000/0805-Split-Array-With-Same-Average/cpp-0805/) | |
-| 806 | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/) | [C++](0501-1000/0806-Number-of-Lines-To-Write-String/cpp-0806/) | |
+| 803 | [Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/) | [C++](Q00801-Q00900/0803-Bricks-Falling-When-Hit/cpp-0803/) | |
+| 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [C++](Q00801-Q00900/0804-Unique-Morse-Code-Words/cpp-0804/) | |
+| 805 | [Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/description/) | [C++](Q00801-Q00900/0805-Split-Array-With-Same-Average/cpp-0805/) | |
+| 806 | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/) | [C++](Q00801-Q00900/0806-Number-of-Lines-To-Write-String/cpp-0806/) | |
 | 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/) | [C++](0807-Max-Increase-to-Keep-City-Skyline/cpp-0807/) | |
 | | | | |
-| 809 | [Expressive Words](https://leetcode.com/problems/expressive-words/description/) | [C++](0501-1000/0809-Expressive-Words/cpp-0809/) | |
+| 809 | [Expressive Words](https://leetcode.com/problems/expressive-words/description/) | [C++](Q00801-Q00900/0809-Expressive-Words/cpp-0809/) | |
 | | | | |
-| 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) | [C++](0501-1000/0811-Subdomain-Visit-Count/cpp-0811/) | |
+| 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) | [C++](Q00801-Q00900/0811-Subdomain-Visit-Count/cpp-0811/) | |
 | | | | |
-| 817 | [Linked List Components](https://leetcode.com/problems/linked-list-components/description/) | [C++](0501-1000/0817-Linked-List-Components/cpp-0817/) | |
+| 817 | [Linked List Components](https://leetcode.com/problems/linked-list-components/description/) | [C++](Q00801-Q00900/0817-Linked-List-Components/cpp-0817/) | |
 | | | | |
-| 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/description/) | [C++](0501-1000/0819-Most-Common-Word/cpp-0819/) | |
+| 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/description/) | [C++](Q00801-Q00900/0819-Most-Common-Word/cpp-0819/) | |
 | | | | |
-| 823 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) | [C++](0501-1000/0823-Binary-Trees-With-Factors/cpp-0823/) | |
+| 823 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) | [C++](Q00801-Q00900/0823-Binary-Trees-With-Factors/cpp-0823/) | |
 | | | | |
-| 827 | [Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | [C++](0501-1000/0827-Making-A-Large-Island/cpp-0827/) | |
+| 827 | [Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | [C++](Q00801-Q00900/0827-Making-A-Large-Island/cpp-0827/) | |
 | | | | |
-| 830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/) | [C++](0501-1000/0830-Positions-of-Large-Groups/cpp-0830/) | |
+| 830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/) | [C++](Q00801-Q00900/0830-Positions-of-Large-Groups/cpp-0830/) | |
 | | | | |
-| 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [C++](0501-1000/0832-Flipping-an-Image/cpp-0832/) | |
+| 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [C++](Q00801-Q00900/0832-Flipping-an-Image/cpp-0832/) | |
 | | | | |
-| 839 | [Similar String Groups](https://leetcode.com/problems/similar-string-groups/) |[C++](0501-1000/0839-Similar-String-Groups/cpp-0839/)||
+| 839 | [Similar String Groups](https://leetcode.com/problems/similar-string-groups/) |[C++](Q00801-Q00900/0839-Similar-String-Groups/cpp-0839/)||
 
 &nbsp;
 
 | ID | Problem | C++ | Java |
 | --- | --- | :---: | :---: |
-| 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/) | [C++](0501-1000/0841-Keys-and-Rooms/cpp-0841/) | |
-| 842 | [Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) | [C++](0501-1000/0842-Split-Array-into-Fibonacci-Sequence/cpp-0842/) | |
+| 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/) | [C++](Q00801-Q00900/0841-Keys-and-Rooms/cpp-0841/) | |
+| 842 | [Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) | [C++](Q00801-Q00900/0842-Split-Array-into-Fibonacci-Sequence/cpp-0842/) | |
 | | | | |
-| 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [C++](0501-1000/0852-Peak-Index-in-a-Mountain-Array/cpp-0852/) | |
-| 853 | [Car Fleet](https://leetcode.com/problems/car-fleet/description/) | [C++](0501-1000/0853-Car-Fleet/cpp-0853/) | |
-| 854 | [K-Similar Strings](https://leetcode.com/problems/k-similar-strings/description/) | [C++](0501-1000/0854-K-Similar-Strings/cpp-0854/) | |
-| 855 | [Exam Room](https://leetcode.com/problems/exam-room/description/) | [C++](0501-1000/0855-Exam-Room/cpp-0855/) | |
-| 856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/description/) | [C++](0501-1000/0856-Score-of-Parentheses/cpp-0856/) | |
-| 857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/) | [C++](0501-1000/0857-Minimum-Cost-to-Hire-K-Workers/cpp-0857/) | |
-| 858 | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/description/) | [C++](0501-1000/0858-Mirror-Reflection/cpp-0858/) | |
-| 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/description/) | [C++](0501-1000/0859-Buddy-Strings/cpp-0859/) | |
-| 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/description/) | [C++](0501-1000/0860-Lemonade-Change/cpp-0860/) | |
-| 861 | [Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/description/) | [C++](0501-1000/0861-Score-After-Flipping-Matrix/cpp-0861/) | |
+| 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [C++](Q00801-Q00900/0852-Peak-Index-in-a-Mountain-Array/cpp-0852/) | |
+| 853 | [Car Fleet](https://leetcode.com/problems/car-fleet/description/) | [C++](Q00801-Q00900/0853-Car-Fleet/cpp-0853/) | |
+| 854 | [K-Similar Strings](https://leetcode.com/problems/k-similar-strings/description/) | [C++](Q00801-Q00900/0854-K-Similar-Strings/cpp-0854/) | |
+| 855 | [Exam Room](https://leetcode.com/problems/exam-room/description/) | [C++](Q00801-Q00900/0855-Exam-Room/cpp-0855/) | |
+| 856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/description/) | [C++](Q00801-Q00900/0856-Score-of-Parentheses/cpp-0856/) | |
+| 857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/) | [C++](Q00801-Q00900/0857-Minimum-Cost-to-Hire-K-Workers/cpp-0857/) | |
+| 858 | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/description/) | [C++](Q00801-Q00900/0858-Mirror-Reflection/cpp-0858/) | |
+| 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/description/) | [C++](Q00801-Q00900/0859-Buddy-Strings/cpp-0859/) | |
+| 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/description/) | [C++](Q00801-Q00900/0860-Lemonade-Change/cpp-0860/) | |
+| 861 | [Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/description/) | [C++](Q00801-Q00900/0861-Score-After-Flipping-Matrix/cpp-0861/) | |
 | | | | |
-| 863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/) | [C++](0501-1000/0863-All-Nodes-Distance-K-in-Binary-Tree/cpp-0863/) | |
-| 864 | [Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/description/) | [C++](0501-1000/0864-Shortest-Path-to-Get-All-Keys/cpp-0864/) | |
-| 865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/) | [C++](0501-1000/0865-Smallest-Subtree-with-all-the-Deepest-Nodes/cpp-0865/) | |
-| 866 | [Prime Palindrome](https://leetcode.com/problems/prime-palindrome/description/) | [C++](0501-1000/0866-Prime-Palindrome/cpp-0866/) | |
-| 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) | [C++](0501-1000/0867-Transpose-Matrix/cpp-0867/) | |
-| 868 | [Binary Gap](https://leetcode.com/problems/binary-gap/description/) | [C++](0501-1000/0868-Binary-Gap/cpp-0868/) | |
-| 869 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/description/) | [C++](0501-1000/0869-Reordered-Power-of-2/cpp-0869/) | |
-| 870 | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/description/) | [C++](0501-1000/0870-Advantage-Shuffle/cpp-0870/) | |
-| 871 | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/description/) | [C++](0501-1000/0871-Minimum-Number-of-Refueling-Stops/cpp-0871/) | |
-| 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/) | [C++](0501-1000/0872-Leaf-Similar-Trees/cpp-0872/) | |
-| 873 | [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/) | [C++](0501-1000/0873-Length-of-Longest-Fibonacci-Subsequence/cpp-0873/) | |
-| 874 | [Walking-Robot-Simulation](https://leetcode.com/problems/walking-robot-simulation/description/) | [C++](0501-1000/0874-Walking-Robot-Simulation/cpp-0874/) | |
-| 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) | [C++](0501-1000/0875-Koko-Eating-Bananas/cpp-0875/) | |
-| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [C++](0501-1000/0876-Middle-of-the-Linked-List/cpp-0876/) | |
-| 877 | [Stone Game](https://leetcode.com/problems/stone-game/description/) | [C++](0501-1000/0877-Stone-Game/cpp-0877/) | |
-| 878 | [Nth Magical Number](https://leetcode.com/problems/nth-magical-number/description/) | [C++](0501-1000/0878-Nth-Magical-Number/cpp-0878/) | |
-| 879 | [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/description/) | [C++](0501-1000/0879-Profitable-Schemes/cpp-0879/) | |
-| 880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/description/) | [C++](0501-1000/0880-Decoded-String-at-Index/cpp-0880/) | |
-| 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/) | [C++](0501-1000/0881-Boats-to-Save-People/cpp-0881/) | |
-| 882 | [Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/description/) | [C++](0501-1000/0882-Reachable-Nodes-In-Subdivided-Graph/cpp-0882/) | |
-| 883 | [Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/description/) | [C++](0501-1000/0883-Projection-Area-of-3D-Shapes/cpp-0883/) | |
-| 884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/) | [C++](0501-1000/0884-Uncommon-Words-from-Two-Sentences/cpp-0884/) | |
+| 863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/) | [C++](Q00801-Q00900/0863-All-Nodes-Distance-K-in-Binary-Tree/cpp-0863/) | |
+| 864 | [Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/description/) | [C++](Q00801-Q00900/0864-Shortest-Path-to-Get-All-Keys/cpp-0864/) | |
+| 865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/) | [C++](Q00801-Q00900/0865-Smallest-Subtree-with-all-the-Deepest-Nodes/cpp-0865/) | |
+| 866 | [Prime Palindrome](https://leetcode.com/problems/prime-palindrome/description/) | [C++](Q00801-Q00900/0866-Prime-Palindrome/cpp-0866/) | |
+| 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) | [C++](Q00801-Q00900/0867-Transpose-Matrix/cpp-0867/) | |
+| 868 | [Binary Gap](https://leetcode.com/problems/binary-gap/description/) | [C++](Q00801-Q00900/0868-Binary-Gap/cpp-0868/) | |
+| 869 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/description/) | [C++](Q00801-Q00900/0869-Reordered-Power-of-2/cpp-0869/) | |
+| 870 | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/description/) | [C++](Q00801-Q00900/0870-Advantage-Shuffle/cpp-0870/) | |
+| 871 | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/description/) | [C++](Q00801-Q00900/0871-Minimum-Number-of-Refueling-Stops/cpp-0871/) | |
+| 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/) | [C++](Q00801-Q00900/00872-Leaf-Similar-Trees/cpp-00872/) | [Java](Q00801-Q00900/00872-Leaf-Similar-Trees/java-00872/) |
+| 873 | [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/) | [C++](Q00801-Q00900/0873-Length-of-Longest-Fibonacci-Subsequence/cpp-0873/) | |
+| 874 | [Walking-Robot-Simulation](https://leetcode.com/problems/walking-robot-simulation/description/) | [C++](Q00801-Q00900/0874-Walking-Robot-Simulation/cpp-0874/) | |
+| 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) | [C++](Q00801-Q00900/0875-Koko-Eating-Bananas/cpp-0875/) | |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [C++](Q00801-Q00900/0876-Middle-of-the-Linked-List/cpp-0876/) | |
+| 877 | [Stone Game](https://leetcode.com/problems/stone-game/description/) | [C++](Q00801-Q00900/0877-Stone-Game/cpp-0877/) | |
+| 878 | [Nth Magical Number](https://leetcode.com/problems/nth-magical-number/description/) | [C++](Q00801-Q00900/0878-Nth-Magical-Number/cpp-0878/) | |
+| 879 | [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/description/) | [C++](Q00801-Q00900/0879-Profitable-Schemes/cpp-0879/) | |
+| 880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/description/) | [C++](Q00801-Q00900/0880-Decoded-String-at-Index/cpp-0880/) | |
+| 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/) | [C++](Q00801-Q00900/0881-Boats-to-Save-People/cpp-0881/) | |
+| 882 | [Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/description/) | [C++](Q00801-Q00900/0882-Reachable-Nodes-In-Subdivided-Graph/cpp-0882/) | |
+| 883 | [Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/description/) | [C++](Q00801-Q00900/0883-Projection-Area-of-3D-Shapes/cpp-0883/) | |
+| 884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/) | [C++](Q00801-Q00900/0884-Uncommon-Words-from-Two-Sentences/cpp-0884/) | |
 | 885 | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/description/) | [C++](0885-Spiral-Matrix-III/cpp-0885/) | |
-| 886 | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/description/) | [C++](0501-1000/0886-Possible-Bipartition/cpp-0886/) | |
+| 886 | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/description/) | [C++](Q00801-Q00900/0886-Possible-Bipartition/cpp-0886/) | |
 | | | | |
-| 888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/description/) | [C++](0501-1000/0888-Fair-Candy-Swap/cpp-0888/) | |
-| 889 | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/) | [C++](0501-1000/0889-Construct-Binary-Tree-from-Preorder-and-Postorder-Traversal/cpp-0889/) | |
-| 890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/description/) | [C++](0501-1000/0890-Find-and-Replace-Pattern/cpp-0890/) | |
-| 891 | [Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths/description/) | [C++](0501-1000/0891-Sum-of-Subsequence-Widths/cpp-0891/) | |
-| 892 | [Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/description/) | [C++](0501-1000/0892-Surface-Area-of-3D-Shapes/cpp-0892/) | |
-| 893 | [Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/description/) | [C++](0501-1000/0893-Groups-of-Special-Equivalent-Strings/cpp-0893/) | |
-| 894 | [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/description/) | [C++](0501-1000/0894-All-Possible-Full-Binary-Trees/cpp-0894/) | |
-| 895 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/description/) | [C++](0501-1000/0895-Maximum-Frequency-Stack/cpp-0895/) | |
-| 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/description/) | [C++](0501-1000/0896-Monotonic-Array/cpp-0896/) | |
-| 897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/description/) | [C++](0501-1000/0897-Increasing-Order-Search-Tree/cpp-0897/) | |
-| 898 | [Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/description/) | [C++](0501-1000/0898-Bitwise-ORs-of-Subarrays/cpp-0898/) | |
-| 899 | [Orderly Queue](https://leetcode.com/problems/orderly-queue/description/) | [C++](0501-1000/0899-Orderly-Queue/cpp-0899/) | |
-| 900 | [RLE Iterator](https://leetcode.com/problems/rle-iterator/description/) | [C++](0501-1000/0900-RLE-Iterator/cpp-0900/) | |
+| 888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/description/) | [C++](Q00801-Q00900/0888-Fair-Candy-Swap/cpp-0888/) | |
+| 889 | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/) | [C++](Q00801-Q00900/0889-Construct-Binary-Tree-from-Preorder-and-Postorder-Traversal/cpp-0889/) | |
+| 890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/description/) | [C++](Q00801-Q00900/0890-Find-and-Replace-Pattern/cpp-0890/) | |
+| 891 | [Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths/description/) | [C++](Q00801-Q00900/0891-Sum-of-Subsequence-Widths/cpp-0891/) | |
+| 892 | [Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/description/) | [C++](Q00801-Q00900/0892-Surface-Area-of-3D-Shapes/cpp-0892/) | |
+| 893 | [Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/description/) | [C++](Q00801-Q00900/0893-Groups-of-Special-Equivalent-Strings/cpp-0893/) | |
+| 894 | [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/description/) | [C++](Q00801-Q00900/0894-All-Possible-Full-Binary-Trees/cpp-0894/) | |
+| 895 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/description/) | [C++](Q00801-Q00900/0895-Maximum-Frequency-Stack/cpp-0895/) | |
+| 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/description/) | [C++](Q00801-Q00900/0896-Monotonic-Array/cpp-0896/) | |
+| 897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/description/) | [C++](Q00801-Q00900/0897-Increasing-Order-Search-Tree/cpp-0897/) | |
+| 898 | [Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/description/) | [C++](Q00801-Q00900/0898-Bitwise-ORs-of-Subarrays/cpp-0898/) | |
+| 899 | [Orderly Queue](https://leetcode.com/problems/orderly-queue/description/) | [C++](Q00801-Q00900/0899-Orderly-Queue/cpp-0899/) | |
+| 900 | [RLE Iterator](https://leetcode.com/problems/rle-iterator/description/) | [C++](Q00801-Q00900/0900-RLE-Iterator/cpp-0900/) | |
 | 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/description/) | [C++](0501-1000/0901-Online-Stock-Span/cpp-0901/) | |
 | 902 | [Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/description/) | [C++](0501-1000/0902-Numbers-At-Most-N-Given-Digit-Set/cpp-0902/) | |
 | 903 | [Valid Permutations for DI Sequence](https://leetcode.com/problems/valid-permutations-for-di-sequence/description/) | [C++](0501-1000/0903-Valid-Permutations-for-DI-Sequence/cpp-0903/) | |
@@ -1127,7 +1127,7 @@
 | 1467 | [Probability of a Two Boxes Having The Same Number of Distinct Balls](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | [C++](Q01401-Q01500/1467-Probability-of-a-Two-Boxes-Having-The-Same-Number-of-Distinct-Balls/cpp-1467/) | |
 | 1468 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - |
 | 1469 | [Find All the Lonely Nodes](https://leetcode.com/problems/find-all-the-lonely-nodes/) | [C++](Q01401-Q01500/1469-Find-All-the-Lonely-Nodes/cpp-1469/) | |
-| 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [C++](Q01401-Q01500/1470-Shuffle-the-Array/cpp-1470/) | |
+| 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [C++](Q01401-Q01500/01470-Shuffle-the-Array/cpp-01470/) | [Java](Q01401-Q01500/01470-Shuffle-the-Array/java-01470/) |
 | 1471 | [The k Strongest Values in an Array](https://leetcode.com/problems/the-k-strongest-values-in-an-array/) | [C++](Q01401-Q01500/1471-The-k-Strongest-Values-in-an-Array/cpp-1471/) | |
 | 1472 | [Design Browser History](https://leetcode.com/problems/design-browser-history/) | [C++](Q01401-Q01500/1472-Design-Browser-History/cpp-1472/) | |
 | 1473 | [Paint House III](https://leetcode.com/problems/paint-house-iii/) | [C++](Q01401-Q01500/1473-Paint-House-III/cpp-1473/) | |
@@ -1193,7 +1193,7 @@
 | 1600 | [Throne Inheritance](https://leetcode.com/problems/throne-inheritance/) | [C++](1501-2000/1600-Throne-Inheritance/cpp-1600/) | |
 | 1601 | [Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/) | [C++](1501-2000/1601-Maximum-Number-of-Achievable-Transfer-Requests/cpp-1601/) | |
 | 1602 | [Find Nearest Right Node in Binary Tree](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/) | [C++](1501-2000/1602-Find-Nearest-Right-Node-in-Binary-Tree/cpp-1602/) | |
-| 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | [C++](1501-2000/1603-Design-Parking-System/cpp-1603/) | |
+| 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | [C++](Q01601-Q01700/01603-Design-Parking-System/cpp-01603) | [Java](Q01601-Q01700/01603-Design-Parking-System/java-01603) |
 | 1604 | [Alert Using Same Key-Card Three or More Times in a One Hour Period](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | [C++](1501-2000/1604-Alert-Using-Same-Key-Card-Three-or-More-Times-in-a-One-Hour-Period/cpp-1604/) | |
 | 1605 | [Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/) | [C++](1501-2000/1605-Find-Valid-Matrix-Given-Row-and-Column-Sums/cpp-1605/) | |
 | 1606 | [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | [C++](1501-2000/1606-Find-Servers-That-Handled-Most-Number-of-Requests/cpp-1606/) | |
@@ -1363,7 +1363,7 @@
 | 1770 | [Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) | [C++](1501-2000/1770-Maximum-Score-from-Performing-Multiplication-Operations/cpp-1770/) | |
 | 1771 | [Maximize Palindrome Length From Subsequences](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/) | [C++](1501-2000/1771-Maximize-Palindrome-Length-From-Subsequences/cpp-1771/) | |
 | 1772 | [Sort Features by Popularity](https://leetcode.com/problems/sort-features-by-popularity/) | [C++](1501-2000/1772-Sort-Features-by-Popularity/cpp-1772/) | |
-| | | | |
+| 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | [C++](Q01801-Q01900/01816-Truncate-Sentence/cpp-01816) | [Java](Q01801-Q01900/01816-Truncate-Sentence/java-01816) |
 
 ## 力扣中文站比赛
 
