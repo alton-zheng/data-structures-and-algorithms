@@ -1,14 +1,8 @@
-/// Source : https://leetcode.com/problems/decode-xored-permutation/
-/// Author : liuyubobobo
-/// Time   : 2021-01-23
-
 #include <iostream>
 #include <vector>
 
 using namespace std;
 
-
-/// Xor
 /// Time Complexity: O(n)
 /// Space Complexity: O(1)
 class Solution {
@@ -23,8 +17,11 @@ public:
             start ^= encoded[i];
 
         vector<int> res = {start};
-        for(int code: encoded)
+
+        for (int code: encoded) {
             res.push_back(res.back() ^ code);
+        }
+
         return res;
     }
 };

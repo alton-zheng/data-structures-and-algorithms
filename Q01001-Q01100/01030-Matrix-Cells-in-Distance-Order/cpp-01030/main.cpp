@@ -1,14 +1,8 @@
-/// Source : https://leetcode.com/problems/matrix-cells-in-distance-order/
-/// Author : liuyubobobo
-/// Time   : 2019-04-20
-
 #include <iostream>
 #include <vector>
 
 using namespace std;
 
-
-/// Greedy
 /// Time Complexity: O(nlogn)
 /// Space Complexity: O(n)
 class Solution {
