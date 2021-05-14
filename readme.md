@@ -842,92 +842,92 @@
 | | | | |
 | 1099 | [Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/) | [C++](Q01001-Q01100/1099-Two-Sum-Less-Than-K/cpp-1099/) | |
 | 1100 | [Find K-Length Substrings With No Repeated Characters](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/) | [C++](Q01001-Q01100/1100-Find-K-Length-Substrings-With-No-Repeated-Characters/cpp-1100/) | |
-| 1101 | [The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/) | [C++](1001-1500/1101-The-Earliest-Moment-When-Everyone-Become-Friends/cpp-1101/) | |
-| 1102 | [Path With Maximum Minimum Value](https://leetcode.com/problems/path-with-maximum-minimum-value/) | [C++](1001-1500/1102-Path-With-Maximum-Minimum-Value/cpp-1102/) | |
-| 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/) | [C++](1001-1500/1103-Distribute-Candies-to-People/cpp-1103/) | |
-| 1104 | [Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/) | [C++](1001-1500/1104-Path-In-Zigzag-Labelled-Binary-Tree/cpp-1104/) | |
-| 1105 | [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/) | [C++](1001-1500/1105-Filling-Bookcase-Shelves/cpp-1105/) | |
-| 1106 | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | [C++](1001-1500/1106-Parsing-A-Boolean-Expression/cpp-1106/) | |
+| 1101 | [The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/) | [C++](Q01101-Q01200/1101-The-Earliest-Moment-When-Everyone-Become-Friends/cpp-1101/) | |
+| 1102 | [Path With Maximum Minimum Value](https://leetcode.com/problems/path-with-maximum-minimum-value/) | [C++](Q01101-Q01200/1102-Path-With-Maximum-Minimum-Value/cpp-1102/) | |
+| 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/) | [C++](Q01101-Q01200/1103-Distribute-Candies-to-People/cpp-1103/) | |
+| 1104 | [Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/) | [C++](Q01101-Q01200/1104-Path-In-Zigzag-Labelled-Binary-Tree/cpp-1104/) | |
+| 1105 | [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/) | [C++](Q01101-Q01200/1105-Filling-Bookcase-Shelves/cpp-1105/) | |
+| 1106 | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | [C++](Q01101-Q01200/1106-Parsing-A-Boolean-Expression/cpp-1106/) | |
 | | | | |
-| 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [C++](1001-1500/1108-Defanging-an-IP-Address/cpp-1108/) | |
-| 1109 | [Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/) | [C++](1001-1500/1109-Corporate-Flight-Bookings/cpp-1009/) | |
-| 1110 | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | [C++](1001-1500/1110-Delete-Nodes-And-Return-Forest/cpp-1110/) | |
-| 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | [C++](1001-1500/1111-Maximum-Nesting-Depth-of-Two-Valid-Parentheses-Strings/cpp-1111/) | |
+| 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [C++](Q01101-Q01200/1108-Defanging-an-IP-Address/cpp-1108/) | |
+| 1109 | [Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/) | [C++](Q01101-Q01200/1109-Corporate-Flight-Bookings/cpp-1009/) | |
+| 1110 | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | [C++](Q01101-Q01200/1110-Delete-Nodes-And-Return-Forest/cpp-1110/) | |
+| 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | [C++](Q01101-Q01200/1111-Maximum-Nesting-Depth-of-Two-Valid-Parentheses-Strings/cpp-1111/) | |
 | | | | |
-| 1118 | [Number of Days in a Month](https://leetcode.com/problems/number-of-days-in-a-month/) | [C++](1001-1500/1118-Number-of-Days-in-a-Month/cpp-1118/) | |
-| 1119 | [Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/) | [C++](1001-1500/1119-Remove-Vowels-from-a-String/cpp-1119/) | |
-| 1120 | [Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/) | [C++](1001-1500/1120-Maximum-Average-Subtree/cpp-1120/) | |
-| 1121 | [Divide Array Into Increasing Sequences](https://leetcode.com/problems/divide-array-into-increasing-sequences/) | [C++](1001-1500/1121-Divide-Array-Into-Increasing-Sequences/cpp-1121/) | |
+| 1118 | [Number of Days in a Month](https://leetcode.com/problems/number-of-days-in-a-month/) | [C++](Q01101-Q01200/1118-Number-of-Days-in-a-Month/cpp-1118/) | |
+| 1119 | [Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/) | [C++](Q01101-Q01200/1119-Remove-Vowels-from-a-String/cpp-1119/) | |
+| 1120 | [Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/) | [C++](Q01101-Q01200/1120-Maximum-Average-Subtree/cpp-1120/) | |
+| 1121 | [Divide Array Into Increasing Sequences](https://leetcode.com/problems/divide-array-into-increasing-sequences/) | [C++](Q01101-Q01200/1121-Divide-Array-Into-Increasing-Sequences/cpp-1121/) | |
 | | | | |
-| 1124 | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | [C++](1001-1500/1124-Longest-Well-Performing-Interval/cpp-1124/) | |
+| 1124 | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | [C++](Q01101-Q01200/1124-Longest-Well-Performing-Interval/cpp-1124/) | |
 | | | | |
-| 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | [C++](1001-1500/1128-Number-of-Equivalent-Domino-Pairs/cpp-1128/) | |
-| 1129 | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/) | [C++](1001-1500/1129-Shortest-Path-with-Alternating-Colors/cpp-1129/) | |
-| 1130 | [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) | [C++](1001-1500/1130-Minimum-Cost-Tree-From-Leaf-Values/cpp-1130/) | |
-| 1131 | [Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression/) | [C++](1001-1500/1131-Maximum-of-Absolute-Value-Expression/cpp-1131/) | |
+| 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | [C++](Q01101-Q01200/1128-Number-of-Equivalent-Domino-Pairs/cpp-1128/) | |
+| 1129 | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/) | [C++](Q01101-Q01200/1129-Shortest-Path-with-Alternating-Colors/cpp-1129/) | |
+| 1130 | [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) | [C++](Q01101-Q01200/1130-Minimum-Cost-Tree-From-Leaf-Values/cpp-1130/) | |
+| 1131 | [Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression/) | [C++](Q01101-Q01200/1131-Maximum-of-Absolute-Value-Expression/cpp-1131/) | |
 | | | | |
-| 1133 | [Largest Unique Number](https://leetcode.com/problems/largest-unique-number/) | [C++](1001-1500/1133-Largest-Unique-Number/cpp-1133/) | |
-| 1134 | [Armstrong Number](https://leetcode.com/problems/armstrong-number/) | [C++](1001-1500/1134-Armstrong-Number/cpp-1134/) | |
-| 1135 | [Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) | [C++](1001-1500/1135-Connecting-Cities-With-Minimum-Cost/cpp-1135/) | |
-| 1136 | [Parallel Courses](https://leetcode.com/problems/parallel-courses/) | [C++](1001-1500/1136-Parallel-Courses/cpp-1136/) | |
-| 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [C++](1001-1500/1137-N-th-Tribonacci-Number/cpp-1137/) | |
-| 1138 | [Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/) | [C++](1001-1500/1138-Alphabet-Board-Path/cpp-1138/) | |
-| 1139 | [Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/) | [C++](1001-1500/1139-Largest-1-Bordered-Square/cpp-1139/) | |
-| 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | [C++](1001-1500/1140-Stone-Game-II/cpp-1140/) | |
+| 1133 | [Largest Unique Number](https://leetcode.com/problems/largest-unique-number/) | [C++](Q01101-Q01200/1133-Largest-Unique-Number/cpp-1133/) | |
+| 1134 | [Armstrong Number](https://leetcode.com/problems/armstrong-number/) | [C++](Q01101-Q01200/1134-Armstrong-Number/cpp-1134/) | |
+| 1135 | [Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) | [C++](Q01101-Q01200/1135-Connecting-Cities-With-Minimum-Cost/cpp-1135/) | |
+| 1136 | [Parallel Courses](https://leetcode.com/problems/parallel-courses/) | [C++](Q01101-Q01200/1136-Parallel-Courses/cpp-1136/) | |
+| 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [C++](Q01101-Q01200/1137-N-th-Tribonacci-Number/cpp-1137/) | |
+| 1138 | [Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/) | [C++](Q01101-Q01200/1138-Alphabet-Board-Path/cpp-1138/) | |
+| 1139 | [Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/) | [C++](Q01101-Q01200/1139-Largest-1-Bordered-Square/cpp-1139/) | |
+| 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | [C++](Q01101-Q01200/1140-Stone-Game-II/cpp-1140/) | |
 | | | | |
-| 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [C++](1001-1500/1143-Longest-Common-Subsequence/cpp-1143/) | |
-| 1144 | [Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/) | [C++](1001-1500/1144-Decrease-Elements-To-Make-Array-Zigzag/cpp-1144/) | |
-| 1145 | [Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/) | [C++](1001-1500/1145-Binary-Tree-Coloring-Game/cpp-1145/) | |
-| 1146 | [Snapshot Array](https://leetcode.com/problems/snapshot-array/) | [C++](1001-1500/1146-Snapshot-Array/cpp-1146/) | |
-| 1147 | [Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/) | [C++](1001-1500/1147-Longest-Chunked-Palindrome-Decomposition/cpp-1147/) | |
+| 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [C++](Q01101-Q01200/1143-Longest-Common-Subsequence/cpp-1143/) | |
+| 1144 | [Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/) | [C++](Q01101-Q01200/1144-Decrease-Elements-To-Make-Array-Zigzag/cpp-1144/) | |
+| 1145 | [Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/) | [C++](Q01101-Q01200/1145-Binary-Tree-Coloring-Game/cpp-1145/) | |
+| 1146 | [Snapshot Array](https://leetcode.com/problems/snapshot-array/) | [C++](Q01101-Q01200/1146-Snapshot-Array/cpp-1146/) | |
+| 1147 | [Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/) | [C++](Q01101-Q01200/1147-Longest-Chunked-Palindrome-Decomposition/cpp-1147/) | |
 | | | | |
-| 1150 | [Check If a Number Is Majority Element in a Sorted Array](https://leetcode.com/problems/is-a-a-majority-element/) | [C++](1001-1500/1150-Check-If-a-Number-Is-Majority-Element-in-a-Sorted-Array/cpp-1150/) | |
-| 1151 | [Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/) | [C++](1001-1500/1151-Minimum-Swaps-to-Group-All-1s-Together/cpp-1151/) | |
-| 1152 | [Analyze User Website Visit Pattern](https://leetcode.com/problems/analyse-user-website-visit-pattern/) | [C++](1001-1500/1152-Analyze-User-Website-Visit-Pattern/cpp-1152/) | |
-| 1153 | [String Transforms Into Another String](https://leetcode.com/problems/string-transforms-into-another-string/) | [C++](1001-1500/1153-String-Transforms-Into-Another-String/cpp-1153/) | |
-| 1154 | [Day of the Year](https://leetcode.com/problems/ordinal-number-of-date/) | [C++](1001-1500/1154-Day-of-the-Year/cpp-1154/) | |
-| 1155 | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | [C++](1001-1500/1155-Number-of-Dice-Rolls-With-Target-Sum/cpp-1155/) | |
-| 1156 | [Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-maximum-repeated-substring/) | [C++](1001-1500/1156-Swap-For-Longest-Repeated-Character-Substring/cpp-1156/) | |
-| 1157 | [Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/) | [C++](1001-1500/1157-Online-Majority-Element-In-Subarray/cpp-1157/) | |
+| 1150 | [Check If a Number Is Majority Element in a Sorted Array](https://leetcode.com/problems/is-a-a-majority-element/) | [C++](Q01101-Q01200/1150-Check-If-a-Number-Is-Majority-Element-in-a-Sorted-Array/cpp-1150/) | |
+| 1151 | [Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/) | [C++](Q01101-Q01200/1151-Minimum-Swaps-to-Group-All-1s-Together/cpp-1151/) | |
+| 1152 | [Analyze User Website Visit Pattern](https://leetcode.com/problems/analyse-user-website-visit-pattern/) | [C++](Q01101-Q01200/1152-Analyze-User-Website-Visit-Pattern/cpp-1152/) | |
+| 1153 | [String Transforms Into Another String](https://leetcode.com/problems/string-transforms-into-another-string/) | [C++](Q01101-Q01200/1153-String-Transforms-Into-Another-String/cpp-1153/) | |
+| 1154 | [Day of the Year](https://leetcode.com/problems/ordinal-number-of-date/) | [C++](Q01101-Q01200/1154-Day-of-the-Year/cpp-1154/) | |
+| 1155 | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | [C++](Q01101-Q01200/1155-Number-of-Dice-Rolls-With-Target-Sum/cpp-1155/) | |
+| 1156 | [Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-maximum-repeated-substring/) | [C++](Q01101-Q01200/1156-Swap-For-Longest-Repeated-Character-Substring/cpp-1156/) | |
+| 1157 | [Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/) | [C++](Q01101-Q01200/1157-Online-Majority-Element-In-Subarray/cpp-1157/) | |
 | | | | |
-| 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [C++](1001-1500/1160-Find-Words-That-Can-Be-Formed-by-Characters/cpp-1160/) | |
-| 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [C++](1001-1500/1161-Maximum-Level-Sum-of-a-Binary-Tree/cpp-1161/) | |
-| 1162 | [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) | [C++](1001-1500/1162-As-Far-from-Land-as-Possible/cpp-1162/) | |
-| 1163 | [Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/) | [C++](1001-1500/1163-Last-Substring-in-Lexicographical-Order/cpp-1163/) | |
+| 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [C++](Q01101-Q01200/1160-Find-Words-That-Can-Be-Formed-by-Characters/cpp-1160/) | |
+| 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [C++](Q01101-Q01200/1161-Maximum-Level-Sum-of-a-Binary-Tree/cpp-1161/) | |
+| 1162 | [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) | [C++](Q01101-Q01200/1162-As-Far-from-Land-as-Possible/cpp-1162/) | |
+| 1163 | [Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/) | [C++](Q01101-Q01200/1163-Last-Substring-in-Lexicographical-Order/cpp-1163/) | |
 | | | | |
-| 1165 | [Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/) | [C++](1001-1500/1165-Single-Row-Keyboard/cpp-1165/) | |
-| 1166 | [Design File System](https://leetcode.com/problems/design-file-system/) | [C++](1001-1500/1166-Design-File-System/cpp-1166/) | |
-| 1167 | [Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) | [C++](1001-1500/1167-Minimum-Cost-to-Connect-Sticks/cpp-1167/) | |
-| 1168 | [Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/) | [C++](1001-1500/1168-Optimize-Water-Distribution-in-a-Village/cpp-1168/) | |
-| 1169 | [Invalid Transactions](https://leetcode.com/problems/invalid-transactions/) | [C++](1001-1500/1169-Invalid-Transactions/cpp-1169/) | |
-| 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | [C++](1001-1500/1170-Compare-Strings-by-Frequency-of-the-Smallest-Character/cpp-1170/) | |
-| 1171 | [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | [C++](1001-1500/1171-Remove-Zero-Sum-Consecutive-Nodes-from-Linked-List/cpp-1171/) | |
-| 1172 | [Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/) | [C++](1001-1500/1172-Dinner-Plate-Stacks/cpp-1172/) | |
+| 1165 | [Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/) | [C++](Q01101-Q01200/1165-Single-Row-Keyboard/cpp-1165/) | |
+| 1166 | [Design File System](https://leetcode.com/problems/design-file-system/) | [C++](Q01101-Q01200/1166-Design-File-System/cpp-1166/) | |
+| 1167 | [Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) | [C++](Q01101-Q01200/1167-Minimum-Cost-to-Connect-Sticks/cpp-1167/) | |
+| 1168 | [Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/) | [C++](Q01101-Q01200/1168-Optimize-Water-Distribution-in-a-Village/cpp-1168/) | |
+| 1169 | [Invalid Transactions](https://leetcode.com/problems/invalid-transactions/) | [C++](Q01101-Q01200/1169-Invalid-Transactions/cpp-1169/) | |
+| 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | [C++](Q01101-Q01200/1170-Compare-Strings-by-Frequency-of-the-Smallest-Character/cpp-1170/) | |
+| 1171 | [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | [C++](Q01101-Q01200/1171-Remove-Zero-Sum-Consecutive-Nodes-from-Linked-List/cpp-1171/) | |
+| 1172 | [Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/) | [C++](Q01101-Q01200/1172-Dinner-Plate-Stacks/cpp-1172/) | |
 | | | | |
-| 1175 | [Prime Arrangements](https://leetcode.com/problems/prime-arrangements/) | [C++](1001-1500/1175-Prime-Arrangements/) | |
-| 1176 | [Diet Plan Performance](https://leetcode.com/problems/diet-plan-performance/) | [C++](1001-1500/1176-Diet-Plan-Performance/cpp-1176/) | |
-| 1177 | [Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring/) | [C++](1001-1500/1177-Can-Make-Palindrome-from-Substring/cpp-1177/) | |
-| 1178 | [Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/) | [C++](1001-1500/1178-Number-of-Valid-Words-for-Each-Puzzle/cpp-1178/) | |
+| 1175 | [Prime Arrangements](https://leetcode.com/problems/prime-arrangements/) | [C++](Q01101-Q01200/1175-Prime-Arrangements/) | |
+| 1176 | [Diet Plan Performance](https://leetcode.com/problems/diet-plan-performance/) | [C++](Q01101-Q01200/1176-Diet-Plan-Performance/cpp-1176/) | |
+| 1177 | [Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring/) | [C++](Q01101-Q01200/1177-Can-Make-Palindrome-from-Substring/cpp-1177/) | |
+| 1178 | [Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/) | [C++](Q01101-Q01200/1178-Number-of-Valid-Words-for-Each-Puzzle/cpp-1178/) | |
 | | | | |
-| 1180 | [Count Substrings with Only One Distinct Letter](https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/) | [C++](1001-1500/1180-Count-Substrings-with-Only-One-Distinct-Letter/cpp-1180/) | |
-| 1181 | [Before and After Puzzle](https://leetcode.com/problems/before-and-after-puzzle/) | [C++](1001-1500/1181-Before-and-After-Puzzle/cpp-1181/) | |
-| 1182 | [Shortest Distance to Target Color](https://leetcode.com/problems/shortest-distance-to-target-color/) | [C++](1001-1500/1182-Shortest-Distance-to-Target-Color/cpp-1182/) | |
-| 1183 | [Maximum Number of Ones](https://leetcode.com/problems/maximum-number-of-ones/) | [C++](1001-1500/1183-Maximum-Number-of-Ones/cpp-1183/) | |
-| 1184 | [Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/) | [C++](1001-1500/1184-Distance-Between-Bus-Stops/cpp-1184/) | |
-| 1185 | [Day of the Week](https://leetcode.com/problems/day-of-the-week/) | [C++](1001-1500/1185-Day-of-the-Week/cpp-1185/) | |
-| 1186 | [Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) | [C++](1001-1500/1186-Maximum-Subarray-Sum-with-One-Deletion/cpp-1186/) | |
-| 1187 | [Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/) | [C++](1001-1500/1187-Make-Array-Strictly-Increasing/cpp-1187/) | |
+| 1180 | [Count Substrings with Only One Distinct Letter](https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/) | [C++](Q01101-Q01200/1180-Count-Substrings-with-Only-One-Distinct-Letter/cpp-1180/) | |
+| 1181 | [Before and After Puzzle](https://leetcode.com/problems/before-and-after-puzzle/) | [C++](Q01101-Q01200/1181-Before-and-After-Puzzle/cpp-1181/) | |
+| 1182 | [Shortest Distance to Target Color](https://leetcode.com/problems/shortest-distance-to-target-color/) | [C++](Q01101-Q01200/1182-Shortest-Distance-to-Target-Color/cpp-1182/) | |
+| 1183 | [Maximum Number of Ones](https://leetcode.com/problems/maximum-number-of-ones/) | [C++](Q01101-Q01200/1183-Maximum-Number-of-Ones/cpp-1183/) | |
+| 1184 | [Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/) | [C++](Q01101-Q01200/1184-Distance-Between-Bus-Stops/cpp-1184/) | |
+| 1185 | [Day of the Week](https://leetcode.com/problems/day-of-the-week/) | [C++](Q01101-Q01200/1185-Day-of-the-Week/cpp-1185/) | |
+| 1186 | [Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) | [C++](Q01101-Q01200/1186-Maximum-Subarray-Sum-with-One-Deletion/cpp-1186/) | |
+| 1187 | [Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/) | [C++](Q01101-Q01200/1187-Make-Array-Strictly-Increasing/cpp-1187/) | |
 | | | | |
-| 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [C++](1001-1500/1189-Maximum-Number-of-Balloons/cpp-1189/) | |
-| 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [C++](1001-1500/1190-Reverse-Substrings-Between-Each-Pair-of-Parentheses/cpp-1190/) | |
-| 1191 | [K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum/) | [C++](1001-1500/1191-K-Concatenation-Maximum-Sum/cpp-1191/) | |
-| 1192 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | [C++](1001-1500/1192-Critical-Connections-in-a-Network/cpp-1192/) | |
+| 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [C++](Q01101-Q01200/1189-Maximum-Number-of-Balloons/cpp-1189/) | |
+| 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [C++](Q01101-Q01200/1190-Reverse-Substrings-Between-Each-Pair-of-Parentheses/cpp-1190/) | |
+| 1191 | [K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum/) | [C++](Q01101-Q01200/1191-K-Concatenation-Maximum-Sum/cpp-1191/) | |
+| 1192 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | [C++](Q01101-Q01200/1192-Critical-Connections-in-a-Network/cpp-1192/) | |
 | | | | |
-| 1196 | [How Many Apples Can You Put into the Basket](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/) | [C++](1001-1500/1196-How-Many-Apples-Can-You-Put-into-the-Basket/cpp-1196/) | |
-| 1197 | [Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/) | [C++](1001-1500/1197-Minimum-Knight-Moves/cpp-1197/cpp-1197/) | |
-| 1198 | [Find Smallest Common Element in All Rows](https://leetcode.com/problems/find-smallest-common-element-in-all-rows/) | [C++](1001-1500/1198-Find-Smallest-Common-Element-in-All-Rows/cpp-1198/) | |
-| 1199 | [Minimum Time to Build Blocks](https://leetcode.com/problems/minimum-time-to-build-blocks/) | [C++](1001-1500/1199-Minimum-Time-to-Build-Blocks/cpp-1199/) | |
-| 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [C++](1001-1500/1200-Minimum-Absolute-Difference/cpp-1200/) | |
+| 1196 | [How Many Apples Can You Put into the Basket](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/) | [C++](Q01101-Q01200/1196-How-Many-Apples-Can-You-Put-into-the-Basket/cpp-1196/) | |
+| 1197 | [Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/) | [C++](Q01101-Q01200/1197-Minimum-Knight-Moves/cpp-1197/cpp-1197/) | |
+| 1198 | [Find Smallest Common Element in All Rows](https://leetcode.com/problems/find-smallest-common-element-in-all-rows/) | [C++](Q01101-Q01200/1198-Find-Smallest-Common-Element-in-All-Rows/cpp-1198/) | |
+| 1199 | [Minimum Time to Build Blocks](https://leetcode.com/problems/minimum-time-to-build-blocks/) | [C++](Q01101-Q01200/1199-Minimum-Time-to-Build-Blocks/cpp-1199/) | |
+| 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [C++](Q01101-Q01200/1200-Minimum-Absolute-Difference/cpp-1200/) | |
 | 1201 | [Ugly Number III](https://leetcode.com/problems/ugly-number-iii/) | [C++](Q01201-Q01300/1201-Ugly-Number-III/cpp-1201/) | |
 | 1202 | [Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) | [C++](Q01201-Q01300/1202-Smallest-String-With-Swaps/cpp-1202/) | |
 | 1203 | [Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) | [C++](Q01201-Q01300/1203-Sort-Items-by-Groups-Respecting-Dependencies/cpp-1203/) | |
