@@ -1160,6 +1160,7 @@
 | | | | |
 | 1506 | [Find Root of N-Ary Tree](https://leetcode.com/problems/find-root-of-n-ary-tree/) | [C++](1501-2000/1506-Find-Root-of-N-Ary-Tree/cpp-1506/) | |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [C++](Q01501-Q01600/01512-Number-of-Good-Pairs/cpp01512) | [Java](Q01501-Q01600/01512-Number-of-Good-Pairs/java01512) |
+| 01518 | [Water Bottles](https://leetcode.com/problems/water-bottles/) | [C++](Q01501-Q01600/01518-Water-Bottles/cpp01518) | [Java](Q01501-Q01600/01518-Water-Bottles/java01518) |
 | 1522 | [Diameter of N-Ary Tree](https://leetcode.com/problems/diameter-of-n-ary-tree/) | [C++](1501-2000/1522-Diameter-of-N-Ary-Tree/cpp-1522/) | |
 | | | | |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [C++](1501-2000/1539-Kth-Missing-Positive-Number/cpp-1539/) | |
