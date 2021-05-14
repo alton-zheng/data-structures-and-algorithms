@@ -1,3 +1,4 @@
+package java00013;
 /**
  * 13. Roman to Integer
  * Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
@@ -55,39 +56,28 @@
  * Spacke Complexity: O(1)
  */
 class Solution {
-    public int romanToInt(String s) {
-        int sum = 0;
-        int preNum = getValue(s.charAt(0));
-        for (int i = 1; i < s.length(); i++) {
-            int num = getValue(s.charAt(i));
-            if (preNum < num) {
-                sum -= preNum;
-            } else {
-                sum += preNum;
-            }
-            preNum = num;
-        }
-        sum += preNum;
-        return sum;
-    }
 
     public int romanToInt(String s) {
-        int sum = 0;
-        int pre = getValue(s.charAt(0));
+
+        int res = 0;
+        int preValue = getValue(s.charAt(0));
 
         for (int i = 1; i < s.length(); i++) {
+
             int cur = getValue(s.charAt(i));
-            if (pre < cur) {
-                sum -= pre;
+
+            if (preValue < cur) {
+                res -= preValue;
             } else {
-                sum += pre;
+                res += preValue;
             }
 
-            pre = cur;
+            preValue = cur;
+
         }
 
-        sum += pre;
-        return sum;
+        res += preValue;
+        return res;
     }
 
     private int getValue(char ch) {
