@@ -41,8 +41,8 @@ package java01221;
  * s[i] is either 'L' or 'R'.
  * s is a balanced string.
  *
- * Time Complexity: O()
- * Space Complexity: O()
+ * Time Complexity: O(n)
+ * Space Complexity: O(1)
  */
 class Solution {
     public int balancedStringSplit(String s) {
