@@ -945,7 +945,7 @@
 | 1218 | [Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [C++](Q01201-Q01300/1218-Longest-Arithmetic-Subsequence-of-Given-Difference/cpp-1218/) | |
 | 1219 | [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/) | [C++](Q01201-Q01300/1219-Path-with-Maximum-Gold/cpp-1219/) | |
 | 1220 | [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) | [C++](Q01201-Q01300/1220-Count-Vowels-Permutation/cpp-1220/) | |
-| 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [C++](Q01201-Q01300/1221-Split-a-String-in-Balanced-Strings/cpp-1221/) | |
+| 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [C++](Q01201-Q01300/01221-Split-a-String-in-Balanced-Strings/cpp01221/) | [Java](Q01201-Q01300/01221-Split-a-String-in-Balanced-Strings/java01221) |
 | 1222 | [Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/) | [C++](Q01201-Q01300/1222-Queens-That-Can-Attack-the-King/cpp-1222/) | |
 | 1223 | [Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation/) | [C++](Q01201-Q01300/1223-Dice-Roll-Simulation/cpp-1223/) | |
 | 1224 | [Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency/) | [C++](Q01201-Q01300/1224-Maximum-Equal-Frequency/cpp-1224/) | |
