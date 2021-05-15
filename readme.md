@@ -873,7 +873,7 @@
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [C++](Q01101-Q01200/1137-N-th-Tribonacci-Number/cpp-1137/) | |
 | 1138 | [Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/) | [C++](Q01101-Q01200/1138-Alphabet-Board-Path/cpp-1138/) | |
 | 1139 | [Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/) | [C++](Q01101-Q01200/1139-Largest-1-Bordered-Square/cpp-1139/) | |
-| 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | [C++](Q01101-Q01200/1140-Stone-Game-II/cpp01140/) | |
+| 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | [C++](Q01101-Q01200/1140-Stone-Game-II/cpp01140/) | [Java](Q01101-Q01200/1140-Stone-Game-II/java01140/) |
 | | | | |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [C++](Q01101-Q01200/1143-Longest-Common-Subsequence/cpp-1143/) | |
 | 1144 | [Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/) | [C++](Q01101-Q01200/1144-Decrease-Elements-To-Make-Array-Zigzag/cpp-1144/) | |
