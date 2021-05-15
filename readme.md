@@ -426,7 +426,7 @@
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [C++](0501-1000/0543-Diameter-of-Binary-Tree/cpp-0543/) | |
 | | | | |
 | 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [C++](0501-1000/0547-Number-of-Provinces/cpp-0547/) | |
-| | | | |
+| 552 | [Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | [C++](Q00501-Q00600/00552-Longest-Uncommon-Subsequence-II/cpp00552) | [Java](Q00501-Q00600/00552-Longest-Uncommon-Subsequence-II/java00552) |
 | 556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [C++](0501-1000/0556-Next-Greater-Element-III/cpp-0556/) | |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | [C++](0501-1000/0557-Reverse-Words-in-a-String-III/cpp-0557/) | |
 | | | | |
