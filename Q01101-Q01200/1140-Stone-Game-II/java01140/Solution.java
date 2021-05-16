@@ -3,7 +3,8 @@ package java01140;
 /**
  * @Author: alton
  * @Date: Created in 5/15/21 10:53 AM
- * @Description: 1140. Stone Game II #9
+ * @Description:
+ * 1140. Stone Game II #9
  * Alice and Bob continue their games with piles of stones.  There are a number of piles arranged in a row, and each pile has a positive integer number of stones piles[i].  The objective of the game is to end with the most stones.
  * <p>
  * Alice and Bob take turns, with Alice starting first.  Initially, M = 1.
