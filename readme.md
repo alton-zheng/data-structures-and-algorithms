@@ -307,7 +307,7 @@
 | | | | |
 | 373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [C++](Q00401-Q00500/0373-Find-K-Pairs-with-Smallest-Sums/cpp-0373/) | |
 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [C++](Q00401-Q00500/0374-Guess-Number-Higher-or-Lower/cpp-0374/) | |
-| | | | |
+| 375 | [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | [C++](Q00301-Q00400/00375-Guess-Number-Higher-or-Lower-II/cpp00375) | [Java](Q00301-Q00400/00375-Guess-Number-Higher-or-Lower-II/java00375) |
 | 376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [C++](Q00401-Q00500/0376-Wiggle-Subsequence/cpp-0376/)<br/>[缺：DP；O(1) 空间贪心] | |
 | 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/) | [C++](Q00401-Q00500/0377-Combination-Sum-IV/cpp-0377/) | |
 | 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [C++](Q00401-Q00500/0378-Kth-Smallest-Element-in-a-Sorted-Matrix/cpp-0378/) | |
