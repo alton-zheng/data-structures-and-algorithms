@@ -639,7 +639,7 @@
 | 865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/) | [C++](Q00801-Q00900/0865-Smallest-Subtree-with-all-the-Deepest-Nodes/cpp-0865/) | |
 | 866 | [Prime Palindrome](https://leetcode.com/problems/prime-palindrome/description/) | [C++](Q00801-Q00900/0866-Prime-Palindrome/cpp-0866/) | |
 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) | [C++](Q00801-Q00900/0867-Transpose-Matrix/cpp-0867/) | |
-| 868 | [Binary Gap](https://leetcode.com/problems/binary-gap/description/) | [C++](Q00801-Q00900/0868-Binary-Gap/cpp-0868/) | |
+| 868 | [Binary Gap](https://leetcode.com/problems/binary-gap/description/) | [C++](Q00801-Q00900/00868-Binary-Gap/cpp00868) | [Java](Q00801-Q00900/00868-Binary-Gap/java00868) |
 | 869 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/description/) | [C++](Q00801-Q00900/0869-Reordered-Power-of-2/cpp-0869/) | |
 | 870 | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/description/) | [C++](Q00801-Q00900/0870-Advantage-Shuffle/cpp-0870/) | |
 | 871 | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/description/) | [C++](Q00801-Q00900/0871-Minimum-Number-of-Refueling-Stops/cpp-0871/) | |
