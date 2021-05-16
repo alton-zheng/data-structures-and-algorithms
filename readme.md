@@ -345,7 +345,7 @@
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings/) | | [java](Q00401-Q00500/00415-Add-Strings/java-00415/src) |
 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [C++](Q00401-Q00500/0416-Partition-Equal-Subset-Sum/cpp-0416/) | [Java](Q00401-Q00500/0416-Partition-Equal-Subset-Sum/java-0416/src/) |
 | 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/) | | [Java](Q00401-Q00500/0417-Pacific-Atlantic-Water-Flow/java-0417/src/) |
-| | | | |
+| 421 | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [C++](Q00401-Q00500/00421-Maximum-XOR-of-Two-Numbers-in-an-Array/cpp00421) | [Java](Q00401-Q00500/00421-Maximum-XOR-of-Two-Numbers-in-an-Array/java00421) 缺 Trie 算法，后续补充 |
 | 423 | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | [C++](Q00401-Q00500/0423-Reconstruct-Original-Digits-from-English/cpp-0423/) | |
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [C++](Q00401-Q00500/0424-Longest-Repeating-Character-Replacement/cpp-0424/) | |
 | | | | |
