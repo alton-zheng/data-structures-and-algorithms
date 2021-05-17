@@ -1144,7 +1144,7 @@
 | 1484 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - |
 | 1485 | [Clone Binary Tree With Random Pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/) | [C++](Q01401-Q01500/1485-Clone-Binary-Tree-With-Random-Pointer/cpp-1485/) | |
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [C++](Q01401-Q01500/01486-XOR-Operation-in-an-Array/cpp-01486) | [Java](Q01401-Q01500/01486-XOR-Operation-in-an-Array/java-01486) |
-| 1487 | [Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/) | [C++](Q01401-Q01500/1487-Making-File-Names-Unique/cpp-1487/) | |
+| 1487 | [Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/) | [C++](Q01401-Q01500/01487-Making-File-Names-Unique/cpp01487) | [Java](Q01401-Q01500/01487-Making-File-Names-Unique/java01487) |
 | 1488 | [Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/) | [C++](Q01401-Q01500/1488-Avoid-Flood-in-The-City/cpp-1488/) | |
 | 1489 | [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | [C++](Q01401-Q01500/1489-Find-Critical-and-Pseudo-Critical-Edges-in-Minimum-Spanning-Tree/cpp-1489/) | |
 | 1490 | [Clone N-ary Tree](https://leetcode.com/problems/clone-n-ary-tree/) | [C++](Q01401-Q01500/1490-Clone-N-ary-Tree/cpp-1490/) | |
