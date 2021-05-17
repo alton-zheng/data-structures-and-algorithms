@@ -762,7 +762,7 @@
 | 990 | [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | [C++](0501-1000/0990-Satisfiability-of-Equality-Equations/cpp-0990/) | |
 | 991 | [Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [C++](0501-1000/0991-Broken-Calculator/cpp-0991/) | |
 | 992 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [C++](0501-1000/0992-Subarrays-with-K-Different-Integers/cpp-0992/) | |
-| 993 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [C++](0501-1000/0993-Cousins-in-Binary-Tree/cpp-0993/) | |
+| 993 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [C++](Q00901-Q01000/00993-Cousins-in-Binary-Tree/cpp00993) | [Java](Q00901-Q01000/00993-Cousins-in-Binary-Tree/java00993) |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [C++](0501-1000/0994-Rotting-Oranges/cpp-0994/) | |
 | 995 | [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | [C++](0501-1000/0995-Minimum-Number-of-K-Consecutive-Bit-Flips/cpp-0995/) | |
 | 996 | [Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/) | [C++](0501-1000/0996-Number-of-Squareful-Arrays/cpp-0996/) | |
