@@ -555,7 +555,7 @@
 | | | | |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [C++](0501-1000/0746-Min-Cost-Climbing-Stairs/cpp-0746/) | |
 | 747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | [C++](0501-1000/0747-Largest-Number-At-Least-Twice-of-Others/cpp-0747/) | |
-| | | | |
+| 749 | | [C++](Q00701-Q00800/00749-Contain-Virus/cpp00749) | [Java](Q00701-Q00800/00749-Contain-Virus/java00749) |
 | 752 | [Open the Lock](https://leetcode.com/problems/open-the-lock/description/) | [C++](0501-1000/0752-Open-the-Lock/cpp-0752/) | |
 | | | | |
 | 754 | [Reach a Number](https://leetcode.com/problems/reach-a-number/) | [C++](0501-1000/0754-Reach-a-Number/cpp-0754/) | |
@@ -770,6 +770,11 @@
 | 998 | [Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/) | [C++](0501-1000/0998-Maximum-Binary-Tree-II/cpp-0998/) | |
 | 999 | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/) | [C++](0501-1000/0999-Available-Captures-for-Rook/cpp-0999/) | |
 | 1000 | [Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/) | [C++](0501-1000/1000-Minimum-Cost-to-Merge-Stones/cpp-1000/) | |
+
+&nbsp;
+
+| ID | Problem | C++ | Java |
+| --- | --- | :---: | :---: |
 | 1001 | [Grid Illumination](https://leetcode.com/problems/grid-illumination/) | [C++](Q01001-Q01100/1001-Grid-Illumination/cpp-1001/) | |
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [C++](Q01001-Q01100/1002-Find-Common-Characters/cpp-1002/) | |
 | 1003 | [Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/) | [C++](Q01001-Q01100/1003-Check-If-Word-Is-Valid-After-Substitutions/cpp-1003/) | |
@@ -1158,6 +1163,16 @@
 | 1498 | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | [C++](Q01401-Q01500/1498-Number-of-Subsequences-That-Satisfy-the-Given-Sum-Condition/cpp-1498/) | |
 | 1499 | [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/) | [C++](Q01401-Q01500/1499-Max-Value-of-Equation/cpp-1499/) | |
 | | | | |
+
+&nbsp;
+
+| ID | Problem | C++ | Java |
+| --- | --- | :---: | :---: |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
 | 1506 | [Find Root of N-Ary Tree](https://leetcode.com/problems/find-root-of-n-ary-tree/) | [C++](1501-2000/1506-Find-Root-of-N-Ary-Tree/cpp-1506/) | |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [C++](Q01501-Q01600/01512-Number-of-Good-Pairs/cpp01512) | [Java](Q01501-Q01600/01512-Number-of-Good-Pairs/java01512) |
 | 01518 | [Water Bottles](https://leetcode.com/problems/water-bottles/) | [C++](Q01501-Q01600/01518-Water-Bottles/cpp01518) | [Java](Q01501-Q01600/01518-Water-Bottles/java01518) |
@@ -1366,33 +1381,3 @@
 | 1772 | [Sort Features by Popularity](https://leetcode.com/problems/sort-features-by-popularity/) | [C++](1501-2000/1772-Sort-Features-by-Popularity/cpp-1772/) | |
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | [C++](Q01801-Q01900/01816-Truncate-Sentence/cpp-01816) | [Java](Q01801-Q01900/01816-Truncate-Sentence/java-01816) |
 
-## 力扣中文站比赛
-
-| ID | Problem | C++ | Java |
-| --- | --- | :---: | :---: |
-| LCP01 | [猜数字](https://leetcode-cn.com/problems/guess-numbers/) | [C++](LCP/LCP01-guess-numbers/cpp-LCP01/) | |
-| LCP02 | [分式化简](https://leetcode-cn.com/problems/deep-dark-fraction/) | [C++](LCP/LCP02-deep-dark-fraction/cpp-LCP02/) | |
-| LCP03 | [机器人大冒险](https://leetcode-cn.com/problems/programmable-robot/) | [C++](LCP/LCP03-programmable-robot/cpp-LCP03/) | |
-| LCP04 | [覆盖](https://leetcode-cn.com/problems/broken-board-dominoes/) | [C++](LCP/LCP04-broken-board-dominoes/cpp-LCP04/) | |
-| LCP05 | [发 LeetCoin](https://leetcode-cn.com/problems/coin-bonus/) | [C++](LCP/LCP05-coin-bonus/cpp-LCP05/) | |
-| LCP06 | [拿硬币](https://leetcode-cn.com/problems/na-ying-bi/) | [C++](LCP/LCP06-na-ying-bi/cpp-LCP06/) ||
-| LCP07 | [传递信息](https://leetcode-cn.com/problems/chuan-di-xin-xi/) | [C++](LCP/LCP07-chuan-di-xin-xi/cpp-LCP07/) | |
-| LCP08 | [剧情触发时间](https://leetcode-cn.com/problems/ju-qing-hong-fa-shi-jian/) | [C++](LCP/LCP08-ju-qing-hong-fa-shi-jian/cpp-LCP08/) | |
-| LCP09 | [最小跳跃次数](https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu/) | [C++](LCP/LCP09-zui-xiao-tiao-yue-ci-shu/cpp-LCP09/) | |
-| LCP10 | [二叉树任务调度](https://leetcode-cn.com/problems/er-cha-shu-ren-wu-diao-du/) | [C++](LCP/LCP10-er-cha-shu-ren-wu-diao-du/cpp-LCP10/) | |
-| LCP11 | [期望个数统计](https://leetcode-cn.com/problems/qi-wang-ge-shu-tong-ji/) | [C++](LCP/LCP11-qi-wang-ge-shu-tong-ji/cpp-LCP11/) | |
-| LCP12 | [小张刷题计划](https://leetcode-cn.com/problems/xiao-zhang-shua-ti-ji-hua/) | [C++](LCP/LCP12-xiao-zhang-shua-ti-ji-hua/cpp-LCP12/) | |
-| LCP13 | [寻宝](https://leetcode-cn.com/problems/xun-bao/) | [C++](LCP/LCP13-xun-bao/cpp-LCP13/) | |
-| LCP14 | [切分数组](https://leetcode-cn.com/problems/qie-fen-shu-zu/) | [C++](LCP/LCP14-qie-fen-shu-zu/cpp-LCP14/) | |
-| LCP15 | [游乐园的迷宫](https://leetcode-cn.com/problems/you-le-yuan-de-mi-gong/) | [C++](LCP/LCP15-you-le-yuan-de-mi-gong/cpp-LCP15/) | |
-| LCP16 | [游乐园的游览计划](https://leetcode-cn.com/problems/you-le-yuan-de-you-lan-ji-hua/) | [C++](LCP/LCP16-you-le-yuan-de-you-lan-ji-hua/cpp-LCP16/) | |
-| LCP17 | [速算机器人](https://leetcode-cn.com/problems/nGK0Fy/) | [C++](LCP/LCP17/cpp-LCP17/) | |
-| LCP18 | [早餐组合](https://leetcode-cn.com/problems/2vYnGI/) | [C++](LCP/LCP18/cpp-LCP18/) | |
-| LCP19 | [秋叶收藏集](https://leetcode-cn.com/problems/UlBDOe/) | [C++](LCP/LCP19/cpp-LCP19/) | |
-| LCP20 | [快速公交](https://leetcode-cn.com/problems/meChtZ/) | [C++](LCP/LCP20/cpp-LCP20/) | |
-| LCP21 | [追逐游戏](https://leetcode-cn.com/problems/Za25hA/) | [C++](LCP/LCP21/cpp-LCP21/) | |
-| LCP22 | [黑白方格画](https://leetcode-cn.com/problems/ccw6C7/) | [C++](LCP/LCP22/cpp-LCP22/) | |
-| LCP23 | [魔术排列](https://leetcode-cn.com/problems/er94lq/) | [C++](LCP/LCP23/cpp-LCP23/) | |
-| LCP24 | [数字游戏](https://leetcode-cn.com/problems/5TxKeK/) | [C++](LCP/LCP24/cpp-LCP24/) | |
-| LCP25 | [古董键盘](https://leetcode-cn.com/problems/Uh984O/) | [C++](LCP/LCP25/cpp-LCP25/) | |
-| | | | |
