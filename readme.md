@@ -572,7 +572,7 @@
 | | | | |
 | 780 | [Reaching Points](https://leetcode.com/problems/reaching-points/description/) | [C++](0501-1000/0780-Reaching-Points/cpp-0780/) | |
 | 781 | [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/description/) | [C++](0501-1000/0781-Rabbits-in-Forest/cpp-0781/) | |
-| | | | |
+| 782 | [Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/) |  | [Java](Q00701-Q00800/00782-Transform-to-Chessboard/java00782) |
 | 783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) | [C++](0501-1000/0783-Minimum-Distance-Between-BST-Nodes/cpp-0783/) | |
 | 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | [C++](0501-1000/0784-Letter-Case-Permutation/cpp-0784/) | |
 | 785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) | [C++](0501-1000/0785-Is-Graph-Bipartite/cpp-0785/) | |
@@ -1099,7 +1099,7 @@
 | 1439 | [Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/) | [C++](Q01401-Q01500/1439-Find-the-Kth-Smallest-Sum-of-a-Matrix-With-Sorted-Rows/cpp-1439/) | |
 | 1440 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - |
 | 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | [C++](Q01401-Q01500/1441-Build-an-Array-With-Stack-Operations/cpp-1441/) | |
-| 1442 | [Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | [C++](Q01401-Q01500/1442-Count-Triplets-That-Can-Form-Two-Arrays-of-Equal-XOR/cpp-1442/) | |
+| 1442 | [Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | [C++](Q01401-Q01500/01442-Count-Triplets-That-Can-Form-Two-Arrays-of-Equal-XOR/cpp01442) | [Java](Q01401-Q01500/01442-Count-Triplets-That-Can-Form-Two-Arrays-of-Equal-XOR/java01442) |
 | 1443 | [Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) | [C++](Q01401-Q01500/1443-Minimum-Time-to-Collect-All-Apples-in-a-Tree/cpp-1443/) | |
 | 1444 | [Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/) | [C++](Q01401-Q01500/1444-Number-of-Ways-of-Cutting-a-Pizza/cpp-1444/) | |
 | 1445 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - |
