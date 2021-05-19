@@ -265,7 +265,7 @@
 | 308 | [Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/description/) | [C++](Q00401-Q00500/0308-Range-Sum-Query-2D-Mutable/cpp-0308/) | |
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | [C++](Q00401-Q00500/0309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown/cpp-0309/) | |
 | | | | |
-| 312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [C++](Q00401-Q00500/0312-Burst-Balloons/cpp-0312/) | |
+| 312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [C++](Q00301-Q00400/00312-Burst-Balloons/cpp00312) | [Java](Q00301-Q00400/00312-Burst-Balloons/java00312) |
 | | | | |
 | 315 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [C++](Q00401-Q00500/0315-Count-of-Smaller-Numbers-After-Self/cpp-0315/) | |
 | 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [C++](Q00401-Q00500/0316-Remove-Duplicate-Letters/cpp-0316/) | |
@@ -1084,7 +1084,7 @@
 | 1419 | [Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/) | [C++](Q01401-Q01500/1419-Minimum-Number-of-Frogs-Croaking/cpp-1419/) | |
 | 1420 | [Build Array Where You Can Find The Maximum Exactly K Comparisons](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | [C++](Q01401-Q01500/1420-Build-Array-Where-You-Can-Find-The-Maximum-Exactly-K-Comparisons/cpp-1420/) | |
 | 1421 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - |
-| 1422 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [C++](Q01401-Q01500/1422-Maximum-Score-After-Splitting-a-String/cpp-1422/) | |
+| 1422 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [C++](Q01401-Q01500/01422-Maximum-Score-After-Splitting-a-String/cpp01422) | [Java](Q01401-Q01500/01422-Maximum-Score-After-Splitting-a-String/java01422) |
 | 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [C++](Q01401-Q01500/1423-Maximum-Points-You-Can-Obtain-from-Cards/cpp-1423/) | |
 | 1424 | [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/) | [C++](Q01401-Q01500/1424-Diagonal-Traverse-II/cpp-1424/) | |
 | 1425 | [Constrained Subset Sum](https://leetcode.com/problems/constrained-subset-sum/) | [C++](Q01401-Q01500/1425-Constrained-Subset-Sum/cpp-1425/) | |
@@ -1344,7 +1344,7 @@
 | 1735 | [Count Ways to Make Array With Product](https://leetcode.com/problems/count-ways-to-make-array-with-product/) | [C++](1501-2000/1735-Count-Ways-to-Make-Array-With-Product/cpp-1735/) | |
 | 1736 | [Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/) | [C++](1501-2000/1736-Latest-Time-by-Replacing-Hidden-Digits/cpp-1736/) | |
 | 1737 | [Change Minimum Characters to Satisfy One of Three Conditions](https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/) | [C++](1501-2000/1737-Change-Minimum-Characters-to-Satisfy-One-of-Three-Conditions/cpp-1737/) | |
-| 1738 | [Find Kth Largest XOR Coordinate Value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/) | [C++](1501-2000/1738-Find-Kth-Largest-XOR-Coordinate-Value/cpp-1738/) | |
+| 1738 | [Find Kth Largest XOR Coordinate Value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/) | [C++](Q01701-Q01800/01738-Find-Kth-Largest-XOR-Coordinate-Value/cpp01738) | [Java](Q01701-Q01800/01738-Find-Kth-Largest-XOR-Coordinate-Value/java01738) |
 | 1739 | [Building Boxes](https://leetcode.com/problems/building-boxes/) | [C++](1501-2000/1739-Building-Boxes/cpp-1739/) | |
 | 1740 | [Find Distance in a Binary Tree](https://leetcode.com/problems/find-distance-in-a-binary-tree/) | [C++](1501-2000/1740-Find-Distance-in-a-Binary-Tree/cpp-1740/) | |
 | 1741 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - |
@@ -1381,3 +1381,4 @@
 | 1772 | [Sort Features by Popularity](https://leetcode.com/problems/sort-features-by-popularity/) | [C++](1501-2000/1772-Sort-Features-by-Popularity/cpp-1772/) | |
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | [C++](Q01801-Q01900/01816-Truncate-Sentence/cpp-01816) | [Java](Q01801-Q01900/01816-Truncate-Sentence/java-01816) |
 
+&nbsp;
