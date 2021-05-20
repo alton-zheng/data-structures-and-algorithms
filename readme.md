@@ -77,7 +77,7 @@
 | 079 | [Word Search](https://leetcode.com/problems/word-search/description/) | [C++](Q00401-Q00500/0079-Word-Search/cpp-0079/) | [Java](Q00401-Q00500/0079-Word-Search/java-0079/src/) |
 | 080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) | [C++](Q00401-Q00500/0080-Remove-Duplicates-from-Sorted-Array-II/cpp-0080/) | |
 | 081 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [C++](Q00401-Q00500/0081-Search-in-Rotated-Sorted-Array-II/cpp-0081/) | |
-| 082 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [C++](Q00401-Q00500/0082-Remove-Duplicates-from-Sorted-List-II/cpp-0082/) | |
+| 082 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [C++](Q00001-Q00100/00082-Remove-Duplicates-from-Sorted-List-II/cpp00082) | [Java](Q00001-Q00100/00082-Remove-Duplicates-from-Sorted-List-II/java00082) |
 | 083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [C++](Q00401-Q00500/0083-Remove-Duplicates-from-Sorted-List/cpp-0083/) | |
 | 084 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [C++](Q00401-Q00500/0084-Largest-Rectangle-in-Histogram/cpp-0084/) | |
 | 085 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [C++](Q00401-Q00500/0085-Maximal-Rectangle/cpp-0085/) | |
