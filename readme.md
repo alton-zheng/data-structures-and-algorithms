@@ -235,7 +235,7 @@
 | | | | |
 | 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | [C++](Q00201-Q00300/0266-Palindrome-Permutation/cpp-0266/) | |
 | 267 | [Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/) | [C++](Q00201-Q00300/0267-Palindrome-Permutation-II/cpp-0267/) | |
-| 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [C++](Q00201-Q00300/0268-Missing-Number/cpp-0268/) | |
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [C++](Q00201-Q00300/00268-Missing-Number/cpp00268) | [Java](Q00201-Q00300/00268-Missing-Number/java00268) |
 | | | | |
 | 277 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | [C++](Q00201-Q00300/0277-Find-the-Celebrity/cpp-0277/) | |
 | | | | |
