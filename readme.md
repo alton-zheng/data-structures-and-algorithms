@@ -502,7 +502,7 @@
 | | | | |
 | 690 | [Employee Importance](https://leetcode.com/problems/employee-importance/description/) | [C++](0501-1000/0690-Employee-Importance/cpp-0690/) | |
 | | | | |
-| 692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/) | [C++](0501-1000/0692-Top-K-Frequent-Words/cpp-0692/) | |
+| 692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/) | [C++](Q00601-Q00700/00692-Top-K-Frequent-Words/cpp00692) | [Java](Q00601-Q00700/00692-Top-K-Frequent-Words/java00692) |
 | 00693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [C++](Q00601-Q00700/00693-Binary-Number-with-Alternating-Bits/cpp00693) | [Java](Q00601-Q00700/00693-Binary-Number-with-Alternating-Bits/java00693) |
 | 694 | [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/description/) | [C++](0501-1000/0694-Number-of-Distinct-Islands/cpp-0694/) | |
 | 695 | [Max-Area-of-Island](https://leetcode.com/problems/max-area-of-island/description/) | [C++](0501-1000/0695-Max-Area-of-Island/cpp-0695) | |
