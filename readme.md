@@ -282,7 +282,7 @@
 | 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [C++](Q00401-Q00500/0334-Increasing-Triplet-Subsequence/cpp-0334/) | |
 | | | | |
 | 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/description/) | [C++](Q00401-Q00500/0337-House-Robber-III/cpp-0337/) | |
-| | | | |
+| 338 | [Countint bits](https://leetcode.com/problems/counting-bits/) | [C++](Q00301-Q00400/00338-Counting-Bits/cpp00338) | [Java](Q00301-Q00400/00338-Counting-Bits/java00338) |
 | 339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) | [C++](Q00401-Q00500/0339-Nested-List-Weight-Sum/cpp-0339/) | |
 | 340 | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | [C++](Q00401-Q00500/0340-Longest-Substring-with-At-Most-K-Distinct-Characters/cpp-0340/) | |
 | 341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [C++](Q00401-Q00500/0341-Flatten-Nested-List-Iterator/cpp-0341/) | |
