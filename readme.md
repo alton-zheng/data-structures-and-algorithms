@@ -996,7 +996,7 @@
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [C++](Q01301-Q01400/1317-Convert-Integer-to-the-Sum-of-Two-No-Zero-Integers/cpp-1317/) | |
 | 1318 | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | [C++](Q01301-Q01400/1318-Minimum-Flips-to-Make-a-OR-b-Equal-to-c/cpp-1318/) | |
 | 1319 | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | [C++](Q01301-Q01400/1319-Number-of-Operations-to-Make-Network-Connected/cpp-1319/) | |
-| | | | |
+| 1325 | [Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/) | [C++](Q01301-Q01400/01325-Delete-Leaves-With-a-Given-Value/cpp01325) | [Java](Q01301-Q01400/01325-Delete-Leaves-With-a-Given-Value/java01325) |
 | 1329 | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | [C++](Q01301-Q01400/1329-Sort-the-Matrix-Diagonally/cpp-1329/) | |
 | | | | |
 | 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) | [C++](Q01301-Q01400/1332-Remove-Palindromic-Subsequences/cpp-1332/) | |
