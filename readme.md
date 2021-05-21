@@ -809,7 +809,7 @@
 | 1032 | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/) | [C++](Q01001-Q01100/1032-Stream-of-Characters/cpp-1032/) | |
 | 1033 | [Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive/) | [C++](Q01001-Q01100/1033-Moving-Stones-Until-Consecutive/cpp-1033/) | |
 | 1034 | [Coloring A Border](https://leetcode.com/problems/coloring-a-border/) | [C++](Q01001-Q01100/1034-Coloring-A-Border/cpp-1034/) | |
-| 1035 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | [C++](Q01001-Q01100/1035-Uncrossed-Lines/cpp-1035/) | |
+| 1035 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | [C++](Q01001-Q01100/01035-Uncrossed-Lines/cpp01035) | [Java](Q01001-Q01100/01035-Uncrossed-Lines/java01035) |
 | 1036 | [Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze/) | [C++](Q01001-Q01100/1036-Escape-a-Large-Maze/cpp-1036/) | |
 | 1037 | [Valid Boomerang](https://leetcode.com/problems/valid-boomerang/) | [C++](Q01001-Q01100/1037-Valid-Boomerang/cpp-1037/) | |
 | 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | [C++](Q01001-Q01100/1038-Binary-Search-Tree-to-Greater-Sum-Tree/cpp-1038/) | |
