@@ -339,7 +339,7 @@
 | | | | |
 | 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [C++](Q00401-Q00500/410-Split-Array-Largest-Sum/cpp-410/) | |
 | | | | |
-| 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [C++](Q00401-Q00500/0412-Fizz-Buzz/cpp-0412/) | |
+| 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [C++](Q00401-Q00500/00412-Fizz-Buzz/cpp00412) | [Java](Q00401-Q00500/00412-Fizz-Buzz/java00412) |
 | 413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [C++](Q00401-Q00500/0413-Arithmetic-Slices/cpp-0413/) | |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [C++](Q00401-Q00500/0414-Third-Maximum-Number/cpp-0414/) | |
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings/) | | [java](Q00401-Q00500/00415-Add-Strings/java-00415/src) |
