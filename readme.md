@@ -22,7 +22,7 @@
 | 019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [C++](Q00401-Q00500/0019-Remove-Nth-Node-From-End-of-List/cpp-0019/) | [Java](Q00401-Q00500/0019-Remove-Nth-Node-From-End-of-List/java-0019/src/) |
 | 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [C++](Q00001-Q00100/00020-Valid-Parentheses/cpp-00020/) | [Java](Q00001-Q00100/00020-Valid-Parentheses/j-00020/src/) |
 | 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [C++](Q00001-Q00100/00021-Merge-Two-Sorted-Lists/cpp-0021/) | [Java](Q00001-Q00100/00021-Merge-Two-Sorted-Lists/java-00021/src) |
-| 022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [C++](Q00401-Q00500/0022-Generate-Parentheses/cpp-0022/) | [Java](Q00401-Q00500/0022-Generate-Parentheses/java-0022/) |
+| 022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [C++](Q00001-Q00100/00022-Generate-Parentheses/cpp00022) | [Java](Q00001-Q00100/00022-Generate-Parentheses/java00022) |
 | 023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [C++](Q00401-Q00500/0023-Merge-k-Sorted-Lists/cpp-0023/) | |
 | 024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [C++](Q00401-Q00500/0024-Swap-Nodes-in-Pairs/cpp-0024/) | [Java](Q00401-Q00500/0024-Swap-Nodes-in-Pairs/java-0024/src/) |
 | 025 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [C++](Q00401-Q00500/0025-Reverse-Nodes-in-k-Group/cpp-0025/) | |
