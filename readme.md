@@ -599,7 +599,7 @@
 | 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/) | [C++](0807-Max-Increase-to-Keep-City-Skyline/cpp-0807/) | |
 | | | | |
 | 809 | [Expressive Words](https://leetcode.com/problems/expressive-words/description/) | [C++](Q00801-Q00900/0809-Expressive-Words/cpp-0809/) | |
-| | | | |
+| 810 | [Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/) | [C++](Q00801-Q00900/00810-Chalkboard-XOR-Game/cpp00810) | [Java](Q00801-Q00900/00810-Chalkboard-XOR-Game/java00810) |
 | 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) | [C++](Q00801-Q00900/0811-Subdomain-Visit-Count/cpp-0811/) | |
 | | | | |
 | 817 | [Linked List Components](https://leetcode.com/problems/linked-list-components/description/) | [C++](Q00801-Q00900/0817-Linked-List-Components/cpp-0817/) | |
