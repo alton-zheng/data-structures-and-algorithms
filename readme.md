@@ -631,7 +631,7 @@
 | 857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/) | [C++](Q00801-Q00900/0857-Minimum-Cost-to-Hire-K-Workers/cpp-0857/) | |
 | 858 | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/description/) | [C++](Q00801-Q00900/0858-Mirror-Reflection/cpp-0858/) | |
 | 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/description/) | [C++](Q00801-Q00900/0859-Buddy-Strings/cpp-0859/) | |
-| 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/description/) | [C++](Q00801-Q00900/0860-Lemonade-Change/cpp-0860/) | |
+| 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/description/) | [C++](Q00801-Q00900/0860-Lemonade-Change/cpp00860) | [Java](Q00801-Q00900/0860-Lemonade-Change/java00860) |
 | 861 | [Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/description/) | [C++](Q00801-Q00900/0861-Score-After-Flipping-Matrix/cpp-0861/) | |
 | | | | |
 | 863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/) | [C++](Q00801-Q00900/0863-All-Nodes-Distance-K-in-Binary-Tree/cpp-0863/) | |
