@@ -464,7 +464,7 @@
 | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [C++](0501-1000/0621-Task-Scheduler/cpp-0621/) | |
 | 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/) | [C++](0501-1000/0622-Design-Circular-Queue/cpp-0622/) | |
 | | | | |
-| 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [C++](0501-1000/0628-Maximum-Product-of-Three-Numbers/cpp-0628/) | |
+| 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [C++](Q00601-Q00700/00628-Maximum-Product-of-Three-Numbers/cpp00628) | [Java](Q00601-Q00700/00628-Maximum-Product-of-Three-Numbers/java00628) |
 | | | | |
 | 632 | [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | [C++](0501-1000/0632-Smallest-Range-Covering-Elements-from-K-Lists/cpp-0632/) | |
 | | | | |
