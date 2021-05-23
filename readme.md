@@ -553,7 +553,7 @@
 | 740 | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/) | [C++](0501-1000/0740-Delete-and-Earn/cpp-0740/) | [Java](0501-1000/0740-Delete-and-Earn/java-00740) |
 | 741 | [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/description/) | [C++](0501-1000/0741-Cherry-Pickup/cpp-0741/) | |
 | | | | |
-| 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [C++](0501-1000/0746-Min-Cost-Climbing-Stairs/cpp-0746/) | |
+| 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [C++](Q00701-Q00800/00746-Min-Cost-Climbing-Stairs/cpp00746) | [Java](Q00701-Q00800/00746-Min-Cost-Climbing-Stairs/java00746) |
 | 747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | [C++](0501-1000/0747-Largest-Number-At-Least-Twice-of-Others/cpp-0747/) | |
 | 749 | | [C++](Q00701-Q00800/00749-Contain-Virus/cpp00749) | [Java](Q00701-Q00800/00749-Contain-Virus/java00749) |
 | 752 | [Open the Lock](https://leetcode.com/problems/open-the-lock/description/) | [C++](0501-1000/0752-Open-the-Lock/cpp-0752/) | |
