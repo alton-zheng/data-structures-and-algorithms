@@ -305,7 +305,7 @@
 | 369 | [Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/) | [C++](Q00401-Q00500/0369-Plus-One-Linked-List/cpp-0369/) | |
 | 370 | [Range Addition](https://leetcode.com/problems/range-addition/description/) | [C++](Q00401-Q00500/0370-Range-Addition/cpp-0370/) | |
 | | | | |
-| 373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [C++](Q00401-Q00500/0373-Find-K-Pairs-with-Smallest-Sums/cpp-0373/) | |
+| 373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [C++](Q00301-Q00400/00373-Find-K-Pairs-with-Smallest-Sums/cpp00373) | [Java](Q00301-Q00400/00373-Find-K-Pairs-with-Smallest-Sums/java00373) |
 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [C++](Q00401-Q00500/0374-Guess-Number-Higher-or-Lower/cpp-0374/) | |
 | 375 | [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | [C++](Q00301-Q00400/00375-Guess-Number-Higher-or-Lower-II/cpp00375) | [Java](Q00301-Q00400/00375-Guess-Number-Higher-or-Lower-II/java00375) |
 | 376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [C++](Q00401-Q00500/0376-Wiggle-Subsequence/cpp-0376/)<br/>[缺：DP；O(1) 空间贪心] | |
