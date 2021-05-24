@@ -481,7 +481,7 @@
 | | | | |
 | 659 | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | [C++](0501-1000/0659-Split-Array-into-Consecutive-Subsequences/cpp-0659/) | |
 | | | | |
-| 664 | [Strange Printer](https://leetcode.com/problems/strange-printer/) | [C++](0501-1000/0664-Strange-Printer/cpp-0664/) | |
+| 664 | [Strange Printer](https://leetcode.com/problems/strange-printer/) | [C++](Q00601-Q00700/00664-Strange-Printer/cpp00664) | [Java](Q00601-Q00700/00664-Strange-Printer/java00664) |
 | 665 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [C++](0501-1000/0665-Non-decreasing-Array/cpp-0665/) | |
 | | | | |
 | 667 | [Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/) | [C++](0501-1000/0667-Beautiful-Arrangement-II/ccp-0667/) | |
