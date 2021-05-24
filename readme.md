@@ -1380,5 +1380,8 @@
 | 1771 | [Maximize Palindrome Length From Subsequences](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/) | [C++](1501-2000/1771-Maximize-Palindrome-Length-From-Subsequences/cpp-1771/) | |
 | 1772 | [Sort Features by Popularity](https://leetcode.com/problems/sort-features-by-popularity/) | [C++](1501-2000/1772-Sort-Features-by-Popularity/cpp-1772/) | |
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | [C++](Q01801-Q01900/01816-Truncate-Sentence/cpp-01816) | [Java](Q01801-Q01900/01816-Truncate-Sentence/java-01816) |
+|  |  |  |  |
+|  |  |  |  |
+| 01859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [C++](Q01801-Q01900/001859-Sorting-the-Sentence/cpp001859) | [Java](Q01801-Q01900/001859-Sorting-the-Sentence/java001859) |
 
 &nbsp;
