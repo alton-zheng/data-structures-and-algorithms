@@ -1216,7 +1216,7 @@
 | 1607 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - |
 | 1608 | [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | [C++](1501-2000/1608-Special-Array-With-X-Elements-Greater-Than-or-Equal-X/cpp-1608/) | |
 | 1609 | [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/) | [C++](1501-2000/1609-Even-Odd-Tree/cpp-1609/) | |
-| 1610 | [Maximum Number of Visible Points](https://leetcode.com/problems/maximum-number-of-visible-points/) | [C++](1501-2000/1610-Maximum-Number-of-Visible-Points/cpp-1610/) | |
+| 1610 | [Maximum Number of Visible Points](https://leetcode.com/problems/maximum-number-of-visible-points/) | [C++](Q01601-Q01700/01610-Maximum-Number-of-Visible-Points/cpp01610) | [Java](Q01601-Q01700/01610-Maximum-Number-of-Visible-Points/cpp01610) |
 | 1611 | [Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | [C++](1501-2000/1611-Minimum-One-Bit-Operations-to-Make-Integers-Zero/cpp-1611/) | |
 | 1612 | [Check If Two Expression Trees are Equivalent](https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent/) | [C++](1501-2000/1612-Check-If-Two-Expression-Trees-are-Equivalent/cpp-1612/) | |
 | 1613 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - |
