@@ -286,7 +286,7 @@
 | 339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) | [C++](Q00401-Q00500/0339-Nested-List-Weight-Sum/cpp-0339/) | |
 | 340 | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | [C++](Q00401-Q00500/0340-Longest-Substring-with-At-Most-K-Distinct-Characters/cpp-0340/) | |
 | 341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [C++](Q00401-Q00500/0341-Flatten-Nested-List-Iterator/cpp-0341/) | |
-| | | | |
+| 00342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [C++](Q00301-Q00400/00342-Power-of-Four/cpp00342) | [Java](Q00301-Q00400/00342-Power-of-Four/java00342) |
 | 343 | [Integer Break](https://leetcode.com/problems/integer-break/description/) | [C++](Q00401-Q00500/0343-Integer-Break/cpp-0343/) | [Java](Q00401-Q00500/0343-Integer-Break/java-0343/src/) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [C++](Q00401-Q00500/0344-Reverse-String/cpp-0344/) | |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [C++](Q00401-Q00500/0345-Reverse-Vowels-of-a-String/cpp-0345/) | |
