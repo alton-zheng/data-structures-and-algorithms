@@ -1379,6 +1379,7 @@
 | 1770 | [Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) | [C++](1501-2000/1770-Maximum-Score-from-Performing-Multiplication-Operations/cpp-1770/) | |
 | 1771 | [Maximize Palindrome Length From Subsequences](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/) | [C++](1501-2000/1771-Maximize-Palindrome-Length-From-Subsequences/cpp-1771/) | |
 | 1772 | [Sort Features by Popularity](https://leetcode.com/problems/sort-features-by-popularity/) | [C++](1501-2000/1772-Sort-Features-by-Popularity/cpp-1772/) | |
+| 01787 | [Make the XOR of All Segments Equal to Zero](https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero/) | [C++](Q01701-Q01800/01787-Make-the-XOR-of-All-Segments-Equal-to-Zero/cpp01787) | [Java](Q01701-Q01800/01787-Make-the-XOR-of-All-Segments-Equal-to-Zero/cpp01787) |
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | [C++](Q01801-Q01900/01816-Truncate-Sentence/cpp-01816) | [Java](Q01801-Q01900/01816-Truncate-Sentence/java-01816) |
 |  |  |  |  |
 |  |  |  |  |
