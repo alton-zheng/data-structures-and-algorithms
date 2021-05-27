@@ -171,7 +171,7 @@
 | 188 | [Best-Time-to-Buy-and-Sell-Stock-IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | | |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) | | |
 | | | | |
-| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | | |
+| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [Java](Q00101-Q00200/00191-Number-of-1-Bits/java00191) | [C++](Q00101-Q00200/00191-Number-of-1-Bits/cpp00191) |
 | | | | |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | [Java](Q00101-Q00200/0198-House-Robber/java-0198) |  |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | | |
