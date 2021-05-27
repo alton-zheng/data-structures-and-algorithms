@@ -4,7 +4,7 @@ package java01417;
  * @Author: alton
  * @Date: Created in 5/26/21 3:36 PM
  * @Description:
- *1417. Reformat The String #46
+ * 1417. Reformat The String #46
  *
  * Given alphanumeric string s. (Alphanumeric string is a string consisting of lowercase English letters and digits).
  *
