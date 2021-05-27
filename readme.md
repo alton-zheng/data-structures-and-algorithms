@@ -507,7 +507,7 @@
 | 694 | [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/description/) | | |
 | 695 | [Max-Area-of-Island](https://leetcode.com/problems/max-area-of-island/description/) | | |
 | 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) | | |
-| 697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/) | | |
+| 697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/) | [Java](Q00601-Q00700/00697-Degree-of-an-Array/java00697) | [C++](Q00601-Q00700/00697-Degree-of-an-Array/java00697) |
 | 698 | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/) | [Java](0501-1000/0698-Partition-to-K-Equal-Sum-Subsets/java-0698/src/) |  |
 | 699 | [Falling Squares](https://leetcode.com/contest/leetcode-weekly-contest-54/problems/falling-squares/) | | |
 | | | | |
