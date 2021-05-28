@@ -229,13 +229,13 @@
 | 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/description/) | | |
 | 254 | [Factor Combinations](https://leetcode.com/problems/factor-combinations/description/) | | |
 | | | | |
-| 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | [Java](Q00401-Q00500/0257-Binary-Tree-Paths/java-0257/src/) |  |
+| 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | [Java](Q00401-Q00500/0257-Binary-Tree-Paths/java-0257/src/) | [C++](Q00401-Q00500/0257-Binary-Tree-Paths/cpp-0257/src/) |
 | | | | |
 | 259 | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/description/) | | |
 | | | | |
 | 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | | |
 | 267 | [Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/) | | |
-| 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [Java](Q00201-Q00300/00268-Missing-Number/java00268) |  |
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [Java](Q00201-Q00300/00268-Missing-Number/java00268) | [C++](Q00201-Q00300/00268-Missing-Number/cpp00268) |
 | | | | |
 | 277 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | | |
 | | | | |
@@ -248,7 +248,7 @@
 | 286 | [Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/) | | |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | [Java](Q00201-Q00300/00287-Find-the-Duplicate-Number/java-00287/src) |  |
 | 288 | [Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/description/) | | |
-| 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | | |
+| 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | [Java](Q00201-Q00300/00289-Game-of-Life/java00289) | [C++](Q00201-Q00300/00289-Game-of-Life/cpp00289) |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/description/) | | |
 | | | | |
 | 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | | |
