@@ -380,7 +380,7 @@
 | 473 | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/description/) | | |
 | 474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/) | | |
 | | | | |
-| 477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | | |
+| 477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [Java](Q00401-Q00500/00477-Total-Hamming-Distance/java00477) | [C++](Q00401-Q00500/00477-Total-Hamming-Distance/cpp00477) |
 | 478 | [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/description/) | | |
 | | | | |
 | 480 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | | |
