@@ -99,7 +99,7 @@
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | | |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [Java](Q00401-Q00500/0102-Binary-Tree-Level-Order-Traversal/java-0102/src/) |  |
 | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | | |
-| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Java](Q00401-Q00500/0104-Maximum-Depth-of-Binary-Tree/java-0104/src/) |  |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Java](Q00101-Q00200/00104-Maximum-Depth-of-Binary-Tree/java00104) | [C++](Q00101-Q00200/00104-Maximum-Depth-of-Binary-Tree/cpp00104) |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) | | |
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) | | |
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | | |
@@ -431,7 +431,7 @@
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | | |
 | | | | |
 | 559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/) | | |
-| | | | |
+| 00560 | | [Java](Q00501-Q00600/00560-Subarray-Sum-Equals-K/java00560) | [C++](Q00501-Q00600/00560-Subarray-Sum-Equals-K/cpp00560) |
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | | |
 | | | | |
 | 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | | |
