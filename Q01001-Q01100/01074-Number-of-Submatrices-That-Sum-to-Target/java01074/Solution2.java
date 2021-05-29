@@ -41,15 +41,14 @@ import java.util.Map;
  * -1000 <= matrix[i] <= 1000
  * -10^8 <= target <= 10^8
  *
- * Time Complexity: O(m2*n)
+ * Time Complexity: O(m2*n*n^2)
  * Space Complexity: O(m*n)
  *
- * Runtime: 97 ms, faster than 69.27% of Java online submissions for Number of Submatrices That Sum to Target.
- * Memory Usage: 39.9 MB, less than 55.53% of Java online submissions for Number of Submatrices That Sum to Target.
+ * Runtime: 88 ms, faster than 91.06% of Java online submissions for Number of Submatrices That Sum to Target.
+ * Memory Usage: 40.4 MB, less than 23.30% of Java online submissions for Number of Submatrices That Sum to Target.
  *
  */
-class Solution {
-    private Map<Integer, Integer> help = new HashMap<>();
+class Solution2 {
     public int numSubmatrixSumTarget(int[][] matrix, int target) {
 
         int res = 0;
@@ -77,18 +76,16 @@ class Solution {
     }
 
     private int getSubArrWithTarget(int[] subArr, int target) {
-        int count = 0, preSum = 0;
-        help.put(0, 1);
-        for (int i = 0; i < subArr.length; i++) {
-            preSum += subArr[i];
-            if (help.containsKey(preSum - target)) {
-                count += help.get(preSum - target);
+        int count = 0;
+        for (int start = 0; start < subArr.length; start++) {
+            int sum = 0;
+            for (int end = start; end >= 0; end--) {
+                sum += subArr[end];
+                if (sum == target) {
+                    count++;
+                }
             }
-
-            help.put(preSum, help.getOrDefault(preSum, 0) + 1);
         }
-
-        help.clear();
 
         return count;
     }

@@ -431,7 +431,7 @@
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | | |
 | | | | |
 | 559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/) | | |
-| 00560 | | [Java](Q00501-Q00600/00560-Subarray-Sum-Equals-K/java00560) | [C++](Q00501-Q00600/00560-Subarray-Sum-Equals-K/cpp00560) |
+| 00560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Java](Q00501-Q00600/00560-Subarray-Sum-Equals-K/java00560) | [C++](Q00501-Q00600/00560-Subarray-Sum-Equals-K/cpp00560) |
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | | |
 | | | | |
 | 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | | |
@@ -823,7 +823,7 @@
 | 1062 | [Longest Repeating Substring](https://leetcode.com/problems/longest-repeating-substring/) | | |
 | | | | |
 | 1072 | [Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/) | | |
-| | | | |
+| 1074 | [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | [Java](Q01001-Q01100/01074-Number-of-Submatrices-That-Sum-to-Target/java01074) | [C++](Q01001-Q01100/01074-Number-of-Submatrices-That-Sum-to-Target/cpp01074) |
 | 1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) | | |
 | 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | | |
 | 1080 | [Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) | | |
