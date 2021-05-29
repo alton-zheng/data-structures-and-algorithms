@@ -177,7 +177,7 @@
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | | |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [Java](Q00401-Q00500/0200-Number-of-Islands/java-0200/src/) |  |
 | | | | |
-| 202 | [Happy Number](https://leetcode.com/problems/happy-number/description/) | | |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/description/) | [Java](Q00201-Q00300/00202-Happy-Number/java00202) | [C++](Q00201-Q00300/00202-Happy-Number/cpp00202) |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [Java](Q00201-Q00300/0203-Remove-Linked-List-Elements/java-0203) |  |
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | | |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | | |
