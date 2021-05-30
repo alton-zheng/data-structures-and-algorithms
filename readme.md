@@ -232,7 +232,7 @@
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | [Java](Q00401-Q00500/0257-Binary-Tree-Paths/java-0257/src/) | [C++](Q00401-Q00500/0257-Binary-Tree-Paths/cpp-0257/src/) |
 | | | | |
 | 259 | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/description/) | | |
-| | | | |
+| 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Java](Q00201-Q00300/00263-Ugly-Number/java00263) | [C++](Q00201-Q00300/00263-Ugly-Number/cpp00263) |
 | 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | | |
 | 267 | [Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/) | | |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [Java](Q00201-Q00300/00268-Missing-Number/java00268) | [C++](Q00201-Q00300/00268-Missing-Number/cpp00268) |
