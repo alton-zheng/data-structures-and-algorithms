@@ -1003,8 +1003,8 @@
 | 1338 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | | |
 | 1339 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | | |
 | 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v/) | | |
-| 1341 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
-| 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | | |
+| 1341 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) |  |  |
+| 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Java](Q01301-Q01400/01342-Number-of-Steps-to-Reduce-a-Number-to-Zero/java01342) | [C++](Q01301-Q01400/01342-Number-of-Steps-to-Reduce-a-Number-to-Zero/cpp01342) |
 | 1343 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | | |
 | 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | | |
 | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | | |
