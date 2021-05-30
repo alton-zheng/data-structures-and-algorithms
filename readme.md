@@ -158,7 +158,7 @@
 | | | | |
 | 163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges/) | | |
 | | | | |
-| 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Java](Q00401-Q00500/0167-Two-Sum-II-Input-array-is-sorted/java-0167/src/) |  |
+| 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Java](Q00101-Q00200/00167-Two-Sum-II-Input-array-is-sorted/java00167) | [C++](Q00101-Q00200/00167-Two-Sum-II-Input-array-is-sorted/cpp00167) |
 | | | | |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | | |
 | 170 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/description/) | | |
