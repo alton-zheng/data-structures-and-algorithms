@@ -538,7 +538,7 @@
 | 725 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/) | | |
 | | | | |
 | 727 | [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/description/) | | |
-| 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) | | |
+| 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) | [Java](Q00701-Q00800/00728-Self-Dividing-Numbers/java00728) | [C++](Q00701-Q00800/00728-Self-Dividing-Numbers/cpp00728) |
 | 729 | [My Calendar I](https://leetcode.com/problems/my-calendar-i/description/) | | |
 | | | | |
 | 731 | [My Calendar II](https://leetcode.com/problems/my-calendar-ii/description/) | | |
