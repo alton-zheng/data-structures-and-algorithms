@@ -914,7 +914,7 @@
 | 1182 | [Shortest Distance to Target Color](https://leetcode.com/problems/shortest-distance-to-target-color/) | | |
 | 1183 | [Maximum Number of Ones](https://leetcode.com/problems/maximum-number-of-ones/) | | |
 | 1184 | [Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/) | | |
-| 1185 | [Day of the Week](https://leetcode.com/problems/day-of-the-week/) | | |
+| 1185 | [Day of the Week](https://leetcode.com/problems/day-of-the-week/) | [Java](Q01101-Q01200/01185-Day-of-the-Week/java01185) | [C++](Q01101-Q01200/01185-Day-of-the-Week/java01185) |
 | 1186 | [Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) | | |
 | 1187 | [Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/) | | |
 | | | | |
