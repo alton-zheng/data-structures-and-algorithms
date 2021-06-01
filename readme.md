@@ -978,7 +978,7 @@
 | 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | | |
 | 1278 | [Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/) | | |
 | | | | |
-| 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | | |
+| 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [Java](Q01301-Q01400/01304-Find-N-Unique-Integers-Sum-up-to-Zero/java01304) | [C++](Q01301-Q01400/01304-Find-N-Unique-Integers-Sum-up-to-Zero/cpp01304) |
 | 1305 | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | | |
 | 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | | |
 | 1307 | [Verbal Arithmetic Puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle/) | | |
