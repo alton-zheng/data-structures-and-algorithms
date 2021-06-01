@@ -999,7 +999,7 @@
 | 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | | |
 | 1335 | [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) | | |
 | | | | |
-| 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | | |
+| 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [Java](Q01301-Q01400/01337-The-K-Weakest-Rows-in-a-Matrix/java01337) | [C++](Q01301-Q01400/01337-The-K-Weakest-Rows-in-a-Matrix/cpp01337) |
 | 1338 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | | |
 | 1339 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | | |
 | 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v/) | | |
