@@ -1345,7 +1345,7 @@
 | 1741 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
 | 1742 | [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) | | |
 | 1743 | [Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/) | | |
-| 1744 | [Can You Eat Your Favorite Candy on Your Favorite Day?](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) | | |
+| 1744 | [Can You Eat Your Favorite Candy on Your Favorite Day?](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) | [Java](Q01701-Q01800/01744-Can-You-Eat-Your-Favorite-Candy-on-Your-Favorite-Day/java01744) | [C++](Q01701-Q01800/01744-Can-You-Eat-Your-Favorite-Candy-on-Your-Favorite-Day/cpp01744) |
 | 1745 | [Palindrome Partitioning IV](https://leetcode.com/problems/palindrome-partitioning-iv/) | | |
 | 1746 | [Maximum Subarray Sum After One Operation](https://leetcode.com/problems/maximum-subarray-sum-after-one-operation/) | | |
 | 1747 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
