@@ -407,8 +407,8 @@
 | 517 | [Super Washing Machines](https://leetcode.com/problems/super-washing-machines/) | | |
 | 518 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/description/) | | |
 | 519 | [Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix/description/) | | |
-| | | | |
-| 524 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | | |
+| 523 | [] | [Java](Q00501-Q00600/00523-Continuous-Subarray-Sum/java00523) | [C++](Q00501-Q00600/00523-Continuous-Subarray-Sum/cpp00523) |
+| 524 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | |  |
 | 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | | |
 | 526 | [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | | |
 | | | | |
@@ -769,7 +769,7 @@
 &nbsp;
 
 | ID | Problem | Java | C++ |
-| --- | --- | :---: | ----- |
+| --- | --- | :---- | ----- |
 | 1001 | [Grid Illumination](https://leetcode.com/problems/grid-illumination/) | | |
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | | |
 | 1003 | [Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/) | | |
