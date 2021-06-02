@@ -49,7 +49,7 @@
 | 050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | | |
 | 051 | [N-Queens](https://leetcode.com/problems/n-queens/description/) | [Java](Q00401-Q00500/0051-N-Queens/java-0051/src/) |  |
 | 052 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | | |
-| 053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | | |
+| 053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](Q00001-Q00100/00053-Maximum-Subarray/java00053) | [C++](Q00001-Q00100/00053-Maximum-Subarray/cpp00053) |
 | 054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | | |
 | | | | |
 | 056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | | |
@@ -407,7 +407,7 @@
 | 517 | [Super Washing Machines](https://leetcode.com/problems/super-washing-machines/) | | |
 | 518 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/description/) | | |
 | 519 | [Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix/description/) | | |
-| 523 | [] | [Java](Q00501-Q00600/00523-Continuous-Subarray-Sum/java00523) | [C++](Q00501-Q00600/00523-Continuous-Subarray-Sum/cpp00523) |
+| 523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [Java](Q00501-Q00600/00523-Continuous-Subarray-Sum/java00523) | [C++](Q00501-Q00600/00523-Continuous-Subarray-Sum/cpp00523) |
 | 524 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | |  |
 | 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | | |
 | 526 | [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | | |
