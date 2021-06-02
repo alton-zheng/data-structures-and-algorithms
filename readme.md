@@ -242,7 +242,7 @@
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) | [Java](Q00201-Q00300/0279-Perfect-Squares/java-0279/src/) |  |
 | | | | |
 | 282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/description/) | | |
-| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Java](Q00401-Q00500/0283-Move-Zeroes/java-0283/src/) |  |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Java](Q00201-Q00300/00283-Move-Zeroes/java00283) | [C++](Q00201-Q00300/00283-Move-Zeroes/cpp00283) |
 | 284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | | |
 | | | | |
 | 286 | [Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/) | | |
