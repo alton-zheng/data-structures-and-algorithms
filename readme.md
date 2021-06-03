@@ -796,7 +796,7 @@
 | 1024 | [Video Stitching](https://leetcode.com/problems/video-stitching/) | | |
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/) | | |
 | 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | | |
-| 1027 | [Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/) | | |
+| 1027 | [Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/) | [Java](Q01001-Q01100/01027-Longest-Arithmetic-Sequence/java01027) | [C++](Q01001-Q01100/01027-Longest-Arithmetic-Sequence/cpp01027) |
 | 1028 | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | | |
 | 1029 | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | | |
 | 1030 | [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/) | [Java](Q01001-Q01100/01030-Matrix-Cells-in-Distance-Order/java01030) |  |
