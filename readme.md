@@ -1169,6 +1169,7 @@
 | | | | |
 | | | | |
 | 1506 | [Find Root of N-Ary Tree](https://leetcode.com/problems/find-root-of-n-ary-tree/) | | |
+| 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) | [(Java](Q01501-Q01600/01509-Minimum-Difference-Between-Largest-and-Smallest-Value-in-Three-Moves/java01509) | [C++](Q01501-Q01600/01509-Minimum-Difference-Between-Largest-and-Smallest-Value-in-Three-Moves/cpp01509) |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Java](Q01501-Q01600/01512-Number-of-Good-Pairs/java01512) |  |
 | 01518 | [Water Bottles](https://leetcode.com/problems/water-bottles/) | [Java](Q01501-Q01600/01518-Water-Bottles/java01518) |  |
 | 1522 | [Diameter of N-Ary Tree](https://leetcode.com/problems/diameter-of-n-ary-tree/) | | |
