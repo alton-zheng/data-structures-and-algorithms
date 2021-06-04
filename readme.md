@@ -153,7 +153,7 @@
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | | |
 | | | | |
 | 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/) | | |
-| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | | |
+| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [Java](Q00101-Q00200/00160-Intersection-of-Two-Linked-Lists/java00160) | [C++](Q00101-Q00200/00160-Intersection-of-Two-Linked-Lists/cpp00160) |
 | 161 | [One Edit Distance](https://leetcode.com/problems/one-edit-distance/) | | |
 | | | | |
 | 163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges/) | | |
