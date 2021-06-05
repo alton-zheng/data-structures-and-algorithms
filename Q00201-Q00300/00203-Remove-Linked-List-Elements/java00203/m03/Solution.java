@@ -24,7 +24,7 @@ package java0203.m03;
  * 0 <= k <= 50
  */
 
-import java0203.ListNode;
+import java00203.ListNode;
 
 /**
  * Definition for singly-linked list.

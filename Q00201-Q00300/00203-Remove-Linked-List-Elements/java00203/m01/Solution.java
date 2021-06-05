@@ -3,7 +3,8 @@ package java0203.m01;
 /**
  * @Author: alton
  * @Date: Created in 2021/3/10 3:55 PM
- * @Description: 203. Remove Linked List Elements
+ * @Description:
+ * 203. Remove Linked List Elements
  * Given the head of a linked list and an integer val,
  * remove all the nodes of the linked list that has Node.val == val, and return the new head.
  * Input: head = [1,2,6,3,4,5,6], val = 6
@@ -24,7 +25,7 @@ package java0203.m01;
  * 0 <= k <= 50
  */
 
-import java0203.ListNode;
+import java00203.ListNode;
 
 /**
  * Definition for singly-linked list.

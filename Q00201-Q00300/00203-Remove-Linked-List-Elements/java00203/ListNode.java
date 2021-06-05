@@ -1,4 +1,4 @@
-package java0203;
+package java00203;
 
 /**
  * @Author: alton
