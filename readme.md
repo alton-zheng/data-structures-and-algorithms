@@ -95,7 +95,7 @@
 | | | | |
 | 098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [Java](Q00401-Q00500/0098-Validate-Binary-Search-Tree/java-0098/src/) |  |
 | 099 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/description/) | [Java](Q00401-Q00500/0099-Recover-Binary-Search-Tree/java-0099/src/) |  |
-| 100 | [Same Tree](https://leetcode.com/problems/same-tree/description/) | | |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/description/) | [Java](Q00001-Q00100/00100-Same-Tree/java00100) | [C++](Q00001-Q00100/00100-Same-Tree/cpp00100) |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | | |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [Java](Q00401-Q00500/0102-Binary-Tree-Level-Order-Traversal/java-0102/src/) |  |
 | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | | |
@@ -105,7 +105,7 @@
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | | |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | | |
 | 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/) | | |
-| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | | |
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) |                                                              |                                                              |
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | | |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/description/) | [Java](Q00401-Q00500/0112-Path-Sum/cpp-0112/src/) |  |
 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) | | |
