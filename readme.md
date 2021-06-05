@@ -401,7 +401,15 @@
 | ID | Problem | Java | C++ |
 | --- | --- | :---: | ----- |
 | 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | | |
-| | | | |
+|  |  | | |
+|  |  | | |
+|  |  | | |
+|  |  | | |
+|  |  | | |
+| 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | [Java](Q00501-Q00600/00506-Relative-Ranks/java00506) | [C++](Q00501-Q00600/00506-Relative-Ranks/cpp00506) |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | | |
 | | | | |
 | 516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | | |
