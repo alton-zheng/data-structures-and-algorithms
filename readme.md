@@ -260,7 +260,8 @@
 | | | | |
 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) | | |
 | 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | | |
-| | | | |
+|  |  | | |
+| 306 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | [Java](Q00301-Q00400/00336-Palindrome-Pairs/java00306) | [C++](Q00301-Q00400/00336-Palindrome-Pairs/cpp00306) |
 | 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/description/) | | |
 | 308 | [Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/description/) | | |
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | | |
