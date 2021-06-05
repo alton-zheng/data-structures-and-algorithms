@@ -1,4 +1,4 @@
-package java0203.m02;
+package java00203.m02;
 
 /**
  * @Author: alton
