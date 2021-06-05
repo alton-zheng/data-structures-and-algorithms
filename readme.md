@@ -1000,6 +1000,7 @@
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | | |
 | 1318 | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | | |
 | 1319 | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | | |
+| 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [Java](Q01301-Q01400/01323-Maximum-69-Number/java01323) | [C++](Q01301-Q01400/01323-Maximum-69-Number/cpp01323) |
 | 1325 | [Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/) | [Java](Q01301-Q01400/01325-Delete-Leaves-With-a-Given-Value/java01325) |  |
 | 1329 | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | | |
 | | | | |
