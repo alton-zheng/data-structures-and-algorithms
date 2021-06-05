@@ -536,7 +536,7 @@
 | 714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) | | |
 | 715 | [Range Module](https://leetcode.com/problems/range-module/description/) | | |
 | 716 | [Max Stack](https://leetcode.com/problems/max-stack/description/) | | |
-| 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | | |
+| 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | [Java](Q00701-Q00800/00717-1-bit-and-2-bit-Characters/java00717) | [C++](Q00701-Q00800/00717-1-bit-and-2-bit-Characters/cpp00717) |
 | 718 | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/) | | |
 | 719 | [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/) | | |
 | 720 | [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/description/) | | |
