@@ -390,7 +390,7 @@
 | | | | |
 | 490 | [The Maze](https://leetcode.com/problems/the-maze/description/) | | |
 | | | | |
-| 494 | [Target Sum](https://leetcode.com/problems/target-sum/description/) | | |
+| 494 | [Target Sum](https://leetcode.com/problems/target-sum/description/) | [Java](Q00401-Q00500/00494-Target-Sum/java00494) | [C++](Q00401-Q00500/00494-Target-Sum/cpp00494) |
 | | | | |
 | 497 | [Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/solution/) | | |
 | 498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/) | | |
