@@ -704,7 +704,7 @@
 | 926 | [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) | | |
 | 927 | [Three Equal Parts](https://leetcode.com/problems/three-equal-parts/) | | |
 | 928 | [Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii/description/) | | |
-| 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/solution/) | | |
+| 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/solution/) | [Java](Q00901-Q01000/00929-Unique-Email-Addresses/java00929) | [C++](Q00901-Q01000/00929-Unique-Email-Addresses/cpp00929) |
 | 930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | | |
 | 931 | [Minimum Path Falling Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | | |
 | 932 | [Beautiful Array](https://leetcode.com/problems/beautiful-array/description/) | | |
