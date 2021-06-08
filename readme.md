@@ -9,7 +9,8 @@
 | 005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) |  |  |
 | | | | |
 | 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | | |
-| 00009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Java](Q00001-Q00100/00009-Palindrome-Number/java-00009) |  |
+|  |  | | |
+| 009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Java](Q00001-Q00100/00009-Palindrome-Number/java-00009) |  |
 | 010 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | | |
 | 011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | | |
 | 012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [Java](Q00001-Q00100/00012-Integer-to-Roman/java00012) |  |
@@ -826,7 +827,7 @@
 | | | | |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | | |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | | |
-| | | | |
+| 1049 | [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/) | [Java](Q01001-Q01100/01049-Last-Stone-Weight-II/java01049) | [C++](Q01001-Q01100/01049-Last-Stone-Weight-II/cpp01049) |
 | 1052 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/) | | |
 | | | | |
 | 1062 | [Longest Repeating Substring](https://leetcode.com/problems/longest-repeating-substring/) | | |
