@@ -652,7 +652,7 @@
 | 873 | [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/) | | |
 | 874 | [Walking-Robot-Simulation](https://leetcode.com/problems/walking-robot-simulation/description/) | | |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) | | |
-| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | | |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Java](Q00801-Q00900/00876-Middle-of-the-Linked-List/java00876) | [C++](Q00801-Q00900/00876-Middle-of-the-Linked-List/cpp00876) |
 | 877 | [Stone Game](https://leetcode.com/problems/stone-game/description/) | | |
 | 878 | [Nth Magical Number](https://leetcode.com/problems/nth-magical-number/description/) | | |
 | 879 | [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/description/) | | |
