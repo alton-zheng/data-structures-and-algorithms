@@ -1164,7 +1164,7 @@
 | 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | | |
 | 1494 | [Parallel Courses II](https://leetcode.com/problems/parallel-courses-ii/) | | |
 | 1495 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
-| 1496 | [Path Crossing](https://leetcode.com/problems/path-crossing/) | | |
+| 1496 | [Path Crossing](https://leetcode.com/problems/path-crossing/) | [Java](Q01401-Q01500/01496-Path-Crossing/java01496) | [C++](Q01401-Q01500/01496-Path-Crossing/cpp01496) |
 | 1497 | [Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | | |
 | 1498 | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | | |
 | 1499 | [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/) | | |
