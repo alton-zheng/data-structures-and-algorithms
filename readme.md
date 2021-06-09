@@ -655,7 +655,7 @@
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Java](Q00801-Q00900/00876-Middle-of-the-Linked-List/java00876) | [C++](Q00801-Q00900/00876-Middle-of-the-Linked-List/cpp00876) |
 | 877 | [Stone Game](https://leetcode.com/problems/stone-game/description/) | | |
 | 878 | [Nth Magical Number](https://leetcode.com/problems/nth-magical-number/description/) | | |
-| 879 | [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/description/) | | |
+| 879 | [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/description/) | [Java](Q00801-Q00900/00879-Profitable-Schemes/java00879) | [C++](Q00801-Q00900/00879-Profitable-Schemes/cpp00879) |
 | 880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/description/) | | |
 | 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/) | | |
 | 882 | [Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/description/) | | |
