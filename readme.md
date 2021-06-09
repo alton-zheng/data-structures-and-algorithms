@@ -800,7 +800,7 @@
 | 1018 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | | |
 | 1019 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | | |
 | 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | | |
-| 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | | |
+| 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Java](Q01001-Q01100/01021-Remove-Outermost-Parentheses/java01021) | [C++](Q01001-Q01100/01021-Remove-Outermost-Parentheses/cpp01021) |
 | 1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | | |
 | 1023 | [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/) | | |
 | 1024 | [Video Stitching](https://leetcode.com/problems/video-stitching/) | | |
