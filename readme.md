@@ -415,7 +415,7 @@
 | | | | |
 | 516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | | |
 | 517 | [Super Washing Machines](https://leetcode.com/problems/super-washing-machines/) | | |
-| 518 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/description/) | | |
+| 518 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/description/) | [Java](Q00501-Q00600/00518-Coin-Change-2/java00518) | [C++](Q00501-Q00600/00518-Coin-Change-2/cpp00518) |
 | 519 | [Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix/description/) | | |
 | 523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [Java](Q00501-Q00600/00523-Continuous-Subarray-Sum/java00523) | [C++](Q00501-Q00600/00523-Continuous-Subarray-Sum/cpp00523) |
 | 524 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | |  |
