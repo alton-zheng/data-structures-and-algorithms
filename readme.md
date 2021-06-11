@@ -1014,7 +1014,7 @@
 | 1338 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | | |
 | 1339 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | | |
 | 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v/) | | |
-| 1341 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) |  |  |
+| 1341 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) |  |  |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Java](Q01301-Q01400/01342-Number-of-Steps-to-Reduce-a-Number-to-Zero/java01342) | [C++](Q01301-Q01400/01342-Number-of-Steps-to-Reduce-a-Number-to-Zero/cpp01342) |
 | 1343 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | | |
 | 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | | |
@@ -1023,12 +1023,12 @@
 | 1347 | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | | |
 | 1348 | [Tweet Counts Per Frequency](https://leetcode.com/problems/tweet-counts-per-frequency/) | | |
 | 1349 | [Maximum Students Taking Exam](https://leetcode.com/problems/maximum-students-taking-exam/) | | |
-| 1350 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1350 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | | |
 | 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | | |
 | 1353 | [Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | | |
 | 1354 | [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/) | | |
-| 1355 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1355 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | | |
 | 1357 | [Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders/) | | |
 | 1358 | [Number of Substrings Containing All Three Characters](1358-Number-of-Substrings-Containing-All-Three-Characters/cpp-1358/) | | |
@@ -1037,12 +1037,12 @@
 | 1361 | [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/) | | |
 | 1362 | [Closest Divisors](https://leetcode.com/problems/closest-divisors/) | | |
 | 1363 | [Largest Multiple of Three](https://leetcode.com/problems/largest-multiple-of-three/) | | |
-| 1364 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1364 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | | |
 | 1366 | [Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/) | | |
 | 1367 | [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/) | | |
 | 1368 | [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | | |
-| 1369 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1369 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1370 | [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/) | | |
 | 1371 | [Find the Longest Substring Containing Vowels in Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/) | | |
 | 1372 | [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | | |
@@ -1051,22 +1051,22 @@
 | 1375 | [Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii/) | | |
 | 1376 | [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) | | |
 | 1377 | [Frog Position After T Seconds](https://leetcode.com/problems/frog-position-after-t-seconds/) | | |
-| 1378 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1378 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | | |
 | | | | |
 | 1383 | [Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/) | | |
-| 1384 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1384 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | | | | |
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | | |
 | 1390 | [Four Divisors](https://leetcode.com/problems/four-divisors/) | | |
 | 1391 | [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | | |
 | 1392 | [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/) | | |
-| 1393 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1393 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1394 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | | |
 | 1395 | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/) | | |
 | 1396 | [Design Underground System](https://leetcode.com/problems/design-underground-system/) | | |
 | 1397 | [Find All Good Strings](https://leetcode.com/problems/find-all-good-strings/) | | |
-| 1398 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1398 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group/) | | |
 | 1400 | [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/) | | |
 | 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | | |
@@ -1075,12 +1075,12 @@
 | 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | | |
 | 1405 | [Longest Happy String](https://leetcode.com/problems/longest-happy-string/) | | |
 | 1406 | [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | | |
-| 1407 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1407 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1408 | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) | | |
 | 1409 | [Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/) | | |
 | 1410 | [HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/) | | |
 | 1411 | [Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) | | |
-| 1412 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1412 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1413 | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | | |
 | 1414 | [Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | | |
 | 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | | |
@@ -1089,7 +1089,7 @@
 | 1418 | [Display Table of Food Orders in a Restaurant](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/) | | |
 | 1419 | [Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/) | | |
 | 1420 | [Build Array Where You Can Find The Maximum Exactly K Comparisons](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | | |
-| 1421 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1421 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1422 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Java](Q01401-Q01500/01422-Maximum-Score-After-Splitting-a-String/java01422) |  |
 | 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | | |
 | 1424 | [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/) | | |
@@ -1103,17 +1103,17 @@
 | 1432 | [Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) | | |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/) | | |
 | 1434 | [Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/) | | |
-| 1435 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1435 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1436 | [Destination City](https://leetcode.com/problems/destination-city/) | | |
 | 1437 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | | |
 | 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | | |
 | 1439 | [Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/) | | |
-| 1440 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1440 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | | |
 | 1442 | [Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | [Java](Q01401-Q01500/01442-Count-Triplets-That-Can-Form-Two-Arrays-of-Equal-XOR/java01442) |  |
 | 1443 | [Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) | | |
 | 1444 | [Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/) | | |
-| 1445 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1445 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | | |
 | 1447 | [Simplified Fractions](https://leetcode.com/problems/simplified-fractions/) | | |
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | | |
@@ -1122,12 +1122,12 @@
 | 1451 | [Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/) | | |
 | 1452 | [People Whose List of Favorite Companies Is Not a Subset of Another List](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/) | | |
 | 1453 | [Maximum Number of Darts Inside of a Circular Dartboard](https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/) | | |
-| 1454 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1454 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | | |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | | |
 | 1457 | [Pseudo Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | | |
 | 1458 | [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | | |
-| 1459 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1459 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1460 | [Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/) | | |
 | 1461 | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | | |
 | 1462 | [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/) | | |
@@ -1136,7 +1136,7 @@
 | 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | | |
 | 1466 | [Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | | |
 | 1467 | [Probability of a Two Boxes Having The Same Number of Distinct Balls](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | | |
-| 1468 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1468 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1469 | [Find All the Lonely Nodes](https://leetcode.com/problems/find-all-the-lonely-nodes/) | | |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [Java](Q01401-Q01500/01470-Shuffle-the-Array/java-01470/) |  |
 | 1471 | [The k Strongest Values in an Array](https://leetcode.com/problems/the-k-strongest-values-in-an-array/) | | |
@@ -1147,12 +1147,12 @@
 | 1476 | [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) | | |
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | | |
 | 1478 | [Allocate Mailboxes](https://leetcode.com/problems/allocate-mailboxes/) | | |
-| 1479 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1479 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Java](Q01401-Q01500/01480-Running-Sum-of-1d-Array/java-01480) |  |
 | 1481 | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) | | |
 | 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | | |
 | 1483 | [Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) | | |
-| 1484 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1484 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1485 | [Clone Binary Tree With Random Pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/) | | |
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [Java](Q01401-Q01500/01486-XOR-Operation-in-an-Array/java-01486) |  |
 | 1487 | [Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/) | [Java](Q01401-Q01500/01487-Making-File-Names-Unique/java01487) |  |
@@ -1163,7 +1163,7 @@
 | 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | | |
 | 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | | |
 | 1494 | [Parallel Courses II](https://leetcode.com/problems/parallel-courses-ii/) | | |
-| 1495 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1495 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1496 | [Path Crossing](https://leetcode.com/problems/path-crossing/) | [Java](Q01401-Q01500/01496-Path-Crossing/java01496) | [C++](Q01401-Q01500/01496-Path-Crossing/cpp01496) |
 | 1497 | [Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | | |
 | 1498 | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | | |
@@ -1195,7 +1195,7 @@
 | 1578 | [Minimum Deletion Cost to Avoid Repeating Letters](https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/) | | |
 | 1579 | [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | | |
 | 1580 | [Put Boxes Into the Warehouse II](https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/) | | |
-| 1581 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1581 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1582 | [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | | |
 | 1583 | [Count Unhappy Friends](https://leetcode.com/problems/count-unhappy-friends/) | | |
 | 1584 | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | | |
@@ -1210,7 +1210,7 @@
 | 1593 | [Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | | |
 | 1594 | [Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) | | |
 | 1595 | [Minimum Cost to Connect Two Groups of Points](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/) | | |
-| 1596 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1596 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1597 | [Build Binary Expression Tree From Infix Expression](https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression/) | | |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | | |
 | 1599 | [Maximum Profit of Operating a Centennial Wheel](https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/) | | |
@@ -1221,13 +1221,13 @@
 | 1604 | [Alert Using Same Key-Card Three or More Times in a One Hour Period](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | | |
 | 1605 | [Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/) | | |
 | 1606 | [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | | |
-| 1607 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1607 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1608 | [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | | |
 | 1609 | [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/) | | |
 | 1610 | [Maximum Number of Visible Points](https://leetcode.com/problems/maximum-number-of-visible-points/) | [Java](Q01601-Q01700/01610-Maximum-Number-of-Visible-Points/cpp01610) |  |
 | 1611 | [Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | | |
 | 1612 | [Check If Two Expression Trees are Equivalent](https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent/) | | |
-| 1613 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1613 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | | |
 | 1615 | [Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/) | | |
 | 1616 | [Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/) | | |
@@ -1237,7 +1237,7 @@
 | 1620 | [Coordinate With Maximum Network Quality](https://leetcode.com/problems/coordinate-with-maximum-network-quality/) | | |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | | |
 | 1622 | [Fancy Sequence](https://leetcode.com/problems/fancy-sequence/) | | |
-| 1623 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1623 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1624 | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) | | |
 | 1625 | [Lexicographically Smallest String After Applying Operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/) | | |
 | 1626 | [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/) | | |
@@ -1247,9 +1247,9 @@
 | 1630 | [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/) | | |
 | 1631 | [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | | |
 | 1632 | [Rank Transform of a Matrix](https://leetcode.com/problems/rank-transform-of-a-matrix/) | | |
-| 1633 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1633 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1634 | [Add Two Polynomials Represented as Linked Lists](https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists/) | | |
-| 1635 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1635 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1636 | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | | |
 | 1637 | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | | |
 | 1638 | [Count Substrings That Differ by One Character](https://leetcode.com/problems/count-substrings-that-differ-by-one-character/) | | |
@@ -1259,13 +1259,13 @@
 | 1642 | [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) | | |
 | 1643 | [Kth Smallest Instructions](https://leetcode.com/problems/kth-smallest-instructions/) | | |
 | 1644 | [Lowest Common Ancestor of a Binary Tree II](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii/) | | |
-| 1645 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1645 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1646 | [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/) | | |
 | 1647 | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | | |
 | 1648 | [Sell Diminishing-Valued Colored Balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/) | | |
 | 1649 | [Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/) | | |
 | 1650 | [Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/) | | |
-| 1651 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1651 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) | | |
 | 1653 | [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | | |
 | 1654 | [Minimum Jumps to Reach Home](https://leetcode.com/problems/minimum-jumps-to-reach-home/) | | |
@@ -1275,13 +1275,13 @@
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | | |
 | 1659 | [Maximize Grid Happiness](https://leetcode.com/problems/maximize-grid-happiness/) | [Java](1501-2000/1659-Maximize-Grid-Happiness/java-1659/) |  |
 | 1660 | [Correct a Binary Tree](https://leetcode.com/problems/correct-a-binary-tree/) | | |
-| 1661 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1661 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | | |
 | 1663 | [Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/) | | |
 | 1664 | [Ways to Make a Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array/) | | |
 | 1665 | [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | | |
 | 1666 | [Change the Root of a Binary Tree](https://leetcode.com/problems/change-the-root-of-a-binary-tree/) | | |
-| 1667 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1667 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1668 | [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/) | | |
 | 1669 | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | | |
 | 1670 | [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/) | | |
@@ -1291,13 +1291,13 @@
 | 1674 | [Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) | | |
 | 1675 | [Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/) | | |
 | 1676 | [Lowest Common Ancestor of a Binary Tree IV](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv/) | | |
-| 1677 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1677 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | | |
 | 1679 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | | |
 | 1680 | [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | | |
 | 1681 | [Minimum Incompatibility](https://leetcode.com/problems/minimum-incompatibility/) | | |
 | 1682 | [Longest Palindromic Subsequence II](https://leetcode.com/problems/longest-palindromic-subsequence-ii/) | | |
-| 1683 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1683 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | | |
 | 1685 | [Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) | | |
 | 1686 | [Stone Game VI](https://leetcode.com/problems/stone-game-vi/) | | |
@@ -1307,13 +1307,13 @@
 | 1690 | [Stone Game VII](https://leetcode.com/problems/stone-game-vii/) | | |
 | 1691 | [Maximum Height by Stacking Cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/) | | |
 | 1692 | [Count Ways to Distribute Candies](https://leetcode.com/problems/count-ways-to-distribute-candies/) | | |
-| 1693 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1693 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1694 | [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/) | | |
 | 1695 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | | |
 | 1696 | [Jump Game VI](https://leetcode.com/problems/jump-game-vi/) | | |
 | 1697 | [Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/) | | |
 | 1698 | [Number of Distinct Substrings in a String](https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/) | | |
-| 1699 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1699 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | | |
 | 1701 | [Average Waiting Time](https://leetcode.com/problems/average-waiting-time/) | | |
 | 1702 | [Maximum Binary String After Change](https://leetcode.com/problems/maximum-binary-string-after-change/) | | |
@@ -1323,13 +1323,13 @@
 | 1706 | [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | | |
 | 1707 | [Maximum XOR With an Element From Array](https://leetcode.com/problems/maximum-xor-with-an-element-from-array/) | [Java](Q01701-Q01800/01707-Maximum-XOR-With-an-Element-From-Array/java01707) |  |
 | 1708 | [Largest Subarray Length K](https://leetcode.com/problems/largest-subarray-length-k/) | | |
-| 1709 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1709 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | | |
 | 1711 | [Count Good Meals](https://leetcode.com/problems/count-good-meals/) | | |
 | 1712 | [Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) | | |
 | 1713 | [Minimum Operations to Make a Subsequence](https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/) | | |
 | 1714 | [Sum Of Special Evenly-Spaced Elements In Array](https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array/) | | |
-| 1715 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1715 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1716 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | | |
 | 1717 | [Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/) | | |
 | 1718 | [Construct the Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/) | | |
@@ -1343,9 +1343,9 @@
 | 1726 | [Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/) | | |
 | 1727 | [Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) | | |
 | 1728 | [Cat and Mouse II](https://leetcode.com/problems/cat-and-mouse-ii/) | | |
-| 1729 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1729 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1730 | [Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food/) | | |
-| 1731 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1731 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | | |
 | 1733 | [Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/) | | |
 | 1734 | [Decode XORed Permutation](https://leetcode.com/problems/decode-xored-permutation/) | [Java](Q01701-Q01800/01734-Decode-XORed-Permutation/java-01734) |  |
@@ -1355,13 +1355,13 @@
 | 1738 | [Find Kth Largest XOR Coordinate Value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/) | [Java](Q01701-Q01800/01738-Find-Kth-Largest-XOR-Coordinate-Value/java01738) |  |
 | 1739 | [Building Boxes](https://leetcode.com/problems/building-boxes/) | | |
 | 1740 | [Find Distance in a Binary Tree](https://leetcode.com/problems/find-distance-in-a-binary-tree/) | | |
-| 1741 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1741 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1742 | [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) | | |
 | 1743 | [Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/) | | |
 | 1744 | [Can You Eat Your Favorite Candy on Your Favorite Day?](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) | [Java](Q01701-Q01800/01744-Can-You-Eat-Your-Favorite-Candy-on-Your-Favorite-Day/java01744) | [C++](Q01701-Q01800/01744-Can-You-Eat-Your-Favorite-Candy-on-Your-Favorite-Day/cpp01744) |
 | 1745 | [Palindrome Partitioning IV](https://leetcode.com/problems/palindrome-partitioning-iv/) | | |
 | 1746 | [Maximum Subarray Sum After One Operation](https://leetcode.com/problems/maximum-subarray-sum-after-one-operation/) | | |
-| 1747 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1747 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1748 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | | |
 | 1749 | [Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | | |
 | 1750 | [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | | |
@@ -1371,7 +1371,7 @@
 | 1754 | [Largest Merge Of Two Strings](https://leetcode.com/problems/largest-merge-of-two-strings/) | | |
 | 1755 | [Closest Subsequence Sum](https://leetcode.com/problems/closest-subsequence-sum/) | | |
 | 1756 | [Design Most Recently Used Queue](https://leetcode.com/problems/design-most-recently-used-queue/) | | |
-| 1757 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1757 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1758 | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | | |
 | 1759 | [Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/) | | |
 | 1760 | [Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) | | |
@@ -1381,7 +1381,7 @@
 | 1764 | [Form Array by Concatenating Subarrays of Another Array](1501-2000/1764-Form-Array-by-Concatenating-Subarrays-of-Another-Array/cpp-1764/) | | |
 | 1765 | [Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/) | | |
 | 1766 | [Tree of Coprimes](https://leetcode.com/problems/tree-of-coprimes/) | | |
-| 1767 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - |  |
+| 1767 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | | |
 | 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | | |
 | 1770 | [Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) | | |

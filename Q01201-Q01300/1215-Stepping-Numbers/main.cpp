@@ -1,7 +1,3 @@
-/// Source : https://leetcode.com/problems/stepping-numbers/
-/// Author : liuyubobobo
-/// Time   : 2019-10-06
-
 #include <iostream>
 #include <vector>
 #include <set>

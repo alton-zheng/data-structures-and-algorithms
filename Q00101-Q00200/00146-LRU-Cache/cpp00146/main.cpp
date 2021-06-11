@@ -1,7 +1,3 @@
-/// Source : https://leetcode.com/problems/lru-cache/
-/// Author : liuyubobobo
-/// Time   : 2019-03-02
-
 #include <iostream>
 #include <unordered_map>
 #include <cassert>

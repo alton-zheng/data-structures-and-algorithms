@@ -1,7 +1,3 @@
-/// Source : https://leetcode.com/problems/roman-to-integer/description/
-/// Author : liuyubobobo
-/// Time   : 2018-09-17
-
 #include <iostream>
 #include <unordered_map>
 

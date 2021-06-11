@@ -1,7 +1,3 @@
-/// Source : https://leetcode.com/problems/my-calendar-i/description/
-/// Author : liuyubobobo
-/// Time   : 2017-11-20
-
 #include <iostream>
 #include <set>
 

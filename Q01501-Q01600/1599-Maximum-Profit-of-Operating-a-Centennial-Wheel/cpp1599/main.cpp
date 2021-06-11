@@ -1,7 +1,3 @@
-/// Source : https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/
-/// Author : liuyubobobo
-/// Time   : 2020-09-26
-
 #include <iostream>
 #include <vector>
 

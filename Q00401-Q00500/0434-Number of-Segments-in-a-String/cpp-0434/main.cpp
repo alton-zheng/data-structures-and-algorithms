@@ -1,7 +1,3 @@
-/// Source : https://leetcode.com/problems/number-of-segments-in-a-string/description/
-/// Author : liuyubobobo
-/// Time   : 2017-11-04
-
 #include <iostream>
 #include <string>
 

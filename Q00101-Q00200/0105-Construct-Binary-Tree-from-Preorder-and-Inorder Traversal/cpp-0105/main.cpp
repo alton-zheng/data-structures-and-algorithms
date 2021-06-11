@@ -1,7 +1,3 @@
-/// Source : https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/
-/// Author : liuyubobobo
-/// Time   : 2018-06-03
-
 #include <iostream>
 #include <vector>
 #include <cassert>

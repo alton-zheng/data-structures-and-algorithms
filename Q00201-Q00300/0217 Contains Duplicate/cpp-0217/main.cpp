@@ -1,7 +1,3 @@
-/// Source : https://leetcode.com/problems/contains-duplicate/
-/// Author : liuyubobobo
-/// Time   : 2017-01-18
-
 #include <iostream>
 #include <unordered_set>
 #include <vector>
