@@ -240,7 +240,7 @@
 | | | | |
 | 277 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | | |
 | | | | |
-| 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) | [Java](Q00201-Q00300/0279-Perfect-Squares/java-0279/src/) |  |
+| 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) | [Java](Q00201-Q00300/00279-Perfect-Squares/java00279) | [C++](Q00201-Q00300/00279-Perfect-Squares/cpp00279) |
 | | | | |
 | 282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/description/) | | |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Java](Q00201-Q00300/00283-Move-Zeroes/java00283) | [C++](Q00201-Q00300/00283-Move-Zeroes/cpp00283) |
