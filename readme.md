@@ -988,6 +988,7 @@
 | 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | | |
 | 1278 | [Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/) | | |
 | | | | |
+| 1297 | [Maximum Number of Occurrences of a Substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/) | [Java](Q01201-Q01300/01297-Maximum-Number-of-Occurrences-of-a-substring/java001297) | [C++](Q01201-Q01300/01297-Maximum-Number-of-Occurrences-of-a-substring/cpp001297) |
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [Java](Q01301-Q01400/01304-Find-N-Unique-Integers-Sum-up-to-Zero/java01304) | [C++](Q01301-Q01400/01304-Find-N-Unique-Integers-Sum-up-to-Zero/cpp01304) |
 | 1305 | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | | |
 | 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | | |
@@ -1003,6 +1004,7 @@
 | 1319 | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | | |
 | 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [Java](Q01301-Q01400/01323-Maximum-69-Number/java01323) | [C++](Q01301-Q01400/01323-Maximum-69-Number/cpp01323) |
 | 1325 | [Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/) | [Java](Q01301-Q01400/01325-Delete-Leaves-With-a-Given-Value/java01325) |  |
+|  |  |  | |
 | 1329 | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | | |
 | | | | |
 | 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) | [Java](Q01301-Q01400/01332-Remove-Palindromic-Subsequences/java01332) | [C++](Q01301-Q01400/01332-Remove-Palindromic-Subsequences/cpp01332) |
