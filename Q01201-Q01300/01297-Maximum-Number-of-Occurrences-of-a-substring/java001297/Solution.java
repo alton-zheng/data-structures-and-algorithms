@@ -7,6 +7,9 @@ import java.util.Map;
  * @Author: alton
  * @Date: Created in 6/11/21 5:30 PM
  * @Description:
+ *
+ * Runtime: 53 ms, faster than 41.14% of Java online submissions for Maximum Number of Occurrences of a Substring.
+ * Memory Usage: 40.8 MB, less than 88.23% of Java online submissions for Maximum Number of Occurrences of a Substring.
  */
 public class Solution {
 
@@ -33,7 +36,7 @@ public class Solution {
                 base_mul = (base_mul * base) % mod;
             }
 
-            if (i >= maxSize) {
+            if (i >= minSize) {
                 count.put(s.charAt(i - minSize), count.get(s.charAt(i - minSize)) - 1);
                 if (count.get(s.charAt(i - minSize)) == 0) {
                     sCount--;
@@ -42,7 +45,7 @@ public class Solution {
                 rabin = (rabin - base_mul * (s.charAt(i - minSize) - 97) % mod + mod) % mod;
             }
 
-            if (i >= maxSize - 1 && sCount <= maxLetters) {
+            if (i >= minSize - 1 && sCount <= maxLetters) {
                 help.put(rabin, help.getOrDefault(rabin, 0) + 1);
                 res = Math.max(res, help.get(rabin));
             }
