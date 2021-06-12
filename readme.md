@@ -1161,7 +1161,7 @@
 | 1488 | [Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/) | | |
 | 1489 | [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | | |
 | 1490 | [Clone N-ary Tree](https://leetcode.com/problems/clone-n-ary-tree/) | | |
-| 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | | |
+| 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [Java](Q01401-Q01500/01491-Average-Salary-Excluding-the-Minimum-and-Maximum-Salary/java01491) | [C++](Q01401-Q01500/01491-Average-Salary-Excluding-the-Minimum-and-Maximum-Salary/cpp01491) |
 | 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | | |
 | 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | | |
 | 1494 | [Parallel Courses II](https://leetcode.com/problems/parallel-courses-ii/) | | |
