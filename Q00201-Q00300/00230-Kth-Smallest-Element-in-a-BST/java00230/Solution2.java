@@ -67,6 +67,7 @@ class Solution2 {
     public int kthSmallest(TreeNode root, int k) {
         kth = k;
         inorder(root);
+        return res;
 
     }
 

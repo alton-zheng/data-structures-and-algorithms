@@ -239,7 +239,7 @@
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [Java](Q00201-Q00300/00268-Missing-Number/java00268) | [C++](Q00201-Q00300/00268-Missing-Number/cpp00268) |
 | | | | |
 | 277 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | | |
-| | | | |
+| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Java](Q00201-Q00300/00278-First-Bad-Version/java00278/m01) | [C++](Q00201-Q00300/00278-First-Bad-Version/cpp00278) |
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) | [Java](Q00201-Q00300/00279-Perfect-Squares/java00279) | [C++](Q00201-Q00300/00279-Perfect-Squares/cpp00279) |
 | | | | |
 | 282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/description/) | | |
