@@ -12,8 +12,6 @@ package java01491.m01;
  *
  * Return the average salary of employees excluding the minimum and maximum salary.
  *
- *
- *
  * Example 1:
  *
  * Input: salary = [4000,3000,1000,2000]
