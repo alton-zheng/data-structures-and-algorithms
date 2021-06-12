@@ -1,6 +1,5 @@
 // Runtime: 0 ms, faster than 100.00% of C++ online submissions for Average Salary Excluding the Minimum and Maximum Salary.
 // Memory Usage: 7.2 MB, less than 39.57% of C++ online submissions for Average Salary Excluding the Minimum and Maximum Salary.
-
 class Solution {
 public:
  double average(vector<int>& salary) {

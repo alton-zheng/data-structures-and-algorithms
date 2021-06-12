@@ -5,7 +5,7 @@ package java01491.m01;
  * @Date: Created in 6/12/21 4:57 PM
  * @Description:
  *
- * 1491. Average Salary Excluding the Minimum and Maximum Salary #10
+ * 1491. Average Salary Excluding the Minimum and Maximum Salary #104
  *
  *
  * Given an array of unique integers salary where salary[i] is the salary of the employee i.
