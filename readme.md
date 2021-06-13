@@ -386,7 +386,7 @@
 | 478 | [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/description/) | | |
 | | | | |
 | 480 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | | |
-| | | | |
+| 482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [Java](Q00401-Q00500/00482-License-Key-Formatting/java00482) | [C++](Q00401-Q00500/00482-License-Key-Formatting/cpp00482) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | | |
 | | | | |
 | 490 | [The Maze](https://leetcode.com/problems/the-maze/description/) | | |
