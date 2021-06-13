@@ -674,7 +674,7 @@
 | 895 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/description/) | | |
 | 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/description/) | | |
 | 897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/description/) | | |
-| 898 | [Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/description/) | | |
+| 898 | [Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/description/) | [Java](Q00801-Q00900/00898-Bitwise-ORs-of-Subarrays/java00898) | [C++](Q00801-Q00900/00898-Bitwise-ORs-of-Subarrays/cpp00898) |
 | 899 | [Orderly Queue](https://leetcode.com/problems/orderly-queue/description/) | | |
 | 900 | [RLE Iterator](https://leetcode.com/problems/rle-iterator/description/) | | |
 | 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/description/) | | |
