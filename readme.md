@@ -460,7 +460,7 @@
 | | | | |
 | 587 | [Erect the Fence](https://leetcode.com/problems/erect-the-fence/) | | |
 | | | | |
-| 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | | |
+| 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Java](Q00501-Q00600/00589-N-ary-Tree-Preorder-Traversal/java00589) | [C++](Q00501-Q00600/00589-N-ary-Tree-Preorder-Traversal/cpp00589) |
 | 590 | [N-ary Tree Postorder Transversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | | |
 | | | | |
 | 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | | |
