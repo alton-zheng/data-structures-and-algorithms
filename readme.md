@@ -308,7 +308,7 @@
 | 370 | [Range Addition](https://leetcode.com/problems/range-addition/description/) | | |
 | | | | |
 | 373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [Java](Q00301-Q00400/00373-Find-K-Pairs-with-Smallest-Sums/java00373) |  |
-| 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | | |
+| 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [Java](Q00301-Q00400/00374-Guess-Number-Higher-or-Lower/java00374) | [C++](Q00301-Q00400/00374-Guess-Number-Higher-or-Lower/cpp00374) |
 | 375 | [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | [Java](Q00301-Q00400/00375-Guess-Number-Higher-or-Lower-II/java00375) |  |
 | 376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | | |
 | 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/) | | |
