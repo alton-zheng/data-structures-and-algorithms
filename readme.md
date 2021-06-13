@@ -486,11 +486,11 @@
 | | | | |
 | 648 | [Replace Words](https://leetcode.com/problems/replace-words/description/) | | |
 | 649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | | |
-| | | | |
+| | |  |  |
 | 652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/description/) | | |
 | | | | |
 | 659 | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | | |
-| | | | |
+| 661 | [Image Smoother](https://leetcode.com/problems/image-smoother/) | [Java](Q00601-Q00700/00661-Image-Smoother/java00661) | [C++](Q00601-Q00700/00661-Image-Smoother/cpp00661) |
 | 664 | [Strange Printer](https://leetcode.com/problems/strange-printer/) | [Java](Q00601-Q00700/00664-Strange-Printer/java00664) |  |
 | 665 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | | |
 | | | | |
