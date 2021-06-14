@@ -1064,7 +1064,7 @@
 | 1391 | [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | | |
 | 1392 | [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/) | | |
 | 1393 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
-| 1394 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | | |
+| 1394 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | [Java](Q01301-Q01400/01394-Find-Lucky-Integer-in-an-Array/java01394) | [C++](Q01301-Q01400/01394-Find-Lucky-Integer-in-an-Array/cpp01394) |
 | 1395 | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/) | | |
 | 1396 | [Design Underground System](https://leetcode.com/problems/design-underground-system/) | | |
 | 1397 | [Find All Good Strings](https://leetcode.com/problems/find-all-good-strings/) | | |
