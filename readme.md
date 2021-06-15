@@ -1279,7 +1279,7 @@
 | 1660 | [Correct a Binary Tree](https://leetcode.com/problems/correct-a-binary-tree/) | | |
 | 1661 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | | |
-| 1663 | [Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/) | | |
+| 1663 | [Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/) | [Java](Q01601-Q01700/01663-Smallest-String-With-A-Given-Numeric-Value/java01663) | [C++](Q01601-Q01700/01663-Smallest-String-With-A-Given-Numeric-Value/cpp01663) |
 | 1664 | [Ways to Make a Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array/) | | |
 | 1665 | [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | | |
 | 1666 | [Change the Root of a Binary Tree](https://leetcode.com/problems/change-the-root-of-a-binary-tree/) | | |
