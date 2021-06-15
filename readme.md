@@ -312,7 +312,7 @@
 | 375 | [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | [Java](Q00301-Q00400/00375-Guess-Number-Higher-or-Lower-II/java00375) |  |
 | 376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | | |
 | 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/) | | |
-| 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | | |
+| 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [Java](Q00301-Q00400/00378-Kth-Smallest-Element-in-a-Sorted-Matrix/java00378) | [C++](Q00301-Q00400/00378-Kth-Smallest-Element-in-a-Sorted-Matrix/cpp00378) |
 | | | | |
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/) | | |
 | 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/description/) | | |
