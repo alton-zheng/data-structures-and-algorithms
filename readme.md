@@ -628,7 +628,7 @@
 | 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/) | | |
 | 842 | [Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) | | |
 | | | | |
-| 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | | |
+| 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [Java](Q00801-Q00900/00852-Peak-Index-in-a-Mountain-Array/java00852) | [C++](Q00801-Q00900/00852-Peak-Index-in-a-Mountain-Array/cpp00852) |
 | 853 | [Car Fleet](https://leetcode.com/problems/car-fleet/description/) | | |
 | 854 | [K-Similar Strings](https://leetcode.com/problems/k-similar-strings/description/) | | |
 | 855 | [Exam Room](https://leetcode.com/problems/exam-room/description/) | | |
