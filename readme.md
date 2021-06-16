@@ -653,7 +653,7 @@
 | 874 | [Walking-Robot-Simulation](https://leetcode.com/problems/walking-robot-simulation/description/) | | |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) | | |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Java](Q00801-Q00900/00876-Middle-of-the-Linked-List/java00876) | [C++](Q00801-Q00900/00876-Middle-of-the-Linked-List/cpp00876) |
-| 877 | [Stone Game](https://leetcode.com/problems/stone-game/description/) | | |
+| 877 | [Stone Game](https://leetcode.com/problems/stone-game/description/) | [Java](Q00801-Q00900/00877-Stone-Game/java00877) | [C++](Q00801-Q00900/00877-Stone-Game/cpp00877) |
 | 878 | [Nth Magical Number](https://leetcode.com/problems/nth-magical-number/description/) | | |
 | 879 | [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/description/) | [Java](Q00801-Q00900/00879-Profitable-Schemes/java00879) | [C++](Q00801-Q00900/00879-Profitable-Schemes/cpp00879) |
 | 880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/description/) | | |
