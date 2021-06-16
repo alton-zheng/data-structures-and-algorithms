@@ -388,7 +388,7 @@
 | 480 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | | |
 | 482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [Java](Q00401-Q00500/00482-License-Key-Formatting/java00482) | [C++](Q00401-Q00500/00482-License-Key-Formatting/cpp00482) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | | |
-| | | | |
+| 486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | [Java](Q00401-Q00500/00486-Predict-the-Winner/java00486) | [C++](Q00401-Q00500/00486-Predict-the-Winner/cpp00486) |
 | 490 | [The Maze](https://leetcode.com/problems/the-maze/description/) | | |
 | | | | |
 | 494 | [Target Sum](https://leetcode.com/problems/target-sum/description/) | [Java](Q00401-Q00500/00494-Target-Sum/java00494) | [C++](Q00401-Q00500/00494-Target-Sum/cpp00494) |
