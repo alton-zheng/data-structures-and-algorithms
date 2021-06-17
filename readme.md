@@ -424,7 +424,7 @@
 | | | | |
 | 528 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/description/) | | |
 | 529 | [Minesweeper](https://leetcode.com/problems/minesweeper/) | | |
-| 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) | [Java](0501-1000/0530-Minimum-Absolute-Difference-in-BST/java-0530/src/) |  |
+| 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) | [Java](Q00501-Q00600/00530-Minimum-Absolute-Difference-in-BST/java00530) | [C++](Q00501-Q00600/00530-Minimum-Absolute-Difference-in-BST/java00530) |
 | 531 | [Lonely Pixel I](https://leetcode.com/problems/lonely-pixel-i/) | | |
 | | | | |
 | 533 | [Lonely Pixel II](https://leetcode.com/problems/lonely-pixel-ii/) | | |
