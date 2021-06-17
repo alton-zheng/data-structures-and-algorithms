@@ -583,7 +583,7 @@
 | 780 | [Reaching Points](https://leetcode.com/problems/reaching-points/description/) | | |
 | 781 | [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/description/) | | |
 | 782 | [Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/) | [Java](Q00701-Q00800/00782-Transform-to-Chessboard/java00782) |  |
-| 783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) | | |
+| 783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) | [Java](Q00701-Q00800/00783-Minimum-Distance-Between-BST-Nodes/java00783) | [CPP](Q00701-Q00800/00783-Minimum-Distance-Between-BST-Nodes/cpp00783) |
 | 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | | |
 | 785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) | | |
 | 786 | [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/) | | |
