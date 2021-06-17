@@ -61,7 +61,7 @@
 | 062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | | |
 | 063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | | |
 | 064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [Java](Q00401-Q00500/0064-Minimum-Path-Sum/java-0064/src/) |  |
-| | | | |
+| 065 | [Vaild Number](https://leetcode.com/problems/valid-number/) | [java](Q00001-Q00100/00065-Valid-Number/java00065) | [C++](Q00001-Q00100/00065-Valid-Number/cpp00065) |
 | 066 | [Plus One](https://leetcode.com/problems/plus-one/description/) | [Java](Q00001-Q00100/00066-Plus-One/java-00066/) |  |
 | 067 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | [Java](Q00001-Q00100/00067-Add-Binary/java-00067) |  |
 | | | | |
