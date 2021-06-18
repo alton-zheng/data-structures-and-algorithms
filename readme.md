@@ -772,7 +772,7 @@
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | | |
 | 995 | [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | | |
 | 996 | [Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/) | | |
-| 997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | | |
+| 997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Java](Q00901-Q01000/00997-Find-the-Town-Judge/java00977) | [C++](Q00901-Q01000/00997-Find-the-Town-Judge/cpp00977) |
 | 998 | [Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/) | | |
 | 999 | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/) | | |
 | 1000 | [Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/) | | |
