@@ -1359,7 +1359,7 @@
 | 1739 | [Building Boxes](https://leetcode.com/problems/building-boxes/) | | |
 | 1740 | [Find Distance in a Binary Tree](https://leetcode.com/problems/find-distance-in-a-binary-tree/) | | |
 | 1741 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
-| 1742 | [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) | | |
+| 1742 | [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) | [Java](Q01701-Q01800/01742-Maximum-Number-of-Balls-in-a-Box/java01742) | [C++](Q01701-Q01800/01742-Maximum-Number-of-Balls-in-a-Box/cpp01742) |
 | 1743 | [Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/) | | |
 | 1744 | [Can You Eat Your Favorite Candy on Your Favorite Day?](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) | [Java](Q01701-Q01800/01744-Can-You-Eat-Your-Favorite-Candy-on-Your-Favorite-Day/java01744) | [C++](Q01701-Q01800/01744-Can-You-Eat-Your-Favorite-Candy-on-Your-Favorite-Day/cpp01744) |
 | 1745 | [Palindrome Partitioning IV](https://leetcode.com/problems/palindrome-partitioning-iv/) | | |
