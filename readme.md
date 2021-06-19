@@ -972,7 +972,7 @@
 | | | | |
 | 1237 | [Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/) | | |
 | 1238 | [Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation/) | | |
-| 1239 | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | | |
+| 1239 | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [Java](Q01201-Q01300/01239-Maximum-Length-of-a-Concatenated-String-with-Unique-Characters/java01239) | [C++](Q01201-Q01300/01239-Maximum-Length-of-a-Concatenated-String-with-Unique-Characters/cpp01239) |
 | 1240 | [Tiling a Rectangle with the Fewest Squares](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/) | | |
 | | | | |
 | 1243 | [Array Transformation](https://leetcode.com/problems/array-transformation/) | | |
