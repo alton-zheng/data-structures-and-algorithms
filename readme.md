@@ -1385,8 +1385,8 @@
 | 1765 | [Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/) | | |
 | 1766 | [Tree of Coprimes](https://leetcode.com/problems/tree-of-coprimes/) | | |
 | 1767 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
-| 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | | |
-| 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | | |
+| 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [Java](Q01701-Q01800/1769-Minimum-Number-of-Operations-to-Move-All-Balls-to-Each-Box/java01769) | [C++](Q01701-Q01800/1769-Minimum-Number-of-Operations-to-Move-All-Balls-to-Each-Box/cpp01769) |
+| 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) |                                                              |                                                              |
 | 1770 | [Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) | | |
 | 1771 | [Maximize Palindrome Length From Subsequences](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/) | | |
 | 1772 | [Sort Features by Popularity](https://leetcode.com/problems/sort-features-by-popularity/) | | |
