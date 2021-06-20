@@ -988,7 +988,7 @@
 | 1269 | [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | [Java]([C++](Q01201-Q01300/01269-Number-of-Ways-to-Stay-in-the-Same-Place-After-Some-Steps/java01269) |  |
 | 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | | |
 | 1278 | [Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/) | | |
-| | | | |
+| 1296 | [Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/) | [java](Q01201-Q01300/01296-Divide-Array-in-Sets-of-K-Consecutive-Numbers/java01296) | [C++](Q01201-Q01300/01296-Divide-Array-in-Sets-of-K-Consecutive-Numbers/cpp01296) |
 | 1297 | [Maximum Number of Occurrences of a Substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/) | [Java](Q01201-Q01300/01297-Maximum-Number-of-Occurrences-of-a-substring/java001297) | [C++](Q01201-Q01300/01297-Maximum-Number-of-Occurrences-of-a-substring/cpp001297) |
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [Java](Q01301-Q01400/01304-Find-N-Unique-Integers-Sum-up-to-Zero/java01304) | [C++](Q01301-Q01400/01304-Find-N-Unique-Integers-Sum-up-to-Zero/cpp01304) |
 | 1305 | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | | |
