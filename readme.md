@@ -1217,7 +1217,7 @@
 | 1597 | [Build Binary Expression Tree From Infix Expression](https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression/) | | |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | | |
 | 1599 | [Maximum Profit of Operating a Centennial Wheel](https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/) | | |
-| 1600 | [Throne Inheritance](https://leetcode.com/problems/throne-inheritance/) | | |
+| 1600 | [Throne Inheritance](https://leetcode.com/problems/throne-inheritance/) | [Java](Q01501-Q01600/01600-Throne-Inheritance/java01600) | [C++](Q01501-Q01600/01600-Throne-Inheritance/cpp01600) |
 | 1601 | [Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/) | | |
 | 1602 | [Find Nearest Right Node in Binary Tree](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/) | | |
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | [Java](Q01601-Q01700/01603-Design-Parking-System/java-01603) |  |
