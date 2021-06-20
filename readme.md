@@ -628,7 +628,7 @@
 | 839 | [Similar String Groups](https://leetcode.com/problems/similar-string-groups/) | | |
 | 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/) | | |
 | 842 | [Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) | | |
-| | | | |
+| 846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | [Java](Q00801-Q00900/00846-Hand-of-Straights/java00846) | [C++](Q00801-Q00900/00846-Hand-of-Straights/cpp00846) |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [Java](Q00801-Q00900/00852-Peak-Index-in-a-Mountain-Array/java00852) | [C++](Q00801-Q00900/00852-Peak-Index-in-a-Mountain-Array/cpp00852) |
 | 853 | [Car Fleet](https://leetcode.com/problems/car-fleet/description/) | | |
 | 854 | [K-Similar Strings](https://leetcode.com/problems/k-similar-strings/description/) | | |
