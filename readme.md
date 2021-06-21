@@ -334,7 +334,7 @@
 | 398 | [Random Pick Index](https://leetcode.com/problems/random-pick-index/description/) | | |
 | 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | | |
 | | | | |
-| 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | | |
+| 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [Java](Q00401-Q00500/00401-Binary-Watch/java00401) | [C++](Q00401-Q00500/00401-Binary-Watch/cpp00401) |
 | 402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | | |
 | | | | |
 | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | | |
