@@ -381,7 +381,7 @@
 | | | | |
 | 473 | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/description/) | | |
 | 474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/) | [Java](Q00401-Q00500/00474-Ones-and-Zeroes/java00474) | [C++](Q00401-Q00500/00474-Ones-and-Zeroes/cpp00474) |
-| | | | |
+| 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | [Java](Q00401-Q00500/00476- Number-Complement/java00476) | [C++](Q00401-Q00500/00476- Number-Complement/cpp00476) |
 | 477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [Java](Q00401-Q00500/00477-Total-Hamming-Distance/java00477) | [C++](Q00401-Q00500/00477-Total-Hamming-Distance/cpp00477) |
 | 478 | [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/description/) | | |
 | | | | |
