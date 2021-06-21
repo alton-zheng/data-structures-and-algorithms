@@ -789,7 +789,7 @@
 | 1006 | [Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial/) | | |
 | 1007 | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | | |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | | |
-| 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | | |
+| 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [Java](Q01001-Q01100/01009-Complement-of-Base-10-Integer/java01009) | [C++](Q01001-Q01100/01009-Complement-of-Base-10-Integer/cpp01009) |
 | 1010 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | | |
 | 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | | |
 | 1012 | [Numbers With 1 Repeated Digit](https://leetcode.com/problems/numbers-with-1-repeated-digit/) | | |
