@@ -1397,3 +1397,18 @@
 | 01859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [Java](Q01801-Q01900/001859-Sorting-the-Sentence/java001859) |  |
 
 &nbsp;
+
+### 剑指 offer
+
+| ID            | problem                                                      | Java                                                         | C++                                                        |
+| ------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------------- |
+|               |                                                              |                                                              |                                                            |
+|               |                                                              |                                                              |                                                            |
+|               |                                                              |                                                              |                                                            |
+|               |                                                              |                                                              |                                                            |
+|               |                                                              |                                                              |                                                            |
+|               |                                                              |                                                              |                                                            |
+| 剑指 Offer 38 | [字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) | [Java](剑指 Offer/0038-zi-fu-chuan-de-pai-lie-lcof/java0038) | [C++](剑指 Offer/0038-zi-fu-chuan-de-pai-lie-lcof/cpp0038) |
+|               |                                                              |                                                              |                                                            |
+|               |                                                              |                                                              |                                                            |
+

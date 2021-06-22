@@ -12,8 +12,6 @@ package java01009.m01;
  *
  * For a given number n in base-10, return the complement of it's binary representation as a base-10 integer.
  *
- *
- *
  * Example 1:
  *
  * Input: n = 5
