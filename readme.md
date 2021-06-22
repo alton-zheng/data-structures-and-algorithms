@@ -1392,6 +1392,7 @@
 | 1771 | [Maximize Palindrome Length From Subsequences](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/) | | |
 | 1772 | [Sort Features by Popularity](https://leetcode.com/problems/sort-features-by-popularity/) | | |
 | 01787 | [Make the XOR of All Segments Equal to Zero](https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero/) | [Java](Q01701-Q01800/01787-Make-the-XOR-of-All-Segments-Equal-to-Zero/cpp01787) |  |
+| 01796 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/) | [Java](Q01701-Q01800/01796-Second-Largest-Digit-in-a-String/java01796) | [C++](Q01701-Q01800/01796-Second-Largest-Digit-in-a-String/cpp01796) |
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | [Java](Q01801-Q01900/01816-Truncate-Sentence/java-01816) |  |
 |  |  |  |  |
 | 01844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/) | [Java](Q01801-Q01900/001844-Replace-All-Digits-with-Characters/java01844) | [C++](Q01801-Q01900/001844-Replace-All-Digits-with-Characters/cpp01844) |
