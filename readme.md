@@ -1402,15 +1402,17 @@
 
 ### 剑指 offer
 
-| ID            | problem                                                      | Java                                                         | C++                                                        |
-| ------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------------- |
-|               |                                                              |                                                              |                                                            |
-|               |                                                              |                                                              |                                                            |
-|               |                                                              |                                                              |                                                            |
-|               |                                                              |                                                              |                                                            |
-|               |                                                              |                                                              |                                                            |
-|               |                                                              |                                                              |                                                            |
-| 剑指 Offer 38 | [字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) | [Java](剑指 Offer/0038-zi-fu-chuan-de-pai-lie-lcof/java0038) | [C++](剑指 Offer/0038-zi-fu-chuan-de-pai-lie-lcof/cpp0038) |
-|               |                                                              |                                                              |                                                            |
-|               |                                                              |                                                              |                                                            |
+| ID            | problem                                                      | Java                                                         | C++                                                          |
+| ------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|               |                                                              |                                                              |                                                              |
+|               |                                                              |                                                              |                                                              |
+|               |                                                              |                                                              |                                                              |
+| 剑指 Offer 15 | [二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | [Java](剑指 Offer/0015-er-jin-zhi-zhong-1de-ge-shu-lcof/java0015) | [C++](剑指 Offer/0015-er-jin-zhi-zhong-1de-ge-shu-lcof/cpp0015) |
+|               |                                                              |                                                              |                                                              |
+|               |                                                              |                                                              |                                                              |
+|               |                                                              |                                                              |                                                              |
+|               |                                                              |                                                              |                                                              |
+| 剑指 Offer 38 | [字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) | [Java](剑指 Offer/0038-zi-fu-chuan-de-pai-lie-lcof/java0038) | [C++](剑指 Offer/0038-zi-fu-chuan-de-pai-lie-lcof/cpp0038)   |
+|               |                                                              |                                                              |                                                              |
+|               |                                                              |                                                              |                                                              |
 
