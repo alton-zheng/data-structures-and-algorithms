@@ -1399,6 +1399,7 @@
 | 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [Java](Q01801-Q01900/01832-Check-if-the-Sentence-Is-Pangram/java01832) | [C++](Q01801-Q01900/01832-Check-if-the-Sentence-Is-Pangram/cpp01832) |
 | 01844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/) | [Java](Q01801-Q01900/001844-Replace-All-Digits-with-Characters/java01844) | [C++](Q01801-Q01900/001844-Replace-All-Digits-with-Characters/cpp01844) |
 | 01859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [Java](Q01801-Q01900/001859-Sorting-the-Sentence/java001859) |  |
+| 01886 | [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | [Java](Q01801-Q01900/01886-Determine-Whether-Matrix-Can-Be-Obtained-By-Rotation/java01886) | [C++](Q01801-Q01900/01886-Determine-Whether-Matrix-Can-Be-Obtained-By-Rotation/cpp01886) |
 
 &nbsp;
 
