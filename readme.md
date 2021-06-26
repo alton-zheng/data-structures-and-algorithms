@@ -1,783 +1,783 @@
 ## Leetcode Problems
 
-| ID | Problem | Java | C++ |
-| --- | --- | :---: | ----- |
-| 001 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Java](Q00001-Q00100/00001-Two-Sum/java-00001/src/) |  |
-| 002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Java](Q00001-Q00100/00002-Add-Two-Numbers/java-00002/src) |  |
-| 003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [Java](Q00001-Q00100/00003-Longest-Substring-Without-Repeating-Characters/java-00003/src/) |  |
-| 004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Java](Q00001-Q00100/00004-Median-of-Two-Sorted-Arrays/java-00004/src) |  |
-| 005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) |  |  |
-| | | | |
-| 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | | |
-|  |  | | |
-| 009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Java](Q00001-Q00100/00009-Palindrome-Number/java-00009) |  |
-| 010 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | | |
-| 011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | | |
-| 012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [Java](Q00001-Q00100/00012-Integer-to-Roman/java00012) |  |
-| 013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [Java](Q00001-Q00100/00013-Roman-to-Integer/java00013) |  |
-| 014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Java](Q00001-Q00100/00014-Longest-Common-Prefix/java-00014) |  |
-| 015 | [3Sum](https://leetcode.com/problems/3sum/description/) | [Java]([C++](Q00001-Q00100/00015-3Sum/java-00015)) |  |
-| 016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) | | |
-| 017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [Java](Q00401-Q00500/0017-Letter-Combinations-of-a-Phone-Number/java-0017/src/) |  |
-| 018 | [4Sum](https://leetcode.com/problems/4sum/description/) | | |
-| 019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [Java](Q00401-Q00500/0019-Remove-Nth-Node-From-End-of-List/java-0019/src/) |  |
-| 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Java](Q00001-Q00100/00020-Valid-Parentheses/j-00020/src/) |  |
-| 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Java](Q00001-Q00100/00021-Merge-Two-Sorted-Lists/java-00021/src) |  |
-| 022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [Java](Q00001-Q00100/00022-Generate-Parentheses/java00022) |  |
-| 023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | | |
-| 024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [Java](Q00401-Q00500/0024-Swap-Nodes-in-Pairs/java-0024/src/) |  |
-| 025 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | | |
-| 026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Java](Q00001-Q00100/00026-Remove-Duplicates-from-Sorted-Array/java-00026) |  |
-| 027 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [Java](Q00001-Q00100/00027-Remove-Element/java-00027) |  |
-| 028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [Java](Q00001-Q00100/0028-Implement-strStr/cpp-0028/main.cpp -> Q00001-Q00100/00028-Implement-strStr/java-00028) |  |
-| 029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | | |
-| 031 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Java](Q00001-Q00100/00031-Next-Permutation/java00031) | [C++](Q00001-Q00100/00031-Next-Permutation/cpp00031) |
-| 032 |  |  |  |
-| 033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | | |
-| 034 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | | |
-| 035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](Q00001-Q00100/00035-Search-Insert-Position/java-00035) |  |
-| 036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | | |
-| 037 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | | |
-| 038 | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | | |
-| 039 | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | | |
-| 040 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | | |
-| 041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | | |
-| 042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | | |
-| | | | |
-| 046 | [Permutations](https://leetcode.com/problems/permutations/description/) | [Java](Q00401-Q00500/0046-Permutations/java-0046/src/) |  |
-| 047 | [Permutations II](https://leetcode.com/problems/permutations-ii/description/) | | |
-| 048 | [Rotate Image](https://leetcode.com/problems/rotate-image/description/) | | |
-| 049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | | |
-| 050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | | |
-| 051 | [N-Queens](https://leetcode.com/problems/n-queens/description/) | [Java](Q00401-Q00500/0051-N-Queens/java-0051/src/) |  |
-| 052 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | | |
-| 053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](Q00001-Q00100/00053-Maximum-Subarray/java00053) | [C++](Q00001-Q00100/00053-Maximum-Subarray/cpp00053) |
-| 054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | | |
-| | | | |
-| 056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | | |
-| | | | |
-| 059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) | | |
-| | | | |
-| 061 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | | |
-| 062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | | |
-| 063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | | |
-| 064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [Java](Q00401-Q00500/0064-Minimum-Path-Sum/java-0064/src/) |  |
-| 065 | [Vaild Number](https://leetcode.com/problems/valid-number/) | [java](Q00001-Q00100/00065-Valid-Number/java00065) | [C++](Q00001-Q00100/00065-Valid-Number/cpp00065) |
-| 066 | [Plus One](https://leetcode.com/problems/plus-one/description/) | [Java](Q00001-Q00100/00066-Plus-One/java-00066/) |  |
-| 067 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | [Java](Q00001-Q00100/00067-Add-Binary/java-00067) |  |
-| | | | |
-| 069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)| | |
-| 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Java](Q00401-Q00500/0070-Climbing-Stairs/java-0070/src/) |  |
-| 071 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | | |
-| 072 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | | |
-| 073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | | |
-| 074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | | |
-| 075 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Java](Q00401-Q00500/0075-Sort-Colors/java-0075/src/) |  |
-| 076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | | |
-| 077 | [Combinations](https://leetcode.com/problems/combinations/description/) | [Java](Q00401-Q00500/0077-Combinations/java-0077/src/) |  |
-| | | | |
-| 079 | [Word Search](https://leetcode.com/problems/word-search/description/) | [Java](Q00401-Q00500/0079-Word-Search/java-0079/src/) |  |
-| 080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) | | |
-| 081 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | | |
-| 082 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Java](Q00001-Q00100/00082-Remove-Duplicates-from-Sorted-List-II/java00082) |  |
-| 083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | | |
-| 084 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | | |
-| 085 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | | |
-| 086 | [Partition List](https://leetcode.com/problems/partition-list/description/) | | |
-| 087 | [Scramble String](https://leetcode.com/problems/scramble-string/description/) | | |
-| 088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Java](Q00001-Q00100/00088-Merge-Sorted-Array/java-00088) |  |
-| 089 | [Gray Code](https://leetcode.com/problems/gray-code/) | | |
-| | | | |
-| 091 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | | |
-| 092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) | | |
-| 093 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | | |
-| 094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [Java](Q00401-Q00500/0094-Binary-Tree-Inorder-Traversal/java-0094/src/) |  |
-| 095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) | | |
-| 096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | | |
-| | | | |
-| 098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [Java](Q00401-Q00500/0098-Validate-Binary-Search-Tree/java-0098/src/) |  |
-| 099 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/description/) | [Java](Q00401-Q00500/0099-Recover-Binary-Search-Tree/java-0099/src/) |  |
-| 100 | [Same Tree](https://leetcode.com/problems/same-tree/description/) | [Java](Q00001-Q00100/00100-Same-Tree/java00100) | [C++](Q00001-Q00100/00100-Same-Tree/cpp00100) |
-| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | | |
-| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [Java](Q00401-Q00500/0102-Binary-Tree-Level-Order-Traversal/java-0102/src/) |  |
-| 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | | |
-| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Java](Q00101-Q00200/00104-Maximum-Depth-of-Binary-Tree/java00104) | [C++](Q00101-Q00200/00104-Maximum-Depth-of-Binary-Tree/cpp00104) |
-| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) | | |
-| 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) | | |
-| 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | | |
-| 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | | |
-| 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/) | | |
-| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) |                                                              |                                                              |
-| 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | | |
-| 112 | [Path Sum](https://leetcode.com/problems/path-sum/description/) | [Java](Q00401-Q00500/0112-Path-Sum/cpp-0112/src/) |  |
-| 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) | | |
-| | | | |
-| 115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/) | [Java](Q00401-Q00500/0115/Distinct-Subsequences/java-0115/) |  |
-| 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/) | | |
-| 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | | |
-| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | | |
-| 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | | |
-| 120 | [Triangle](https://leetcode.com/problems/triangle/description/) | | |
-| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solution/) | | |
-| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | | |
-| 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | | |
-| 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | | |
-| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | | |
-| 126 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/) | | |
-| 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/description/) | [Java](Q00401-Q00500/0127-Word-Ladder/java-0127/) |  |
-| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-9consecutive-sequence/description/) | | |
-| 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) | | |
-| 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/) | | |
-| 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Java](Q00101-Q00200/00131-Palindrome-Partitioning/java00131/) |  |
-| 132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | | |
-| 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/description/) | | |
-| 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | | |
-| 135 | [Candy](https://leetcode.com/problems/candy/) | | |
-| 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | | |
-| 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [java](Q00101-Q00200/00137-Single-Number-II/java-00137/src) |  |
-| 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | | |
-| 139 | [Word Break](https://leetcode.com/problems/word-break/) | | |
-| | | | |
-| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | | |
-| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | | |
-| 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | | |
-| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [Java](Q00401-Q00500/0144-Binary-Tree-Preorder-Traversal/java-0144/src/) |  |
-| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [Java](Q00401-Q00500/0145-Binary-Tree-Postorder-Traversal/java-0145/src/) |  |
-| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Java](Q00101-Q00200/00146-LRU-Cache/java00146) |  |
-| 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | | |
-| 148 | [Sort List](https://leetcode.com/problems/sort-list/description/) | | |
-| 149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) | [Java](Q00101-Q00200/0149-Max-Points-on-a-Line/java00149) | [C++](Q00101-Q00200/0149-Max-Points-on-a-Line/cpp00149) |
-| 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | | |
-| 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | | |
-| 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | | |
-| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | | |
-| | | | |
-| 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | | |
-| | | | |
-| 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/) | | |
-| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [Java](Q00101-Q00200/00160-Intersection-of-Two-Linked-Lists/java00160) | [C++](Q00101-Q00200/00160-Intersection-of-Two-Linked-Lists/cpp00160) |
-| 161 | [One Edit Distance](https://leetcode.com/problems/one-edit-distance/) | | |
-| | | | |
-| 163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges/) | | |
-| | | | |
-| 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Java](Q00101-Q00200/00167-Two-Sum-II-Input-array-is-sorted/java00167) | [C++](Q00101-Q00200/00167-Two-Sum-II-Input-array-is-sorted/cpp00167) |
-| | | | |
-| 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | | |
-| 170 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/description/) | | |
-| 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) | | |
-| | | | |
-| 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/) | | |
-| | | | |
-| 186 | [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/description/) | | |
-| | | | |
-| 188 | [Best-Time-to-Buy-and-Sell-Stock-IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | | |
-| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) | | |
-| 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Java](Q00101-Q00200/00190-Reverse-Bits/java00190) | [C++](Q00101-Q00200/00190-Reverse-Bits/java00190) |
-| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [Java](Q00101-Q00200/00191-Number-of-1-Bits/java00191) | [C++](Q00101-Q00200/00191-Number-of-1-Bits/cpp00191) |
-| | | | |
-| 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | [Java](Q00101-Q00200/0198-House-Robber/java-0198) |  |
-| 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | | |
-| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [Java](Q00401-Q00500/0200-Number-of-Islands/java-0200/src/) |  |
-| | | | |
-| 202 | [Happy Number](https://leetcode.com/problems/happy-number/description/) | [Java](Q00201-Q00300/00202-Happy-Number/java00202) | [C++](Q00201-Q00300/00202-Happy-Number/cpp00202) |
-| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [Java](Q00201-Q00300/00203-Remove-Linked-List-Elements/java00203) | [C++](Q00201-Q00300/00203-Remove-Linked-List-Elements/cpp00203) |
-| 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | | |
-| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | | |
-| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Java](Q00201-Q00300/0206-Reverse-Linked-List/java-0206/src) |  |
-| 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | | |
-| 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | [Java](Q00201-Q00300/00208-Implement-Trie-Prefix-Tree/java00208) |  |
-| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/) | [Java](Q00401-Q00500/0209-Minimum-Size-Subarray-Sum/java-0209/src/) |  |
-| 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | | |
-| 211 | [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/description/) | [Java](Q00401-Q00500/0211-Add-and-Search-Word-Data-structure-design/java-0211/) |  |
-| 212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | | |
-| 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/description/) | | |
-| | | | |
-| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [Java](Q00201-Q00300/00215-Kth-Largest-Element-in-an-Array/java00215) | [C++](Q00201-Q00300/00215-Kth-Largest-Element-in-an-Array/cpp00215) |
-| 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) | | |
-| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | | |
-| 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/) | | |
-| 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | [Java](Q00401-Q00500/0219-Contains-Duplicate-II/java-0219/src/) |  |
-| 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/) | [Java](Q00401-Q00500/0220-Contains-Duplicate-III/java-0220/) |  |
-| 221 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | | |
-| 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/) | | |
-| | | | |
-| 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/description/) | | |
-| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) | | |
-| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [Java](Q00401-Q00500/0226-Invert-Binary-Tree/java-0226/src/) |  |
-| 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/) | [Java](Q00201-Q00300/00227-Basic-Calculator-II/java00227) | [C++](Q00201-Q00300/00227-Basic-Calculator-II/cpp00227) |
-| 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | | |
-| | | | |
-| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | [Java](Q00201-Q00300/00230-Kth-Smallest-Element-in-a-BST/java00230) | [C++](Q00201-Q00300/00230-Kth-Smallest-Element-in-a-BST/cpp00230) |
-| 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Java](Q00201-Q00300/00231-Power-of-Two/java00231) | [C++](Q00201-Q00300/00231-Power-of-Two/cpp00231) |
-| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | | |
-| 233 | [Number of Digit One](https://leetcode.com/problems/number-of-digit-one/) | | |
-| 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | | |
-| 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | [Java](Q00401-Q00500/0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree/java-0235/src/) |  |
-| 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | | |
-| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Java](Q00201-Q00300/00237-Delete-Node-in-a-Linked-List/java-00237/src) |  |
-| 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | | |
-| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) | | |
-| 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | | |
-| | | | |
-| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | | |
-| 243 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) | | |
-| 244 | [Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/) | | |
-| 245 | [Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/) | | |
-| | | | |
-| 249 | [Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/description/) | | |
-| 250 | [Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/description/) | | |
-| | | | |
-| 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/) | | |
-| 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/description/) | | |
-| 254 | [Factor Combinations](https://leetcode.com/problems/factor-combinations/description/) | | |
-| | | | |
-| 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | [Java](Q00401-Q00500/0257-Binary-Tree-Paths/java-0257/src/) | [C++](Q00401-Q00500/0257-Binary-Tree-Paths/cpp-0257/src/) |
-| | | | |
-| 259 | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/description/) | | |
-| 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Java](Q00201-Q00300/00263-Ugly-Number/java00263) | [C++](Q00201-Q00300/00263-Ugly-Number/cpp00263) |
-| 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | | |
-| 267 | [Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/) | | |
-| 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [Java](Q00201-Q00300/00268-Missing-Number/java00268) | [C++](Q00201-Q00300/00268-Missing-Number/cpp00268) |
-| | | | |
-| 277 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | | |
-| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Java](Q00201-Q00300/00278-First-Bad-Version/java00278/m01) | [C++](Q00201-Q00300/00278-First-Bad-Version/cpp00278) |
-| 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) | [Java](Q00201-Q00300/00279-Perfect-Squares/java00279) | [C++](Q00201-Q00300/00279-Perfect-Squares/cpp00279) |
-| | | | |
-| 282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/description/) | | |
-| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Java](Q00201-Q00300/00283-Move-Zeroes/java00283) | [C++](Q00201-Q00300/00283-Move-Zeroes/cpp00283) |
-| 284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | | |
-| | | | |
-| 286 | [Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/) | | |
-| 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | [Java](Q00201-Q00300/00287-Find-the-Duplicate-Number/java-00287/src) |  |
-| 288 | [Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/description/) | | |
-| 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | [Java](Q00201-Q00300/00289-Game-of-Life/java00289) | [C++](Q00201-Q00300/00289-Game-of-Life/cpp00289) |
-| 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/description/) | | |
-| | | | |
-| 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | | |
-| | | | |
-| 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) | | |
-| | | | |
-| 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [Java](Q00401-Q00500/0300-Longest-Increasing-Subsequence/java-0300/src/) |  |
-| 301 | [0301-Remove-Invalid-Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | | |
-| | | | |
-| 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) | | |
-| 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | | |
-|  |  | | |
-| 306 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | [Java](Q00301-Q00400/00336-Palindrome-Pairs/java00306) | [C++](Q00301-Q00400/00336-Palindrome-Pairs/cpp00306) |
-| 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/description/) | | |
-| 308 | [Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/description/) | | |
-| 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | | |
-| | | | |
-| 312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [Java](Q00301-Q00400/00312-Burst-Balloons/java00312) |  |
-| | | | |
-| 315 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | | |
-| 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | | |
-| | | | |
-| 319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/) | | |
-| | | | |
-| 321 | [Create Maximum Number](https://leetcode.com/problems/create-maximum-number/) | | |
-| 322 | [Coin Change](https://leetcode.com/problems/coin-change/description/) | | |
-| | | | |
-| 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | | |
-| 329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | | |
-| 330 | [Patching Array](https://leetcode.com/problems/patching-array/) | | |
-| | | | |
-| 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | | |
-| | | | |
-| 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/description/) | | |
-| 338 | [Countint bits](https://leetcode.com/problems/counting-bits/) | [Java](Q00301-Q00400/00338-Counting-Bits/java00338) |  |
-| 339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) | | |
-| 340 | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | | |
-| 341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | | |
-| 00342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Java](Q00301-Q00400/00342-Power-of-Four/java00342) |  |
-| 343 | [Integer Break](https://leetcode.com/problems/integer-break/description/) | [Java](Q00401-Q00500/0343-Integer-Break/java-0343/src/) |  |
-| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | | |
-| 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | | |
-| 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/solution/) | | |
-| 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | [Java](Q00401-Q00500/0347-Top-K-Frequent-Elements/java-0347/src/) |  |
-| | | | |
-| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [Java](Q00401-Q00500/0349-Intersection-of-Two-Arrays/java-0349/src/) |  |
-| 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [Java](Q00401-Q00500/0350-Intersection-of-Two-Arrays-II/java-0350/src/) |  |
-| | | | |
-| 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/description/) | | |
-| 360 | [Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/description/) | | |
-| | | | |
-| 364 | [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/) | | |
-| 365 | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) | | |
-| | | | |
-| 369 | [Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/) | | |
-| 370 | [Range Addition](https://leetcode.com/problems/range-addition/description/) | | |
-| | | | |
-| 373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [Java](Q00301-Q00400/00373-Find-K-Pairs-with-Smallest-Sums/java00373) |  |
-| 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [Java](Q00301-Q00400/00374-Guess-Number-Higher-or-Lower/java00374) | [C++](Q00301-Q00400/00374-Guess-Number-Higher-or-Lower/cpp00374) |
-| 375 | [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | [Java](Q00301-Q00400/00375-Guess-Number-Higher-or-Lower-II/java00375) |  |
-| 376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | | |
-| 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/) | | |
-| 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [Java](Q00301-Q00400/00378-Kth-Smallest-Element-in-a-Sorted-Matrix/java00378) | [C++](Q00301-Q00400/00378-Kth-Smallest-Element-in-a-Sorted-Matrix/cpp00378) |
-| | | | |
-| 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/) | | |
-| 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/description/) | | |
-| 382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/description/) | | |
-| | | | |
-| 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/) | | |
-| | | | |
-| 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/) | | |
-| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | [Java](Q00401-Q00500/0387-First-Unique-Character-in-a-String/java-0387/src/) |  |
-| 388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/description/) | | |
-| 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | | |
-| 390 | [Elimination Game](https://leetcode.com/problems/elimination-game/description/) | | |
-| 391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/description/) | | |
-| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | | |
-| 393 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | | |
-| 394 | [Decode String](https://leetcode.com/problems/decode-string/description/) | | |
-| 395 | [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | | |
-| | | | |
-| 398 | [Random Pick Index](https://leetcode.com/problems/random-pick-index/description/) | | |
-| 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | | |
-| | | | |
-| 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [Java](Q00401-Q00500/00401-Binary-Watch/java00401) | [C++](Q00401-Q00500/00401-Binary-Watch/cpp00401) |
-| 402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | | |
-| | | | |
-| 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | | |
-| | | | |
-| 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | | |
-| | | | |
-| 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [Java](Q00401-Q00500/00412-Fizz-Buzz/java00412) |  |
-| 413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | | |
-| 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | | |
-| 415 | [Add Strings](https://leetcode.com/problems/add-strings/) | [java](Q00401-Q00500/00415-Add-Strings/java-00415/src) |  |
-| 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [Java](Q00401-Q00500/0416-Partition-Equal-Subset-Sum/java-0416/src/) |  |
-| 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/) | [Java](Q00401-Q00500/0417-Pacific-Atlantic-Water-Flow/java-0417/src/) |  |
-| 421 | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Java](Q00401-Q00500/00421-Maximum-XOR-of-Two-Numbers-in-an-Array/java00421) 缺 Trie 算法，后续补充 |  |
-| 423 | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | | |
-| 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | | |
-| | | | |
-| 426 | [Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/) | | |
-| | | | |
-| 429 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | | |
-| 430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/description/) | | |
-| | | | |
-| 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/) | | |
-| 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) | [Java](Q00401-Q00500/0435-Non-overlapping-Intervals/java-0435/src/) |  |
-| | | | |
-| 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) | [Java](Q00401-Q00500/0437-Path-Sum-III/java-0437/src/) |  |
-| 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) | | |
-| | | | |
-| 443 | [String Compression](https://leetcode.com/problems/string-compression/description/) | | |
-| | | | |
-| 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | | |
-| 446 | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | | |
-| 447 | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/description/) | [Java](Q00401-Q00500/0447-Number-of-Boomerangs/java-0447/src/) |  |
-| 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Java](Q00401-Q00500/00448-Find-All-Numbers-Disappeared-in-an-Array/java00448) | [C++](Q00401-Q00500/00448-Find-All-Numbers-Disappeared-in-an-Array/cpp00448) |
-| | | | |
-| 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | | |
-| 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/) | [Java](Q00401-Q00500/0451-Sort-Characters-By-Frequency/java-0451/) |  |
-| | | | |
-| 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/description/) | [Java](Q00401-Q00500/0454-4Sum-II/java-0454/src/) |  |
-| 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) | [Java](Q00401-Q00500/0455-Assign-Cookies/java-0455/src/) |  |
-| | | | |
-| 458 | [Poor Pigs](https://leetcode.com/problems/poor-pigs/) | | |
-| 461 | [Hamming-Distance](https://leetcode.com/problems/hamming-distance/) | [Java](Q00401-Q00500/00461-Hamming-Distance/java00461) | [C++](Q00401-Q00500/00461-Hamming-Distance/cpp00461) |
-| 470 | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/description/) | | |
-| | | | |
-| 473 | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/description/) | | |
-| 474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/) | [Java](Q00401-Q00500/00474-Ones-and-Zeroes/java00474) | [C++](Q00401-Q00500/00474-Ones-and-Zeroes/cpp00474) |
-| 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | [Java](Q00401-Q00500/00476- Number-Complement/java00476) | [C++](Q00401-Q00500/00476- Number-Complement/cpp00476) |
-| 477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [Java](Q00401-Q00500/00477-Total-Hamming-Distance/java00477) | [C++](Q00401-Q00500/00477-Total-Hamming-Distance/cpp00477) |
-| 478 | [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/description/) | | |
-| | | | |
-| 480 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | | |
-| 482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [Java](Q00401-Q00500/00482-License-Key-Formatting/java00482) | [C++](Q00401-Q00500/00482-License-Key-Formatting/cpp00482) |
-| 483 | [Smallest Good Base](https://leetcode.com/problems/smallest-good-base/) | [Java](Q00401-Q00500/00483-Smallest-Good-Base/cpp00483) | [C++](Q00401-Q00500/00483-Smallest-Good-Base/cpp00483) |
-| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | | |
-| 486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | [Java](Q00401-Q00500/00486-Predict-the-Winner/java00486) | [C++](Q00401-Q00500/00486-Predict-the-Winner/cpp00486) |
-| 490 | [The Maze](https://leetcode.com/problems/the-maze/description/) | | |
-| | | | |
-| 494 | [Target Sum](https://leetcode.com/problems/target-sum/description/) | [Java](Q00401-Q00500/00494-Target-Sum/java00494) | [C++](Q00401-Q00500/00494-Target-Sum/cpp00494) |
-| | | | |
-| 497 | [Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/solution/) | | |
-| 498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/) | | |
-| | | | |
+| ID | Problem | Java | C++ | Python |
+| --- | --- | :---: | ----- | ----- |
+| 001 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Java](Q00001-Q00100/00001-Two-Sum/java-00001/src/) |  |  |
+| 002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Java](Q00001-Q00100/00002-Add-Two-Numbers/java-00002/src) |  |  |
+| 003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [Java](Q00001-Q00100/00003-Longest-Substring-Without-Repeating-Characters/java-00003/src/) |  |  |
+| 004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Java](Q00001-Q00100/00004-Median-of-Two-Sorted-Arrays/java-00004/src) |  |  |
+| 005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) |  |  |  |
+| | | | | |
+| 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | | | |
+|  |  | | | |
+| 009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Java](Q00001-Q00100/00009-Palindrome-Number/java-00009) |  |  |
+| 010 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | | | |
+| 011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | | | |
+| 012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [Java](Q00001-Q00100/00012-Integer-to-Roman/java00012) |  |  |
+| 013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [Java](Q00001-Q00100/00013-Roman-to-Integer/java00013) |  |  |
+| 014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Java](Q00001-Q00100/00014-Longest-Common-Prefix/java-00014) |  |  |
+| 015 | [3Sum](https://leetcode.com/problems/3sum/description/) | [Java]([C++](Q00001-Q00100/00015-3Sum/java-00015)) |  |  |
+| 016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) | | | |
+| 017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [Java](Q00401-Q00500/0017-Letter-Combinations-of-a-Phone-Number/java-0017/src/) |  |  |
+| 018 | [4Sum](https://leetcode.com/problems/4sum/description/) | | | |
+| 019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [Java](Q00401-Q00500/0019-Remove-Nth-Node-From-End-of-List/java-0019/src/) |  |  |
+| 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Java](Q00001-Q00100/00020-Valid-Parentheses/j-00020/src/) |  |  |
+| 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Java](Q00001-Q00100/00021-Merge-Two-Sorted-Lists/java-00021/src) |  |  |
+| 022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [Java](Q00001-Q00100/00022-Generate-Parentheses/java00022) |  |  |
+| 023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | | | |
+| 024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [Java](Q00401-Q00500/0024-Swap-Nodes-in-Pairs/java-0024/src/) |  |  |
+| 025 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | | | |
+| 026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Java](Q00001-Q00100/00026-Remove-Duplicates-from-Sorted-Array/java-00026) |  |  |
+| 027 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [Java](Q00001-Q00100/00027-Remove-Element/java-00027) |  |  |
+| 028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [Java](Q00001-Q00100/0028-Implement-strStr/cpp-0028/main.cpp -> Q00001-Q00100/00028-Implement-strStr/java-00028) |  |  |
+| 029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | | | |
+| 031 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Java](Q00001-Q00100/00031-Next-Permutation/java00031) | [C++](Q00001-Q00100/00031-Next-Permutation/cpp00031) |  |
+| 032 |  |  |  |  |
+| 033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | | | |
+| 034 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | | | |
+| 035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](Q00001-Q00100/00035-Search-Insert-Position/java-00035) |  |  |
+| 036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | | | |
+| 037 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | | | |
+| 038 | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | | | |
+| 039 | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | | | |
+| 040 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | | | |
+| 041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | | | |
+| 042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | | | |
+| | | | | |
+| 046 | [Permutations](https://leetcode.com/problems/permutations/description/) | [Java](Q00401-Q00500/0046-Permutations/java-0046/src/) |  |  |
+| 047 | [Permutations II](https://leetcode.com/problems/permutations-ii/description/) | | | |
+| 048 | [Rotate Image](https://leetcode.com/problems/rotate-image/description/) | | | |
+| 049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | | | |
+| 050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | | | |
+| 051 | [N-Queens](https://leetcode.com/problems/n-queens/description/) | [Java](Q00401-Q00500/0051-N-Queens/java-0051/src/) |  |  |
+| 052 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | | | |
+| 053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](Q00001-Q00100/00053-Maximum-Subarray/java00053) | [C++](Q00001-Q00100/00053-Maximum-Subarray/cpp00053) |  |
+| 054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | | | |
+| | | | | |
+| 056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | | | |
+| | | | | |
+| 059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) | | | |
+| | | | | |
+| 061 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | | | |
+| 062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | | | |
+| 063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | | | |
+| 064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [Java](Q00401-Q00500/0064-Minimum-Path-Sum/java-0064/src/) |  |  |
+| 065 | [Vaild Number](https://leetcode.com/problems/valid-number/) | [java](Q00001-Q00100/00065-Valid-Number/java00065) | [C++](Q00001-Q00100/00065-Valid-Number/cpp00065) |  |
+| 066 | [Plus One](https://leetcode.com/problems/plus-one/description/) | [Java](Q00001-Q00100/00066-Plus-One/java-00066/) |  |  |
+| 067 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | [Java](Q00001-Q00100/00067-Add-Binary/java-00067) |  |  |
+| | | | | |
+| 069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)| | | |
+| 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Java](Q00401-Q00500/0070-Climbing-Stairs/java-0070/src/) |  |  |
+| 071 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | | | |
+| 072 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | | | |
+| 073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | | | |
+| 074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | | | |
+| 075 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Java](Q00401-Q00500/0075-Sort-Colors/java-0075/src/) |  |  |
+| 076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | | | |
+| 077 | [Combinations](https://leetcode.com/problems/combinations/description/) | [Java](Q00401-Q00500/0077-Combinations/java-0077/src/) |  |  |
+| | | | | |
+| 079 | [Word Search](https://leetcode.com/problems/word-search/description/) | [Java](Q00401-Q00500/0079-Word-Search/java-0079/src/) |  |  |
+| 080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) | | | |
+| 081 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | | | |
+| 082 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Java](Q00001-Q00100/00082-Remove-Duplicates-from-Sorted-List-II/java00082) |  |  |
+| 083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | | | |
+| 084 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | | | |
+| 085 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | | | |
+| 086 | [Partition List](https://leetcode.com/problems/partition-list/description/) | | | |
+| 087 | [Scramble String](https://leetcode.com/problems/scramble-string/description/) | | | |
+| 088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Java](Q00001-Q00100/00088-Merge-Sorted-Array/java-00088) |  |  |
+| 089 | [Gray Code](https://leetcode.com/problems/gray-code/) | | | |
+| | | | | |
+| 091 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | | | |
+| 092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) | | | |
+| 093 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | | | |
+| 094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [Java](Q00401-Q00500/0094-Binary-Tree-Inorder-Traversal/java-0094/src/) |  |  |
+| 095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) | | | |
+| 096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | | | |
+| | | | | |
+| 098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [Java](Q00401-Q00500/0098-Validate-Binary-Search-Tree/java-0098/src/) |  |  |
+| 099 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/description/) | [Java](Q00401-Q00500/0099-Recover-Binary-Search-Tree/java-0099/src/) |  |  |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/description/) | [Java](Q00001-Q00100/00100-Same-Tree/java00100) | [C++](Q00001-Q00100/00100-Same-Tree/cpp00100) |  |
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | | | |
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [Java](Q00401-Q00500/0102-Binary-Tree-Level-Order-Traversal/java-0102/src/) |  |  |
+| 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | | | |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Java](Q00101-Q00200/00104-Maximum-Depth-of-Binary-Tree/java00104) | [C++](Q00101-Q00200/00104-Maximum-Depth-of-Binary-Tree/cpp00104) |  |
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) | | | |
+| 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) | | | |
+| 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | | | |
+| 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | | | |
+| 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/) | | | |
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) |                                                              |                                                              |                                                              |
+| 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | | | |
+| 112 | [Path Sum](https://leetcode.com/problems/path-sum/description/) | [Java](Q00401-Q00500/0112-Path-Sum/cpp-0112/src/) |  |  |
+| 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) | | | |
+| | | | | |
+| 115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/) | [Java](Q00401-Q00500/0115/Distinct-Subsequences/java-0115/) |  |  |
+| 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/) | | | |
+| 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | | | |
+| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | | | |
+| 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | | | |
+| 120 | [Triangle](https://leetcode.com/problems/triangle/description/) | | | |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solution/) | | | |
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | | | |
+| 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | | | |
+| 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | | | |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | | | |
+| 126 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/) | | | |
+| 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/description/) | [Java](Q00401-Q00500/0127-Word-Ladder/java-0127/) |  |  |
+| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-9consecutive-sequence/description/) | | | |
+| 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) | | | |
+| 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/) | | | |
+| 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Java](Q00101-Q00200/00131-Palindrome-Partitioning/java00131/) |  |  |
+| 132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | | | |
+| 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/description/) | | | |
+| 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | | | |
+| 135 | [Candy](https://leetcode.com/problems/candy/) | | | |
+| 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | | | |
+| 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [java](Q00101-Q00200/00137-Single-Number-II/java-00137/src) |  |  |
+| 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | | | |
+| 139 | [Word Break](https://leetcode.com/problems/word-break/) | | | |
+| | | | | |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | | | |
+| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | | | |
+| 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | | | |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [Java](Q00401-Q00500/0144-Binary-Tree-Preorder-Traversal/java-0144/src/) |  |  |
+| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [Java](Q00401-Q00500/0145-Binary-Tree-Postorder-Traversal/java-0145/src/) |  |  |
+| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Java](Q00101-Q00200/00146-LRU-Cache/java00146) |  |  |
+| 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | | | |
+| 148 | [Sort List](https://leetcode.com/problems/sort-list/description/) | | | |
+| 149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) | [Java](Q00101-Q00200/0149-Max-Points-on-a-Line/java00149) | [C++](Q00101-Q00200/0149-Max-Points-on-a-Line/cpp00149) |  |
+| 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | | | |
+| 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | | | |
+| 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | | | |
+| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | | | |
+| | | | | |
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | | | |
+| | | | | |
+| 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/) | | | |
+| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [Java](Q00101-Q00200/00160-Intersection-of-Two-Linked-Lists/java00160) | [C++](Q00101-Q00200/00160-Intersection-of-Two-Linked-Lists/cpp00160) |  |
+| 161 | [One Edit Distance](https://leetcode.com/problems/one-edit-distance/) | | | |
+| | | | | |
+| 163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges/) | | | |
+| | | | | |
+| 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Java](Q00101-Q00200/00167-Two-Sum-II-Input-array-is-sorted/java00167) | [C++](Q00101-Q00200/00167-Two-Sum-II-Input-array-is-sorted/cpp00167) |  |
+| | | | | |
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | | | |
+| 170 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/description/) | | | |
+| 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) | | | |
+| 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Java](Q00101-Q00200/00172-Factorial-Trailing-Zeroes/java00172) | [C++](Q00101-Q00200/00172-Factorial-Trailing-Zeroes/cpp00172) | [Python](Q00101-Q00200/00172-Factorial-Trailing-Zeroes/py00172) |
+| 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/) | | | |
+| | | | | |
+| 186 | [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/description/) | | | |
+| | | | | |
+| 188 | [Best-Time-to-Buy-and-Sell-Stock-IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | | | |
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) | | | |
+| 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Java](Q00101-Q00200/00190-Reverse-Bits/java00190) | [C++](Q00101-Q00200/00190-Reverse-Bits/java00190) |  |
+| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [Java](Q00101-Q00200/00191-Number-of-1-Bits/java00191) | [C++](Q00101-Q00200/00191-Number-of-1-Bits/cpp00191) |  |
+| | | | | |
+| 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | [Java](Q00101-Q00200/0198-House-Robber/java-0198) |  |  |
+| 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | | | |
+| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [Java](Q00401-Q00500/0200-Number-of-Islands/java-0200/src/) |  |  |
+| | | | | |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/description/) | [Java](Q00201-Q00300/00202-Happy-Number/java00202) | [C++](Q00201-Q00300/00202-Happy-Number/cpp00202) |  |
+| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [Java](Q00201-Q00300/00203-Remove-Linked-List-Elements/java00203) | [C++](Q00201-Q00300/00203-Remove-Linked-List-Elements/cpp00203) |  |
+| 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | | | |
+| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | | | |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Java](Q00201-Q00300/0206-Reverse-Linked-List/java-0206/src) |  |  |
+| 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | | | |
+| 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | [Java](Q00201-Q00300/00208-Implement-Trie-Prefix-Tree/java00208) |  |  |
+| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/) | [Java](Q00401-Q00500/0209-Minimum-Size-Subarray-Sum/java-0209/src/) |  |  |
+| 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | | | |
+| 211 | [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/description/) | [Java](Q00401-Q00500/0211-Add-and-Search-Word-Data-structure-design/java-0211/) |  |  |
+| 212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | | | |
+| 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/description/) | | | |
+| | | | | |
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [Java](Q00201-Q00300/00215-Kth-Largest-Element-in-an-Array/java00215) | [C++](Q00201-Q00300/00215-Kth-Largest-Element-in-an-Array/cpp00215) |  |
+| 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) | | | |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | | | |
+| 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/) | | | |
+| 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | [Java](Q00401-Q00500/0219-Contains-Duplicate-II/java-0219/src/) |  |  |
+| 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/) | [Java](Q00401-Q00500/0220-Contains-Duplicate-III/java-0220/) |  |  |
+| 221 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | | | |
+| 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/) | | | |
+| | | | | |
+| 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/description/) | | | |
+| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) | | | |
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [Java](Q00401-Q00500/0226-Invert-Binary-Tree/java-0226/src/) |  |  |
+| 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/) | [Java](Q00201-Q00300/00227-Basic-Calculator-II/java00227) | [C++](Q00201-Q00300/00227-Basic-Calculator-II/cpp00227) |  |
+| 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | | | |
+| | | | | |
+| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | [Java](Q00201-Q00300/00230-Kth-Smallest-Element-in-a-BST/java00230) | [C++](Q00201-Q00300/00230-Kth-Smallest-Element-in-a-BST/cpp00230) |  |
+| 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Java](Q00201-Q00300/00231-Power-of-Two/java00231) | [C++](Q00201-Q00300/00231-Power-of-Two/cpp00231) |  |
+| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | | | |
+| 233 | [Number of Digit One](https://leetcode.com/problems/number-of-digit-one/) | | | |
+| 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | | | |
+| 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | [Java](Q00401-Q00500/0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree/java-0235/src/) |  |  |
+| 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | | | |
+| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Java](Q00201-Q00300/00237-Delete-Node-in-a-Linked-List/java-00237/src) |  |  |
+| 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | | | |
+| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) | | | |
+| 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | | | |
+| | | | | |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | | | |
+| 243 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) | | | |
+| 244 | [Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/) | | | |
+| 245 | [Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/) | | | |
+| | | | | |
+| 249 | [Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/description/) | | | |
+| 250 | [Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/description/) | | | |
+| | | | | |
+| 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/) | | | |
+| 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/description/) | | | |
+| 254 | [Factor Combinations](https://leetcode.com/problems/factor-combinations/description/) | | | |
+| | | | | |
+| 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | [Java](Q00401-Q00500/0257-Binary-Tree-Paths/java-0257/src/) | [C++](Q00401-Q00500/0257-Binary-Tree-Paths/cpp-0257/src/) |  |
+| | | | | |
+| 259 | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/description/) | | | |
+| 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Java](Q00201-Q00300/00263-Ugly-Number/java00263) | [C++](Q00201-Q00300/00263-Ugly-Number/cpp00263) |  |
+| 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | | | |
+| 267 | [Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/) | | | |
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [Java](Q00201-Q00300/00268-Missing-Number/java00268) | [C++](Q00201-Q00300/00268-Missing-Number/cpp00268) |  |
+| | | | | |
+| 277 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | | | |
+| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Java](Q00201-Q00300/00278-First-Bad-Version/java00278/m01) | [C++](Q00201-Q00300/00278-First-Bad-Version/cpp00278) |  |
+| 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) | [Java](Q00201-Q00300/00279-Perfect-Squares/java00279) | [C++](Q00201-Q00300/00279-Perfect-Squares/cpp00279) |  |
+| | | | | |
+| 282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/description/) | | | |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Java](Q00201-Q00300/00283-Move-Zeroes/java00283) | [C++](Q00201-Q00300/00283-Move-Zeroes/cpp00283) |  |
+| 284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | | | |
+| | | | | |
+| 286 | [Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/) | | | |
+| 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | [Java](Q00201-Q00300/00287-Find-the-Duplicate-Number/java-00287/src) |  |  |
+| 288 | [Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/description/) | | | |
+| 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | [Java](Q00201-Q00300/00289-Game-of-Life/java00289) | [C++](Q00201-Q00300/00289-Game-of-Life/cpp00289) |  |
+| 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/description/) | | | |
+| | | | | |
+| 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | | | |
+| | | | | |
+| 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) | | | |
+| | | | | |
+| 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [Java](Q00401-Q00500/0300-Longest-Increasing-Subsequence/java-0300/src/) |  |  |
+| 301 | [0301-Remove-Invalid-Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | | | |
+| | | | | |
+| 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) | | | |
+| 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | | | |
+|  |  | | | |
+| 306 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | [Java](Q00301-Q00400/00336-Palindrome-Pairs/java00306) | [C++](Q00301-Q00400/00336-Palindrome-Pairs/cpp00306) |  |
+| 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/description/) | | | |
+| 308 | [Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/description/) | | | |
+| 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | | | |
+| | | | | |
+| 312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [Java](Q00301-Q00400/00312-Burst-Balloons/java00312) |  |  |
+| | | | | |
+| 315 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | | | |
+| 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | | | |
+| | | | | |
+| 319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/) | | | |
+| | | | | |
+| 321 | [Create Maximum Number](https://leetcode.com/problems/create-maximum-number/) | | | |
+| 322 | [Coin Change](https://leetcode.com/problems/coin-change/description/) | | | |
+| | | | | |
+| 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | | | |
+| 329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | | | |
+| 330 | [Patching Array](https://leetcode.com/problems/patching-array/) | | | |
+| | | | | |
+| 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | | | |
+| | | | | |
+| 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/description/) | | | |
+| 338 | [Countint bits](https://leetcode.com/problems/counting-bits/) | [Java](Q00301-Q00400/00338-Counting-Bits/java00338) |  |  |
+| 339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) | | | |
+| 340 | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | | | |
+| 341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | | | |
+| 00342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Java](Q00301-Q00400/00342-Power-of-Four/java00342) |  |  |
+| 343 | [Integer Break](https://leetcode.com/problems/integer-break/description/) | [Java](Q00401-Q00500/0343-Integer-Break/java-0343/src/) |  |  |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | | | |
+| 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | | | |
+| 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/solution/) | | | |
+| 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | [Java](Q00401-Q00500/0347-Top-K-Frequent-Elements/java-0347/src/) |  |  |
+| | | | | |
+| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [Java](Q00401-Q00500/0349-Intersection-of-Two-Arrays/java-0349/src/) |  |  |
+| 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [Java](Q00401-Q00500/0350-Intersection-of-Two-Arrays-II/java-0350/src/) |  |  |
+| | | | | |
+| 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/description/) | | | |
+| 360 | [Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/description/) | | | |
+| | | | | |
+| 364 | [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/) | | | |
+| 365 | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) | | | |
+| | | | | |
+| 369 | [Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/) | | | |
+| 370 | [Range Addition](https://leetcode.com/problems/range-addition/description/) | | | |
+| | | | | |
+| 373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [Java](Q00301-Q00400/00373-Find-K-Pairs-with-Smallest-Sums/java00373) |  |  |
+| 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [Java](Q00301-Q00400/00374-Guess-Number-Higher-or-Lower/java00374) | [C++](Q00301-Q00400/00374-Guess-Number-Higher-or-Lower/cpp00374) |  |
+| 375 | [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | [Java](Q00301-Q00400/00375-Guess-Number-Higher-or-Lower-II/java00375) |  |  |
+| 376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | | | |
+| 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/) | | | |
+| 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [Java](Q00301-Q00400/00378-Kth-Smallest-Element-in-a-Sorted-Matrix/java00378) | [C++](Q00301-Q00400/00378-Kth-Smallest-Element-in-a-Sorted-Matrix/cpp00378) |  |
+| | | | | |
+| 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/) | | | |
+| 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/description/) | | | |
+| 382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/description/) | | | |
+| | | | | |
+| 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/) | | | |
+| | | | | |
+| 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/) | | | |
+| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | [Java](Q00401-Q00500/0387-First-Unique-Character-in-a-String/java-0387/src/) |  |  |
+| 388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/description/) | | | |
+| 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | | | |
+| 390 | [Elimination Game](https://leetcode.com/problems/elimination-game/description/) | | | |
+| 391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/description/) | | | |
+| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | | | |
+| 393 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | | | |
+| 394 | [Decode String](https://leetcode.com/problems/decode-string/description/) | | | |
+| 395 | [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | | | |
+| | | | | |
+| 398 | [Random Pick Index](https://leetcode.com/problems/random-pick-index/description/) | | | |
+| 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | | | |
+| | | | | |
+| 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [Java](Q00401-Q00500/00401-Binary-Watch/java00401) | [C++](Q00401-Q00500/00401-Binary-Watch/cpp00401) |  |
+| 402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | | | |
+| | | | | |
+| 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | | | |
+| | | | | |
+| 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | | | |
+| | | | | |
+| 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [Java](Q00401-Q00500/00412-Fizz-Buzz/java00412) |  |  |
+| 413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | | | |
+| 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | | | |
+| 415 | [Add Strings](https://leetcode.com/problems/add-strings/) | [java](Q00401-Q00500/00415-Add-Strings/java-00415/src) |  |  |
+| 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [Java](Q00401-Q00500/0416-Partition-Equal-Subset-Sum/java-0416/src/) |  |  |
+| 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/) | [Java](Q00401-Q00500/0417-Pacific-Atlantic-Water-Flow/java-0417/src/) |  |  |
+| 421 | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Java](Q00401-Q00500/00421-Maximum-XOR-of-Two-Numbers-in-an-Array/java00421) 缺 Trie 算法，后续补充 |  |  |
+| 423 | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | | | |
+| 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | | | |
+| | | | | |
+| 426 | [Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/) | | | |
+| | | | | |
+| 429 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | | | |
+| 430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/description/) | | | |
+| | | | | |
+| 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/) | | | |
+| 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) | [Java](Q00401-Q00500/0435-Non-overlapping-Intervals/java-0435/src/) |  |  |
+| | | | | |
+| 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) | [Java](Q00401-Q00500/0437-Path-Sum-III/java-0437/src/) |  |  |
+| 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) | | | |
+| | | | | |
+| 443 | [String Compression](https://leetcode.com/problems/string-compression/description/) | | | |
+| | | | | |
+| 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | | | |
+| 446 | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | | | |
+| 447 | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/description/) | [Java](Q00401-Q00500/0447-Number-of-Boomerangs/java-0447/src/) |  |  |
+| 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Java](Q00401-Q00500/00448-Find-All-Numbers-Disappeared-in-an-Array/java00448) | [C++](Q00401-Q00500/00448-Find-All-Numbers-Disappeared-in-an-Array/cpp00448) |  |
+| | | | | |
+| 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | | | |
+| 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/) | [Java](Q00401-Q00500/0451-Sort-Characters-By-Frequency/java-0451/) |  |  |
+| | | | | |
+| 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/description/) | [Java](Q00401-Q00500/0454-4Sum-II/java-0454/src/) |  |  |
+| 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) | [Java](Q00401-Q00500/0455-Assign-Cookies/java-0455/src/) |  |  |
+| | | | | |
+| 458 | [Poor Pigs](https://leetcode.com/problems/poor-pigs/) | | | |
+| 461 | [Hamming-Distance](https://leetcode.com/problems/hamming-distance/) | [Java](Q00401-Q00500/00461-Hamming-Distance/java00461) | [C++](Q00401-Q00500/00461-Hamming-Distance/cpp00461) |  |
+| 470 | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/description/) | | | |
+| | | | | |
+| 473 | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/description/) | | | |
+| 474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/) | [Java](Q00401-Q00500/00474-Ones-and-Zeroes/java00474) | [C++](Q00401-Q00500/00474-Ones-and-Zeroes/cpp00474) |  |
+| 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | [Java](Q00401-Q00500/00476- Number-Complement/java00476) | [C++](Q00401-Q00500/00476- Number-Complement/cpp00476) |  |
+| 477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [Java](Q00401-Q00500/00477-Total-Hamming-Distance/java00477) | [C++](Q00401-Q00500/00477-Total-Hamming-Distance/cpp00477) |  |
+| 478 | [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/description/) | | | |
+| | | | | |
+| 480 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | | | |
+| 482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [Java](Q00401-Q00500/00482-License-Key-Formatting/java00482) | [C++](Q00401-Q00500/00482-License-Key-Formatting/cpp00482) |  |
+| 483 | [Smallest Good Base](https://leetcode.com/problems/smallest-good-base/) | [Java](Q00401-Q00500/00483-Smallest-Good-Base/cpp00483) | [C++](Q00401-Q00500/00483-Smallest-Good-Base/cpp00483) |  |
+| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | | | |
+| 486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | [Java](Q00401-Q00500/00486-Predict-the-Winner/java00486) | [C++](Q00401-Q00500/00486-Predict-the-Winner/cpp00486) |  |
+| 490 | [The Maze](https://leetcode.com/problems/the-maze/description/) | | | |
+| | | | | |
+| 494 | [Target Sum](https://leetcode.com/problems/target-sum/description/) | [Java](Q00401-Q00500/00494-Target-Sum/java00494) | [C++](Q00401-Q00500/00494-Target-Sum/cpp00494) |  |
+| | | | | |
+| 497 | [Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/solution/) | | | |
+| 498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/) | | | |
+| | | | | |
 
 &nbsp;
 
-| ID | Problem | Java | C++ |
-| --- | --- | :---: | ----- |
-| 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | | |
-|  |  | | |
-| 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Java](Q00501-Q00600/00503-Next-Greater-Element-II/java00503) | [C++](Q00501-Q00600/00503-Next-Greater-Element-II/cpp00503) |
-|  |  | | |
-|  |  | | |
-|  |  | | |
-| 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | [Java](Q00501-Q00600/00506-Relative-Ranks/java00506) | [C++](Q00501-Q00600/00506-Relative-Ranks/cpp00506) |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-| 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | | |
-| | | | |
-| 516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | | |
-| 517 | [Super Washing Machines](https://leetcode.com/problems/super-washing-machines/) | | |
-| 518 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/description/) | [Java](Q00501-Q00600/00518-Coin-Change-2/java00518) | [C++](Q00501-Q00600/00518-Coin-Change-2/cpp00518) |
-| 519 | [Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix/description/) | | |
-| 523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [Java](Q00501-Q00600/00523-Continuous-Subarray-Sum/java00523) | [C++](Q00501-Q00600/00523-Continuous-Subarray-Sum/cpp00523) |
-| 524 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | |  |
-| 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [Java](Q00501-Q00600/00525-Contiguous-Array/java00525) | [C++](Q00501-Q00600/00525-Contiguous-Array/cpp00525) |
-| 526 | [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | | |
-| | | | |
-| 528 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/description/) | | |
-| 529 | [Minesweeper](https://leetcode.com/problems/minesweeper/) | | |
-| 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) | [Java](Q00501-Q00600/00530-Minimum-Absolute-Difference-in-BST/java00530) | [C++](Q00501-Q00600/00530-Minimum-Absolute-Difference-in-BST/java00530) |
-| 531 | [Lonely Pixel I](https://leetcode.com/problems/lonely-pixel-i/) | | |
-| | | | |
-| 533 | [Lonely Pixel II](https://leetcode.com/problems/lonely-pixel-ii/) | | |
-| | | | |
-| 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | | |
-| | | | |
-| 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/) | | |
-| 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/description/) | | |
-| 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | | |
-| | | | |
-| 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | | |
-| 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Java](Q00501-Q00600/00551-Student-Attendance-Record-I/java00551) | [C++](Q00501-Q00600/00551-Student-Attendance-Record-I/cpp00551) |
-| 552 | [Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | [Java](Q00501-Q00600/00552-Longest-Uncommon-Subsequence-II/java00552) |  |
-| 556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | | |
-| 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | | |
-| | | | |
-| 559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/) | [Java](Q00501-Q00600/0559-Maximum-Depth-of-N-ary-Tree/java00559) | [C++](Q00501-Q00600/0559-Maximum-Depth-of-N-ary-Tree/cpp00559) |
-| 00560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Java](Q00501-Q00600/00560-Subarray-Sum-Equals-K/java00560) | [C++](Q00501-Q00600/00560-Subarray-Sum-Equals-K/cpp00560) |
-| 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | | |
-| | | | |
-| 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | | |
-| | | | |
-| 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | | |
-| 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | | |
-| | | | |
-| 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | | |
-| 573 | [Squirrel Simulation](https://leetcode.com/problems/squirrel-simulation/) | | |
-| | | | |
-| 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | | |
-| | | | |
-| 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | | |
-| 582 | [Kill Process](https://leetcode.com/problems/kill-process/) | | |
-| 583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/description/) | | |
-| | | | |
-| 587 | [Erect the Fence](https://leetcode.com/problems/erect-the-fence/) | | |
-| | | | |
-| 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Java](Q00501-Q00600/00589-N-ary-Tree-Preorder-Traversal/java00589) | [C++](Q00501-Q00600/00589-N-ary-Tree-Preorder-Traversal/cpp00589) |
-| 590 | [N-ary Tree Postorder Transversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | | |
-| | | | |
-| 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | | |
-| | | | |
-| 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) | | |
-| 599 | [Minimum Index Sum of Two Lists](https://leetcode.com/explore/learn/card/hash-table/184/comparison-with-other-data-structures/1177/) | | |
-| 600 | [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/description/) | | |
-| | | | |
-| 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | | |
-| 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Java](Q00601-Q00700/00617-Merge-Two-Binary-Trees/java00617) | [C++](Q00601-Q00700/00617-Merge-Two-Binary-Trees/cpp00617) |
-| 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | | |
-| 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/) | | |
-| | | | |
-| 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Java](Q00601-Q00700/00628-Maximum-Product-of-Three-Numbers/java00628) |  |
-| | | | |
-| 632 | [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | | |
-| | | | |
-| 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | | |
-| | | | |
-| 642 | [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/) | | |
-| 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | | |
-| 644 | [Maximum Average Subarray II](https://leetcode.com/problems/maximum-average-subarray-ii/) | | |
-| | | | |
-| 648 | [Replace Words](https://leetcode.com/problems/replace-words/description/) | | |
-| 649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | | |
-| | |  |  |
-| 652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/description/) | | |
-| | | | |
-| 659 | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | | |
-| 661 | [Image Smoother](https://leetcode.com/problems/image-smoother/) | [Java](Q00601-Q00700/00661-Image-Smoother/java00661) | [C++](Q00601-Q00700/00661-Image-Smoother/cpp00661) |
-| 664 | [Strange Printer](https://leetcode.com/problems/strange-printer/) | [Java](Q00601-Q00700/00664-Strange-Printer/java00664) |  |
-| 665 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | | |
-| | | | |
-| 667 | [Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/) | | |
-| 668 | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | | |
-| 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [Java](Q00601-Q00700/00669-Trim-a-Binary-Search-Tree/java00669) | [C++](Q00601-Q00700/00669-Trim-a-Binary-Search-Tree/cpp00669) |
-| | | | |
-| 672 | [Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/description/) | | |
-| 673 | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/) | | |
-| 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | | |
-| 675 | [Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/description/) | | |
-| 676 | [Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/description/) | | |
-| 677 | [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/description/) | | |
-| | | | |
-| 679 | [24 Game](https://leetcode.com/problems/24-game/) | | |
-| | | | |
-| 684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/description/) | | |
-| 685 | [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/description/) | | |
-| | | | |
-| 690 | [Employee Importance](https://leetcode.com/problems/employee-importance/description/) | | |
-| | | | |
-| 692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/) | [Java](Q00601-Q00700/00692-Top-K-Frequent-Words/java00692) |  |
-| 00693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [Java](Q00601-Q00700/00693-Binary-Number-with-Alternating-Bits/java00693) |  |
-| 694 | [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/description/) | | |
-| 695 | [Max-Area-of-Island](https://leetcode.com/problems/max-area-of-island/description/) | | |
-| 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) | | |
-| 697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/) | [Java](Q00601-Q00700/00697-Degree-of-an-Array/java00697) | [C++](Q00601-Q00700/00697-Degree-of-an-Array/java00697) |
-| 698 | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/) | [Java](0501-1000/0698-Partition-to-K-Equal-Sum-Subsets/java-0698/src/) |  |
-| 699 | [Falling Squares](https://leetcode.com/contest/leetcode-weekly-contest-54/problems/falling-squares/) | | |
-| | | | |
-| 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | | |
-| | | | |
-| 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | | |
-| 704 | [Binary Search](https://leetcode.com/problems/binary-search/description/) | | |
-| 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/description/) | | |
-| 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/description/) | | |
-| 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/description/) | | |
-| 708 | [Insert into a Cyclic Sorted List](https://leetcode.com/problems/insert-into-a-cyclic-sorted-list/description/) | | |
-| | | | |
-| 710 | [Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/description/) | | |
-| 711 | [Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/description/) | | |
-| 712 | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/) | | |
-| 713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/) | | |
-| 714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) | | |
-| 715 | [Range Module](https://leetcode.com/problems/range-module/description/) | | |
-| 716 | [Max Stack](https://leetcode.com/problems/max-stack/description/) | | |
-| 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | [Java](Q00701-Q00800/00717-1-bit-and-2-bit-Characters/java00717) | [C++](Q00701-Q00800/00717-1-bit-and-2-bit-Characters/cpp00717) |
-| 718 | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/) | | |
-| 719 | [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/) | | |
-| 720 | [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/description/) | | |
-| 721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/description/) | | |
-| 722 | [Remove Comments](https://leetcode.com/problems/remove-comments/description/) | | |
-| 723 | [Candy Crush](https://leetcode.com/problems/candy-crush/description/) | | |
-| 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | | |
-| 725 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/) | | |
-| | | | |
-| 727 | [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/description/) | | |
-| 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) | [Java](Q00701-Q00800/00728-Self-Dividing-Numbers/java00728) | [C++](Q00701-Q00800/00728-Self-Dividing-Numbers/cpp00728) |
-| 729 | [My Calendar I](https://leetcode.com/problems/my-calendar-i/description/) | | |
-| | | | |
-| 731 | [My Calendar II](https://leetcode.com/problems/my-calendar-ii/description/) | | |
-| 732 | [My Calendar III](https://leetcode.com/problems/my-calendar-iii/description/) | | |
-| 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/description/) | | |
-| 734 | [Sentence Similarity](https://leetcode.com/problems/sentence-similarity/description/) | | |
-| 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/) | | |
-| 736 | [Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression/description/) | | |
-| 737 | [Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii/description/) | | |
-| | | | |
-| 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | | |
-| 740 | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/) | [Java](0501-1000/0740-Delete-and-Earn/java-00740) |  |
-| 741 | [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/description/) | | |
-| | | | |
-| 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Java](Q00701-Q00800/00746-Min-Cost-Climbing-Stairs/java00746) |  |
-| 747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | | |
-| 749 | | [Java](Q00701-Q00800/00749-Contain-Virus/java00749) |  |
-| 752 | [Open the Lock](https://leetcode.com/problems/open-the-lock/description/) | [Java](Q00701-Q00800/00752-Open-the-Lock/java00752) | [C++](Q00701-Q00800/00752-Open-the-Lock/cpp00752) |
-| | | | |
-| 754 | [Reach a Number](https://leetcode.com/problems/reach-a-number/) | | |
-| | | | |
-| 761 | [Special Binary String](https://leetcode.com/problems/special-binary-string/) | | |
-| | | | |
-| 765 | [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/description/) | | |
-| 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) | | |
-| | | | |
-| 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [Java](Q00701-Q00800/0771-Jewels-and-Stones/java-0771) |  |
-| 772 | [Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/description/) | | |
-| 773 | [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | [Java](Q00701-Q00800/00773-Sliding-Puzzle/java00773) | [C++](Q00701-Q00800/00773-Sliding-Puzzle/cpp00773) |
-| 774 | [Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) | | |
-| | | | |
-| 780 | [Reaching Points](https://leetcode.com/problems/reaching-points/description/) | | |
-| 781 | [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/description/) | | |
-| 782 | [Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/) | [Java](Q00701-Q00800/00782-Transform-to-Chessboard/java00782) |  |
-| 783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) | [Java](Q00701-Q00800/00783-Minimum-Distance-Between-BST-Nodes/java00783) | [CPP](Q00701-Q00800/00783-Minimum-Distance-Between-BST-Nodes/cpp00783) |
-| 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | | |
-| 785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) | | |
-| 786 | [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/) | | |
-| 787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) | | |
-| 788 | [Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) | | |
-| 789 | [Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/description/) | | |
-| 790 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/) | | |
-| 791 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | | |
-| 792 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/) | | |
-| 793 | [Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/description/) | | |
-| 794 | [Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/description/) | | |
-| 795 | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/description/) | | |
-| 796 | [Rotate String](https://leetcode.com/problems/rotate-string/description/) | [Java](Q00701-Q00800/00796-Rotate-String/java00796) | [C++](Q00701-Q00800/00796-Rotate-String/cpp00796) |
-| 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/) | | |
-| | | | |
-| 799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/description/) | | |
-| 800 | [Similar RGB Color](https://leetcode.com/problems/similar-rgb-color/description/) | | |
-| | | | |
-| 803 | [Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/) | | |
-| 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | | |
-| 805 | [Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/description/) | | |
-| 806 | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/) | | |
-| 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/) | | |
-| | | | |
-| 809 | [Expressive Words](https://leetcode.com/problems/expressive-words/description/) | | |
-| 810 | [Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/) | [Java](Q00801-Q00900/00810-Chalkboard-XOR-Game/java00810) |  |
-| 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) | | |
-| | | | |
-| 817 | [Linked List Components](https://leetcode.com/problems/linked-list-components/description/) | | |
-| | | | |
-| 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/description/) | | |
-| | | | |
-| 823 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) | | |
-| | | | |
-| 827 | [Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | | |
-| | | | |
-| 830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/) | | |
-| | | | |
-| 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | | |
-| | | | |
-| 839 | [Similar String Groups](https://leetcode.com/problems/similar-string-groups/) | | |
-| 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/) | | |
-| 842 | [Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) | | |
-| 846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | [Java](Q00801-Q00900/00846-Hand-of-Straights/java00846) | [C++](Q00801-Q00900/00846-Hand-of-Straights/cpp00846) |
-| 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [Java](Q00801-Q00900/00852-Peak-Index-in-a-Mountain-Array/java00852) | [C++](Q00801-Q00900/00852-Peak-Index-in-a-Mountain-Array/cpp00852) |
-| 853 | [Car Fleet](https://leetcode.com/problems/car-fleet/description/) | | |
-| 854 | [K-Similar Strings](https://leetcode.com/problems/k-similar-strings/description/) | | |
-| 855 | [Exam Room](https://leetcode.com/problems/exam-room/description/) | | |
-| 856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/description/) | | |
-| 857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/) | | |
-| 858 | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/description/) | | |
-| 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/description/) | | |
-| 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/description/) | [Java](Q00801-Q00900/0860-Lemonade-Change/java00860) |  |
-| 861 | [Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/description/) | | |
-| | | | |
-| 863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/) | | |
-| 864 | [Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/description/) | | |
-| 865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/) | | |
-| 866 | [Prime Palindrome](https://leetcode.com/problems/prime-palindrome/description/) | | |
-| 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) | | |
-| 868 | [Binary Gap](https://leetcode.com/problems/binary-gap/description/) | [Java](Q00801-Q00900/00868-Binary-Gap/java00868) |  |
-| 869 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/description/) | | |
-| 870 | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/description/) | | |
-| 871 | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/description/) | | |
-| 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/) | [Java](Q00801-Q00900/00872-Leaf-Similar-Trees/java-00872/) |  |
-| 873 | [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/) | | |
-| 874 | [Walking-Robot-Simulation](https://leetcode.com/problems/walking-robot-simulation/description/) | | |
-| 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) | | |
-| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Java](Q00801-Q00900/00876-Middle-of-the-Linked-List/java00876) | [C++](Q00801-Q00900/00876-Middle-of-the-Linked-List/cpp00876) |
-| 877 | [Stone Game](https://leetcode.com/problems/stone-game/description/) | [Java](Q00801-Q00900/00877-Stone-Game/java00877) | [C++](Q00801-Q00900/00877-Stone-Game/cpp00877) |
-| 878 | [Nth Magical Number](https://leetcode.com/problems/nth-magical-number/description/) | | |
-| 879 | [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/description/) | [Java](Q00801-Q00900/00879-Profitable-Schemes/java00879) | [C++](Q00801-Q00900/00879-Profitable-Schemes/cpp00879) |
-| 880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/description/) | | |
-| 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/) | | |
-| 882 | [Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/description/) | | |
-| 883 | [Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/description/) | | |
-| 884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/) | | |
-| 885 | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/description/) | | |
-| 886 | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/description/) | | |
-| | | | |
-| 888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/description/) | | |
-| 889 | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/) | | |
-| 890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/description/) | | |
-| 891 | [Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths/description/) | | |
-| 892 | [Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/description/) | | |
-| 893 | [Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/description/) | | |
-| 894 | [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/description/) | | |
-| 895 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/description/) | | |
-| 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/description/) | | |
-| 897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/description/) | | |
-| 898 | [Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/description/) | [Java](Q00801-Q00900/00898-Bitwise-ORs-of-Subarrays/java00898) | [C++](Q00801-Q00900/00898-Bitwise-ORs-of-Subarrays/cpp00898) |
-| 899 | [Orderly Queue](https://leetcode.com/problems/orderly-queue/description/) | | |
-| 900 | [RLE Iterator](https://leetcode.com/problems/rle-iterator/description/) | | |
-| 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/description/) | | |
-| 902 | [Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/description/) | | |
-| 903 | [Valid Permutations for DI Sequence](https://leetcode.com/problems/valid-permutations-for-di-sequence/description/) | | |
-| 904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/) | | |
-| 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/) | | |
-| 906 | [Super Palindromes](https://leetcode.com/problems/super-palindromes/description/) | | |
-| 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/description/) | | |
-| 908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i/description/) | | |
-| 909 | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/description/) | | |
-| 910 | [Smallest Range II](https://leetcode.com/problems/smallest-range-ii/description/) | | |
-| 911 | [Online Election](https://leetcode.com/problems/online-election/description/) | | |
-| | | | |
-| 913 | [Cat and Mouse Game](https://leetcode.com/problems/cat-and-mouse/) | | |
-| 914 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/description/) | | |
-| 915 | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/description/) | | |
-| 916 | [Word Subsets](https://leetcode.com/problems/word-subsets/description/) | | |
-| 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/) | | |
-| 918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/description/) | | |
-| 919 | [Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/description/) | | |
-| 920 | [Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/description/) | | |
-| 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/) | | |
-| 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/description/) | [Java](Q00901-Q01000/00922-Sort-Array-By-Parity-II/java00922) | [C++](Q00901-Q01000/00922-Sort-Array-By-Parity-II/cpp00922) |
-| 923 | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/description/) | | |
-| 924 | [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/description/) | | |
-| 925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/submissions/) | | |
-| 926 | [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) | | |
-| 927 | [Three Equal Parts](https://leetcode.com/problems/three-equal-parts/) | | |
-| 928 | [Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii/description/) | | |
-| 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/solution/) | [Java](Q00901-Q01000/00929-Unique-Email-Addresses/java00929) | [C++](Q00901-Q01000/00929-Unique-Email-Addresses/cpp00929) |
-| 930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | | |
-| 931 | [Minimum Path Falling Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | | |
-| 932 | [Beautiful Array](https://leetcode.com/problems/beautiful-array/description/) | | |
-| 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | | |
-| 934 | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) | | |
-| 935 | [Knight Dialer](https://leetcode.com/problems/knight-dialer/) | | |
-| 936 | [Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/) | | |
-| 937 | [Reorder Log Files](https://leetcode.com/problems/reorder-log-files/) | | |
-| 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | | |
-| 939 | [Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/) | | |
-| 940 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | | |
-| 941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | | |
-| 942 | [DI String Match](https://leetcode.com/problems/di-string-match/) | | |
-| 943 | [Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/) | | |
-| 944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | | |
-| 945 | [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | | |
-| 946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | | |
-| 947 | [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | | |
-| 948 | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | | |
-| 949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | | |
-| 950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | | |
-| 951 | [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/) | | |
-| 952 | [Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/) | | |
-| 953 | [isAlienSorted](https://leetcode.com/problems/verifying-an-alien-dictionary/) | | |
-| 954 | [Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/) | | |
-| 955 | [Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/) | | |
-| 956 | [Tallest Billboard](https://leetcode.com/problems/tallest-billboard/) | [Java](Q00901-Q01000/00956-Tallest-Billboard/java00956) | [C++](Q00901-Q01000/00956-Tallest-Billboard/cpp00956) |
-| 957 | [Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) | | |
-| 958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | | |
-| 959 | [Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/) | | |
-| 960 | [Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/) | | |
-| 961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | | |
-| | | | |
-| 965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | | |
-| 966 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | | |
-| 967 | [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | | |
-| 968 | [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/) | | |
-| 969 | [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) | | |
-| 970 | [Powerful Integers](https://leetcode.com/problems/powerful-integers/) | | |
-| 971 | [Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/) | | |
-| 972 | [Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/) | | |
-| 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | | |
-| 974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | | |
-| 975 | [Odd Even Jump](https://leetcode.com/problems/odd-even-jump/) | | |
-| 976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | | |
-| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](Q00901-Q01000/00977-Squares-of-a-Sorted-Arrays/java00977) | [C++](Q00901-Q01000/00977-Squares-of-a-Sorted-Arrays/cpp00977) |
-| 978 | [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | | |
-| 979 | [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | | |
-| 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [Java](0980-Unique-Paths-III/java-0980/)| |
-| 981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | | |
-| 982 | [Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/) | | |
-| 983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | | |
-| 984 | [String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/) | | |
-| 985 | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | | |
-| 986 | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | | |
-| 987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | | |
-| 988 | [Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/) | | |
-| 989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | | |
-| 990 | [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | | |
-| 991 | [Broken Calculator](https://leetcode.com/problems/broken-calculator/) | | |
-| 992 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | | |
-| 993 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [Java](Q00901-Q01000/00993-Cousins-in-Binary-Tree/java00993) |  |
-| 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | | |
-| 995 | [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | | |
-| 996 | [Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/) | | |
-| 997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Java](Q00901-Q01000/00997-Find-the-Town-Judge/java00977) | [C++](Q00901-Q01000/00997-Find-the-Town-Judge/cpp00977) |
-| 998 | [Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/) | | |
-| 999 | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/) | | |
-| 1000 | [Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/) | | |
+| ID | Problem | Java | C++ | Python |
+| --- | --- | :---: | ----- | ----- |
+| 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | | | |
+|  |  | | | |
+| 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Java](Q00501-Q00600/00503-Next-Greater-Element-II/java00503) | [C++](Q00501-Q00600/00503-Next-Greater-Element-II/cpp00503) |  |
+|  |  | | | |
+|  |  | | | |
+|  |  | | | |
+| 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | [Java](Q00501-Q00600/00506-Relative-Ranks/java00506) | [C++](Q00501-Q00600/00506-Relative-Ranks/cpp00506) |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+| 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | | | |
+| | | | | |
+| 516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | | | |
+| 517 | [Super Washing Machines](https://leetcode.com/problems/super-washing-machines/) | | | |
+| 518 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/description/) | [Java](Q00501-Q00600/00518-Coin-Change-2/java00518) | [C++](Q00501-Q00600/00518-Coin-Change-2/cpp00518) |  |
+| 519 | [Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix/description/) | | | |
+| 523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [Java](Q00501-Q00600/00523-Continuous-Subarray-Sum/java00523) | [C++](Q00501-Q00600/00523-Continuous-Subarray-Sum/cpp00523) |  |
+| 524 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | |  |  |
+| 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [Java](Q00501-Q00600/00525-Contiguous-Array/java00525) | [C++](Q00501-Q00600/00525-Contiguous-Array/cpp00525) |  |
+| 526 | [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | | | |
+| | | | | |
+| 528 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/description/) | | | |
+| 529 | [Minesweeper](https://leetcode.com/problems/minesweeper/) | | | |
+| 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) | [Java](Q00501-Q00600/00530-Minimum-Absolute-Difference-in-BST/java00530) | [C++](Q00501-Q00600/00530-Minimum-Absolute-Difference-in-BST/java00530) |  |
+| 531 | [Lonely Pixel I](https://leetcode.com/problems/lonely-pixel-i/) | | | |
+| | | | | |
+| 533 | [Lonely Pixel II](https://leetcode.com/problems/lonely-pixel-ii/) | | | |
+| | | | | |
+| 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | | | |
+| | | | | |
+| 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/) | | | |
+| 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/description/) | | | |
+| 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | | | |
+| | | | | |
+| 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | | | |
+| 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Java](Q00501-Q00600/00551-Student-Attendance-Record-I/java00551) | [C++](Q00501-Q00600/00551-Student-Attendance-Record-I/cpp00551) |  |
+| 552 | [Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | [Java](Q00501-Q00600/00552-Longest-Uncommon-Subsequence-II/java00552) |  |  |
+| 556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | | | |
+| 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | | | |
+| | | | | |
+| 559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/) | [Java](Q00501-Q00600/0559-Maximum-Depth-of-N-ary-Tree/java00559) | [C++](Q00501-Q00600/0559-Maximum-Depth-of-N-ary-Tree/cpp00559) |  |
+| 00560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Java](Q00501-Q00600/00560-Subarray-Sum-Equals-K/java00560) | [C++](Q00501-Q00600/00560-Subarray-Sum-Equals-K/cpp00560) |  |
+| 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | | | |
+| | | | | |
+| 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | | | |
+| | | | | |
+| 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | | | |
+| 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | | | |
+| | | | | |
+| 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | | | |
+| 573 | [Squirrel Simulation](https://leetcode.com/problems/squirrel-simulation/) | | | |
+| | | | | |
+| 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | | | |
+| | | | | |
+| 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | | | |
+| 582 | [Kill Process](https://leetcode.com/problems/kill-process/) | | | |
+| 583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/description/) | | | |
+| | | | | |
+| 587 | [Erect the Fence](https://leetcode.com/problems/erect-the-fence/) | | | |
+| | | | | |
+| 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Java](Q00501-Q00600/00589-N-ary-Tree-Preorder-Traversal/java00589) | [C++](Q00501-Q00600/00589-N-ary-Tree-Preorder-Traversal/cpp00589) |  |
+| 590 | [N-ary Tree Postorder Transversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | | | |
+| | | | | |
+| 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | | | |
+| | | | | |
+| 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) | | | |
+| 599 | [Minimum Index Sum of Two Lists](https://leetcode.com/explore/learn/card/hash-table/184/comparison-with-other-data-structures/1177/) | | | |
+| 600 | [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/description/) | | | |
+| | | | | |
+| 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | | | |
+| 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Java](Q00601-Q00700/00617-Merge-Two-Binary-Trees/java00617) | [C++](Q00601-Q00700/00617-Merge-Two-Binary-Trees/cpp00617) |  |
+| 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | | | |
+| 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/) | | | |
+| | | | | |
+| 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Java](Q00601-Q00700/00628-Maximum-Product-of-Three-Numbers/java00628) |  |  |
+| | | | | |
+| 632 | [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | | | |
+| | | | | |
+| 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | | | |
+| | | | | |
+| 642 | [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/) | | | |
+| 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | | | |
+| 644 | [Maximum Average Subarray II](https://leetcode.com/problems/maximum-average-subarray-ii/) | | | |
+| | | | | |
+| 648 | [Replace Words](https://leetcode.com/problems/replace-words/description/) | | | |
+| 649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | | | |
+| | |  |  |  |
+| 652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/description/) | | | |
+| | | | | |
+| 659 | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | | | |
+| 661 | [Image Smoother](https://leetcode.com/problems/image-smoother/) | [Java](Q00601-Q00700/00661-Image-Smoother/java00661) | [C++](Q00601-Q00700/00661-Image-Smoother/cpp00661) |  |
+| 664 | [Strange Printer](https://leetcode.com/problems/strange-printer/) | [Java](Q00601-Q00700/00664-Strange-Printer/java00664) |  |  |
+| 665 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | | | |
+| | | | | |
+| 667 | [Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/) | | | |
+| 668 | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | | | |
+| 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [Java](Q00601-Q00700/00669-Trim-a-Binary-Search-Tree/java00669) | [C++](Q00601-Q00700/00669-Trim-a-Binary-Search-Tree/cpp00669) |  |
+| | | | | |
+| 672 | [Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/description/) | | | |
+| 673 | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/) | | | |
+| 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | | | |
+| 675 | [Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/description/) | | | |
+| 676 | [Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/description/) | | | |
+| 677 | [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/description/) | | | |
+| | | | | |
+| 679 | [24 Game](https://leetcode.com/problems/24-game/) | | | |
+| | | | | |
+| 684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/description/) | | | |
+| 685 | [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/description/) | | | |
+| | | | | |
+| 690 | [Employee Importance](https://leetcode.com/problems/employee-importance/description/) | | | |
+| | | | | |
+| 692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/) | [Java](Q00601-Q00700/00692-Top-K-Frequent-Words/java00692) |  |  |
+| 00693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [Java](Q00601-Q00700/00693-Binary-Number-with-Alternating-Bits/java00693) |  |  |
+| 694 | [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/description/) | | | |
+| 695 | [Max-Area-of-Island](https://leetcode.com/problems/max-area-of-island/description/) | | | |
+| 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) | | | |
+| 697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/) | [Java](Q00601-Q00700/00697-Degree-of-an-Array/java00697) | [C++](Q00601-Q00700/00697-Degree-of-an-Array/java00697) |  |
+| 698 | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/) | [Java](0501-1000/0698-Partition-to-K-Equal-Sum-Subsets/java-0698/src/) |  |  |
+| 699 | [Falling Squares](https://leetcode.com/contest/leetcode-weekly-contest-54/problems/falling-squares/) | | | |
+| | | | | |
+| 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | | | |
+| | | | | |
+| 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | | | |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/description/) | | | |
+| 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/description/) | | | |
+| 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/description/) | | | |
+| 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/description/) | | | |
+| 708 | [Insert into a Cyclic Sorted List](https://leetcode.com/problems/insert-into-a-cyclic-sorted-list/description/) | | | |
+| | | | | |
+| 710 | [Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/description/) | | | |
+| 711 | [Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/description/) | | | |
+| 712 | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/) | | | |
+| 713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/) | | | |
+| 714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) | | | |
+| 715 | [Range Module](https://leetcode.com/problems/range-module/description/) | | | |
+| 716 | [Max Stack](https://leetcode.com/problems/max-stack/description/) | | | |
+| 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | [Java](Q00701-Q00800/00717-1-bit-and-2-bit-Characters/java00717) | [C++](Q00701-Q00800/00717-1-bit-and-2-bit-Characters/cpp00717) |  |
+| 718 | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/) | | | |
+| 719 | [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/) | | | |
+| 720 | [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/description/) | | | |
+| 721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/description/) | | | |
+| 722 | [Remove Comments](https://leetcode.com/problems/remove-comments/description/) | | | |
+| 723 | [Candy Crush](https://leetcode.com/problems/candy-crush/description/) | | | |
+| 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | | | |
+| 725 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/) | | | |
+| | | | | |
+| 727 | [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/description/) | | | |
+| 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) | [Java](Q00701-Q00800/00728-Self-Dividing-Numbers/java00728) | [C++](Q00701-Q00800/00728-Self-Dividing-Numbers/cpp00728) |  |
+| 729 | [My Calendar I](https://leetcode.com/problems/my-calendar-i/description/) | | | |
+| | | | | |
+| 731 | [My Calendar II](https://leetcode.com/problems/my-calendar-ii/description/) | | | |
+| 732 | [My Calendar III](https://leetcode.com/problems/my-calendar-iii/description/) | | | |
+| 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/description/) | | | |
+| 734 | [Sentence Similarity](https://leetcode.com/problems/sentence-similarity/description/) | | | |
+| 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/) | | | |
+| 736 | [Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression/description/) | | | |
+| 737 | [Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii/description/) | | | |
+| | | | | |
+| 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | | | |
+| 740 | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/) | [Java](0501-1000/0740-Delete-and-Earn/java-00740) |  |  |
+| 741 | [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/description/) | | | |
+| | | | | |
+| 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Java](Q00701-Q00800/00746-Min-Cost-Climbing-Stairs/java00746) |  |  |
+| 747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | | | |
+| 749 | | [Java](Q00701-Q00800/00749-Contain-Virus/java00749) |  |  |
+| 752 | [Open the Lock](https://leetcode.com/problems/open-the-lock/description/) | [Java](Q00701-Q00800/00752-Open-the-Lock/java00752) | [C++](Q00701-Q00800/00752-Open-the-Lock/cpp00752) |  |
+| | | | | |
+| 754 | [Reach a Number](https://leetcode.com/problems/reach-a-number/) | | | |
+| | | | | |
+| 761 | [Special Binary String](https://leetcode.com/problems/special-binary-string/) | | | |
+| | | | | |
+| 765 | [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/description/) | | | |
+| 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) | | | |
+| | | | | |
+| 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [Java](Q00701-Q00800/0771-Jewels-and-Stones/java-0771) |  |  |
+| 772 | [Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/description/) | | | |
+| 773 | [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | [Java](Q00701-Q00800/00773-Sliding-Puzzle/java00773) | [C++](Q00701-Q00800/00773-Sliding-Puzzle/cpp00773) |  |
+| 774 | [Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) | | | |
+| | | | | |
+| 780 | [Reaching Points](https://leetcode.com/problems/reaching-points/description/) | | | |
+| 781 | [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/description/) | | | |
+| 782 | [Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/) | [Java](Q00701-Q00800/00782-Transform-to-Chessboard/java00782) |  |  |
+| 783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) | [Java](Q00701-Q00800/00783-Minimum-Distance-Between-BST-Nodes/java00783) | [CPP](Q00701-Q00800/00783-Minimum-Distance-Between-BST-Nodes/cpp00783) |  |
+| 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | | | |
+| 785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) | | | |
+| 786 | [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/) | | | |
+| 787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) | | | |
+| 788 | [Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) | | | |
+| 789 | [Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/description/) | | | |
+| 790 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/) | | | |
+| 791 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | | | |
+| 792 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/) | | | |
+| 793 | [Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/description/) | | | |
+| 794 | [Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/description/) | | | |
+| 795 | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/description/) | | | |
+| 796 | [Rotate String](https://leetcode.com/problems/rotate-string/description/) | [Java](Q00701-Q00800/00796-Rotate-String/java00796) | [C++](Q00701-Q00800/00796-Rotate-String/cpp00796) |  |
+| 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/) | | | |
+| | | | | |
+| 799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/description/) | | | |
+| 800 | [Similar RGB Color](https://leetcode.com/problems/similar-rgb-color/description/) | | | |
+| | | | | |
+| 803 | [Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/) | | | |
+| 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | | | |
+| 805 | [Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/description/) | | | |
+| 806 | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/) | | | |
+| 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/) | | | |
+| | | | | |
+| 809 | [Expressive Words](https://leetcode.com/problems/expressive-words/description/) | | | |
+| 810 | [Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/) | [Java](Q00801-Q00900/00810-Chalkboard-XOR-Game/java00810) |  |  |
+| 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) | | | |
+| | | | | |
+| 817 | [Linked List Components](https://leetcode.com/problems/linked-list-components/description/) | | | |
+| | | | | |
+| 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/description/) | | | |
+| | | | | |
+| 823 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) | | | |
+| | | | | |
+| 827 | [Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | | | |
+| | | | | |
+| 830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/) | | | |
+| | | | | |
+| 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | | | |
+| | | | | |
+| 839 | [Similar String Groups](https://leetcode.com/problems/similar-string-groups/) | | | |
+| 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/) | | | |
+| 842 | [Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) | | | |
+| 846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | [Java](Q00801-Q00900/00846-Hand-of-Straights/java00846) | [C++](Q00801-Q00900/00846-Hand-of-Straights/cpp00846) |  |
+| 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [Java](Q00801-Q00900/00852-Peak-Index-in-a-Mountain-Array/java00852) | [C++](Q00801-Q00900/00852-Peak-Index-in-a-Mountain-Array/cpp00852) |  |
+| 853 | [Car Fleet](https://leetcode.com/problems/car-fleet/description/) | | | |
+| 854 | [K-Similar Strings](https://leetcode.com/problems/k-similar-strings/description/) | | | |
+| 855 | [Exam Room](https://leetcode.com/problems/exam-room/description/) | | | |
+| 856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/description/) | | | |
+| 857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/) | | | |
+| 858 | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/description/) | | | |
+| 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/description/) | | | |
+| 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/description/) | [Java](Q00801-Q00900/0860-Lemonade-Change/java00860) |  |  |
+| 861 | [Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/description/) | | | |
+| | | | | |
+| 863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/) | | | |
+| 864 | [Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/description/) | | | |
+| 865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/) | | | |
+| 866 | [Prime Palindrome](https://leetcode.com/problems/prime-palindrome/description/) | | | |
+| 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) | | | |
+| 868 | [Binary Gap](https://leetcode.com/problems/binary-gap/description/) | [Java](Q00801-Q00900/00868-Binary-Gap/java00868) |  |  |
+| 869 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/description/) | | | |
+| 870 | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/description/) | | | |
+| 871 | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/description/) | | | |
+| 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/) | [Java](Q00801-Q00900/00872-Leaf-Similar-Trees/java-00872/) |  |  |
+| 873 | [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/) | | | |
+| 874 | [Walking-Robot-Simulation](https://leetcode.com/problems/walking-robot-simulation/description/) | | | |
+| 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) | | | |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Java](Q00801-Q00900/00876-Middle-of-the-Linked-List/java00876) | [C++](Q00801-Q00900/00876-Middle-of-the-Linked-List/cpp00876) |  |
+| 877 | [Stone Game](https://leetcode.com/problems/stone-game/description/) | [Java](Q00801-Q00900/00877-Stone-Game/java00877) | [C++](Q00801-Q00900/00877-Stone-Game/cpp00877) |  |
+| 878 | [Nth Magical Number](https://leetcode.com/problems/nth-magical-number/description/) | | | |
+| 879 | [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/description/) | [Java](Q00801-Q00900/00879-Profitable-Schemes/java00879) | [C++](Q00801-Q00900/00879-Profitable-Schemes/cpp00879) |  |
+| 880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/description/) | | | |
+| 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/) | | | |
+| 882 | [Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/description/) | | | |
+| 883 | [Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/description/) | | | |
+| 884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/) | | | |
+| 885 | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/description/) | | | |
+| 886 | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/description/) | | | |
+| | | | | |
+| 888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/description/) | | | |
+| 889 | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/) | | | |
+| 890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/description/) | | | |
+| 891 | [Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths/description/) | | | |
+| 892 | [Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/description/) | | | |
+| 893 | [Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/description/) | | | |
+| 894 | [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/description/) | | | |
+| 895 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/description/) | | | |
+| 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/description/) | | | |
+| 897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/description/) | | | |
+| 898 | [Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/description/) | [Java](Q00801-Q00900/00898-Bitwise-ORs-of-Subarrays/java00898) | [C++](Q00801-Q00900/00898-Bitwise-ORs-of-Subarrays/cpp00898) |  |
+| 899 | [Orderly Queue](https://leetcode.com/problems/orderly-queue/description/) | | | |
+| 900 | [RLE Iterator](https://leetcode.com/problems/rle-iterator/description/) | | | |
+| 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/description/) | | | |
+| 902 | [Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/description/) | | | |
+| 903 | [Valid Permutations for DI Sequence](https://leetcode.com/problems/valid-permutations-for-di-sequence/description/) | | | |
+| 904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/) | | | |
+| 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/) | | | |
+| 906 | [Super Palindromes](https://leetcode.com/problems/super-palindromes/description/) | | | |
+| 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/description/) | | | |
+| 908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i/description/) | | | |
+| 909 | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/description/) | | | |
+| 910 | [Smallest Range II](https://leetcode.com/problems/smallest-range-ii/description/) | | | |
+| 911 | [Online Election](https://leetcode.com/problems/online-election/description/) | | | |
+| | | | | |
+| 913 | [Cat and Mouse Game](https://leetcode.com/problems/cat-and-mouse/) | | | |
+| 914 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/description/) | | | |
+| 915 | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/description/) | | | |
+| 916 | [Word Subsets](https://leetcode.com/problems/word-subsets/description/) | | | |
+| 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/) | | | |
+| 918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/description/) | | | |
+| 919 | [Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/description/) | | | |
+| 920 | [Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/description/) | | | |
+| 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/) | | | |
+| 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/description/) | [Java](Q00901-Q01000/00922-Sort-Array-By-Parity-II/java00922) | [C++](Q00901-Q01000/00922-Sort-Array-By-Parity-II/cpp00922) |  |
+| 923 | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/description/) | | | |
+| 924 | [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/description/) | | | |
+| 925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/submissions/) | | | |
+| 926 | [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) | | | |
+| 927 | [Three Equal Parts](https://leetcode.com/problems/three-equal-parts/) | | | |
+| 928 | [Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii/description/) | | | |
+| 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/solution/) | [Java](Q00901-Q01000/00929-Unique-Email-Addresses/java00929) | [C++](Q00901-Q01000/00929-Unique-Email-Addresses/cpp00929) |  |
+| 930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | | | |
+| 931 | [Minimum Path Falling Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | | | |
+| 932 | [Beautiful Array](https://leetcode.com/problems/beautiful-array/description/) | | | |
+| 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | | | |
+| 934 | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) | | | |
+| 935 | [Knight Dialer](https://leetcode.com/problems/knight-dialer/) | | | |
+| 936 | [Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/) | | | |
+| 937 | [Reorder Log Files](https://leetcode.com/problems/reorder-log-files/) | | | |
+| 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | | | |
+| 939 | [Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/) | | | |
+| 940 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | | | |
+| 941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | | | |
+| 942 | [DI String Match](https://leetcode.com/problems/di-string-match/) | | | |
+| 943 | [Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/) | | | |
+| 944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | | | |
+| 945 | [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | | | |
+| 946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | | | |
+| 947 | [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | | | |
+| 948 | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | | | |
+| 949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | | | |
+| 950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | | | |
+| 951 | [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/) | | | |
+| 952 | [Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/) | | | |
+| 953 | [isAlienSorted](https://leetcode.com/problems/verifying-an-alien-dictionary/) | | | |
+| 954 | [Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/) | | | |
+| 955 | [Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/) | | | |
+| 956 | [Tallest Billboard](https://leetcode.com/problems/tallest-billboard/) | [Java](Q00901-Q01000/00956-Tallest-Billboard/java00956) | [C++](Q00901-Q01000/00956-Tallest-Billboard/cpp00956) |  |
+| 957 | [Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) | | | |
+| 958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | | | |
+| 959 | [Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/) | | | |
+| 960 | [Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/) | | | |
+| 961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | | | |
+| | | | | |
+| 965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | | | |
+| 966 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | | | |
+| 967 | [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | | | |
+| 968 | [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/) | | | |
+| 969 | [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) | | | |
+| 970 | [Powerful Integers](https://leetcode.com/problems/powerful-integers/) | | | |
+| 971 | [Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/) | | | |
+| 972 | [Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/) | | | |
+| 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | | | |
+| 974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | | | |
+| 975 | [Odd Even Jump](https://leetcode.com/problems/odd-even-jump/) | | | |
+| 976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | | | |
+| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](Q00901-Q01000/00977-Squares-of-a-Sorted-Arrays/java00977) | [C++](Q00901-Q01000/00977-Squares-of-a-Sorted-Arrays/cpp00977) |  |
+| 978 | [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | | | |
+| 979 | [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | | | |
+| 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [Java](0980-Unique-Paths-III/java-0980/)| | |
+| 981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | | | |
+| 982 | [Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/) | | | |
+| 983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | | | |
+| 984 | [String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/) | | | |
+| 985 | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | | | |
+| 986 | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | | | |
+| 987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | | | |
+| 988 | [Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/) | | | |
+| 989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | | | |
+| 990 | [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | | | |
+| 991 | [Broken Calculator](https://leetcode.com/problems/broken-calculator/) | | | |
+| 992 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | | | |
+| 993 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [Java](Q00901-Q01000/00993-Cousins-in-Binary-Tree/java00993) |  |  |
+| 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | | | |
+| 995 | [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | | | |
+| 996 | [Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/) | | | |
+| 997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Java](Q00901-Q01000/00997-Find-the-Town-Judge/java00977) | [C++](Q00901-Q01000/00997-Find-the-Town-Judge/cpp00977) |  |
+| 998 | [Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/) | | | |
+| 999 | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/) | | | |
+| 1000 | [Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/) | | | |
 
 &nbsp;
 
