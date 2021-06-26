@@ -580,7 +580,7 @@
 | | | | |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [Java](Q00701-Q00800/0771-Jewels-and-Stones/java-0771) |  |
 | 772 | [Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/description/) | | |
-| | | | |
+| 773 | [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | [Java](Q00701-Q00800/00773-Sliding-Puzzle/java00773) | [C++](Q00701-Q00800/00773-Sliding-Puzzle/cpp00773) |
 | 774 | [Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) | | |
 | | | | |
 | 780 | [Reaching Points](https://leetcode.com/problems/reaching-points/description/) | | |
