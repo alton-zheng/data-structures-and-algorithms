@@ -1255,7 +1255,7 @@
 | 1633 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1634 | [Add Two Polynomials Represented as Linked Lists](https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists/) | | |
 | 1635 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
-| 1636 | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | | |
+| 1636 | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [Java](Q01601-Q01700/01636-Sort-Array-by-Increasing-Frequency/java01636) | [C++](Q01601-Q01700/01636-Sort-Array-by-Increasing-Frequency/cpp01636) |
 | 1637 | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | | |
 | 1638 | [Count Substrings That Differ by One Character](https://leetcode.com/problems/count-substrings-that-differ-by-one-character/) | | |
 | 1639 | [Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/) | | |
