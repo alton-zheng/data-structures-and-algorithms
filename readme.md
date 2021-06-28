@@ -614,7 +614,7 @@
 | 809 | [Expressive Words](https://leetcode.com/problems/expressive-words/description/) | | | |
 | 810 | [Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/) | [Java](Q00801-Q00900/00810-Chalkboard-XOR-Game/java00810) |  |  |
 | 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) | | | |
-| 815 | | [Java](Q00801-Q00900/00815-Bus-Routes/java00815) | [C++](Q00801-Q00900/00815-Bus-Routes/cpp00815) | |
+| 815 | [Bus Routes](https://leetcode.com/problems/bus-routes/) | [Java](Q00801-Q00900/00815-Bus-Routes/java00815) | [C++](Q00801-Q00900/00815-Bus-Routes/cpp00815) | |
 | 817 | [Linked List Components](https://leetcode.com/problems/linked-list-components/description/) | | | |
 | | | | | |
 | 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/description/) | | | |
@@ -1400,6 +1400,7 @@
 | 01844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/) | [Java](Q01801-Q01900/001844-Replace-All-Digits-with-Characters/java01844) | [C++](Q01801-Q01900/001844-Replace-All-Digits-with-Characters/cpp01844) |
 | 01859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [Java](Q01801-Q01900/001859-Sorting-the-Sentence/java001859) |  |
 | 01886 | [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | [Java](Q01801-Q01900/01886-Determine-Whether-Matrix-Can-Be-Obtained-By-Rotation/java01886) | [C++](Q01801-Q01900/01886-Determine-Whether-Matrix-Can-Be-Obtained-By-Rotation/cpp01886) |
+| 01897 | [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) | [Java](Q01801-Q01900/01897-Redistribute-Characters-to-Make-All-Strings-Equal/java01897) | [C++](Q01801-Q01900/01897-Redistribute-Characters-to-Make-All-Strings-Equal/cpp01897) |
 
 &nbsp;
 
