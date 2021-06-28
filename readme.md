@@ -1303,7 +1303,7 @@
 | 1681 | [Minimum Incompatibility](https://leetcode.com/problems/minimum-incompatibility/) | | |
 | 1682 | [Longest Palindromic Subsequence II](https://leetcode.com/problems/longest-palindromic-subsequence-ii/) | | |
 | 1683 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
-| 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | | |
+| 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [Java](Q01601-Q01700/01684-Count-the-Number-of-Consistent-Strings/java01684) | [C++](Q01601-Q01700/01684-Count-the-Number-of-Consistent-Strings/cpp01684) |
 | 1685 | [Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) | | |
 | 1686 | [Stone Game VI](https://leetcode.com/problems/stone-game-vi/) | | |
 | 1687 | [Delivering Boxes from Storage to Ports](https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/) | | |
