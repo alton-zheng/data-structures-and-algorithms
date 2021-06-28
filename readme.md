@@ -614,7 +614,7 @@
 | 809 | [Expressive Words](https://leetcode.com/problems/expressive-words/description/) | | | |
 | 810 | [Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/) | [Java](Q00801-Q00900/00810-Chalkboard-XOR-Game/java00810) |  |  |
 | 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) | | | |
-| | | | | |
+| 815 | | [Java](Q00801-Q00900/00815-Bus-Routes/java00815) | [C++](Q00801-Q00900/00815-Bus-Routes/cpp00815) | |
 | 817 | [Linked List Components](https://leetcode.com/problems/linked-list-components/description/) | | | |
 | | | | | |
 | 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/description/) | | | |
