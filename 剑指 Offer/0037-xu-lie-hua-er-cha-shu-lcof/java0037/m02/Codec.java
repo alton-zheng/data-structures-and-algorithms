@@ -40,8 +40,8 @@ import java.util.List;
  * }
  */
 
-// 执行用时： 8 ms, 在所有 Java 提交中击败了96.47%的用户
-// 内存消耗： 39.9 MB, 在所有 Java 提交中击败了87.44%的用户
+// Runtime: 5 ms, faster than 98.48% of Java online submissions for Serialize and Deserialize Binary Tree.
+// Memory Usage: 40.7 MB, less than 81.10% of Java online submissions for Serialize and Deserialize Binary Tree.
 public class Codec {
 
     private StringBuilder help;
