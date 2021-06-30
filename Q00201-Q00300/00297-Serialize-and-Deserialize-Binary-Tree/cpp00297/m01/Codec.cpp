@@ -1,7 +1,6 @@
 // Runtime: 36 ms, faster than 96.28% of C++ online submissions for Serialize and Deserialize Binary Tree.
 // Memory Usage: 35.2 MB, less than 50.51% of C++ online submissions for Serialize and Deserialize Binary Tree.
 class Codec {
-
 private:
     int curIdx;
     void preOrder(TreeNode* root, string& str) {
