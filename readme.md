@@ -1191,7 +1191,7 @@
 | 01518 | [Water Bottles](https://leetcode.com/problems/water-bottles/) | [Java](Q01501-Q01600/01518-Water-Bottles/java01518) |  |
 | 1522 | [Diameter of N-Ary Tree](https://leetcode.com/problems/diameter-of-n-ary-tree/) | | |
 | | | | |
-| 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | | |
+| 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [Java](Q01501-Q01600/01539-Kth-Missing-Positive-Number/java01539) | [C++](Q01501-Q01600/01539-Kth-Missing-Positive-Number/cpp01539) |
 | | | | |
 | 1564 | [Put Boxes Into the Warehouse I](https://leetcode.com/problems/put-boxes-into-the-warehouse-i/) | | |
 | | | | |
