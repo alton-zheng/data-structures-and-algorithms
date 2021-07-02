@@ -528,7 +528,7 @@
 | | | | | |
 | 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | | | |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/description/) | | | |
-| 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/description/) | | | |
+| 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/description/) | [Java](Q00701-Q00800/00705-Design-HashSet/java00705) | [C++](Q00701-Q00800/00705-Design-HashSet/cpp00705) | |
 | 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/description/) | | | |
 | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/description/) | | | |
 | 708 | [Insert into a Cyclic Sorted List](https://leetcode.com/problems/insert-into-a-cyclic-sorted-list/description/) | | | |
