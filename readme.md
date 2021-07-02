@@ -866,7 +866,7 @@
 | 1109 | [Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/) | | |
 | 1110 | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | | |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | | |
-| | | | |
+| 1116 | [Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd/) | [Java](Q01101-Q01200/01116-Print-Zero-Even-Odd/java01116) | |
 | 1118 | [Number of Days in a Month](https://leetcode.com/problems/number-of-days-in-a-month/) | | |
 | 1119 | [Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/) | | |
 | 1120 | [Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/) | | |
@@ -1397,7 +1397,7 @@
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | [Java](Q01801-Q01900/01816-Truncate-Sentence/java-01816) |  |
 | 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [Java](Q01801-Q01900/01822-Sign-of-the-Product-of-an-Array/java01822) | [C++](Q01801-Q01900/01822-Sign-of-the-Product-of-an-Array/cpp01822) |
 | 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [Java](Q01801-Q01900/01832-Check-if-the-Sentence-Is-Pangram/java01832) | [C++](Q01801-Q01900/01832-Check-if-the-Sentence-Is-Pangram/cpp01832) |
-| 1833 | [](https://leetcode.com/problems/maximum-ice-cream-bars/) | [Java](Q01801-Q01900/01833-Maximum-Ice-Cream-Bars/java01833) | [C++](Q01801-Q01900/01833-Maximum-Ice-Cream-Bars/cpp01833) |
+| 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | [Java](Q01801-Q01900/01833-Maximum-Ice-Cream-Bars/java01833) | [C++](Q01801-Q01900/01833-Maximum-Ice-Cream-Bars/cpp01833) |
 | 01844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/) | [Java](Q01801-Q01900/001844-Replace-All-Digits-with-Characters/java01844) | [C++](Q01801-Q01900/001844-Replace-All-Digits-with-Characters/cpp01844) |
 | 01859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [Java](Q01801-Q01900/001859-Sorting-the-Sentence/java001859) |  |
 | 01886 | [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | [Java](Q01801-Q01900/01886-Determine-Whether-Matrix-Can-Be-Obtained-By-Rotation/java01886) | [C++](Q01801-Q01900/01886-Determine-Whether-Matrix-Can-Be-Obtained-By-Rotation/cpp01886) |
