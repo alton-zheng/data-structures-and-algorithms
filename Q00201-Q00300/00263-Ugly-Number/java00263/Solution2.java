@@ -46,7 +46,7 @@ package java00263;
  * Time Complexity ： O(log 5*n + log 3*n + log1*n)
  * Space Complexity: O(1)
  *
- * Violent Solution
+ * Violent Solution.cpp
  *
  * Runtime: 1 ms, faster than 100.00% of Java online submissions for Ugly Number.
  * Memory Usage: 36 MB, less than 40.25% of Java online submissions for Ugly Number.
