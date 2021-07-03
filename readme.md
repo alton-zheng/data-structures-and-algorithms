@@ -1072,7 +1072,7 @@
 | 1396 | [Design Underground System](https://leetcode.com/problems/design-underground-system/) | | |
 | 1397 | [Find All Good Strings](https://leetcode.com/problems/find-all-good-strings/) | | |
 | 1398 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
-| 1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group/) | | |
+| 1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group/) | [Java](Q01301-Q01400/01399-Count-Largest-Group/java01399) | [C++](Q01301-Q01400/01399-Count-Largest-Group/java01399) |
 | 1400 | [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/) | | |
 | 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | | |
 | 1402 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | | |
