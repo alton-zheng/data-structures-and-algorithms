@@ -486,7 +486,7 @@
 | 642 | [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/) | | | |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | | | |
 | 644 | [Maximum Average Subarray II](https://leetcode.com/problems/maximum-average-subarray-ii/) | | | |
-| | | | | |
+| 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [Java](Q00601-Q00700/00645-Set-Mismatch/java00645) | [C++](Q00601-Q00700/00645-Set-Mismatch/cpp00645) | |
 | 648 | [Replace Words](https://leetcode.com/problems/replace-words/description/) | | | |
 | 649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | | | |
 | | |  |  |  |
