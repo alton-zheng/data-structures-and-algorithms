@@ -1168,7 +1168,7 @@
 | 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | | |
 | 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | | |
 | 1494 | [Parallel Courses II](https://leetcode.com/problems/parallel-courses-ii/) | | |
-| 1495 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
+| 1495 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | [Java](Q01201-Q01300/01295-Find-Numbers-with-Even-Number-of-Digits/java01295) | [C++](Q01201-Q01300/01295-Find-Numbers-with-Even-Number-of-Digits/java01295) |
 | 1496 | [Path Crossing](https://leetcode.com/problems/path-crossing/) | [Java](Q01401-Q01500/01496-Path-Crossing/java01496) | [C++](Q01401-Q01500/01496-Path-Crossing/cpp01496) |
 | 1497 | [Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | | |
 | 1498 | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | | |
