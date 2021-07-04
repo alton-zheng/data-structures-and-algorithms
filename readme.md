@@ -329,7 +329,7 @@
 | 391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/description/) | | | |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | | | |
 | 393 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | | | |
-| 394 | [Decode String](https://leetcode.com/problems/decode-string/description/) | | | |
+| 394 | [Decode String](https://leetcode.com/problems/decode-string/description/) | [Java](Q00301-Q00400/00394-Decode-String/java00394) | [C++](Q00301-Q00400/00394-Decode-String/cpp00394) | |
 | 395 | [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | | | |
 | | | | | |
 | 398 | [Random Pick Index](https://leetcode.com/problems/random-pick-index/description/) | | | |
