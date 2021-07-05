@@ -549,7 +549,7 @@
 | 723 | [Candy Crush](https://leetcode.com/problems/candy-crush/description/) | | | |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | | | |
 | 725 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/) | | | |
-| | | | | |
+| 726 | [Number of Atoms](https://leetcode.com/problems/number-of-atoms/) | [Java](Q00701-Q00800/00726-Number-of-Atoms/java00726) | [C++](Q00701-Q00800/00726-Number-of-Atoms/cpp00726) | |
 | 727 | [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/description/) | | | |
 | 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/) | [Java](Q00701-Q00800/00728-Self-Dividing-Numbers/java00728) | [C++](Q00701-Q00800/00728-Self-Dividing-Numbers/cpp00728) |  |
 | 729 | [My Calendar I](https://leetcode.com/problems/my-calendar-i/description/) | | | |
