@@ -21,9 +21,6 @@ import java.util.*;
  * Given a formula, return the count of all elements as a string in the following form: the first name (in sorted order), followed by its count (if that count is more than 1), followed by the second name (in sorted order), followed by its count (if that count is more than 1), and so on.
  *
  *
- *
- *
- *
  * Example 1:
  *
  * Input: formula = "H2O"
