@@ -431,7 +431,7 @@
 | | | | | |
 | 533 | [Lonely Pixel II](https://leetcode.com/problems/lonely-pixel-ii/) | | | |
 | | | | | |
-| 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | | | |
+| 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Java](Q00501-Q00600/00538-Convert-BST-to-Greater-Tree/java00538) | [C++](Q00501-Q00600/00538-Convert-BST-to-Greater-Tree/cpp00538) | |
 | | | | | |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/) | | | |
 | 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/description/) | | | |
