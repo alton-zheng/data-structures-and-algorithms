@@ -1091,7 +1091,7 @@
 | 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | | |
 | 1416 | [Restore The Array](https://leetcode.com/problems/restore-the-array/) | | |
 | 1417 | [Reformat The String](https://leetcode.com/problems/reformat-the-string/) | [Java](Q01401-Q01500/01417-Reformat-The-String/java01417) | [C++](Q01401-Q01500/01417-Reformat-The-String/cpp01417) |
-| 1418 | [Display Table of Food Orders in a Restaurant](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/) | | |
+| 1418 | [Display Table of Food Orders in a Restaurant](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/) | [Java](Q01401-Q01500/01418-Display-Table-of-Food-Orders-in-a-Restaurant/java01418) | [C++](Q01401-Q01500/01418-Display-Table-of-Food-Orders-in-a-Restaurant/cpp01418) |
 | 1419 | [Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/) | | |
 | 1420 | [Build Array Where You Can Find The Maximum Exactly K Comparisons](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | | |
 | 1421 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
