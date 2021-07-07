@@ -39,6 +39,9 @@ package java00538.m01;
  * Time Complexity : O(N)
  * Space Complexity : O(N)
  */
+
+import java00000.TreeNode;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

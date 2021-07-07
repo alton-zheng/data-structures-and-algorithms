@@ -1330,7 +1330,7 @@
 | 1708 | [Largest Subarray Length K](https://leetcode.com/problems/largest-subarray-length-k/) | | |
 | 1709 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | | |
-| 1711 | [Count Good Meals](https://leetcode.com/problems/count-good-meals/) | | |
+| 1711 | [Count Good Meals](https://leetcode.com/problems/count-good-meals/) | [Java](Q01701-Q01800/01711-Count-Good-Meals/java01711) | [C++](Q01701-Q01800/01711-Count-Good-Meals/cpp01711) |
 | 1712 | [Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) | | |
 | 1713 | [Minimum Operations to Make a Subsequence](https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/) | | |
 | 1714 | [Sum Of Special Evenly-Spaced Elements In Array](https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array/) | | |
@@ -1390,7 +1390,7 @@
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [Java](Q01701-Q01800/1769-Minimum-Number-of-Operations-to-Move-All-Balls-to-Each-Box/java01769) | [C++](Q01701-Q01800/1769-Minimum-Number-of-Operations-to-Move-All-Balls-to-Each-Box/cpp01769) |
 | 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) |                                                              |                                                              |
 | 1770 | [Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) | | |
-| 1771 | [Maximize Palindrome Length From Subsequences](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/) | | |
+| 1771 | [Maximize Palindrome Length From Subsequences](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/) | [Java]() | |
 | 1772 | [Sort Features by Popularity](https://leetcode.com/problems/sort-features-by-popularity/) | | |
 | 01787 | [Make the XOR of All Segments Equal to Zero](https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero/) | [Java](Q01701-Q01800/01787-Make-the-XOR-of-All-Segments-Equal-to-Zero/cpp01787) |  |
 | 01796 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/) | [Java](Q01701-Q01800/01796-Second-Largest-Digit-in-a-String/java01796) | [C++](Q01701-Q01800/01796-Second-Largest-Digit-in-a-String/cpp01796) |
