@@ -1192,7 +1192,7 @@
 | 1522 | [Diameter of N-Ary Tree](https://leetcode.com/problems/diameter-of-n-ary-tree/) | | |
 | | | | |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [Java](Q01501-Q01600/01539-Kth-Missing-Positive-Number/java01539) | [C++](Q01501-Q01600/01539-Kth-Missing-Positive-Number/cpp01539) |
-| | | | |
+| 1556 | [Thousand Separator](https://leetcode.com/problems/thousand-separator/) | [Java](Q01501-Q01600/01556-Thousand-Separator/java01556) | [C++](Q01501-Q01600/01556-Thousand-Separator/cpp01556) |
 | 1564 | [Put Boxes Into the Warehouse I](https://leetcode.com/problems/put-boxes-into-the-warehouse-i/) | | |
 | | | | |
 | 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | | |
