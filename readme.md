@@ -709,7 +709,7 @@
 | 927 | [Three Equal Parts](https://leetcode.com/problems/three-equal-parts/) | | | |
 | 928 | [Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii/description/) | | | |
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/solution/) | [Java](Q00901-Q01000/00929-Unique-Email-Addresses/java00929) | [C++](Q00901-Q01000/00929-Unique-Email-Addresses/cpp00929) |  |
-| 930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | | | |
+| 930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | [Java](Q00901-Q01000/00930-Binary-Subarrays-With-Sum/java00930) | [C++](Q00901-Q01000/0931-Minimum-Path-Falling-Sum/cpp00930) | |
 | 931 | [Minimum Path Falling Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | | | |
 | 932 | [Beautiful Array](https://leetcode.com/problems/beautiful-array/description/) | | | |
 | 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | | | |
@@ -1435,3 +1435,4 @@
 |        |                                                              |                                            |                                          |
 | LCP 07 | [传递信息](https://leetcode-cn.com/problems/chuan-di-xin-xi/) | [Java](LCP/LCP007-chuan-di-xin-xi/java007) | [C++](LCP/LCP007-chuan-di-xin-xi/cpp007) |
 |        |                                                              |                                            |                                          |
+
