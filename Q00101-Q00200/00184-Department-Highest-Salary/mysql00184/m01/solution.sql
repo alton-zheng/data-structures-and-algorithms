@@ -4,9 +4,10 @@
 select c.name as Department,
        a.Name as Employee,
        a.Salary
-  from Employee a join
-      (select DepartmentId, max(Salary) as Salary from Employee group by DepartmentId) b
-      join Department c
-    on a.DepartmentId = b.DepartmentId
-   and a.Salary = b.Salary
-   and a.DepartmentId = c.Id;
+from Employee a
+         join
+     (select DepartmentId, max(Salary) as Salary from Employee group by DepartmentId) b
+         join Department c
+              on a.DepartmentId = b.DepartmentId
+                  and a.Salary = b.Salary
+                  and a.DepartmentId = c.Id;
