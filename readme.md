@@ -168,6 +168,7 @@
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Java](Q00101-Q00200/00172-Factorial-Trailing-Zeroes/java00172) | [C++](Q00101-Q00200/00172-Factorial-Trailing-Zeroes/cpp00172) | [Python](Q00101-Q00200/00172-Factorial-Trailing-Zeroes/py00172) |
 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/) | | | |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [mysql](Q00101-Q00200/00181-Employees-Earning-More-Than-Their-Managers/mysql00181) | [Oracle](Q00101-Q00200/00181-Employees-Earning-More-Than-Their-Managers/oracle00181) | |
+| 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [mysql](Q00101-Q00200/00184-Department-Highest-Salary/mysql00184) |  | |
 | 186 | [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/description/) | | | |
 | | | | | |
 | 188 | [Best-Time-to-Buy-and-Sell-Stock-IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | | | |
