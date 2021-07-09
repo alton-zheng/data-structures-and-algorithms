@@ -473,7 +473,7 @@
 | 599 | [Minimum Index Sum of Two Lists](https://leetcode.com/explore/learn/card/hash-table/184/comparison-with-other-data-structures/1177/) | | | |
 | 600 | [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/description/) | | | |
 | | | | | |
-| 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | | | |
+| 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Java](Q00601-Q00700/00605-Can-Place-Flowers/java00605/) | [C++](Q00601-Q00700/00605-Can-Place-Flowers/cpp00605) | |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Java](Q00601-Q00700/00617-Merge-Two-Binary-Trees/java00617) | [C++](Q00601-Q00700/00617-Merge-Two-Binary-Trees/cpp00617) |  |
 | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | | | |
 | 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/) | | | |
