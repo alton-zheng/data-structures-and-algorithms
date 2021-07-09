@@ -26,8 +26,8 @@ package java00788.m01;
  * Space Complexity : O()
  *
  */
-class Solution {
+/*class Solution {
     public int rotatedDigits(int n) {
 
     }
-}
+}*/
