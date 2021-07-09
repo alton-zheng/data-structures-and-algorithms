@@ -1,4 +1,4 @@
-package java1710.m01;
+package java1710.m02;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -28,25 +28,30 @@ import java.util.Map;
  * 输出：2
  *
  * Time Complexity : O(N)
- * Space Complexity : O(N)
- * 下面解法中规中矩，性能优势不明显
+ * Space Complexity : O(1)
+ * 摩尔定律来解决
  */
 class Solution {
     public int majorityElement(int[] nums) {
 
-        int len = nums.length;
+        int res = -1, flag = 0;
 
-        Map<Integer, Integer> help = new HashMap<>();
+        // 根据摩尔定理，得出可能的结果值，此值在数组中出现的次数最多
+        for (int num : nums) {
+            if (flag == 0) {
+                res = num;
+            }
+            flag += num == res ? 1 : -1;
+        }
 
-        for (int i = 0; i < len; i++) {
-            int cur = nums[i];
-            help.put(cur, help.getOrDefault(cur, 0) + 1);
-
-            if (help.get(cur) > len/2) {
-                return cur;
+        // 接下来只要判断此数值出现的次数是否超过数组元素个数的一半
+        flag = 0;
+        for (int num: nums) {
+            if (num == res) {
+                flag++;
             }
         }
 
-        return -1;
+        return flag > nums.length / 2 ? res : -1;
     }
 }

@@ -1,4 +1,4 @@
-package java1710;
+package java1710.m01;
 
 import java.util.HashMap;
 import java.util.Map;
