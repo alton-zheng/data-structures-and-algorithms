@@ -319,7 +319,7 @@
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/) | | | |
 | 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/description/) | | | |
 | 382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/description/) | [Java](Q00301-Q00400/00382-Linked-List-Random-Node/java00382) | [C++](Q00301-Q00400/00382-Linked-List-Random-Node/cpp00382) | |
-| | | | | |
+| 383 | [Ransom note](https://leetcode.com/problems/ransom-note/) | [Java](Q00301-Q00400/00383-Ransom-Note/java00383) | [C++](Q00301-Q00400/00383-Ransom-Note/cpp00383) | |
 | 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/) | | | |
 | | | | | |
 | 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/) | | | |
