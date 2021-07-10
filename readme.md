@@ -75,9 +75,9 @@
 | 075 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Java](Q00401-Q00500/0075-Sort-Colors/java-0075/src/) |  |  |
 | 076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | | | |
 | 077 | [Combinations](https://leetcode.com/problems/combinations/description/) | [Java](Q00401-Q00500/0077-Combinations/java-0077/src/) |  |  |
-| | | | | |
+| 078 | [Subsets](https://leetcode.com/problems/subsets/) | [Java](Q00001-Q00100/00078-Subsets/java00078) | [C++](Q00001-Q00100/00078-Subsets/cpp00078) | |
 | 079 | [Word Search](https://leetcode.com/problems/word-search/description/) | [Java](Q00401-Q00500/0079-Word-Search/java-0079/src/) |  |  |
-| 080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) | | | |
+| 080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) |                                                              |                                                              | |
 | 081 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | | | |
 | 082 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Java](Q00001-Q00100/00082-Remove-Duplicates-from-Sorted-List-II/java00082) |  |  |
 | 083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | | | |
