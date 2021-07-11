@@ -220,7 +220,7 @@
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) | | | |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | | | |
 | | | | | |
-| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | | | |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Java](Q00201-Q00300/00242-Valid-Anagram/java00242) | [C++](Q00201-Q00300/00242-Valid-Anagram/cpp00242) | |
 | 243 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) | | | |
 | 244 | [Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/) | | | |
 | 245 | [Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/) | | | |
