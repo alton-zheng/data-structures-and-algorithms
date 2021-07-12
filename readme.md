@@ -240,6 +240,7 @@
 | 267 | [Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/) | | | |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [Java](Q00201-Q00300/00268-Missing-Number/java00268) | [C++](Q00201-Q00300/00268-Missing-Number/cpp00268) |  |
 | 274 | [H-Index](https://leetcode.com/problems/h-index/) | [Java](Q00201-Q00300/00274-H-Index/java00274) | [C++](Q00201-Q00300/00274-H-Index/cpp00274) | |
+| 275 | [H-Index II](https://leetcode.com/problems/h-index-ii/) | [Java](Q00201-Q00300/00275-H-Index-II/java00275) | [C++](Q00201-Q00300/00275-H-Index-II/cpp00275) | |
 | 277 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | | | |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Java](Q00201-Q00300/00278-First-Bad-Version/java00278/m01) | [C++](Q00201-Q00300/00278-First-Bad-Version/cpp00278) |  |
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) | [Java](Q00201-Q00300/00279-Perfect-Squares/java00279) | [C++](Q00201-Q00300/00279-Perfect-Squares/cpp00279) |  |
