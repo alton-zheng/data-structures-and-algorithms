@@ -1398,6 +1398,7 @@
 | 01787 | [Make the XOR of All Segments Equal to Zero](https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero/) | [Java](Q01701-Q01800/01787-Make-the-XOR-of-All-Segments-Equal-to-Zero/cpp01787) |  |
 | 01796 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/) | [Java](Q01701-Q01800/01796-Second-Largest-Digit-in-a-String/java01796) | [C++](Q01701-Q01800/01796-Second-Largest-Digit-in-a-String/cpp01796) |
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | [Java](Q01801-Q01900/01816-Truncate-Sentence/java-01816) |  |
+| 1818 | []() | [Java](Q01801-Q01900/01818-Minimum-Absolute-Sum-Difference/java01818) | [C++](Q01801-Q01900/01818-Minimum-Absolute-Sum-Difference/cpp01818) |
 | 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [Java](Q01801-Q01900/01822-Sign-of-the-Product-of-an-Array/java01822) | [C++](Q01801-Q01900/01822-Sign-of-the-Product-of-an-Array/cpp01822) |
 | 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [Java](Q01801-Q01900/01832-Check-if-the-Sentence-Is-Pangram/java01832) | [C++](Q01801-Q01900/01832-Check-if-the-Sentence-Is-Pangram/cpp01832) |
 | 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | [Java](Q01801-Q01900/01833-Maximum-Ice-Cream-Bars/java01833) | [C++](Q01801-Q01900/01833-Maximum-Ice-Cream-Bars/cpp01833) |
