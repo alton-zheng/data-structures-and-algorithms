@@ -663,7 +663,7 @@
 | 878 | [Nth Magical Number](https://leetcode.com/problems/nth-magical-number/description/) | | | |
 | 879 | [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/description/) | [Java](Q00801-Q00900/00879-Profitable-Schemes/java00879) | [C++](Q00801-Q00900/00879-Profitable-Schemes/cpp00879) |  |
 | 880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/description/) | | | |
-| 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/) | | | |
+| 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/) | [Java](Q00801-Q00900/00881-Boats-to-Save-People/java00881) | [C++](Q00801-Q00900/00881-Boats-to-Save-People/cpp00881) | |
 | 882 | [Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/description/) | | | |
 | 883 | [Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/description/) | | | |
 | 884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/) | | | |
