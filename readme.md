@@ -34,7 +34,7 @@
 | 031 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Java](Q00001-Q00100/00031-Next-Permutation/java00031) | [C++](Q00001-Q00100/00031-Next-Permutation/cpp00031) |  |
 | 032 |  |  |  |  |
 | 033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | | | |
-| 034 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | | | |
+| 034 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | [Java](Q00001-Q00100/00034-Find-First-and-Last-Position-of-Element-in-Sorted-Array/java00034) | [C++](Q00001-Q00100/00034-Find-First-and-Last-Position-of-Element-in-Sorted-Array/cpp00034) | |
 | 035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](Q00001-Q00100/00035-Search-Insert-Position/java-00035) |  |  |
 | 036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | | | |
 | 037 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | | | |
