@@ -966,7 +966,7 @@
 | 1223 | [Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation/) | | |
 | 1224 | [Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency/) | | |
 | | | | |
-| 1228 | [Missing Number In Arithmetic Progression](https://leetcode.com/problems/missing-number-in-arithmetic-progression/) | | |
+| 1228 | [Missing Number In Arithmetic Progression](https://leetcode.com/problems/missing-number-in-arithmetic-progression/) | [Java](Q01101-Q01200/01128-Number-of-Equivalent-Domino-Pairs/java01128) | [C++](Q01101-Q01200/01128-Number-of-Equivalent-Domino-Pairs/cpp01128) |
 | 1229 | [Meeting Scheduler](https://leetcode.com/problems/meeting-scheduler/) | | |
 | 1230 | [Toss Strange Coins](https://leetcode.com/problems/toss-strange-coins/) | | |
 | 1231 | [Divide Chocolate](https://leetcode.com/problems/divide-chocolate/) | | |
