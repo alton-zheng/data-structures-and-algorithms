@@ -36,10 +36,13 @@ class Solution {
 
         for (int num: nums) {
 
+            // pre 小于等于0时，说明有效前缀和小于等于0，这时，结果值取到前面位置的最大元素
+            // 此时，将当前元素前缀和  pre, 初始化为 0， 截断当前索引之前的元素。只存储最大结果值
             if (pre <= 0) {
                 res = Math.max(res, num);
                 pre = 0;
             } else {
+                // 此时， pre > 0, 结果值取最大有效前缀和
                 res = Math.max(res, pre + num);
             }
 
