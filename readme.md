@@ -957,7 +957,7 @@
 | 1214 | [Two Sum BSTs](https://leetcode.com/problems/two-sum-bsts/) | | |
 | 1215 | [Stepping Numbers](https://leetcode.com/problems/stepping-numbers/) | | |
 | 1216 | [Valid Palindrome III](https://leetcode.com/problems/valid-palindrome-iii/) | | |
-| 1217 | [Play with Chips](https://leetcode.com/problems/play-with-chips/) | | |
+| 1217 | [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | [Java](Q01201-Q01300/01217-Minimum-Cost-to-Move-Chips-to-The-Same-Position/java01217) | [C++](Q01201-Q01300/01217-Minimum-Cost-to-Move-Chips-to-The-Same-Position/cpp01217) |
 | 1218 | [Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | | |
 | 1219 | [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/) | | |
 | 1220 | [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) | | |
