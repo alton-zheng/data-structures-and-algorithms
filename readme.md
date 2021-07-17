@@ -330,7 +330,7 @@
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | | | |
 | 390 | [Elimination Game](https://leetcode.com/problems/elimination-game/description/) | | | |
 | 391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/description/) | | | |
-| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | | | |
+| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Java](Q00301-Q00400/00392-Is-Subsequence/java00392) | [C++](Q00301-Q00400/00392-Is-Subsequence/cpp00392) | |
 | 393 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | | | |
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/description/) | [Java](Q00301-Q00400/00394-Decode-String/java00394) | [C++](Q00301-Q00400/00394-Decode-String/cpp00394) | |
 | 395 | [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | | | |
