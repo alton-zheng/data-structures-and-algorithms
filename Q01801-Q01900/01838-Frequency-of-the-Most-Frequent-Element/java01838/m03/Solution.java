@@ -1,4 +1,4 @@
-package java01838.m02;
+package java01838.m03;
 
 import java.util.Arrays;
 
@@ -54,22 +54,21 @@ class Solution {
     public int maxFrequency(int[] nums, int k) {
 
         Arrays.sort(nums);
+        int res = 1;
+        long preSum = 0;
 
-        int cntK = 0;
-        int left = 0 , maxFrequency = 1;
-
-        for (int right = 1; right < nums.length; right++) {
-            cntK += (nums[right] - nums[right - 1]) * (right - left);
-
-            while (cntK > k) {
-                cntK -= nums[right] - nums[left];
-                left++;
+        for (int left = 0, right = 0; right < nums.length; right++) {
+            preSum += nums[right];
+            while(nums[right] * (right - left + 1) - preSum > k) {
+                preSum -= nums[left++];
             }
-
-            maxFrequency = Math.max(maxFrequency, right - left + 1);
-
+            res = Math.max(res, right - left + 1);
         }
 
-        return maxFrequency;
+        return res;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(new Solution().maxFrequency(new int[]{1, 3, 6, 8, 8}, 5));
     }
 }

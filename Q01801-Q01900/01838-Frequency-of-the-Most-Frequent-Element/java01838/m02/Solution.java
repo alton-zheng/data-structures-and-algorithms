@@ -1,8 +1,6 @@
-package java01838.m01;
+package java01838.m02;
 
 import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
 
 /**
  * @Author: alton
@@ -57,41 +55,21 @@ class Solution {
 
         Arrays.sort(nums);
 
-        int maxFrequency = 0;
+        int cntK = 0;
+        int left = 0 , maxFrequency = 1;
 
-        int equalIdx = -1;
+        for (int right = 1; right < nums.length; right++) {
+            cntK += (nums[right] - nums[right - 1]) * (right - left);
 
-        for (int i = nums.length - 1; i >= 0; i = equalIdx == -1 ? i - 1 : equalIdx - 1) {
-            int tmp = k;
-            int curFrequency = 1;
-            equalIdx = -1;
-            for (int j = i - 1; j >= 0; j--) {
-
-                if (nums[i] == nums[j]) {
-                    curFrequency++;
-                    equalIdx = j;
-                } else {
-                    tmp -= nums[i] - nums[j];
-                    if (tmp >= 0) {
-                        curFrequency++;
-                    } else {
-                        break;
-                    }
-                }
+            while (cntK > k) {
+                cntK -= nums[right] - nums[left];
+                left++;
             }
 
-            if (curFrequency > maxFrequency) {
-                maxFrequency = curFrequency;
-                if (maxFrequency == i + 1) {
-                    break;
-                }
-            }
+            maxFrequency = Math.max(maxFrequency, right - left + 1);
+
         }
 
         return maxFrequency;
-    }
-
-    public static void main(String[] args) {
-        System.out.println(new Solution().maxFrequency(new int[]{1, 2, 4,4, 4}, 5));
     }
 }
