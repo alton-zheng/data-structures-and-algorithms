@@ -337,7 +337,7 @@
 | | | | | |
 | 398 | [Random Pick Index](https://leetcode.com/problems/random-pick-index/description/) | | | |
 | 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | | | |
-| | | | | |
+| 400 | [Nth Digit](https://leetcode.com/problems/nth-digit/) | [Java](Q00301-Q00400/00400-Nth-Digit/java00400) | [C++](Q00301-Q00400/00400-Nth-Digit/cpp00400) | |
 | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [Java](Q00401-Q00500/00401-Binary-Watch/java00401) | [C++](Q00401-Q00500/00401-Binary-Watch/cpp00401) |  |
 | 402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | | | |
 | | | | | |
@@ -1181,22 +1181,22 @@
 
 &nbsp;
 
-| ID | Problem | Java | C++ |
-| --- | --- | :---: | ----- |
+| ID | Problem | C++ | Java |
+| --- | --- | ----- | :---: |
 | | | | |
 | | | | |
 | | | | |
 | | | | |
 | | | | |
 | 1506 | [Find Root of N-Ary Tree](https://leetcode.com/problems/find-root-of-n-ary-tree/) | | |
-| 1507 | [Reformat Date](https://leetcode.com/problems/reformat-date/) | [Java](Q01501-Q01600/01507-Reformat-Date/java01057) | [C++](Q01501-Q01600/01507-Reformat-Date/cpp01057) |
-| 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) | [(Java](Q01501-Q01600/01509-Minimum-Difference-Between-Largest-and-Smallest-Value-in-Three-Moves/java01509) | [C++](Q01501-Q01600/01509-Minimum-Difference-Between-Largest-and-Smallest-Value-in-Three-Moves/cpp01509) |
-| 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-keyValues/) | [Java](Q01501-Q01600/01512-Number-of-Good-Pairs/java01512) |  |
-| 01518 | [Water Bottles](https://leetcode.com/problems/water-bottles/) | [Java](Q01501-Q01600/01518-Water-Bottles/java01518) |  |
+| 1507 | [Reformat Date](https://leetcode.com/problems/reformat-date/) | [C++](Q01501-Q01600/01507-Reformat-Date/cpp01057) | [Java](Q01501-Q01600/01507-Reformat-Date/java01057) |
+| 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) | [C++](Q01501-Q01600/01509-Minimum-Difference-Between-Largest-and-Smallest-Value-in-Three-Moves/cpp01509) | [(Java](Q01501-Q01600/01509-Minimum-Difference-Between-Largest-and-Smallest-Value-in-Three-Moves/java01509) |
+| 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-keyValues/) |  | [Java](Q01501-Q01600/01512-Number-of-Good-Pairs/java01512) |
+| 01518 | [Water Bottles](https://leetcode.com/problems/water-bottles/) |  | [Java](Q01501-Q01600/01518-Water-Bottles/java01518) |
 | 1522 | [Diameter of N-Ary Tree](https://leetcode.com/problems/diameter-of-n-ary-tree/) | | |
 | | | | |
-| 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [Java](Q01501-Q01600/01539-Kth-Missing-Positive-Number/java01539) | [C++](Q01501-Q01600/01539-Kth-Missing-Positive-Number/cpp01539) |
-| 1556 | [Thousand Separator](https://leetcode.com/problems/thousand-separator/) | [Java](Q01501-Q01600/01556-Thousand-Separator/java01556) | [C++](Q01501-Q01600/01556-Thousand-Separator/cpp01556) |
+| 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [C++](Q01501-Q01600/01539-Kth-Missing-Positive-Number/cpp01539) | [Java](Q01501-Q01600/01539-Kth-Missing-Positive-Number/java01539) |
+| 1556 | [Thousand Separator](https://leetcode.com/problems/thousand-separator/) | [C++](Q01501-Q01600/01556-Thousand-Separator/cpp01556) | [Java](Q01501-Q01600/01556-Thousand-Separator/java01556) |
 | 1564 | [Put Boxes Into the Warehouse I](https://leetcode.com/problems/put-boxes-into-the-warehouse-i/) | | |
 | | | | |
 | 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | | |
@@ -1204,39 +1204,39 @@
 | 1578 | [Minimum Deletion Cost to Avoid Repeating Letters](https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/) | | |
 | 1579 | [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | | |
 | 1580 | [Put Boxes Into the Warehouse II](https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/) | | |
-| 1581 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
+| 1581 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) |  | - |
 | 1582 | [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | | |
 | 1583 | [Count Unhappy Friends](https://leetcode.com/problems/count-unhappy-friends/) | | |
 | 1584 | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | | |
 | 1585 | [Check If String Is Transformable With Substring Sort Operations](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/) | | |
 | 1586 | [Binary Search Tree Iterator II](https://leetcode.com/problems/binary-search-tree-iterator-ii/) | | |
-| 1587 |  | - |  |
-| 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [Java](Q01501-Q01600/01588-Sum-of-All-Odd-Length-Subarrays/java01588) |  |
+| 1587 |  |  | - |
+| 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) |  | [Java](Q01501-Q01600/01588-Sum-of-All-Odd-Length-Subarrays/java01588) |
 | 1589 | [Maximum Sum Obtained of Any Permutation](https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/) | | |
-| 1590 | [Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/) | [Java](Q01501-Q01600/01588-Sum-of-All-Odd-Length-Subarrays/java01590) | [C++](Q01501-Q01600/01588-Sum-of-All-Odd-Length-Subarrays/cpp01590) |
+| 1590 | [Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/) | [C++](Q01501-Q01600/01588-Sum-of-All-Odd-Length-Subarrays/cpp01590) | [Java](Q01501-Q01600/01588-Sum-of-All-Odd-Length-Subarrays/java01590) |
 | 1591 | [Strange Printer II](https://leetcode.com/problems/strange-printer-ii/) | | |
 | 1592 | [Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/) | | |
 | 1593 | [Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | | |
 | 1594 | [Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) | | |
 | 1595 | [Minimum Cost to Connect Two Groups of Points](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/) | | |
-| 1596 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
+| 1596 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) |  | - |
 | 1597 | [Build Binary Expression Tree From Infix Expression](https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression/) | | |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | | |
 | 1599 | [Maximum Profit of Operating a Centennial Wheel](https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/) | | |
-| 1600 | [Throne Inheritance](https://leetcode.com/problems/throne-inheritance/) | [Java](Q01501-Q01600/01600-Throne-Inheritance/java01600) | [C++](Q01501-Q01600/01600-Throne-Inheritance/cpp01600) |
+| 1600 | [Throne Inheritance](https://leetcode.com/problems/throne-inheritance/) | [C++](Q01501-Q01600/01600-Throne-Inheritance/cpp01600) | [Java](Q01501-Q01600/01600-Throne-Inheritance/java01600) |
 | 1601 | [Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/) | | |
 | 1602 | [Find Nearest Right Node in Binary Tree](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/) | | |
-| 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | [Java](Q01601-Q01700/01603-Design-Parking-System/java-01603) |  |
+| 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) |  | [Java](Q01601-Q01700/01603-Design-Parking-System/java-01603) |
 | 1604 | [Alert Using Same Key-Card Three or More Times in a One Hour Period](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | | |
 | 1605 | [Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/) | | |
 | 1606 | [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | | |
-| 1607 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
+| 1607 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) |  | - |
 | 1608 | [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | | |
 | 1609 | [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/) | | |
-| 1610 | [Maximum Number of Visible Points](https://leetcode.com/problems/maximum-number-of-visible-points/) | [Java](Q01601-Q01700/01610-Maximum-Number-of-Visible-Points/cpp01610) |  |
+| 1610 | [Maximum Number of Visible Points](https://leetcode.com/problems/maximum-number-of-visible-points/) |  | [Java](Q01601-Q01700/01610-Maximum-Number-of-Visible-Points/cpp01610) |
 | 1611 | [Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | | |
 | 1612 | [Check If Two Expression Trees are Equivalent](https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent/) | | |
-| 1613 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
+| 1613 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) |  | - |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | | |
 | 1615 | [Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/) | | |
 | 1616 | [Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/) | | |
@@ -1246,7 +1246,7 @@
 | 1620 | [Coordinate With Maximum Network Quality](https://leetcode.com/problems/coordinate-with-maximum-network-quality/) | | |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | | |
 | 1622 | [Fancy Sequence](https://leetcode.com/problems/fancy-sequence/) | | |
-| 1623 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
+| 1623 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) |  | - |
 | 1624 | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) | | |
 | 1625 | [Lexicographically Smallest String After Applying Operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/) | | |
 | 1626 | [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/) | | |
@@ -1256,10 +1256,10 @@
 | 1630 | [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/) | | |
 | 1631 | [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | | |
 | 1632 | [Rank Transform of a Matrix](https://leetcode.com/problems/rank-transform-of-a-matrix/) | | |
-| 1633 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
+| 1633 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) |  | - |
 | 1634 | [Add Two Polynomials Represented as Linked Lists](https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists/) | | |
-| 1635 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
-| 1636 | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [Java](Q01601-Q01700/01636-Sort-Array-by-Increasing-Frequency/java01636) | [C++](Q01601-Q01700/01636-Sort-Array-by-Increasing-Frequency/cpp01636) |
+| 1635 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) |  | - |
+| 1636 | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [C++](Q01601-Q01700/01636-Sort-Array-by-Increasing-Frequency/cpp01636) | [Java](Q01601-Q01700/01636-Sort-Array-by-Increasing-Frequency/java01636) |
 | 1637 | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | | |
 | 1638 | [Count Substrings That Differ by One Character](https://leetcode.com/problems/count-substrings-that-differ-by-one-character/) | | |
 | 1639 | [Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/) | | |
@@ -1268,13 +1268,13 @@
 | 1642 | [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) | | |
 | 1643 | [Kth Smallest Instructions](https://leetcode.com/problems/kth-smallest-instructions/) | | |
 | 1644 | [Lowest Common Ancestor of a Binary Tree II](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii/) | | |
-| 1645 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
+| 1645 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) |  | - |
 | 1646 | [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/) | | |
 | 1647 | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | | |
 | 1648 | [Sell Diminishing-Valued Colored Balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/) | | |
 | 1649 | [Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/) | | |
 | 1650 | [Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/) | | |
-| 1651 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
+| 1651 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) |  | - |
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) | | |
 | 1653 | [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | | |
 | 1654 | [Minimum Jumps to Reach Home](https://leetcode.com/problems/minimum-jumps-to-reach-home/) | | |
@@ -1282,32 +1282,32 @@
 | 1656 | [Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/) | | |
 | 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | | |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | | |
-| 1659 | [Maximize Grid Happiness](https://leetcode.com/problems/maximize-grid-happiness/) | [Java](1501-2000/1659-Maximize-Grid-Happiness/java-1659/) |  |
+| 1659 | [Maximize Grid Happiness](https://leetcode.com/problems/maximize-grid-happiness/) |  | [Java](1501-2000/1659-Maximize-Grid-Happiness/java-1659/) |
 | 1660 | [Correct a Binary Tree](https://leetcode.com/problems/correct-a-binary-tree/) | | |
-| 1661 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
+| 1661 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) |  | - |
 | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | | |
-| 1663 | [Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/) | [Java](Q01601-Q01700/01663-Smallest-String-With-A-Given-Numeric-Value/java01663) | [C++](Q01601-Q01700/01663-Smallest-String-With-A-Given-Numeric-Value/cpp01663) |
+| 1663 | [Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/) | [C++](Q01601-Q01700/01663-Smallest-String-With-A-Given-Numeric-Value/cpp01663) | [Java](Q01601-Q01700/01663-Smallest-String-With-A-Given-Numeric-Value/java01663) |
 | 1664 | [Ways to Make a Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array/) | | |
 | 1665 | [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | | |
 | 1666 | [Change the Root of a Binary Tree](https://leetcode.com/problems/change-the-root-of-a-binary-tree/) | | |
-| 1667 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
+| 1667 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) |  | - |
 | 1668 | [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/) | | |
 | 1669 | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | | |
 | 1670 | [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/) | | |
 | 1671 | [Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) | | |
-| 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [Java](Q01601-Q01700/01672-Richest-Customer-Wealth/java-01672) |  |
+| 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) |  | [Java](Q01601-Q01700/01672-Richest-Customer-Wealth/java-01672) |
 | 1673 | [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) | | |
 | 1674 | [Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) | | |
 | 1675 | [Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/) | | |
 | 1676 | [Lowest Common Ancestor of a Binary Tree IV](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv/) | | |
-| 1677 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
+| 1677 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) |  | - |
 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | | |
 | 1679 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-keyValues/) | | |
 | 1680 | [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | | |
 | 1681 | [Minimum Incompatibility](https://leetcode.com/problems/minimum-incompatibility/) | | |
 | 1682 | [Longest Palindromic Subsequence II](https://leetcode.com/problems/longest-palindromic-subsequence-ii/) | | |
-| 1683 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
-| 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [Java](Q01601-Q01700/01684-Count-the-Number-of-Consistent-Strings/java01684) | [C++](Q01601-Q01700/01684-Count-the-Number-of-Consistent-Strings/cpp01684) |
+| 1683 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) |  | - |
+| 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [C++](Q01601-Q01700/01684-Count-the-Number-of-Consistent-Strings/cpp01684) | [Java](Q01601-Q01700/01684-Count-the-Number-of-Consistent-Strings/java01684) |
 | 1685 | [Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) | | |
 | 1686 | [Stone Game VI](https://leetcode.com/problems/stone-game-vi/) | | |
 | 1687 | [Delivering Boxes from Storage to Ports](https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/) | | |
@@ -1316,13 +1316,13 @@
 | 1690 | [Stone Game VII](https://leetcode.com/problems/stone-game-vii/) | | |
 | 1691 | [Maximum Height by Stacking Cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/) | | |
 | 1692 | [Count Ways to Distribute Candies](https://leetcode.com/problems/count-ways-to-distribute-candies/) | | |
-| 1693 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
+| 1693 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) |  | - |
 | 1694 | [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/) | | |
 | 1695 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | | |
 | 1696 | [Jump Game VI](https://leetcode.com/problems/jump-game-vi/) | | |
 | 1697 | [Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/) | | |
 | 1698 | [Number of Distinct Substrings in a String](https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/) | | |
-| 1699 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
+| 1699 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) |  | - |
 | 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | | |
 | 1701 | [Average Waiting Time](https://leetcode.com/problems/average-waiting-time/) | | |
 | 1702 | [Maximum Binary String After Change](https://leetcode.com/problems/maximum-binary-string-after-change/) | | |
@@ -1330,47 +1330,47 @@
 | 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | | |
 | 1705 | [Maximum Number of Eaten Apples](https://leetcode.com/problems/maximum-number-of-eaten-apples/) | | |
 | 1706 | [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | | |
-| 1707 | [Maximum XOR With an Element From Array](https://leetcode.com/problems/maximum-xor-with-an-element-from-array/) | [Java](Q01701-Q01800/01707-Maximum-XOR-With-an-Element-From-Array/java01707) |  |
+| 1707 | [Maximum XOR With an Element From Array](https://leetcode.com/problems/maximum-xor-with-an-element-from-array/) |  | [Java](Q01701-Q01800/01707-Maximum-XOR-With-an-Element-From-Array/java01707) |
 | 1708 | [Largest Subarray Length K](https://leetcode.com/problems/largest-subarray-length-k/) | | |
-| 1709 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
+| 1709 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) |  | - |
 | 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | | |
-| 1711 | [Count Good Meals](https://leetcode.com/problems/count-good-meals/) | [Java](Q01701-Q01800/01711-Count-Good-Meals/java01711) | [C++](Q01701-Q01800/01711-Count-Good-Meals/cpp01711) |
+| 1711 | [Count Good Meals](https://leetcode.com/problems/count-good-meals/) | [C++](Q01701-Q01800/01711-Count-Good-Meals/cpp01711) | [Java](Q01701-Q01800/01711-Count-Good-Meals/java01711) |
 | 1712 | [Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) | | |
 | 1713 | [Minimum Operations to Make a Subsequence](https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/) | | |
 | 1714 | [Sum Of Special Evenly-Spaced Elements In Array](https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array/) | | |
-| 1715 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
+| 1715 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) |  | - |
 | 1716 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | | |
 | 1717 | [Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/) | | |
 | 1718 | [Construct the Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/) | | |
 | 1719 | [Number Of Ways To Reconstruct A Tree](https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree/) | | |
-| 1720 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | [Java](1501-2000/01720-Decode-XORed-Array/java-01720) |  |
+| 1720 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) |  | [Java](1501-2000/01720-Decode-XORed-Array/java-01720) |
 | 1721 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | | |
 | 1722 | [Minimize Hamming Distance After Swap Operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/) | | |
-| 1723 | [Find Minimum Time to Finish All Jobs](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/) | [Java](Q01701-Q01800/01723-Find-Minimum-Time-to-Finish-All-Jobs/java-01723) |  |
+| 1723 | [Find Minimum Time to Finish All Jobs](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/) |  | [Java](Q01701-Q01800/01723-Find-Minimum-Time-to-Finish-All-Jobs/java-01723) |
 | 1724 | [Checking Existence of Edge Length Limited Paths II](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths-ii/) | | |
 | 1725 | [Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/) | | |
 | 1726 | [Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/) | | |
 | 1727 | [Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) | | |
 | 1728 | [Cat and Mouse II](https://leetcode.com/problems/cat-and-mouse-ii/) | | |
-| 1729 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
+| 1729 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) |  | - |
 | 1730 | [Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food/) | | |
-| 1731 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
+| 1731 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) |  | - |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | | |
 | 1733 | [Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/) | | |
-| 1734 | [Decode XORed Permutation](https://leetcode.com/problems/decode-xored-permutation/) | [Java](Q01701-Q01800/01734-Decode-XORed-Permutation/java-01734) |  |
+| 1734 | [Decode XORed Permutation](https://leetcode.com/problems/decode-xored-permutation/) |  | [Java](Q01701-Q01800/01734-Decode-XORed-Permutation/java-01734) |
 | 1735 | [Count Ways to Make Array With Product](https://leetcode.com/problems/count-ways-to-make-array-with-product/) | | |
 | 1736 | [Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/) | | |
 | 1737 | [Change Minimum Characters to Satisfy One of Three Conditions](https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/) | | |
-| 1738 | [Find Kth Largest XOR Coordinate Value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/) | [Java](Q01701-Q01800/01738-Find-Kth-Largest-XOR-Coordinate-Value/java01738) |  |
+| 1738 | [Find Kth Largest XOR Coordinate Value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/) |  | [Java](Q01701-Q01800/01738-Find-Kth-Largest-XOR-Coordinate-Value/java01738) |
 | 1739 | [Building Boxes](https://leetcode.com/problems/building-boxes/) | | |
 | 1740 | [Find Distance in a Binary Tree](https://leetcode.com/problems/find-distance-in-a-binary-tree/) | | |
-| 1741 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
-| 1742 | [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) | [Java](Q01701-Q01800/01742-Maximum-Number-of-Balls-in-a-Box/java01742) | [C++](Q01701-Q01800/01742-Maximum-Number-of-Balls-in-a-Box/cpp01742) |
+| 1741 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) |  | - |
+| 1742 | [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) | [C++](Q01701-Q01800/01742-Maximum-Number-of-Balls-in-a-Box/cpp01742) | [Java](Q01701-Q01800/01742-Maximum-Number-of-Balls-in-a-Box/java01742) |
 | 1743 | [Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-keyValues/) | | |
-| 1744 | [Can You Eat Your Favorite Candy on Your Favorite Day?](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) | [Java](Q01701-Q01800/01744-Can-You-Eat-Your-Favorite-Candy-on-Your-Favorite-Day/java01744) | [C++](Q01701-Q01800/01744-Can-You-Eat-Your-Favorite-Candy-on-Your-Favorite-Day/cpp01744) |
+| 1744 | [Can You Eat Your Favorite Candy on Your Favorite Day?](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) | [C++](Q01701-Q01800/01744-Can-You-Eat-Your-Favorite-Candy-on-Your-Favorite-Day/cpp01744) | [Java](Q01701-Q01800/01744-Can-You-Eat-Your-Favorite-Candy-on-Your-Favorite-Day/java01744) |
 | 1745 | [Palindrome Partitioning IV](https://leetcode.com/problems/palindrome-partitioning-iv/) | | |
 | 1746 | [Maximum Subarray Sum After One Operation](https://leetcode.com/problems/maximum-subarray-sum-after-one-operation/) | | |
-| 1747 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
+| 1747 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) |  | - |
 | 1748 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | | |
 | 1749 | [Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | | |
 | 1750 | [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | | |
@@ -1380,8 +1380,8 @@
 | 1754 | [Largest Merge Of Two Strings](https://leetcode.com/problems/largest-merge-of-two-strings/) | | |
 | 1755 | [Closest Subsequence Sum](https://leetcode.com/problems/closest-subsequence-sum/) | | |
 | 1756 | [Design Most Recently Used Queue](https://leetcode.com/problems/design-most-recently-used-queue/) | | |
-| 1757 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
-| 1758 | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | [Java](Q01701-Q01800/01758-Minimum-Changes-To-Make-Alternating-Binary-String/java01758) | [C++](Q01701-Q01800/01758-Minimum-Changes-To-Make-Alternating-Binary-String/cpp01758) |
+| 1757 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) |  | - |
+| 1758 | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | [C++](Q01701-Q01800/01758-Minimum-Changes-To-Make-Alternating-Binary-String/cpp01758) | [Java](Q01701-Q01800/01758-Minimum-Changes-To-Make-Alternating-Binary-String/java01758) |
 | 1759 | [Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/) | | |
 | 1760 | [Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) | | |
 | 1761 | [Minimum Degree of a Connected Trio in a Graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/) | | |
@@ -1390,24 +1390,25 @@
 | 1764 | [Form Array by Concatenating Subarrays of Another Array](1501-2000/1764-Form-Array-by-Concatenating-Subarrays-of-Another-Array/cpp-1764/) | | |
 | 1765 | [Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/) | | |
 | 1766 | [Tree of Coprimes](https://leetcode.com/problems/tree-of-coprimes/) | | |
-| 1767 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
-| 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [Java](Q01701-Q01800/1769-Minimum-Number-of-Operations-to-Move-All-Balls-to-Each-Box/java01769) | [C++](Q01701-Q01800/1769-Minimum-Number-of-Operations-to-Move-All-Balls-to-Each-Box/cpp01769) |
+| 1767 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) |  | - |
+| 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [C++](Q01701-Q01800/1769-Minimum-Number-of-Operations-to-Move-All-Balls-to-Each-Box/cpp01769) | [Java](Q01701-Q01800/1769-Minimum-Number-of-Operations-to-Move-All-Balls-to-Each-Box/java01769) |
 | 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) |                                                              |                                                              |
 | 1770 | [Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) | | |
-| 1771 | [Maximize Palindrome Length From Subsequences](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/) | [Java]() | |
+| 1771 | [Maximize Palindrome Length From Subsequences](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/) | | [Java]() |
 | 1772 | [Sort Features by Popularity](https://leetcode.com/problems/sort-features-by-popularity/) | | |
-| 01787 | [Make the XOR of All Segments Equal to Zero](https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero/) | [Java](Q01701-Q01800/01787-Make-the-XOR-of-All-Segments-Equal-to-Zero/cpp01787) |  |
-| 01796 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/) | [Java](Q01701-Q01800/01796-Second-Largest-Digit-in-a-String/java01796) | [C++](Q01701-Q01800/01796-Second-Largest-Digit-in-a-String/cpp01796) |
-| 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | [Java](Q01801-Q01900/01816-Truncate-Sentence/java-01816) |  |
-| 1818 | [Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/) | [Java](Q01801-Q01900/01818-Minimum-Absolute-Sum-Difference/java01818) | [C++](Q01801-Q01900/01818-Minimum-Absolute-Sum-Difference/cpp01818) |
-| 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [Java](Q01801-Q01900/01822-Sign-of-the-Product-of-an-Array/java01822) | [C++](Q01801-Q01900/01822-Sign-of-the-Product-of-an-Array/cpp01822) |
-| 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [Java](Q01801-Q01900/01832-Check-if-the-Sentence-Is-Pangram/java01832) | [C++](Q01801-Q01900/01832-Check-if-the-Sentence-Is-Pangram/cpp01832) |
-| 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | [Java](Q01801-Q01900/01833-Maximum-Ice-Cream-Bars/java01833) | [C++](Q01801-Q01900/01833-Maximum-Ice-Cream-Bars/cpp01833) |
-| 01844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/) | [Java](Q01801-Q01900/001844-Replace-All-Digits-with-Characters/java01844) | [C++](Q01801-Q01900/001844-Replace-All-Digits-with-Characters/cpp01844) |
-| 01846 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | [Java](Q01801-Q01900/01846-Maximum-Element-After-Decreasing-and-Rearranging/java01846) | [C++](Q01801-Q01900/01846-Maximum-Element-After-Decreasing-and-Rearranging/cpp01846) |
-| 01859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [Java](Q01801-Q01900/001859-Sorting-the-Sentence/java001859) |  |
-| 01886 | [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | [Java](Q01801-Q01900/01886-Determine-Whether-Matrix-Can-Be-Obtained-By-Rotation/java01886) | [C++](Q01801-Q01900/01886-Determine-Whether-Matrix-Can-Be-Obtained-By-Rotation/cpp01886) |
-| 01897 | [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) | [Java](Q01801-Q01900/01897-Redistribute-Characters-to-Make-All-Strings-Equal/java01897) | [C++](Q01801-Q01900/01897-Redistribute-Characters-to-Make-All-Strings-Equal/cpp01897) |
+| 01787 | [Make the XOR of All Segments Equal to Zero](https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero/) |  | [Java](Q01701-Q01800/01787-Make-the-XOR-of-All-Segments-Equal-to-Zero/cpp01787) |
+| 01796 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/) | [C++](Q01701-Q01800/01796-Second-Largest-Digit-in-a-String/cpp01796) | [Java](Q01701-Q01800/01796-Second-Largest-Digit-in-a-String/java01796) |
+| 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) |  | [Java](Q01801-Q01900/01816-Truncate-Sentence/java-01816) |
+| 1818 | [Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/) | [C++](Q01801-Q01900/01818-Minimum-Absolute-Sum-Difference/cpp01818) | [Java](Q01801-Q01900/01818-Minimum-Absolute-Sum-Difference/java01818) |
+| 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [C++](Q01801-Q01900/01822-Sign-of-the-Product-of-an-Array/cpp01822) | [Java](Q01801-Q01900/01822-Sign-of-the-Product-of-an-Array/java01822) |
+| 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [C++](Q01801-Q01900/01832-Check-if-the-Sentence-Is-Pangram/cpp01832) | [Java](Q01801-Q01900/01832-Check-if-the-Sentence-Is-Pangram/java01832) |
+| 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | [C++](Q01801-Q01900/01833-Maximum-Ice-Cream-Bars/cpp01833) | [Java](Q01801-Q01900/01833-Maximum-Ice-Cream-Bars/java01833) |
+| 1838 | [Frequency of the Most Frequent Element]() | [C++](Q01801-Q01900/01838-Frequency-of-the-Most-Frequent-Element/cpp01838) | [Java](Q01801-Q01900/01838-Frequency-of-the-Most-Frequent-Element/java01838) |
+| 01844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/) | [C++](Q01801-Q01900/001844-Replace-All-Digits-with-Characters/cpp01844) | [Java](Q01801-Q01900/001844-Replace-All-Digits-with-Characters/java01844) |
+| 01846 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | [C++](Q01801-Q01900/01846-Maximum-Element-After-Decreasing-and-Rearranging/cpp01846) | [Java](Q01801-Q01900/01846-Maximum-Element-After-Decreasing-and-Rearranging/java01846) |
+| 01859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) |  | [Java](Q01801-Q01900/001859-Sorting-the-Sentence/java001859) |
+| 01886 | [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | [C++](Q01801-Q01900/01886-Determine-Whether-Matrix-Can-Be-Obtained-By-Rotation/cpp01886) | [Java](Q01801-Q01900/01886-Determine-Whether-Matrix-Can-Be-Obtained-By-Rotation/java01886) |
+| 01897 | [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) | [C++](Q01801-Q01900/01897-Redistribute-Characters-to-Make-All-Strings-Equal/cpp01897) | [Java](Q01801-Q01900/01897-Redistribute-Characters-to-Make-All-Strings-Equal/java01897) |
 
 &nbsp;
 
