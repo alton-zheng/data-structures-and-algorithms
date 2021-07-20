@@ -41,6 +41,7 @@ import java.util.Arrays;
  *
  * Time Complexity : O(N*logN)
  * Space Complexity :O(logN)
+ * 排序 + 首尾结合
  */
 class Solution {
 
