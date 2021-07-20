@@ -50,7 +50,7 @@ class Solution {
         Arrays.sort(nums);
         int len = nums.length;
 
-        int res = -1;
+        int res = 0;
         int left = 0, right = len - 1;
 
         while (left < right) {
