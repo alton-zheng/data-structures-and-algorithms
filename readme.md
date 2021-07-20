@@ -1154,7 +1154,7 @@
 | 1473 | [Paint House III](https://leetcode.com/problems/paint-house-iii/) | | |
 | 1474 | [Delete N Nodes After M Nodes of a Linked List](https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/) | | |
 | 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | | |
-| 1476 | [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) | | |
+| 1476 | [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) | [Java](Q01401-Q01500/01476-Subrectangle-Queries/java01476) | [C++](Q01401-Q01500/01476-Subrectangle-Queries/cpp01476) |
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | | |
 | 1478 | [Allocate Mailboxes](https://leetcode.com/problems/allocate-mailboxes/) | | |
 | 1479 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
