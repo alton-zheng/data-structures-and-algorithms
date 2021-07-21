@@ -41,11 +41,11 @@ package java00724.m01;
  *
  * Constraints:
  *
- * 1 <= nums.length <= 104
+ * 1 <= nums.length <= 10^4
  * -1000 <= nums[i] <= 1000
  *
- * Time Complexity : O()
- * Space Complexity: O()
+ * Runtime: 1 ms, faster than 100.00% of Java online submissions for Find Pivot Index.
+ * Memory Usage: 39.9 MB, less than 29.59% of Java online submissions for Find Pivot Index.
  */
 class Solution {
     public int pivotIndex(int[] nums) {
