@@ -1,0 +1,59 @@
+# 两个链表第一个公共交点
+&nbsp;
+此题之前做过，[160 题](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
+
+当前用多种方法来实现它，印象比较深刻。
+&nbsp;
+## 方法： 双指针遍历，尾部相交
+由于此题要求尽量满足 O(N) 时间， O(1) 空间
+&nbsp;
+注意： 返回结果时，原 2 个链表保持原结构，因此不能原地处理
+&nbsp;
+这里采用双指针方法来求解，两指针分别遍历2个链表，遍历完后，替换成另个链表继续遍历，相交部分会在尾部重合（两个指针值相等）
+&nbsp;
+文字说明，印象没那么深刻，来模拟下： 
+- nodeA : headA + headB
+- nodeB : headB + headA
+> nodeA 和 nodeB 的长度肯定相等，因此两个链表如果有相交部分，nodeA, nodeB 会在尾部值相等
+&nbsp;
+
+## 代码 
+```java []
+public class Solution {
+    public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
+
+        ListNode nodeA = headA, nodeB = headB;
+
+        while (nodeA != nodeB) {
+
+            nodeA = nodeA != null ? nodeA.next : headB;
+            nodeB = nodeB != null ? nodeB.next : headA;
+        }
+
+        return nodeA;
+    }
+}
+```
+```cpp []
+class Solution {
+public:
+    ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+        ListNode* nodeA = headA;
+        ListNode* nodeB = headB;
+
+        while (nodeA != nodeB) {
+            nodeA = nodeA != nullptr ? nodeA -> next : headB;
+            nodeB = nodeB != nullptr ? nodeB -> next : headA;
+        }
+
+        return nodeA;
+    }
+};
+```
+&nbsp;
+
+![Screen Shot 2021-07-21 at 9.10.41 AM.png](https://pic.leetcode-cn.com/1626829861-TOfCfx-Screen%20Shot%202021-07-21%20at%209.10.41%20AM.png)
+
+## 复杂度分析： 
+- 时间复杂度： O(len(headA + headB)) = O(N)
+- 空间复杂度： O(1) 

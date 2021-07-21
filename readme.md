@@ -1428,6 +1428,8 @@
 | 剑指 Offer 37 | [序列化二叉树](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/) | [Java](剑指 Offer/0037-xu-lie-hua-er-cha-shu-lcof/java0037)  | [C++](剑指 Offer/0037-xu-lie-hua-er-cha-shu-lcof/cpp0037)    |
 | 剑指 Offer 38 | [字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) | [Java](剑指 Offer/0038-zi-fu-chuan-de-pai-lie-lcof/java0038) | [C++](剑指 Offer/0038-zi-fu-chuan-de-pai-lie-lcof/cpp0038)   |
 | 剑指 Offer 42 | [连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) | [Java](剑指 Offer/0042-lian-xu-zi-shu-zu-de-zui-da-he-lcof/java0042) | [C++](剑指 Offer/0042-lian-xu-zi-shu-zu-de-zui-da-he-lcof/cpp0042) |
+|               |                                                              |                                                              |                                                              |
+| 剑指 Offer 52 | [两个链表的第一个公共节点](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/) | [Java](剑指 Offer/0052-liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/java0052) | [C++](剑指 Offer/0052-liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/cpp0052) |
 | 剑指 Offer 53 | [在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/) | [Java](剑指 Offer/0053-zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/java0053) | [C++](剑指 Offer/0053-zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/cpp0053) |
 |               |                                                              |                                                              |                                                              |
 
