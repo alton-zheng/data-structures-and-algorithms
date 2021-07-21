@@ -174,7 +174,7 @@
 | 186 | [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/description/) | | | |
 | | | | | |
 | 188 | [Best-Time-to-Buy-and-Sell-Stock-IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | | | |
-| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) | | | |
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Java](Q00101-Q00200/00189-Rotate-Array/java00189) | [C++](Q00101-Q00200/00189-Rotate-Array/cpp00189) | |
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Java](Q00101-Q00200/00190-Reverse-Bits/java00190) | [C++](Q00101-Q00200/00190-Reverse-Bits/java00190) |  |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [Java](Q00101-Q00200/00191-Number-of-1-Bits/java00191) | [C++](Q00101-Q00200/00191-Number-of-1-Bits/cpp00191) |  |
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [Mysql](Q00101-Q00200/00196-Delete-Duplicate-Emails/mysql00196) | | |
@@ -551,7 +551,7 @@
 | 721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/description/) | | | |
 | 722 | [Remove Comments](https://leetcode.com/problems/remove-comments/description/) | | | |
 | 723 | [Candy Crush](https://leetcode.com/problems/candy-crush/description/) | | | |
-| 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | | | |
+| 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | [Java](Q00701-Q00800/00724-Find-Pivot-Index/java00724) | [C++](Q00701-Q00800/00724-Find-Pivot-Index/cpp00724) | |
 | 725 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/) | | | |
 | 726 | [Number of Atoms](https://leetcode.com/problems/number-of-atoms/) | [Java](Q00701-Q00800/00726-Number-of-Atoms/java00726) | [C++](Q00701-Q00800/00726-Number-of-Atoms/cpp00726) | |
 | 727 | [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/description/) | | | |
