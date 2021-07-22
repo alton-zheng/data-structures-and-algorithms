@@ -15,13 +15,13 @@ package java00382.m02;
  *
  *
  * Input
- * ["Solution", "getRandom", "getRandom", "getRandom", "getRandom", "getRandom"]
+ * ["Solution.cpp", "getRandom", "getRandom", "getRandom", "getRandom", "getRandom"]
  * [[[1, 2, 3]], [], [], [], [], []]
  * Output
  * [null, 1, 3, 2, 2, 3]
  *
  * Explanation
- * Solution solution = new Solution([1, 2, 3]);
+ * Solution.cpp solution = new Solution.cpp([1, 2, 3]);
  * solution.getRandom(); // return 1
  * solution.getRandom(); // return 3
  * solution.getRandom(); // return 2
@@ -95,8 +95,8 @@ class Solution {
 }
 
 /**
- * Your Solution object will be instantiated and called as such:
- * Solution obj = new Solution(head);
+ * Your Solution.cpp object will be instantiated and called as such:
+ * Solution.cpp obj = new Solution.cpp(head);
  * int param_1 = obj.getRandom();
  */
 

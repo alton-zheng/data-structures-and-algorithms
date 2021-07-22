@@ -135,7 +135,7 @@
 | 135 | [Candy](https://leetcode.com/problems/candy/) | | | |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | | | |
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [java](Q00101-Q00200/00137-Single-Number-II/java-00137/src) |  |  |
-| 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | | | |
+| 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | [Java](Q00101-Q00200/00138-Copy-List-with-Random-Pointer/java00138) | [C++](Q00101-Q00200/00138-Copy-List-with-Random-Pointer/cpp0138) | |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/) | | | |
 | | | | | |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | | | |
