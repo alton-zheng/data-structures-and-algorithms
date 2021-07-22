@@ -572,6 +572,7 @@
 | | | | | |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Java](Q00701-Q00800/00746-Min-Cost-Climbing-Stairs/java00746) |  |  |
 | 747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | [Java](Q00701-Q00800/00747-Largest-Number-At-Least-Twice-of-Others/java00747) | [C++](Q00701-Q00800/00747-Largest-Number-At-Least-Twice-of-Others/cpp00747) | |
+| 748 | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) | [Java](Q00701-Q00800/00748-Shortest-Completing-Word/java00748) |  | |
 | 749 | | [Java](Q00701-Q00800/00749-Contain-Virus/java00749) |  |  |
 | 752 | [Open the Lock](https://leetcode.com/problems/open-the-lock/description/) | [Java](Q00701-Q00800/00752-Open-the-Lock/java00752) | [C++](Q00701-Q00800/00752-Open-the-Lock/cpp00752) |  |
 | | | | | |
