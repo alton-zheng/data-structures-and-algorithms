@@ -680,7 +680,7 @@
 | 893 | [Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/description/) | | | |
 | 894 | [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/description/) | | | |
 | 895 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/description/) | | | |
-| 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/description/) | | | |
+| 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/description/) | [Java](Q00801-Q00900/00896-Monotonic-Array/java00896) | [C++](Q00801-Q00900/00896-Monotonic-Array/cpp00896) | |
 | 897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/description/) | [Java](Q00801-Q00900/00897-Increasing-Order-Search-Tree/java00897) | [C++](Q00801-Q00900/00897-Increasing-Order-Search-Tree/cpp00897) | |
 | 898 | [Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/description/) | [Java](Q00801-Q00900/00898-Bitwise-ORs-of-Subarrays/java00898) | [C++](Q00801-Q00900/00898-Bitwise-ORs-of-Subarrays/cpp00898) |  |
 | 899 | [Orderly Queue](https://leetcode.com/problems/orderly-queue/description/) | | | |
