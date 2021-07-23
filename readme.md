@@ -1411,7 +1411,10 @@
 | 01859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) |  | [Java](Q01801-Q01900/001859-Sorting-the-Sentence/java001859) |
 | 01877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | [C++](Q01801-Q01900/01877-Minimize-Maximum-Pair-Sum-in-Array/cpp01877) | [Java](Q01801-Q01900/01877-Minimize-Maximum-Pair-Sum-in-Array/java01877) |
 | 01886 | [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | [C++](Q01801-Q01900/01886-Determine-Whether-Matrix-Can-Be-Obtained-By-Rotation/cpp01886) | [Java](Q01801-Q01900/01886-Determine-Whether-Matrix-Can-Be-Obtained-By-Rotation/java01886) |
+| 01893 | [Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/) | [C++](Q01801-Q01900/01893-Check-if-All-the-Integers-in-a-Range-Are-Covered/cpp01893) | [Java](Q01801-Q01900/01893-Check-if-All-the-Integers-in-a-Range-Are-Covered/java01893) |
 | 01897 | [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) | [C++](Q01801-Q01900/01897-Redistribute-Characters-to-Make-All-Strings-Equal/cpp01897) | [Java](Q01801-Q01900/01897-Redistribute-Characters-to-Make-All-Strings-Equal/java01897) |
+
+
 
 &nbsp;
 
