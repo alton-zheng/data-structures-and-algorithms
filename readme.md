@@ -1361,7 +1361,7 @@
 | 1733 | [Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/) | | |
 | 1734 | [Decode XORed Permutation](https://leetcode.com/problems/decode-xored-permutation/) |  | [Java](Q01701-Q01800/01734-Decode-XORed-Permutation/java-01734) |
 | 1735 | [Count Ways to Make Array With Product](https://leetcode.com/problems/count-ways-to-make-array-with-product/) | | |
-| 1736 | [Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/) | | |
+| 1736 | [Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/) | [C++](Q01701-Q01800/01736-Latest-Time-by-Replacing-Hidden-Digits/cpp01736) | [Java](Q01701-Q01800/01736-Latest-Time-by-Replacing-Hidden-Digits/cpp01736) |
 | 1737 | [Change Minimum Characters to Satisfy One of Three Conditions](https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/) | | |
 | 1738 | [Find Kth Largest XOR Coordinate Value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/) |  | [Java](Q01701-Q01800/01738-Find-Kth-Largest-XOR-Coordinate-Value/java01738) |
 | 1739 | [Building Boxes](https://leetcode.com/problems/building-boxes/) | | |
