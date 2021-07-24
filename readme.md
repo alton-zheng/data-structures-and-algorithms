@@ -499,11 +499,11 @@
 | 659 | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | | | |
 | 661 | [Image Smoother](https://leetcode.com/problems/image-smoother/) | [Java](Q00601-Q00700/00661-Image-Smoother/java00661) | [C++](Q00601-Q00700/00661-Image-Smoother/cpp00661) |  |
 | 664 | [Strange Printer](https://leetcode.com/problems/strange-printer/) | [Java](Q00601-Q00700/00664-Strange-Printer/java00664) |  |  |
-| 665 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | | | |
+| 665 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [Java]() | | |
 | | | | | |
 | 667 | [Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/) | | | |
 | 668 | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | | | |
-| 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [Java](Q00601-Q00700/00669-Trim-a-Binary-Search-Tree/java00669) | [C++](Q00601-Q00700/00669-Trim-a-Binary-Search-Tree/cpp00669) |  |
+| 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [Java](Q00601-Q00700/00665-Non-decreasing-Array/java00665) | [C++](Q00601-Q00700/00665-Non-decreasing-Array/cpp00665) |  |
 | | | | | |
 | 672 | [Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/description/) | | | |
 | 673 | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/) | | | |
