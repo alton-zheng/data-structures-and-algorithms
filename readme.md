@@ -1102,7 +1102,7 @@
 | 1420 | [Build Array Where You Can Find The Maximum Exactly K Comparisons](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | | |
 | 1421 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | 1422 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Java](Q01401-Q01500/01422-Maximum-Score-After-Splitting-a-String/java01422) |  |
-| 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | | |
+| 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [Java](Q01401-Q01500/01423-Maximum-Points-You-Can-Obtain-from-Cards/java01423) | [C++](Q01401-Q01500/01423-Maximum-Points-You-Can-Obtain-from-Cards/cpp01423) |
 | 1424 | [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/) | | |
 | 1425 | [Constrained Subset Sum](https://leetcode.com/problems/constrained-subset-sum/) | | |
 | 1426 | [Counting Elements](https://leetcode.com/problems/counting-elements/) | | |
