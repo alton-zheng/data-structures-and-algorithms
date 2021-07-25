@@ -91,7 +91,7 @@
 | 091 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | | | |
 | 092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) | | | |
 | 093 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | | | |
-| 094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [Java](Q00401-Q00500/0094-Binary-Tree-Inorder-Traversal/java-0094/src/) |  |  |
+| 094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [Java](Q00001-Q00100/00094-Binary-Tree-Inorder-Traversal/java0094) | [C++](Q00001-Q00100/00094-Binary-Tree-Inorder-Traversal/cpp0094) |  |
 | 095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) | | | |
 | 096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | | | |
 | | | | | |
