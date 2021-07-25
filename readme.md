@@ -745,7 +745,7 @@
 | 958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | | | |
 | 959 | [Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/) | | | |
 | 960 | [Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/) | | | |
-| 961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | | | |
+| 961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [Java](Q00901-Q01000/00961-N-Repeated-Element-in-Size-2N-Array/java00961) | [C++](Q00901-Q01000/00961-N-Repeated-Element-in-Size-2N-Array/cpp00961) | |
 | | | | | |
 | 965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | | | |
 | 966 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | | | |
