@@ -1338,7 +1338,7 @@
 | 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | | |
 | 1711 | [Count Good Meals](https://leetcode.com/problems/count-good-meals/) | [C++](Q01701-Q01800/01711-Count-Good-Meals/cpp01711) | [Java](Q01701-Q01800/01711-Count-Good-Meals/java01711) |
 | 1712 | [Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) | | |
-| 1713 | [Minimum Operations to Make a Subsequence](https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/) | | |
+| 1713 | [Minimum Operations to Make a Subsequence](https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/) | [C++](Q01701-Q01800/01713-Minimum-Operations-to-Make-a-Subsequence/cpp01713) | [Java](Q01701-Q01800/01713-Minimum-Operations-to-Make-a-Subsequence/cpp01713) |
 | 1714 | [Sum Of Special Evenly-Spaced Elements In Array](https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array/) | | |
 | 1715 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) |  | - |
 | 1716 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | | |
