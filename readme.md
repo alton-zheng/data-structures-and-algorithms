@@ -261,7 +261,7 @@
 | | | | | |
 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) | [Java](Q00201-Q00300/00297-Serialize-and-Deserialize-Binary-Tree/java00297) | [C++](Q00201-Q00300/00297-Serialize-and-Deserialize-Binary-Tree/java00297) | |
 | | | | | |
-| 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [Java](Q00401-Q00500/0300-Longest-Increasing-Subsequence/java-0300/src/) |  |  |
+| 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [Java](Q00201-Q00300/00300-Longest-Increasing-Subsequence/java00300) | [C++](Q00201-Q00300/00300-Longest-Increasing-Subsequence/cpp00300) |  |
 | 301 | [0301-Remove-Invalid-Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | | | |
 | | | | | |
 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) | | | |
