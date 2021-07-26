@@ -893,7 +893,7 @@
 | 1139 | [Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/) | | |
 | 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | [Java](Q01101-Q01200/1140-Stone-Game-II/java01140/) |  |
 | | | | |
-| 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | | |
+| 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Java](Q01101-Q01200/01143-Longest-Common-Subsequence/java01143) | [C++](Q01101-Q01200/01143-Longest-Common-Subsequence/cpp01143) |
 | 1144 | [Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/) | | |
 | 1145 | [Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/) | | |
 | 1146 | [Snapshot Array](https://leetcode.com/problems/snapshot-array/) | | |
