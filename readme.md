@@ -1399,6 +1399,7 @@
 | 1771 | [Maximize Palindrome Length From Subsequences](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/) | | [Java]() |
 | 1772 | [Sort Features by Popularity](https://leetcode.com/problems/sort-features-by-popularity/) | | |
 | 01787 | [Make the XOR of All Segments Equal to Zero](https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero/) |  | [Java](Q01701-Q01800/01787-Make-the-XOR-of-All-Segments-Equal-to-Zero/cpp01787) |
+| 01791 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | [C++](Q01701-Q01800/01791-Find-Center-of-Star-Graph/cpp01791) | [Java](Q01701-Q01800/01791-Find-Center-of-Star-Graph/java01791) |
 | 01796 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/) | [C++](Q01701-Q01800/01796-Second-Largest-Digit-in-a-String/cpp01796) | [Java](Q01701-Q01800/01796-Second-Largest-Digit-in-a-String/java01796) |
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) |  | [Java](Q01801-Q01900/01816-Truncate-Sentence/java-01816) |
 | 1818 | [Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/) | [C++](Q01801-Q01900/01818-Minimum-Absolute-Sum-Difference/cpp01818) | [Java](Q01801-Q01900/01818-Minimum-Absolute-Sum-Difference/java01818) |
