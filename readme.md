@@ -504,7 +504,7 @@
 | 667 | [Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/) | | | |
 | 668 | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | | | |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [Java](Q00601-Q00700/00665-Non-decreasing-Array/java00665) | [C++](Q00601-Q00700/00665-Non-decreasing-Array/cpp00665) |  |
-| | | | | |
+| 671 | [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) | [Java](Q00601-Q00700/00671-Second-Minimum-Node-In-a-Binary-Tree/java00671) | [C++](Q00601-Q00700/00671-Second-Minimum-Node-In-a-Binary-Tree/cpp00671) | |
 | 672 | [Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/description/) | | | |
 | 673 | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/) | | | |
 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | | | |
