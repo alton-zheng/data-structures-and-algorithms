@@ -647,7 +647,7 @@
 | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/description/) | [Java](Q00801-Q00900/0860-Lemonade-Change/java00860) |  |  |
 | 861 | [Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/description/) | | | |
 | | | | | |
-| 863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/) | | | |
+| 863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/) | [Java](Q00801-Q00900/00863-All-Nodes-Distance-K-in-Binary-Tree/java00863) | [C++](Q00801-Q00900/00863-All-Nodes-Distance-K-in-Binary-Tree/cpp00863) | |
 | 864 | [Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/description/) | | | |
 | 865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/) | | | |
 | 866 | [Prime Palindrome](https://leetcode.com/problems/prime-palindrome/description/) | | | |
