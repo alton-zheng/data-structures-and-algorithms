@@ -689,7 +689,7 @@
 | 902 | [Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/description/) | | | |
 | 903 | [Valid Permutations for DI Sequence](https://leetcode.com/problems/valid-permutations-for-di-sequence/description/) | | | |
 | 904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/) | | | |
-| 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/) | | | |
+| 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/) | [Java](Q00901-Q01000/00905-Sort-Array-By-Parity/java00905) | [C++](Q00901-Q01000/00905-Sort-Array-By-Parity/cpp00905) | |
 | 906 | [Super Palindromes](https://leetcode.com/problems/super-palindromes/description/) | | | |
 | 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/description/) | | | |
 | 908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i/description/) | | | |
