@@ -342,7 +342,7 @@
 | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [Java](Q00401-Q00500/00401-Binary-Watch/java00401) | [C++](Q00401-Q00500/00401-Binary-Watch/cpp00401) |  |
 | 402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | | | |
 | | | | | |
-| 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | | | |
+| 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Java](Q00401-Q00500/00404-Sum-of-Left-Leaves/java00404) | [C++](Q00401-Q00500/00404-Sum-of-Left-Leaves/cpp00404) | |
 | | | | | |
 | 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | | | |
 | | | | | |
