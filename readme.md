@@ -863,7 +863,7 @@
 | 1101 | [The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/) | | |
 | 1102 | [Path With Maximum Minimum Value](https://leetcode.com/problems/path-with-maximum-minimum-value/) | | |
 | 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/) | | |
-| 1104 | [Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/) | | |
+| 1104 | [Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/) | [Java](Q01101-Q01200/01104-Path-In-Zigzag-Labelled-Binary-Tree/java01104) | [C++](Q01101-Q01200/01104-Path-In-Zigzag-Labelled-Binary-Tree/cpp01104) |
 | 1105 | [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/) | | |
 | 1106 | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | | |
 | | | | |
