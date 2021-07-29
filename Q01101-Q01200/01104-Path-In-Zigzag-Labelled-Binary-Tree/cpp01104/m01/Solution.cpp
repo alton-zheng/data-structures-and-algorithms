@@ -1,3 +1,5 @@
+// Runtime: 0 ms, faster than 100.00% of C++ online submissions for Path In Zigzag Labelled Binary Tree.
+// Memory Usage: 6.2 MB, less than 67.75% of C++ online submissions for Path In Zigzag Labelled Binary Tree.
 class Solution {
 public:
     vector<int> pathInZigZagTree(int label) {
