@@ -308,7 +308,7 @@
 | | | | | |
 | 364 | [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/) | | | |
 | 365 | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) | | | |
-| | | | | |
+| 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Java](Q00301-Q00400/00367-Valid-Perfect-Square/java00367) | [C++](Q00301-Q00400/00367-Valid-Perfect-Square/cpp00367) | |
 | 369 | [Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/) | | | |
 | 370 | [Range Addition](https://leetcode.com/problems/range-addition/description/) | | | |
 | | | | | |
