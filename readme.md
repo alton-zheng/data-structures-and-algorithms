@@ -164,7 +164,7 @@
 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Java](Q00101-Q00200/00168-Excel-Sheet-Column-Title/java00168) | [C++](Q00101-Q00200/00168-Excel-Sheet-Column-Title/cpp0016) | |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | | | |
 | 170 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/description/) | | | |
-| 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) | | | |
+| 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) | [Java](Q00101-Q00200/00171-Excel-Sheet-Column/java00171) | [C++](Q00101-Q00200/00171-Excel-Sheet-Column/cpp00171) | |
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Java](Q00101-Q00200/00172-Factorial-Trailing-Zeroes/java00172) | [C++](Q00101-Q00200/00172-Factorial-Trailing-Zeroes/cpp00172) | [Python](Q00101-Q00200/00172-Factorial-Trailing-Zeroes/py00172) |
 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/) | | | |
 | 178 | [Rank Scoresq](https://leetcode.com/problems/rank-scores/) | [oracle](Q00101-Q00200/00178-Rank-Scores/oracle00178) | [mysql](Q00101-Q00200/00178-Rank-Scores/mysql00178) | |
