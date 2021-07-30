@@ -449,7 +449,7 @@
 | | | | | |
 | 559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/) | [Java](Q00501-Q00600/0559-Maximum-Depth-of-N-ary-Tree/java00559) | [C++](Q00501-Q00600/0559-Maximum-Depth-of-N-ary-Tree/cpp00559) |  |
 | 00560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Java](Q00501-Q00600/00560-Subarray-Sum-Equals-K/java00560) | [C++](Q00501-Q00600/00560-Subarray-Sum-Equals-K/cpp00560) |  |
-| 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | | | |
+| 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [Java](Q00501-Q00600/00561-Array-Partition-I/java00561) | [C++](Q00501-Q00600/00561-Array-Partition-I/cpp00561) | |
 | | | | | |
 | 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [Java](Q00501-Q00600/00563-Binary-Tree-Tilt/java00563) | [C++](Q00501-Q00600/00563-Binary-Tree-Tilt/cpp00563) | |
 | | | | | |
