@@ -7,8 +7,6 @@ package java00414.m01;
  * 414. Third Maximum Number #257
  * Given integer array nums, return the third maximum number in this array. If the third maximum does not exist, return the maximum number.
  *
- *
- *
  * Example 1:
  *
  * Input: nums = [3,2,1]
