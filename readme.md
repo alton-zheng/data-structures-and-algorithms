@@ -769,7 +769,7 @@
 | 984 | [String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/) | | | |
 | 985 | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | | | |
 | 986 | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | | | |
-| 987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | | | |
+| 987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Java](Q00901-Q01000/00987-Vertical-Order-Traversal-of-a-Binary-Tree/java00987) | [C++](Q00901-Q01000/00987-Vertical-Order-Traversal-of-a-Binary-Tree/cpp00987) | |
 | 988 | [Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/) | | | |
 | 989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | | | |
 | 990 | [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | | | |
