@@ -145,7 +145,7 @@
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [Java](Q00401-Q00500/0145-Binary-Tree-Postorder-Traversal/java-0145/src/) |  |  |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Java](Q00101-Q00200/00146-LRU-Cache/java00146) |  |  |
 | 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | | | |
-| 148 | [Sort List](https://leetcode.com/problems/sort-list/description/) | | | |
+| 148 | [Sort List](https://leetcode.com/problems/sort-list/description/) | [Java](Q00101-Q00200/00148-Sort-List/java00148) | [C++](Q00101-Q00200/00148-Sort-List/cpp00148) | |
 | 149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) | [Java](Q00101-Q00200/0149-Max-Points-on-a-Line/java00149) | [C++](Q00101-Q00200/0149-Max-Points-on-a-Line/cpp00149) |  |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | | | |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | | | |
