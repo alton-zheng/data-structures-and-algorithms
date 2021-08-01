@@ -1434,7 +1434,7 @@
 |  |  |  |  |
 |  |  |  |  |
 | 1952 | [Three Divisors](https://leetcode.com/problems/three-divisors/) | [Java](Q01901-Q02000/01952-Three-Divisors/java00952) | [C++](Q01901-Q02000/01952-Three-Divisors/cpp00952) |
-|  |  |  |  |
+| 1953 | [Maximum Number of Weeks for Which You Can Work](https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work/) | [Java](Q01901-Q02000/01953-Maximum-Number-of-Weeks-for-Which-You-Can-Work/java01953) | [C++](Q01901-Q02000/01953-Maximum-Number-of-Weeks-for-Which-You-Can-Work/cpp01953) |
 
 
 
