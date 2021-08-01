@@ -1415,8 +1415,32 @@
 | 01886 | [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | [C++](Q01801-Q01900/01886-Determine-Whether-Matrix-Can-Be-Obtained-By-Rotation/cpp01886) | [Java](Q01801-Q01900/01886-Determine-Whether-Matrix-Can-Be-Obtained-By-Rotation/java01886) |
 | 01893 | [Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/) | [C++](Q01801-Q01900/01893-Check-if-All-the-Integers-in-a-Range-Are-Covered/cpp01893) | [Java](Q01801-Q01900/01893-Check-if-All-the-Integers-in-a-Range-Are-Covered/java01893) |
 | 01897 | [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) | [C++](Q01801-Q01900/01897-Redistribute-Characters-to-Make-All-Strings-Equal/cpp01897) | [Java](Q01801-Q01900/01897-Redistribute-Characters-to-Make-All-Strings-Equal/java01897) |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+| 1952 | [Three Divisors](https://leetcode.com/problems/three-divisors/) | [Java](Q01901-Q02000/01952-Three-Divisors/java00952) | [C++](Q01901-Q02000/01952-Three-Divisors/cpp00952) |
+|  |  |  |  |
 
 
+
+
+
+&nbsp;
 
 &nbsp;
 
