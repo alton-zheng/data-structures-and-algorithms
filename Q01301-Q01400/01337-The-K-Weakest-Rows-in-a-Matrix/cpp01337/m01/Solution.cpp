@@ -29,18 +29,18 @@ public:
 
 private:
     int getOnes(vector<int>& arr) {
-        int lower = 0, hight = arr.size();
 
-        while (lower < hight) {
-            int mid = lower + (hight - lower) / 2;
+        int left = 0, right = arr.size();
 
+        while (left < right) {
+            int mid = left + ((right - left) >> 1);
             if (arr[mid] == 1) {
-                lower = mid + 1;
+                left = mid + 1;
             } else {
-                hight = mid;
+                right = mid;
             }
         }
 
-        return lower;
+        return left;
     }
 };

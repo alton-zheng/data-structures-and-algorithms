@@ -1,4 +1,4 @@
-package java01337;
+package java01337.m02;
 
 import java.util.PriorityQueue;
 
@@ -68,11 +68,11 @@ import java.util.PriorityQueue;
  * Runtime: 2 ms, faster than 57.04% of Java online submissions for The K Weakest Rows in a Matrix.
  * Memory Usage: 39.8 MB, less than 62.99% of Java online submissions for The K Weakest Rows in a Matrix.
  */
-class Solution2 {
+class Solution {
     public int[] kWeakestRows(int[][] mat, int k) {
 
         PriorityQueue<int[]> queue = new PriorityQueue<>((first, second) -> first[0] != second[0] ? second[0] - first[0] : second[1] - first[1]);
-        int[] ans = new int[k];
+        int[] res = new int[k];
 
         for (int i = 0; i < mat.length; i++) {
 
@@ -83,30 +83,25 @@ class Solution2 {
         }
 
         while (k > 0) {
-            ans[--k] = queue.poll()[1];
+            res[--k] = queue.poll()[1];
         }
 
-        return ans;
+        return res;
     }
 
-    /**
-     * binary search
-     * @param arr
-     * @return
-     */
     private int getOnes(int[] arr) {
-        int low = 0, hight = arr.length;
+        int left = 0, right = arr.length;
 
-        while (low < hight) {
-            int mid = low + (hight - low) / 2;
+        while (left < right) {
+            int mid = left + (right - left) / 2;
 
             if (arr[mid] == 1) {
-                low = mid + 1;
+                left = mid + 1;
             } else {
-                hight = mid;
+                right = mid;
             }
         }
 
-        return low;
+        return left;
     }
 }

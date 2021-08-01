@@ -1,4 +1,4 @@
-package java01337;
+package java01337.m01;
 
 import java.util.*;
 
@@ -72,10 +72,10 @@ class Solution {
     public int[] kWeakestRows(int[][] mat, int k) {
 
         List<List<Integer>> help = new ArrayList<>();
-        int[] ans = new int[k];
+        int[] res = new int[k];
 
         for (int i = 0; i < mat.length; i++) {
-            List<Integer> temp = new ArrayList<Integer>();
+            List<Integer> temp = new ArrayList<>();
             temp.add(getOnes(mat[i]));
             temp.add(i);
             help.add(temp);
@@ -85,29 +85,24 @@ class Solution {
                 i1.get(0) != i1.get(0) ? i1.get(1) - i2.get(1) : i1.get(0) - i2.get(0));
 
         for (int i = 0; i < k; i++) {
-            ans[i] = help.get(i).get(1);
+            res[i] = help.get(i).get(1);
         }
-        return ans;
+        return res;
     }
 
-    /**
-     * binary search
-     * @param arr
-     * @return
-     */
     private int getOnes(int[] arr) {
-        int low = 0, hight = arr.length;
+        int left = 0, right = arr.length;
 
-        while (low < hight) {
-            int mid = low + (hight - low) / 2;
+        while (left < right) {
+            int mid = ((right - left)>> 1) + left;
 
             if (arr[mid] == 1) {
-                low = mid + 1;
+                left = mid + 1;
             } else {
-                hight = mid;
+                right = mid;
             }
         }
 
-        return low;
+        return left;
     }
 }
