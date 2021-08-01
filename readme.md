@@ -1435,6 +1435,7 @@
 |  |  |  |  |
 | 1952 | [Three Divisors](https://leetcode.com/problems/three-divisors/) | [Java](Q01901-Q02000/01952-Three-Divisors/java00952) | [C++](Q01901-Q02000/01952-Three-Divisors/cpp00952) |
 | 1953 | [Maximum Number of Weeks for Which You Can Work](https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work/) | [Java](Q01901-Q02000/01953-Maximum-Number-of-Weeks-for-Which-You-Can-Work/java01953) | [C++](Q01901-Q02000/01953-Maximum-Number-of-Weeks-for-Which-You-Can-Work/cpp01953) |
+| 1954 | [Minimum Garden Perimeter to Collect Enough Apples](https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/) | [Java](Q01901-Q02000/01954-Minimum-Garden-Perimeter-to-Collect-Enough-Apples/java01954) | [C++](Q01901-Q02000/01954-Minimum-Garden-Perimeter-to-Collect-Enough-Apples/cpp01954) |
 
 
 
