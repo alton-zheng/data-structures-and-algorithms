@@ -570,6 +570,7 @@
 | 740 | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/) | [Java](0501-1000/0740-Delete-and-Earn/java-00740) |  |  |
 | 741 | [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/description/) | | | |
 | | | | | |
+| 743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | [Java](Q00701-Q00800/00743-Network-Delay-Time/java00743) | [C++](Q00701-Q00800/00743-Network-Delay-Time/cpp00743) | |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Java](Q00701-Q00800/00746-Min-Cost-Climbing-Stairs/java00746) |  |  |
 | 747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | [Java](Q00701-Q00800/00747-Largest-Number-At-Least-Twice-of-Others/java00747) | [C++](Q00701-Q00800/00747-Largest-Number-At-Least-Twice-of-Others/cpp00747) | |
 | 748 | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) | [Java](Q00701-Q00800/00748-Shortest-Completing-Word/java00748) |  | |
