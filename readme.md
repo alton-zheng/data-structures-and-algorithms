@@ -821,7 +821,7 @@
 | 1030 | [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/) | [Java](Q01001-Q01100/01030-Matrix-Cells-in-Distance-Order/java01030) |  |
 | 1031 | [Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/) | | |
 | 1032 | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/) | | |
-| 1033 | [Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive/) | | |
+| 1033 | [Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive/) | [Java](Q01001-Q01100/01033-Moving-Stones-Until-Consecutive/java01033) | [C++](Q01001-Q01100/01033-Moving-Stones-Until-Consecutive/cpp01033) |
 | 1034 | [Coloring A Border](https://leetcode.com/problems/coloring-a-border/) | | |
 | 1035 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | [Java](Q01001-Q01100/01035-Uncrossed-Lines/java01035) |  |
 | 1036 | [Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze/) | | |
