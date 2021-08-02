@@ -1374,7 +1374,7 @@
 | 1745 | [Palindrome Partitioning IV](https://leetcode.com/problems/palindrome-partitioning-iv/) | | |
 | 1746 | [Maximum Subarray Sum After One Operation](https://leetcode.com/problems/maximum-subarray-sum-after-one-operation/) | | |
 | 1747 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) |  | - |
-| 1748 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | | |
+| 1748 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | [C++](Q01701-Q01800/01748-Sum-of-Unique-Elements/cpp01748) | [Java](Q01701-Q01800/01748-Sum-of-Unique-Elements/java01748) |
 | 1749 | [Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | | |
 | 1750 | [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | | |
 | 1751 | [Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/) | | |
