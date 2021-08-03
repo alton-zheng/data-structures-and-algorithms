@@ -1070,7 +1070,7 @@
 | 1384 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
 | | | | |
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | | |
-| 1390 | [Four Divisors](https://leetcode.com/problems/four-divisors/) | | |
+| 1390 | [Four Divisors](https://leetcode.com/problems/four-divisors/) | [Java](Q01301-Q01400/01390-Four-Divisors/java01390) | [C++](Q01301-Q01400/01390-Four-Divisors/cpp01390) |
 | 1391 | [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | | |
 | 1392 | [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/) | | |
 | 1393 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
