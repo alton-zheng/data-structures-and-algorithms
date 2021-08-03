@@ -1380,7 +1380,7 @@
 | 1751 | [Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/) | | |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | | |
 | 1753 | [Maximum Score From Removing Stones](https://leetcode.com/problems/maximum-score-from-removing-stones/) | | |
-| 1754 | [Largest Merge Of Two Strings](https://leetcode.com/problems/largest-merge-of-two-strings/) | | |
+| 1754 | [Largest Merge Of Two Strings](https://leetcode.com/problems/largest-merge-of-two-strings/) | [C++](Q01701-Q01800/01754-Largest-Merge-Of-Two-Strings/cpp01754) | [Java](Q01701-Q01800/01754-Largest-Merge-Of-Two-Strings/java01754) |
 | 1755 | [Closest Subsequence Sum](https://leetcode.com/problems/closest-subsequence-sum/) | | |
 | 1756 | [Design Most Recently Used Queue](https://leetcode.com/problems/design-most-recently-used-queue/) | | |
 | 1757 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) |  | - |
