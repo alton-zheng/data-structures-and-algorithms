@@ -1094,7 +1094,7 @@
 | 1410 | [HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/) | | |
 | 1411 | [Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) | | |
 | 1412 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
-| 1413 | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | | |
+| 1413 | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | [Java](Q01401-Q01500/01413-Minimum-Value-to-Get-Positive-Step-by-Step-Sum/java01413) | [C++](Q01401-Q01500/01413-Minimum-Value-to-Get-Positive-Step-by-Step-Sum/cpp01413) |
 | 1414 | [Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | | |
 | 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | | |
 | 1416 | [Restore The Array](https://leetcode.com/problems/restore-the-array/) | | |
