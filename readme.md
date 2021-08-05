@@ -611,7 +611,7 @@
 | | | | | |
 | 799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/description/) | | | |
 | 800 | [Similar RGB Color](https://leetcode.com/problems/similar-rgb-color/description/) | | | |
-| | | | | |
+| 802 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | [Java](Q00801-Q00900/00802-Find-Eventual-Safe-States/java00802) | [C++](Q00801-Q00900/00802-Find-Eventual-Safe-States/cpp00802) | |
 | 803 | [Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/) | | | |
 | 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | | | |
 | 805 | [Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/description/) | | | |
