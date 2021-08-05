@@ -707,7 +707,7 @@
 | 918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/description/) | | | |
 | 919 | [Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/description/) | | | |
 | 920 | [Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/description/) | | | |
-| 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/) | | | |
+| 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/) | [Java](Q00901-Q01000/00921-Minimum-Add-to-Make-Parentheses-Valid/java00921) | [C++](Q00901-Q01000/00921-Minimum-Add-to-Make-Parentheses-Valid/cpp00921) | |
 | 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/description/) | [Java](Q00901-Q01000/00922-Sort-Array-By-Parity-II/java00922) | [C++](Q00901-Q01000/00922-Sort-Array-By-Parity-II/cpp00922) |  |
 | 923 | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/description/) | | | |
 | 924 | [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/description/) | | | |
