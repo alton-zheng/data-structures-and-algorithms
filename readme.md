@@ -732,7 +732,7 @@
 | 942 | [DI String Match](https://leetcode.com/problems/di-string-match/) | | | |
 | 943 | [Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/) | | | |
 | 944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | | | |
-| 945 | [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | | | |
+| 945 | [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | [Java](Q00901-Q01000/00945-Minimum-Increment-to-Make-Array-Unique/java00945) | [C++](Q00901-Q01000/00945-Minimum-Increment-to-Make-Array-Unique/cpp00945) | |
 | 946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | | | |
 | 947 | [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | | | |
 | 948 | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | | | |
