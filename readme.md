@@ -129,7 +129,7 @@
 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) | | | |
 | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/) | | | |
 | 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Java](Q00101-Q00200/00131-Palindrome-Partitioning/java00131/) |  |  |
-| 132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | | | |
+| 132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [Java](Q00101-Q00200/00132-Palindrome-Partitioning-II/java00131) | [C++](Q00101-Q00200/00132-Palindrome-Partitioning-II/cpp00131) | |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/description/) | | | |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | | | |
 | 135 | [Candy](https://leetcode.com/problems/candy/) | | | |
