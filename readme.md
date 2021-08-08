@@ -891,7 +891,7 @@
 | 1134 | [Armstrong Number](https://leetcode.com/problems/armstrong-number/) | | |
 | 1135 | [Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) | | |
 | 1136 | [Parallel Courses](https://leetcode.com/problems/parallel-courses/) | | |
-| 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | | |
+| 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [Java](Q01101-Q01200/01137-N-th-Tribonacci-Number/java01137) | [C++](Q01101-Q01200/01137-N-th-Tribonacci-Number/cpp01137) |
 | 1138 | [Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/) | | |
 | 1139 | [Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/) | | |
 | 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | [Java](Q01101-Q01200/1140-Stone-Game-II/java01140/) |  |
