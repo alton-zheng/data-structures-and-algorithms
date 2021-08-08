@@ -1441,7 +1441,7 @@
 | 1954 | [Minimum Garden Perimeter to Collect Enough Apples](https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/) | [Java](Q01901-Q02000/01954-Minimum-Garden-Perimeter-to-Collect-Enough-Apples/java01954) | [C++](Q01901-Q02000/01954-Minimum-Garden-Perimeter-to-Collect-Enough-Apples/cpp01954) |
 | 1955 | [Count Number of Special Subsequences](https://leetcode.com/problems/count-number-of-special-subsequences/) | [Java](Q01901-Q02000/01955-Count-Number-of-Special-Subsequences/java01955) | [C++](Q01901-Q02000/01955-Count-Number-of-Special-Subsequences/cpp01955) |
 | 1957 | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | [Java](Q01901-Q02000/01957-Delete-Characters-to-Make-Fancy-String/java01957) | [C++](Q01901-Q02000/01957-Delete-Characters-to-Make-Fancy-String/cpp01957) |
-|  |  |  |  |
+| 1958 | [Check if Move is Legal](https://leetcode.com/problems/check-if-move-is-legal/) | [Java](Q01901-Q02000/01958-Check-if-Move-is-Legal/java01958) | [C++](Q01901-Q02000/01958-Check-if-Move-is-Legal/cpp01958) |
 |  |  |  |  |
 |  |  |  |  |
 
