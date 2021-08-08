@@ -1444,6 +1444,7 @@
 | 1958 | [Check if Move is Legal](https://leetcode.com/problems/check-if-move-is-legal/) | [Java](Q01901-Q02000/01958-Check-if-Move-is-Legal/java01958) | [C++](Q01901-Q02000/01958-Check-if-Move-is-Legal/cpp01958) |
 |  |  |  |  |
 |  |  |  |  |
+| 1961 | [Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/) | [Java](Q01901-Q02000/01961-Check-If-String-Is-a-Prefix-of-Array/java01961) | [C++](Q01901-Q02000/01961-Check-If-String-Is-a-Prefix-of-Array/cpp01961) |
 
 
 
