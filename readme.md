@@ -273,7 +273,7 @@
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | | | |
 | | | | | |
 | 312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [Java](Q00301-Q00400/00312-Burst-Balloons/java00312) |  |  |
-| | | | | |
+| 313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | [Java](Q00301-Q00400/00313-Super-Ugly-Number/java00313) | [C++](Q00301-Q00400/00313-Super-Ugly-Number/cpp00313) | |
 | 315 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | | | |
 | 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [Java](Q00301-Q00400/00316-Remove-Duplicate-Letters/java00316) | [C++](Q00301-Q00400/00316-Remove-Duplicate-Letters/cpp00316) | |
 | | | | | |
