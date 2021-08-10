@@ -348,7 +348,7 @@
 | 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | | | |
 | | | | | |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [Java](Q00401-Q00500/00412-Fizz-Buzz/java00412) |  |  |
-| 413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | | | |
+| 413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [Java](Q00401-Q00500/00413-Arithmetic-Slices/java00413) | [C++](Q00401-Q00500/00413-Arithmetic-Slices/cpp00413) | |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Java](Q00401-Q00500/00414-Third-Maximum-Number/java00414) | [C++](Q00401-Q00500/00414-Third-Maximum-Number/cpp00414) | |
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings/) | [java](Q00401-Q00500/00415-Add-Strings/java-00415/src) |  |  |
 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [Java](Q00401-Q00500/0416-Partition-Equal-Subset-Sum/java-0416/src/) |  |  |
