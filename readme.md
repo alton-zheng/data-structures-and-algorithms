@@ -1443,7 +1443,7 @@
 | 1955 | [Count Number of Special Subsequences](https://leetcode.com/problems/count-number-of-special-subsequences/) | [Java](Q01901-Q02000/01955-Count-Number-of-Special-Subsequences/java01955) | [C++](Q01901-Q02000/01955-Count-Number-of-Special-Subsequences/cpp01955) |
 | 1957 | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | [Java](Q01901-Q02000/01957-Delete-Characters-to-Make-Fancy-String/java01957) | [C++](Q01901-Q02000/01957-Delete-Characters-to-Make-Fancy-String/cpp01957) |
 | 1958 | [Check if Move is Legal](https://leetcode.com/problems/check-if-move-is-legal/) | [Java](Q01901-Q02000/01958-Check-if-Move-is-Legal/java01958) | [C++](Q01901-Q02000/01958-Check-if-Move-is-Legal/cpp01958) |
-|  |  |  |  |
+| 1959 | [Minimum Total Space Wasted With K Resizing Operations](https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations/) | [Java](Q01901-Q02000/01959-Minimum-Total-Space-Wasted-With-K-Resizing-Operations/java01959) | [C++](Q01901-Q02000/01959-Minimum-Total-Space-Wasted-With-K-Resizing-Operations/cpp01959) |
 |  |  |  |  |
 | 1961 | [Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/) | [Java](Q01901-Q02000/01961-Check-If-String-Is-a-Prefix-of-Array/java01961) | [C++](Q01901-Q02000/01961-Check-If-String-Is-a-Prefix-of-Array/cpp01961) |
 | 1962 | [Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/) | [Java](Q01901-Q02000/01962-Remove-Stones-to-Minimize-the-Total/java01962) | [C++](Q01901-Q02000/01962-Remove-Stones-to-Minimize-the-Total/cpp01962) |
