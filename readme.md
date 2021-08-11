@@ -177,6 +177,7 @@
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Java](Q00101-Q00200/00189-Rotate-Array/java00189) | [C++](Q00101-Q00200/00189-Rotate-Array/cpp00189) | |
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Java](Q00101-Q00200/00190-Reverse-Bits/java00190) | [C++](Q00101-Q00200/00190-Reverse-Bits/java00190) |  |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [Java](Q00101-Q00200/00191-Number-of-1-Bits/java00191) | [C++](Q00101-Q00200/00191-Number-of-1-Bits/cpp00191) |  |
+| 192 | [ Word Frequency](https://leetcode.com/problems/word-frequency/) | [bash](Q00101-Q00200/00192-Word-Frequency/bash00192) |  | |
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [Mysql](Q00101-Q00200/00196-Delete-Duplicate-Emails/mysql00196) | | |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | [Java](Q00101-Q00200/0198-House-Robber/java-0198) |  |  |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | | | |
