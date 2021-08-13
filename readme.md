@@ -241,6 +241,7 @@
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | [Java](Q00401-Q00500/0257-Binary-Tree-Paths/java-0257/src/) | [C++](Q00401-Q00500/0257-Binary-Tree-Paths/cpp-0257/src/) |  |
 | | | | | |
 | 259 | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/description/) | | | |
+| 262 | [Trips and Users](https://leetcode.com/problems/trips-and-users/) | [mysql](Q00201-Q00300/00262-Trips-and-Users/mysql00262) | | |
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Java](Q00201-Q00300/00263-Ugly-Number/java00263) | [C++](Q00201-Q00300/00263-Ugly-Number/cpp00263) |  |
 | 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [Java](Q00201-Q00300/00264-Ugly-Number-II/java00264) | [C++](Q00201-Q00300/00264-Ugly-Number-II/cpp00264) | |
 | 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | | | |
