@@ -169,6 +169,9 @@
 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/) | [Java](Q00101-Q00200/00179-Largest-Number/java0017) | [C++](Q00101-Q00200/00179-Largest-Number/cpp00179) | |
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [oracle](Q00101-Q00200/00177-Nth-Highest-Salary/oracle00177) | [mysql](Q00101-Q00200/00177-Nth-Highest-Salary/mysql0017) | |
 | 178 | [Rank Scoresq](https://leetcode.com/problems/rank-scores/) | [oracle](Q00101-Q00200/00178-Rank-Scores/oracle00178) | [mysql](Q00101-Q00200/00178-Rank-Scores/mysql00178) | |
+|  |  |  |  | |
+|  |  |  |  | |
+| 180 | [onsecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | [mysql](Q00101-Q00200/00180-Consecutive-Numbers/mysql00180) |  | |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [mysql](Q00101-Q00200/00181-Employees-Earning-More-Than-Their-Managers/mysql00181) | [Oracle](Q00101-Q00200/00181-Employees-Earning-More-Than-Their-Managers/oracle00181) | |
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [mysql](Q00101-Q00200/00182-Duplicate-Emails/mysql00192) |  | |
 | 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [mysql](Q00101-Q00200/00184-Department-Highest-Salary/mysql00184) |  | |
