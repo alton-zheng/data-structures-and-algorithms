@@ -1219,7 +1219,7 @@
 | 1580 | [Put Boxes Into the Warehouse II](https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/) | | |
 | 1581 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) |  | - |
 | 1582 | [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | | |
-| 1583 | [Count Unhappy Friends](https://leetcode.com/problems/count-unhappy-friends/) | | |
+| 1583 | [Count Unhappy Friends](https://leetcode.com/problems/count-unhappy-friends/) | [C++](Q01501-Q01600/01583-Count-Unhappy-Friends/cpp01583) | [Java](Q01501-Q01600/01583-Count-Unhappy-Friends/java01583) |
 | 1584 | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | | |
 | 1585 | [Check If String Is Transformable With Substring Sort Operations](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/) | | |
 | 1586 | [Binary Search Tree Iterator II](https://leetcode.com/problems/binary-search-tree-iterator-ii/) | | |
