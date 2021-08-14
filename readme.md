@@ -491,7 +491,7 @@
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Java](Q00601-Q00700/00617-Merge-Two-Binary-Trees/java00617) | [C++](Q00601-Q00700/00617-Merge-Two-Binary-Trees/cpp00617) |  |
 | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | | | |
 | 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/) | | | |
-| | | | | |
+| 626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | [mysql](Q00601-Q00700/00626-Exchange-Seats/mysql00626) | | |
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Java](Q00601-Q00700/00628-Maximum-Product-of-Three-Numbers/java00628) |  |  |
 | | | | | |
 | 632 | [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | | | |
