@@ -470,7 +470,7 @@
 | 573 | [Squirrel Simulation](https://leetcode.com/problems/squirrel-simulation/) | | | |
 | | | | | |
 | 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | | | |
-| | | | | |
+| 576 | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | [Java](Q00501-Q00600/00576-Out-of-Boundary-Paths/java00576) | [C++](Q00501-Q00600/00576-Out-of-Boundary-Paths/cpp00576) | |
 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Java](Q00501-Q00600/00581-Shortest-Unsorted-Continuous-Subarray/java00581) | [C++](Q00501-Q00600/00581-Shortest-Unsorted-Continuous-Subarray/cpp00581) | |
 | 582 | [Kill Process](https://leetcode.com/problems/kill-process/) | | | |
 | 583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/description/) | | | |
