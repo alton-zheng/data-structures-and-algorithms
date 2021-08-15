@@ -1459,6 +1459,8 @@
 | 1962 | [Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/) | [Java](Q01901-Q02000/01962-Remove-Stones-to-Minimize-the-Total/java01962) | [C++](Q01901-Q02000/01962-Remove-Stones-to-Minimize-the-Total/cpp01962) |
 | 1963 | [Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | [Java](Q01901-Q02000/01963-Minimum-Number-of-Swaps-to-Make-the-String-Balanced/java01963) | [C++](Q01901-Q02000/01963-Minimum-Number-of-Swaps-to-Make-the-String-Balanced/cpp01963) |
 | 1964 | [Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/) | [Java](Q01901-Q02000/01964-Find-the-Longest-Valid-Obstacle-Course-at-Each-Position/java01964) | [C++](Q01901-Q02000/01964-Find-the-Longest-Valid-Obstacle-Course-at-Each-Position/cpp01964) |
+| 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | [Java](Q01901-Q02000/01967-Number-of-Strings-That-Appear-as-Substrings-in-Word/java01967) | [C++](Q01901-Q02000/01967-Number-of-Strings-That-Appear-as-Substrings-in-Word/cpp01967) |
+| 1968 | []() | [Java]() | [C++]() |
 
 
 
