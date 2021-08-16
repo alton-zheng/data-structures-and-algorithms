@@ -168,6 +168,7 @@
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Java](Q00101-Q00200/00172-Factorial-Trailing-Zeroes/java00172) | [C++](Q00101-Q00200/00172-Factorial-Trailing-Zeroes/cpp00172) | [Python](Q00101-Q00200/00172-Factorial-Trailing-Zeroes/py00172) |
 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/) | [Java](Q00101-Q00200/00179-Largest-Number/java0017) | [C++](Q00101-Q00200/00179-Largest-Number/cpp00179) | |
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [mysql](Q00101-Q00200/00175-Combine-Two-Tables/mysql00175) | [oracle]([mysql](Q00101-Q00200/00175-Combine-Two-Tables/mysql00175) | |
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [mysql](Q00101-Q00200/00176-Second-Highest-Salary/mysql00176) |  | |
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [oracle](Q00101-Q00200/00177-Nth-Highest-Salary/oracle00177) | [mysql](Q00101-Q00200/00177-Nth-Highest-Salary/mysql0017) | |
 | 178 | [Rank Scoresq](https://leetcode.com/problems/rank-scores/) | [oracle](Q00101-Q00200/00178-Rank-Scores/oracle00178) | [mysql](Q00101-Q00200/00178-Rank-Scores/mysql00178) | |
 |  |  |  |  | |
