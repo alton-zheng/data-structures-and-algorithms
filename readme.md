@@ -436,7 +436,7 @@
 | 523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [Java](Q00501-Q00600/00523-Continuous-Subarray-Sum/java00523) | [C++](Q00501-Q00600/00523-Continuous-Subarray-Sum/cpp00523) |  |
 | 524 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | |  |  |
 | 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [Java](Q00501-Q00600/00525-Contiguous-Array/java00525) | [C++](Q00501-Q00600/00525-Contiguous-Array/cpp00525) |  |
-| 526 | [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | | | |
+| 526 | [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | [Java](Q00501-Q00600/00526-Beautiful-Arrangement/java00526) | [C++](Q00501-Q00600/00526-Beautiful-Arrangement/java00526) | |
 | | | | | |
 | 528 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/description/) | | | |
 | 529 | [Minesweeper](https://leetcode.com/problems/minesweeper/) | | | |
