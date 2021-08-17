@@ -485,7 +485,7 @@
 | 590 | [N-ary Tree Postorder Transversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | | | |
 | | | | | |
 | 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | | | |
-| | | | | |
+| 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [mysql](Q00501-Q00600/00595-Big-Countries/mysql00595) | | |
 | 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) | | | |
 | 599 | [Minimum Index Sum of Two Lists](https://leetcode.com/explore/learn/card/hash-table/184/comparison-with-other-data-structures/1177/) | | | |
 | 600 | [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/description/) | | | |
