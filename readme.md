@@ -187,7 +187,8 @@
 | 192 | [ Word Frequency](https://leetcode.com/problems/word-frequency/) | [bash](Q00101-Q00200/00192-Word-Frequency/bash00192) |  | |
 | 194 | [Transpose File](https://leetcode.com/problems/transpose-file/) | [bash](Q00101-Q00200/00194-Transpose-File/shell00194) | | |
 | 195 | [Tenth Line](https://leetcode.com/problems/tenth-line/) | [bash](Q00101-Q00200/00195-Tenth-Line/bash00195) |  | |
-| 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [Mysql](Q00101-Q00200/00196-Delete-Duplicate-Emails/mysql00196) | | |
+| 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [mysql](Q00101-Q00200/00196-Delete-Duplicate-Emails/mysql00196) | | |
+| 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [mysql](Q00101-Q00200/00197-Rising-Temperature/mysql00197) | | |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | [Java](Q00101-Q00200/0198-House-Robber/java-0198) |  |  |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | | | |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [Java](Q00401-Q00500/0200-Number-of-Islands/java-0200/src/) |  |  |
