@@ -41,8 +41,51 @@ package java00552.m01;
  *
  * 1 <= n <= 10^5
  *
- * Time Complexity: O()
- * Space Complexity: O()
+ * Time Complexity: O(N)
+ * Space Complexity: O(N)
  */
-public class Solution {
+class Solution {
+    public int checkRecord(int n) {
+
+        final int mod = 1000000007;
+
+        int[][][] help = new int[n + 1][2][3];
+        help[0][0][0] = 1;
+
+        for (int i = 1; i <= n; i++) {
+
+            // 考勤为 A 时, 缺勤
+            // A + 1， L 为 0
+            for (int k = 0; k <= 2; k++) {
+                help[i][1][0] = (help[i][1][0] + help[i - 1][0][k]) % mod;
+            }
+
+            // 考勤为 L 时，迟到
+            // 迟到 + 1， A 不变
+            for (int a = 0; a <= 1; a++) {
+                for(int l = 1; l <= 2; l++) {
+                    help[i][a][l] = (help[i][a][l] + help[i - 1][a][l - 1]) % mod;
+                }
+            }
+
+            // 考勤为 P 时， A 不变， L 为 0
+            for (int a = 0; a <= 1; a++) {
+                for (int l = 0; l <= 2; l++) {
+                    help[i][a][0] = (help[i][a][0] + help[i - 1][a][l]) % mod;
+                }
+            }
+
+
+        }
+
+        int res = 0;
+
+        for (int a = 0; a <= 1; a++) {
+            for (int l = 0; l <= 2; l++) {
+                res = (res + help[n][a][l]) % mod;
+            }
+        }
+
+        return res;
+    }
 }

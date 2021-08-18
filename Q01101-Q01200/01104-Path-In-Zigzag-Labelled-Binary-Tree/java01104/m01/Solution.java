@@ -60,7 +60,6 @@ class Solution {
         // 构建出尾元素
         res.add(label);
 
-
         for (int i = level - 1; i > 1; i--) {
             int cur = label >> 1;
             res.add(0, i % 2 != level % 2 ? (1 << (i - 1)) + (1 << i) - 1 - cur: cur);

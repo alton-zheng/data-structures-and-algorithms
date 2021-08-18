@@ -457,7 +457,7 @@
 | | | | | |
 | 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | | | |
 | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Java](Q00501-Q00600/00551-Student-Attendance-Record-I/java00551) | [C++](Q00501-Q00600/00551-Student-Attendance-Record-I/cpp00551) |  |
-| 552 | [Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | [Java](Q00501-Q00600/00552-Longest-Uncommon-Subsequence-II/java00552) |  |  |
+| 552 | [Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | [Java](Q00501-Q00600/00552-Student-Attendance-Record-II/java00552) | [C++](Q00501-Q00600/00552-Student-Attendance-Record-II/cpp00552) |  |
 | 556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | | | |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | [Java](Q00501-Q00600/00557-Reverse-Words-in-a-String-III/java00557) | [C++](Q00501-Q00600/00557-Reverse-Words-in-a-String-III/cpp00557) | |
 | | | | | |
