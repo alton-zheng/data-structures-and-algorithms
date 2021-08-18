@@ -486,6 +486,7 @@
 | | | | | |
 | 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | | | |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [mysql](Q00501-Q00600/00595-Big-Countries/mysql00595) | | |
+| 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [mysql](Q00501-Q00600/00596-Classes-More-Than-5-Students/mysql00596) | | |
 | 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) | | | |
 | 599 | [Minimum Index Sum of Two Lists](https://leetcode.com/explore/learn/card/hash-table/184/comparison-with-other-data-structures/1177/) | | | |
 | 600 | [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/description/) | | | |

@@ -1,7 +1,6 @@
-package java00552;
+package java00522.m01;
 
 import java.util.Arrays;
-import java.util.Comparator;
 
 /**
  * @Author: alton
