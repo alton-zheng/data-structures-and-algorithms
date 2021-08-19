@@ -494,6 +494,7 @@
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Java](Q00601-Q00700/00605-Can-Place-Flowers/java00605/) | [C++](Q00601-Q00700/00605-Can-Place-Flowers/cpp00605) | |
 | 611 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [Java](Q00601-Q00700/00611-Valid-Triangle-Number/java00611) | [C++](Q00601-Q00700/00611-Valid-Triangle-Number/cpp00611) | |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Java](Q00601-Q00700/00617-Merge-Two-Binary-Trees/java00617) | [C++](Q00601-Q00700/00617-Merge-Two-Binary-Trees/cpp00617) |  |
+| 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [mysql](Q00601-Q00700/00620-Not-Boring-Movies/mysql00620) |  | |
 | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | | | |
 | 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/) | | | |
 | 626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | [mysql](Q00601-Q00700/00626-Exchange-Seats/mysql00626) | | |
