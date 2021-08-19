@@ -947,7 +947,7 @@
 | 1176 | [Diet Plan Performance](https://leetcode.com/problems/diet-plan-performance/) | | |
 | 1177 | [Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring/) | | |
 | 1178 | [Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/) | | |
-| | | | |
+| 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/) | [mysql](Q01101-Q01200/01179-Reformat-Department-Table/mysql00179) | |
 | 1180 | [Count Substrings with Only One Distinct Letter](https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/) | | |
 | 1181 | [Before and After Puzzle](https://leetcode.com/problems/before-and-after-puzzle/) | | |
 | 1182 | [Shortest Distance to Target Color](https://leetcode.com/problems/shortest-distance-to-target-color/) | | |
