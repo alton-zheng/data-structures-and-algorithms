@@ -310,7 +310,7 @@
 | 00342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Java](Q00301-Q00400/00342-Power-of-Four/java00342) |  |  |
 | 343 | [Integer Break](https://leetcode.com/problems/integer-break/description/) | [Java](Q00401-Q00500/0343-Integer-Break/java-0343/src/) |  |  |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Java](Q00301-Q00400/00344-Reverse-String/java00344) | [C++](Q00301-Q00400/00344-Reverse-String/cpp00344) | |
-| 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | | | |
+| 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [Java](Q00301-Q00400/00345-Reverse-Vowels-of-a-String/java00345) | [C++](Q00301-Q00400/00345-Reverse-Vowels-of-a-String/cpp00345) | |
 | 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/solution/) | | | |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | [Java](Q00401-Q00500/0347-Top-K-Frequent-Elements/java-0347/src/) |  |  |
 | | | | | |
