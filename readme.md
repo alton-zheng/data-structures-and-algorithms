@@ -186,6 +186,7 @@
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Java](Q00101-Q00200/00190-Reverse-Bits/java00190) | [C++](Q00101-Q00200/00190-Reverse-Bits/java00190) |  |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [Java](Q00101-Q00200/00191-Number-of-1-Bits/java00191) | [C++](Q00101-Q00200/00191-Number-of-1-Bits/cpp00191) |  |
 | 192 | [ Word Frequency](https://leetcode.com/problems/word-frequency/) | [bash](Q00101-Q00200/00192-Word-Frequency/bash00192) |  | |
+| 193 | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/) | [bash](Q00101-Q00200/00193-Valid-Phone-Numbers/bash00193) | | |
 | 194 | [Transpose File](https://leetcode.com/problems/transpose-file/) | [bash](Q00101-Q00200/00194-Transpose-File/shell00194) | | |
 | 195 | [Tenth Line](https://leetcode.com/problems/tenth-line/) | [bash](Q00101-Q00200/00195-Tenth-Line/bash00195) |  | |
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [mysql](Q00101-Q00200/00196-Delete-Duplicate-Emails/mysql00196) | | |
