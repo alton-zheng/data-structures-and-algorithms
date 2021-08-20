@@ -491,7 +491,7 @@
 | 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) | | | |
 | 599 | [Minimum Index Sum of Two Lists](https://leetcode.com/explore/learn/card/hash-table/184/comparison-with-other-data-structures/1177/) | | | |
 | 600 | [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/description/) | | | |
-| | | | | |
+| 601 | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | [mysql](Q00601-Q00700/00601-Human-Traffic-of-Stadium/mysql00601) | | |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Java](Q00601-Q00700/00605-Can-Place-Flowers/java00605/) | [C++](Q00601-Q00700/00605-Can-Place-Flowers/cpp00605) | |
 | 611 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [Java](Q00601-Q00700/00611-Valid-Triangle-Number/java00611) | [C++](Q00601-Q00700/00611-Valid-Triangle-Number/cpp00611) | |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Java](Q00601-Q00700/00617-Merge-Two-Binary-Trees/java00617) | [C++](Q00601-Q00700/00617-Merge-Two-Binary-Trees/cpp00617) |  |
