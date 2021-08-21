@@ -450,7 +450,7 @@
 | 531 | [Lonely Pixel I](https://leetcode.com/problems/lonely-pixel-i/) | | | |
 | | | | | |
 | 533 | [Lonely Pixel II](https://leetcode.com/problems/lonely-pixel-ii/) | | | |
-| | | | | |
+| 534 | [Game Play Analysis III](https://leetcode.com/problems/game-play-analysis-iii/) | [mysql](Q00501-Q00600/00534-Game-Play-Analysis-III/mysql00534) | | |
 | 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Java](Q00501-Q00600/00538-Convert-BST-to-Greater-Tree/java00538) | [C++](Q00501-Q00600/00538-Convert-BST-to-Greater-Tree/cpp00538) | |
 | | | | | |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/) | [Java](Q00501-Q00600/00541-Reverse-String-II/java00541) | [C++](Q00501-Q00600/00541-Reverse-String-II/cpp00541) | |
