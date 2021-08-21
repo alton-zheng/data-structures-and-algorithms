@@ -37,6 +37,10 @@ Result table:
 | 0.33      |
 +-----------+
 只有 ID 为 1 的玩家在第一天登录后才重新登录，所以答案是 1/3 = 0.33*/
+
+/*执行结果：
+执行用时： 4183 ms , 在所有 MySQL 提交中击败了 5.00% 的用户
+内存消耗： 0 B , 在所有 MySQL 提交中击败了 100.00% 的用户*/
 select round(
                    (
                        select count(distinct a.player_id)
