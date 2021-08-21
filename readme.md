@@ -382,7 +382,7 @@
 | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) | [Java](Q00401-Q00500/0437-Path-Sum-III/java-0437/src/) |  |  |
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) | | | |
 | 441 | | [Java](Q00401-Q00500/00441-Arranging-Coins/java00441) | [C++](Q00401-Q00500/00441-Arranging-Coins/cpp00441) | [Python](Q00401-Q00500/00441-Arranging-Coins/py00441) |
-| 443 | [String Compression](https://leetcode.com/problems/string-compression/description/) | | | |
+| 443 | [String Compression](https://leetcode.com/problems/string-compression/description/) | [Java](Q00401-Q00500/00443-String-Compression/java00443) | [C++](Q00401-Q00500/00443-String-Compression/cpp00443) | |
 | | | | | |
 | 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | | | |
 | 446 | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [Java](Q00401-Q00500/00446-Arithmetic-Slices-II-Subsequence/java00446) | [C++](Q00401-Q00500/00446-Arithmetic-Slices-II-Subsequence/cpp00446) | |
