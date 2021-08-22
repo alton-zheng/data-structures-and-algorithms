@@ -1472,6 +1472,7 @@
 | 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | [Java](Q01901-Q02000/01967-Number-of-Strings-That-Appear-as-Substrings-in-Word/java01967) | [C++](Q01901-Q02000/01967-Number-of-Strings-That-Appear-as-Substrings-in-Word/cpp01967) |
 | 1968 | [Array With Elements Not Equal to Average of Neighbors](https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/) | [Java](Q01901-Q02000/01968-Array-With-Elements-Not-Equal-to-Average-of-Neighbors/java01968) | [C++](Q01901-Q02000/01968-Array-With-Elements-Not-Equal-to-Average-of-Neighbors/cpp01968) |
 | 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | [Java](Q01901-Q02000/01979-Find-Greatest-Common-Divisor-of-Array/java01979) | [C++](Q01901-Q02000/01979-Find-Greatest-Common-Divisor-of-Array/cpp01979) |
+| 1980 | [Find Unique Binary String](https://leetcode-cn.com/problems/find-unique-binary-string/) | [Java](Q01901-Q02000/01980-Find-Unique-Binary-String/java01980) | [C++](Q01901-Q02000/01980-Find-Unique-Binary-String/cpp01980) |
 
 
 
