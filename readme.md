@@ -613,13 +613,13 @@
 | 780 | [Reaching Points](https://leetcode.com/problems/reaching-points/description/) | | | |
 | 781 | [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/description/) | | | |
 | 782 | [Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/) | [Java](Q00701-Q00800/00782-Transform-to-Chessboard/java00782) |  |  |
-| 783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) | [Java](Q00701-Q00800/00783-Minimum-Distance-Between-BST-Nodes/java00783) | [CPP](Q00701-Q00800/00783-Minimum-Distance-Between-BST-Nodes/cpp00783) |  |
+| 783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) | [Java](Q00701-Q00800/00783-Minimum-Distance-Between-BST-Nodes/java00783) | [C++](Q00701-Q00800/00783-Minimum-Distance-Between-BST-Nodes/cpp00783) |  |
 | 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | | | |
 | 785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) | | | |
 | 786 | [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/) | | | |
 | 787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) | | | |
 | 788 | [Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) | | | |
-| 789 | [Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/description/) | | | |
+| 789 | [Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/description/) | [Java](Q00701-Q00800/00789-Escape-The-Ghosts/java00789) | [C++](Q00701-Q00800/00789-Escape-The-Ghosts/cpp00789) | |
 | 790 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/) | | | |
 | 791 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | | | |
 | 792 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/) | | | |
