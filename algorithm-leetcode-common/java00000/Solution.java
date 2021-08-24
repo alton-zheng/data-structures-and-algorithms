@@ -1,58 +1,51 @@
 package java00000;
 
+import sun.java2d.pipe.SolidTextRenderer;
+
+import java.util.HashMap;
+import java.util.Map;
+
 class Solution {
+    Map<String, Integer> help;
+    int len = 0;
+    String res = "";
+    public String findDifferentBinaryString(String[] nums) {
 
-    private int flag = 0;
-    public int latestDayToCross(int row, int col, int[][] cells) {
+        help = new HashMap<>();
 
-        int[][] help = new int[row][col];
-
-        int[] h = new int[col];
-
-        int res = 0;
-        for (int[] cell : cells) {
-
-            help[cell[0] - 1][cell[1] - 1] = 1;
-
-            flag = 0;
-            is(help, 0, 0, row, col);
-            if (flag == 1) {
-                res++;
-            }  else {
-                break;
-            }
+        len = nums.length;
+        for (int i = 0; i < len; i++) {
+            help.put(nums[i], 0);
         }
 
+        dfs(0, "");
         return res;
-
     }
 
-    private void is(int[][] help, int r, int c, int row, int col) {
+    private void dfs(int start, String value)  {
 
-
-
-        if (c < 0 || c == col - 1) {
-            return;
-        }
-
-        if (help[r][c] == 1) {
-            return;
-        }
-
-        if (r == row - 1) {
-
-            if (help[r][c] == 0) {
-                flag = 1;
+        if (start == len) {
+            if (!help.containsKey(value)) {
+                res = value;
             }
+
             return;
+
         }
 
-        is(help, r + 1, c, row, col);
-        is(help, r, c + 1, row, col);
-        is(help, r, c - 1, row, col);
+        if ("".equals(res) && start < len) {
+            dfs (start + 1, value + "0");
+        }
+
+
+        if ("".equals(res) && start < len) {
+            dfs(start + 1, value + "1");
+        }
+
+
     }
 
     public static void main(String[] args) {
-        System.out.println(new Solution().latestDayToCross(3, 3, new int[][]{{1, 1}, {2, 1}, {1, 2}, {2, 2}}));
+        System.out.println(new Solution().findDifferentBinaryString(new String[]{"00", "01"}));
     }
 }

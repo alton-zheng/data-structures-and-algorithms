@@ -66,7 +66,11 @@ class Solution {
                 res[r] = r - 1;
                 // 在所有符合 [l,r] 回文的方案中取最小值
                 for (int l = 1; l <= r; l++) {
-                    if (help[l][r]) res[r] = Math.min(res[r], res[l - 1] + 1);
+
+                    if (help[l][r]) {
+                        res[r] = Math.min(res[r], res[l - 1] + 1);
+                    }
+
                 }
             }
         }

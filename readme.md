@@ -6,7 +6,7 @@
 | 002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Java](Q00001-Q00100/00002-Add-Two-Numbers/java-00002/src) |  |  |
 | 003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [Java](Q00001-Q00100/00003-Longest-Substring-Without-Repeating-Characters/java-00003/src/) |  |  |
 | 004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Java](Q00001-Q00100/00004-Median-of-Two-Sorted-Arrays/java-00004/src) |  |  |
-| 005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) |  |  |  |
+| 005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Java](Q00001-Q00100/00005-Longest-Palindromic-Substring/java00005) | [C++](Q00001-Q00100/00005-Longest-Palindromic-Substring/cpp00005) |  |
 | | | | | |
 | 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | | | |
 |  |  | | | |
