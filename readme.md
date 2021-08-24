@@ -617,7 +617,7 @@
 | 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | | | |
 | 785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) | | | |
 | 786 | [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/) | | | |
-| 787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) | | | |
+| 787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) | [Java](Q00701-Q00800/00787-Cheapest-Flights-Within-K-Stops/java00787) | [C++](Q00701-Q00800/00787-Cheapest-Flights-Within-K-Stops/cpp00787) | |
 | 788 | [Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) | | | |
 | 789 | [Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/description/) | [Java](Q00701-Q00800/00789-Escape-The-Ghosts/java00789) | [C++](Q00701-Q00800/00789-Escape-The-Ghosts/cpp00789) | |
 | 790 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/) | | | |
@@ -1473,10 +1473,7 @@
 | 1968 | [Array With Elements Not Equal to Average of Neighbors](https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/) | [Java](Q01901-Q02000/01968-Array-With-Elements-Not-Equal-to-Average-of-Neighbors/java01968) | [C++](Q01901-Q02000/01968-Array-With-Elements-Not-Equal-to-Average-of-Neighbors/cpp01968) |
 | 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | [Java](Q01901-Q02000/01979-Find-Greatest-Common-Divisor-of-Array/java01979) | [C++](Q01901-Q02000/01979-Find-Greatest-Common-Divisor-of-Array/cpp01979) |
 | 1980 | [Find Unique Binary String](https://leetcode-cn.com/problems/find-unique-binary-string/) | [Java](Q01901-Q02000/01980-Find-Unique-Binary-String/java01980) | [C++](Q01901-Q02000/01980-Find-Unique-Binary-String/cpp01980) |
-
-
-
-&nbsp;
+| 1981 | [Minimize the Difference Between Target and Chosen Elements](https://leetcode-cn.com/problems/minimize-the-difference-between-target-and-chosen-elements/) | [Java](Q01901-Q02000/01981-Minimize-the-Difference-Between-Target-and-Chosen-Elements/java01981) | [C++](Q01901-Q02000/01981-Minimize-the-Difference-Between-Target-and-Chosen-Elements/cpp01981) |
 
 &nbsp;
 
