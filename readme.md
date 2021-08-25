@@ -162,7 +162,7 @@
 | | | | | |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Java](Q00101-Q00200/00167-Two-Sum-II-Input-array-is-sorted/java00167) | [C++](Q00101-Q00200/00167-Two-Sum-II-Input-array-is-sorted/cpp00167) |  |
 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Java](Q00101-Q00200/00168-Excel-Sheet-Column-Title/java00168) | [C++](Q00101-Q00200/00168-Excel-Sheet-Column-Title/cpp0016) | |
-| 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | | | |
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | [Java](Q00101-Q00200/00169-Majority-Element/java00169) | [C++](Q00101-Q00200/00169-Majority-Element/cpp00169) | |
 | 170 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/description/) | | | |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) | [Java](Q00101-Q00200/00171-Excel-Sheet-Column/java00171) | [C++](Q00101-Q00200/00171-Excel-Sheet-Column/cpp00171) | |
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Java](Q00101-Q00200/00172-Factorial-Trailing-Zeroes/java00172) | [C++](Q00101-Q00200/00172-Factorial-Trailing-Zeroes/cpp00172) | [Python](Q00101-Q00200/00172-Factorial-Trailing-Zeroes/py00172) |
