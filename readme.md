@@ -133,7 +133,7 @@
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/description/) | | | |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | | | |
 | 135 | [Candy](https://leetcode.com/problems/candy/) | | | |
-| 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | | | |
+| 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | [Java](Q00101-Q00200/00136-Single-Number/java00136) | [C++](Q00101-Q00200/00136-Single-Number/cpp00136) | |
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [java](Q00101-Q00200/00137-Single-Number-II/java-00137/src) |  |  |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | [Java](Q00101-Q00200/00138-Copy-List-with-Random-Pointer/java00138) | [C++](Q00101-Q00200/00138-Copy-List-with-Random-Pointer/cpp0138) | |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/) | | | |
