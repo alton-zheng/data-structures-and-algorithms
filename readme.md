@@ -627,7 +627,7 @@
 | 794 | [Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/description/) | | | |
 | 795 | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/description/) | | | |
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string/description/) | [Java](Q00701-Q00800/00796-Rotate-String/java00796) | [C++](Q00701-Q00800/00796-Rotate-String/cpp00796) |  |
-| 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/) | | | |
+| 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/) | [Java](Q00701-Q00800/00797-All-Paths-From-Source-to-Target/java00797) | [C++](Q00701-Q00800/00797-All-Paths-From-Source-to-Target/cpp00797) | |
 | | | | | |
 | 799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/description/) | | | |
 | 800 | [Similar RGB Color](https://leetcode.com/problems/similar-rgb-color/description/) | | | |
