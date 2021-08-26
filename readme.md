@@ -315,7 +315,7 @@
 | 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/solution/) | | | |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | [Java](Q00401-Q00500/0347-Top-K-Frequent-Elements/java-0347/src/) |  |  |
 | | | | | |
-| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [Java](Q00401-Q00500/0349-Intersection-of-Two-Arrays/java-0349/src/) |  |  |
+| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [Java](Q00301-Q00400/00349-Intersection-of-Two-Arrays/java00349) | [C++](Q00301-Q00400/00349-Intersection-of-Two-Arrays/cpp00349) |  |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [Java](Q00401-Q00500/0350-Intersection-of-Two-Arrays-II/java-0350/src/) |  |  |
 | | | | | |
 | 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/description/) | | | |
