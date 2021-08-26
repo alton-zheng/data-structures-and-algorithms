@@ -859,6 +859,7 @@
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | | |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | | |
 | 1049 | [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/) | [Java](Q01001-Q01100/01049-Last-Stone-Weight-II/java01049) | [C++](Q01001-Q01100/01049-Last-Stone-Weight-II/cpp01049) |
+| 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | [Java](Q01001-Q01100/01051-Height-Checker/java01051) | [C++](Q01001-Q01100/01051-Height-Checker/cpp01051) |
 | 1052 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/) | | |
 | | | | |
 | 1062 | [Longest Repeating Substring](https://leetcode.com/problems/longest-repeating-substring/) | | |
