@@ -272,7 +272,7 @@
 | 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | [Java](Q00201-Q00300/00289-Game-of-Life/java00289) | [C++](Q00201-Q00300/00289-Game-of-Life/cpp00289) |  |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/description/) | | | |
 | | | | | |
-| 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | | | |
+| 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [Java](Q00201-Q00300/00295-Find-Median-from-Data-Stream/java00295) | [C++](Q00201-Q00300/00295-Find-Median-from-Data-Stream/cpp00295) | |
 | | | | | |
 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) | [Java](Q00201-Q00300/00297-Serialize-and-Deserialize-Binary-Tree/java00297) | [C++](Q00201-Q00300/00297-Serialize-and-Deserialize-Binary-Tree/java00297) | |
 | | | | | |
