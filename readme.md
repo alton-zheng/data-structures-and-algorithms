@@ -1150,7 +1150,7 @@
 | 1443 | [Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) | | |
 | 1444 | [Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/) | | |
 | 1445 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
-| 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | | |
+| 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | [Java](Q01401-Q01500/01446-Consecutive-Characters/java01446) | [C++](Q01401-Q01500/01446-Consecutive-Characters/cpp01446) |
 | 1447 | [Simplified Fractions](https://leetcode.com/problems/simplified-fractions/) | | |
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | | |
 | 1449 | [Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/) | [Java](Q01401-Q01500/01449-Form-Largest-Integer-With-Digits-That-Add-up-to-Target/java01449) | [C++](Q01401-Q01500/01449-Form-Largest-Integer-With-Digits-That-Add-up-to-Target/cpp01449) |
