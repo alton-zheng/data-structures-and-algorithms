@@ -1020,6 +1020,7 @@
 | 1269 | [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | [Java]([C++](Q01201-Q01300/01269-Number-of-Ways-to-Stay-in-the-Same-Place-After-Some-Steps/java01269) |  |
 | 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | | |
 | 1278 | [Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/) | | |
+|  |  | | |
 | 1281 | []() | [Java](Q01201-Q01300/01281-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer/java01281) | [C++](Q01201-Q01300/01281-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer/cpp01281) |
 | 1296 | [Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/) | [java](Q01201-Q01300/01296-Divide-Array-in-Sets-of-K-Consecutive-Numbers/java01296) | [C++](Q01201-Q01300/01296-Divide-Array-in-Sets-of-K-Consecutive-Numbers/cpp01296) |
 | 1297 | [Maximum Number of Occurrences of a Substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/) | [Java](Q01201-Q01300/01297-Maximum-Number-of-Occurrences-of-a-substring/java001297) | [C++](Q01201-Q01300/01297-Maximum-Number-of-Occurrences-of-a-substring/cpp001297) |
@@ -1184,7 +1185,7 @@
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | | |
 | 1478 | [Allocate Mailboxes](https://leetcode.com/problems/allocate-mailboxes/) | | |
 | 1479 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
-| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Java](Q01401-Q01500/01480-Running-Sum-of-1d-Array/java-01480) |  |
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Java](Q01401-Q01500/01480-Running-Sum-of-1d-Array/java01480) | [C++](Q01401-Q01500/01480-Running-Sum-of-1d-Array/cpp01480) |
 | 1481 | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) | | |
 | 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | | |
 | 1483 | [Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) | | |
