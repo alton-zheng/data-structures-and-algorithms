@@ -412,7 +412,7 @@
 | 486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | [Java](Q00401-Q00500/00486-Predict-the-Winner/java00486) | [C++](Q00401-Q00500/00486-Predict-the-Winner/cpp00486) |  |
 | 490 | [The Maze](https://leetcode.com/problems/the-maze/description/) | | | |
 | | | | | |
-| 494 | [Target Sum](https://leetcode.com/problems/target-sum/description/) | [Java](Q00401-Q00500/00494-Target-Sum/java00494) | [C++](Q00401-Q00500/00494-Target-Sum/cpp00494) |  |
+| 494 | [Target Sum](https://leetcode.com/problems/target-sum/description/) | [Java](Q00501-Q00600/00594-Longest-Harmonious-Subsequence/java00594) | [C++](Q00401-Q00500/00494-Target-Sum/cpp00494) |  |
 | | | | | |
 | 497 | [Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/solution/) | | | |
 | 498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/) | | | |
@@ -487,7 +487,7 @@
 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Java](Q00501-Q00600/00589-N-ary-Tree-Preorder-Traversal/java00589) | [C++](Q00501-Q00600/00589-N-ary-Tree-Preorder-Traversal/cpp00589) |  |
 | 590 | [N-ary Tree Postorder Transversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | | | |
 | | | | | |
-| 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | | | |
+| 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Java](Q00501-Q00600/00594-Longest-Harmonious-Subsequence/java00594) | [C++](Q00501-Q00600/00594-Longest-Harmonious-Subsequence/cpp00594) | |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [mysql](Q00501-Q00600/00595-Big-Countries/mysql00595) | | |
 | 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [mysql](Q00501-Q00600/00596-Classes-More-Than-5-Students/mysql00596) | | |
 | 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) | | | |
