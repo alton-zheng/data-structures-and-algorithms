@@ -296,7 +296,7 @@
 | | | | | |
 | 321 | [Create Maximum Number](https://leetcode.com/problems/create-maximum-number/) | | | |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/description/) | | | |
-| | | | | |
+| 326 | [ Power of Three](https://leetcode-cn.com/problems/power-of-three/) | [Java](Q00301-Q00400/00326-Power-of-Three/java00326) | [C++](Q00301-Q00400/00326-Power-of-Three/cpp00326) | |
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | | | |
 | 329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | | | |
 | 330 | [Patching Array](https://leetcode.com/problems/patching-array/) | | | |
