@@ -1239,7 +1239,7 @@
 | 1585 | [Check If String Is Transformable With Substring Sort Operations](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/) | | |
 | 1586 | [Binary Search Tree Iterator II](https://leetcode.com/problems/binary-search-tree-iterator-ii/) | | |
 | 1587 |  |  | - |
-| 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) |  | [Java](Q01501-Q01600/01588-Sum-of-All-Odd-Length-Subarrays/java01588) |
+| 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [C++](Q01501-Q01600/01588-Sum-of-All-Odd-Length-Subarrays/cpp01588) | [Java](Q01501-Q01600/01588-Sum-of-All-Odd-Length-Subarrays/java01588) |
 | 1589 | [Maximum Sum Obtained of Any Permutation](https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/) | | |
 | 1590 | [Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/) | [C++](Q01501-Q01600/01588-Sum-of-All-Odd-Length-Subarrays/cpp01590) | [Java](Q01501-Q01600/01588-Sum-of-All-Odd-Length-Subarrays/java01590) |
 | 1591 | [Strange Printer II](https://leetcode.com/problems/strange-printer-ii/) | | |
