@@ -444,7 +444,7 @@
 | 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [Java](Q00501-Q00600/00525-Contiguous-Array/java00525) | [C++](Q00501-Q00600/00525-Contiguous-Array/cpp00525) |  |
 | 526 | [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | [Java](Q00501-Q00600/00526-Beautiful-Arrangement/java00526) | [C++](Q00501-Q00600/00526-Beautiful-Arrangement/java00526) | |
 | | | | | |
-| 528 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/description/) | | | |
+| 528 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/description/) | [Java](Q00501-Q00600/00528-Random-Pick-with-Weight/java00528) | [C++](Q00501-Q00600/00528-Random-Pick-with-Weight/cpp00528) | |
 | 529 | [Minesweeper](https://leetcode.com/problems/minesweeper/) | | | |
 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) | [Java](Q00501-Q00600/00530-Minimum-Absolute-Difference-in-BST/java00530) | [C++](Q00501-Q00600/00530-Minimum-Absolute-Difference-in-BST/java00530) |  |
 | 531 | [Lonely Pixel I](https://leetcode.com/problems/lonely-pixel-i/) | | | |
