@@ -1,4 +1,4 @@
-package java01588.m01;
+package java01590.m01;
 
 import java.util.HashMap;
 import java.util.Map;
