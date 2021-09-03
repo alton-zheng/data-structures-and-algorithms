@@ -76,10 +76,8 @@ class Solution {
             if (i >= j) {
                 break;
             }
-
             swap(nums, i, j);
         }
-
         swap(nums, startIndex, j);
         return j;
     }

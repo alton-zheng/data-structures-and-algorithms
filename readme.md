@@ -1517,9 +1517,10 @@
 
 ### 面试题
 
-| ID    | Problem                                                      | Java                                   | C++                                  |
-| ----- | ------------------------------------------------------------ | -------------------------------------- | ------------------------------------ |
-|       |                                                              |                                        |                                      |
-| 10.02 | [变位词组](https://leetcode-cn.com/problems/group-anagrams-lcci/) | [Java](面试题/10.02-变位词组/java1002) | [C++](面试题/10.02-变位词组/cpp1002) |
-| 17.10 | [面试题 17.10. 主要元素](https://leetcode-cn.com/problems/find-majority-element-lcci/) | [Java](面试题/17.10-主要元素/java1710) | [C++](面试题/17.10-主要元素/cpp1710) |
+| ID    | Problem                                                      | Java                                          | C++                                         |
+| ----- | ------------------------------------------------------------ | --------------------------------------------- | ------------------------------------------- |
+|       |                                                              |                                               |                                             |
+| 10.02 | [变位词组](https://leetcode-cn.com/problems/group-anagrams-lcci/) | [Java](面试题/10.02-变位词组/java1002)        | [C++](面试题/10.02-变位词组/cpp1002)        |
+| 17.10 | [面试题 17.10. 主要元素](https://leetcode-cn.com/problems/find-majority-element-lcci/) | [Java](面试题/17.10-主要元素/java1710)        | [C++](面试题/17.10-主要元素/cpp1710)        |
+| 17.14 | [最小K个数](https://leetcode-cn.com/problems/smallest-k-lcci/) | [Java](面试题/17.14-smallest-k-lcci/java1714) | [C++](面试题/17.14-smallest-k-lcci/cpp1714) |
 
