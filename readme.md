@@ -397,7 +397,7 @@
 | 457 | [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/) | [Java](Q00401-Q00500/00457-Circular-Array-Loop/java00457) | [C++](Q00401-Q00500/00457-Circular-Array-Loop/cpp00457) | |
 | 458 | [Poor Pigs](https://leetcode.com/problems/poor-pigs/) | | | |
 | 461 | [Hamming-Distance](https://leetcode.com/problems/hamming-distance/) | [Java](Q00401-Q00500/00461-Hamming-Distance/java00461) | [C++](Q00401-Q00500/00461-Hamming-Distance/cpp00461) |  |
-| 470 | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/description/) | | | |
+| 470 | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/description/) | [Java](Q00401-Q00500/00470-Implement-Rand10-Using-Rand7/java00470) | | |
 | | | | | |
 | 473 | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/description/) | | | |
 | 474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/) | [Java](Q00401-Q00500/00474-Ones-and-Zeroes/java00474) | [C++](Q00401-Q00500/00474-Ones-and-Zeroes/cpp00474) |  |
