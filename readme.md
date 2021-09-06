@@ -552,7 +552,7 @@
 | 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | | | |
 | |  | | | |
 | 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | | | |
-| 704 | [Binary Search](https://leetcode.com/problems/binary-search/description/) | | | |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/description/) | [Java](Q00701-Q00800/00704-Binary-Search/java00704) | [C++](Q00701-Q00800/00704-Binary-Search/cpp00704) | |
 | 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/description/) | [Java](Q00701-Q00800/00705-Design-HashSet/java00705) | [C++](Q00701-Q00800/00705-Design-HashSet/cpp00705) | |
 | 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/description/) | | | |
 | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/description/) | | | |
