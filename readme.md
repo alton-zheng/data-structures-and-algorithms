@@ -988,7 +988,7 @@
 | 1218 | [Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | | |
 | 1219 | [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/) | | |
 | 1220 | [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) | | |
-| 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Java](Q01201-Q01300/01221-Split-a-String-in-Balanced-Strings/java01221) |  |
+| 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Java](Q01201-Q01300/01221-Split-a-String-in-Balanced-Strings/java01221) | [C++](Q01201-Q01300/01221-Split-a-String-in-Balanced-Strings/cpp01221) |
 | 1222 | [Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/) | | |
 | 1223 | [Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation/) | | |
 | 1224 | [Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency/) | | |
