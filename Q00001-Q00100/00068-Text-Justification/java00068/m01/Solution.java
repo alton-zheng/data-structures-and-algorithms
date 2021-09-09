@@ -79,6 +79,7 @@ class Solution {
                 sumLen += words[right++].length();
             }
 
+
             // 当前行是最后一行：单词左对齐，且单词之间应只有一个空格，在行末填充剩余空格
             if (right == len) {
                 StringBuffer sb = join(words, left, len, " ");
