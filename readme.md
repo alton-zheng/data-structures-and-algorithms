@@ -67,7 +67,7 @@
 | 065 | [Vaild Number](https://leetcode.com/problems/valid-number/) | [java](Q00001-Q00100/00065-Valid-Number/java00065) | [C++](Q00001-Q00100/00065-Valid-Number/cpp00065) |  |
 | 066 | [Plus One](https://leetcode.com/problems/plus-one/description/) | [Java](Q00001-Q00100/00066-Plus-One/java-00066/) |  |  |
 | 067 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | [Java](Q00001-Q00100/00067-Add-Binary/java-00067) |  |  |
-| | | | | |
+| 068 | [Text Justification](https://leetcode.com/problems/text-justification/) | [Java](Q00001-Q00100/00068-Text-Justification/java00068) | [C++](Q00001-Q00100/00068-Text-Justification/cpp00068) | |
 | 069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)| [Java](Q00001-Q00100/00069-Sqrt-x/java00069) | [C++](Q00001-Q00100/00069-Sqrt-x/cpp00069) | |
 | 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Java](Q00401-Q00500/0070-Climbing-Stairs/java-0070/src/) |  |  |
 | 071 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | | | |
