@@ -494,7 +494,7 @@
 | 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [mysql](Q00501-Q00600/00596-Classes-More-Than-5-Students/mysql00596) | | |
 | 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) | | | |
 | 599 | [Minimum Index Sum of Two Lists](https://leetcode.com/explore/learn/card/hash-table/184/comparison-with-other-data-structures/1177/) | | | |
-| 600 | [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/description/) | | | |
+| 600 | [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/description/) | [Java](Q00501-Q00600/00600-Non-negative-Integers-without-Consecutive-Ones/java00600) | [C++](Q00501-Q00600/00600-Non-negative-Integers-without-Consecutive-Ones/cpp00600) | |
 | 601 | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | [mysql](Q00601-Q00700/00601-Human-Traffic-of-Stadium/mysql00601) | | |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Java](Q00601-Q00700/00605-Can-Place-Flowers/java00605/) | [C++](Q00601-Q00700/00605-Can-Place-Flowers/cpp00605) | |
 | 611 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [Java](Q00601-Q00700/00611-Valid-Triangle-Number/java00611) | [C++](Q00601-Q00700/00611-Valid-Triangle-Number/cpp00611) | |
