@@ -534,7 +534,7 @@
 | 675 | [Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/description/) | | | |
 | 676 | [Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/description/) | | | |
 | 677 | [Map Sum Pairs](https://leetcode.com/problems/map-sum-keyValues/description/) | | | |
-| | | | | |
+| 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [Java](Q00601-Q00700/00678-Valid-Parenthesis-String/java00678) | [C++](Q00601-Q00700/00678-Valid-Parenthesis-String/cpp00678) | |
 | 679 | [24 Game](https://leetcode.com/problems/24-game/) | | | |
 | | | | | |
 | 684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/description/) | | | |
