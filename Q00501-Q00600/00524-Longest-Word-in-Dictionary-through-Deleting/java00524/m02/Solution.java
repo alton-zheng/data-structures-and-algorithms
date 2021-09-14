@@ -1,17 +1,24 @@
-package java00524.m01;
+package java00524.m02;
 
+import com.sun.xml.internal.ws.api.model.wsdl.editable.EditableWSDLService;
+
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.List;
 
 /**
  * @Author: alton
- * @Date: Created in 2021/9/14 8:39 上午
+ * @Date: Created in 2021/9/14 10:38 上午
  * @Description:
- *
  */
 class Solution {
     public String findLongestWord(String s, List<String> dictionary) {
 
-        String res = "";
+        Collections.sort(
+                dictionary,
+                (a, b) -> a.length() != b.length() ? b.length() - a.length() : a.compareTo(b)
+        );
+
         for (String t: dictionary) {
             int i = 0, j = 0;
             while (i < t.length() && j < s.length()) {
@@ -22,12 +29,9 @@ class Solution {
             }
 
             if (i == t.length()) {
-                if (t.length() > res.length() || (t.length() == res.length() && t.compareTo(res) < 0)) {
-                    res = t;
-                }
+                return t;
             }
         }
-
-        return res;
+        return "";
     }
 }
