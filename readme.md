@@ -442,7 +442,7 @@
 | 518 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/description/) | [Java](Q00501-Q00600/00518-Coin-Change-2/java00518) | [C++](Q00501-Q00600/00518-Coin-Change-2/cpp00518) |  |
 | 519 | [Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix/description/) | | | |
 | 523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [Java](Q00501-Q00600/00523-Continuous-Subarray-Sum/java00523) | [C++](Q00501-Q00600/00523-Continuous-Subarray-Sum/cpp00523) |  |
-| 524 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | |  |  |
+| 524 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | [Java](Q00501-Q00600/00524-Longest-Word-in-Dictionary-through-Deleting/java00524) | [C++](Q00501-Q00600/00524-Longest-Word-in-Dictionary-through-Deleting/cpp00524) |  |
 | 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [Java](Q00501-Q00600/00525-Contiguous-Array/java00525) | [C++](Q00501-Q00600/00525-Contiguous-Array/cpp00525) |  |
 | 526 | [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | [Java](Q00501-Q00600/00526-Beautiful-Arrangement/java00526) | [C++](Q00501-Q00600/00526-Beautiful-Arrangement/java00526) | |
 | | | | | |
