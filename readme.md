@@ -207,7 +207,7 @@
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/) | [Java](Q00401-Q00500/0209-Minimum-Size-Subarray-Sum/java-0209/src/) |  |  |
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | | | |
 | 211 | [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/description/) | [Java](Q00401-Q00500/0211-Add-and-Search-Word-Data-structure-design/java-0211/) |  |  |
-| 212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | | | |
+| 212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Java](Q00201-Q00300/00212-Word-Search-II/java00212) | [C++](Q00201-Q00300/00212-Word-Search-II/cpp00212) | |
 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/description/) | | | |
 | | | | | |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [Java](Q00201-Q00300/00215-Kth-Largest-Element-in-an-Array/java00215) | [C++](Q00201-Q00300/00215-Kth-Largest-Element-in-an-Array/cpp00215) |  |
