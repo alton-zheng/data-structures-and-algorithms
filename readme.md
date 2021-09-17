@@ -38,7 +38,7 @@
 | 033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | | | |
 | 034 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | [Java](Q00001-Q00100/00034-Find-First-and-Last-Position-of-Element-in-Sorted-Array/java00034) | [C++](Q00001-Q00100/00034-Find-First-and-Last-Position-of-Element-in-Sorted-Array/cpp00034) | |
 | 035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](Q00001-Q00100/00035-Search-Insert-Position/java-00035) |  |  |
-| 036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | | | |
+| 036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [Java](Q00001-Q00100/00036-Valid-Sudoku/java00036/m01) | [C++](Q00001-Q00100/00036-Valid-Sudoku/cpp00036) | |
 | 037 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | | | |
 | 038 | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | | | |
 | 039 | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | | | |
