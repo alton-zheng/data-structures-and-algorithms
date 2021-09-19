@@ -516,7 +516,7 @@
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [Java](Q00601-Q00700/00645-Set-Mismatch/java00645) | [C++](Q00601-Q00700/00645-Set-Mismatch/cpp00645) | |
 | 648 | [Replace Words](https://leetcode.com/problems/replace-words/description/) | | | |
 | 649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | | | |
-| | |  |  |  |
+| 650 | [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/) | [Java](Q00601-Q00700/00650-2-Keys-Keyboard/java00650) | [C++](Q00601-Q00700/00650-2-Keys-Keyboard/cpp00650) |  |
 | 652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/description/) | | | |
 | | | | | |
 | 659 | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | | | |
