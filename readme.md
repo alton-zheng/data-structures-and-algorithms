@@ -57,7 +57,7 @@
 | 054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | | | |
 | | | | | |
 | 056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | | | |
-| | | | | |
+| 058 | [Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/) | [Java](Q00001-Q00100/00058-Length-of-Last-Word/java00058) | [C++](Q00001-Q00100/00058-Length-of-Last-Word/cpp00058) | |
 | 059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) | | | |
 | | | | | |
 | 061 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | | | |
