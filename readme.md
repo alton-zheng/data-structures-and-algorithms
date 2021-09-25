@@ -482,7 +482,7 @@
 | 576 | [Out of Boundary Paths](https://leetcode-cn.com/problems/out-of-boundary-paths/) | [Java](Q00501-Q00600/00576-Out-of-Boundary-Paths/java00576) | [C++](Q00501-Q00600/00576-Out-of-Boundary-Paths/cpp00576) | |
 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/) | [Java](Q00501-Q00600/00581-Shortest-Unsorted-Continuous-Subarray/java00581) | [C++](Q00501-Q00600/00581-Shortest-Unsorted-Continuous-Subarray/cpp00581) | |
 | 582 | [Kill Process](https://leetcode-cn.com/problems/kill-process/) | | | |
-| 583 | [Delete Operation for Two Strings](https://leetcode-cn.com/problems/delete-operation-for-two-strings/description/) | | | |
+| 583 | [Delete Operation for Two Strings](https://leetcode-cn.com/problems/delete-operation-for-two-strings/description/) | [Java](Q00501-Q00600/00583-Delete-Operation-for-Two-Strings/java00583) | [C++](Q00501-Q00600/00583-Delete-Operation-for-Two-Strings/cpp00583) | |
 | | | | | |
 | 587 | [Erect the Fence](https://leetcode-cn.com/problems/erect-the-fence/) | | | |
 | | | | | |
