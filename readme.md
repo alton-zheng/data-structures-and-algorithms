@@ -328,7 +328,7 @@
 | 367 | [Valid Perfect Square](https://leetcode-cn.com/problems/valid-perfect-square/) | [Java](Q00301-Q00400/00367-Valid-Perfect-Square/java00367) | [C++](Q00301-Q00400/00367-Valid-Perfect-Square/cpp00367) | |
 | 369 | [Plus One Linked List](https://leetcode-cn.com/problems/plus-one-linked-list/) | | | |
 | 370 | [Range Addition](https://leetcode-cn.com/problems/range-addition/description/) | | | |
-| | | | | |
+| 371 | [Sum of Two Integers](https://leetcode-cn.com/problems/sum-of-two-integers/) | [Java](Q00301-Q00400/00371-Sum-of-Two-Integers/java00371) | [C++](Q00301-Q00400/00371-Sum-of-Two-Integers/cpp00371) | |
 | 373 | [Find K Pairs with Smallest Sums](https://leetcode-cn.com/problems/find-k-keyValues-with-smallest-sums/) | [Java](Q00301-Q00400/00373-Find-K-Pairs-with-Smallest-Sums/java00373) |  |  |
 | 374 | [Guess Number Higher or Lower](https://leetcode-cn.com/problems/guess-number-higher-or-lower/description/) | [Java](Q00301-Q00400/00374-Guess-Number-Higher-or-Lower/java00374) | [C++](Q00301-Q00400/00374-Guess-Number-Higher-or-Lower/cpp00374) |  |
 | 375 | [Guess Number Higher or Lower II](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/) | [Java](Q00301-Q00400/00375-Guess-Number-Higher-or-Lower-II/java00375) |  |  |
