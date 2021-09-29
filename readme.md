@@ -438,7 +438,7 @@
 | 511 | [Game Play Analysis I](https://leetcode-cn.com/problems/game-play-analysis-i/) | [mysql](Q00501-Q00600/00511-Game-Play-Analysis-I/mysql00511/m01) | | |
 | 512 | [Game Play Analysis II](https://leetcode-cn.com/problems/game-play-analysis-ii/) | [mysql](Q00501-Q00600/00512-Game-Play-Analysis-II/mysql00512) | | |
 | 516 | [Longest Palindromic Subsequence](https://leetcode-cn.com/problems/longest-palindromic-subsequence/) | [Java](Q00501-Q00600/00516-Longest-Palindromic-Subsequence/java00516) | [C++](Q00501-Q00600/00516-Longest-Palindromic-Subsequence/cpp00516) | |
-| 517 | [Super Washing Machines](https://leetcode-cn.com/problems/super-washing-machines/) | | | |
+| 517 | [Super Washing Machines](https://leetcode-cn.com/problems/super-washing-machines/) | [Java](Q00501-Q00600/00517-Super-Washing-Machines/java00517) | [C++](Q00501-Q00600/00517-Super-Washing-Machines/cpp00517) | |
 | 518 | [Coin Change 2](https://leetcode-cn.com/problems/coin-change-2/description/) | [Java](Q00501-Q00600/00518-Coin-Change-2/java00518) | [C++](Q00501-Q00600/00518-Coin-Change-2/cpp00518) |  |
 | 519 | [Random Flip Matrix](https://leetcode-cn.com/problems/random-flip-matrix/description/) | | | |
 | 523 | [Continuous Subarray Sum](https://leetcode-cn.com/problems/continuous-subarray-sum/) | [Java](Q00501-Q00600/00523-Continuous-Subarray-Sum/java00523) | [C++](Q00501-Q00600/00523-Continuous-Subarray-Sum/cpp00523) |  |
