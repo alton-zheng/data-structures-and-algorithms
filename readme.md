@@ -218,7 +218,7 @@
 | 220 | [Contains Duplicate III](https://leetcode-cn.com/problems/contains-duplicate-iii/description/) | [Java](Q00401-Q00500/0220-Contains-Duplicate-III/java-0220/) |  |  |
 | 221 | [Maximal Square](https://leetcode-cn.com/problems/maximal-square/) | | | |
 | 222 | [Count Complete Tree Nodes](https://leetcode-cn.com/problems/count-complete-tree-nodes/description/) | | | |
-| | | | | |
+| 223 | [Rectangle Area](https://leetcode-cn.com/problems/rectangle-area/) | [Java]() | | |
 | 224 | [Basic Calculator](https://leetcode-cn.com/problems/basic-calculator/description/) | | | |
 | 225 | [Implement Stack using Queues](https://leetcode-cn.com/problems/implement-stack-using-queues/description/) | | | |
 | 226 | [Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree/description/) | [Java](Q00401-Q00500/0226-Invert-Binary-Tree/java-0226/src/) |  |  |
