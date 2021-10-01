@@ -1144,7 +1144,7 @@
 | 1433 | [Check If a String Can Break Another String](https://leetcode-cn.com/problems/check-if-a-string-can-break-another-string/) | | |
 | 1434 | [Number of Ways to Wear Different Hats to Each Other](https://leetcode-cn.com/problems/number-of-ways-to-wear-different-hats-to-each-other/) | | |
 | 1435 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | - |  |
-| 1436 | [Destination City](https://leetcode-cn.com/problems/destination-city/) | | |
+| 1436 | [Destination City](https://leetcode-cn.com/problems/destination-city/) | [Java](Q01401-Q01500/01436-Destination-City/java01436/m01) | [C++](Q01401-Q01500/01436-Destination-City/java01436/m01) |
 | 1437 | [Check If All 1's Are at Least Length K Places Away](https://leetcode-cn.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | [Java](Q01401-Q01500/01437-Check-If-All-1s-Are-at-Least-Length-K-Places-Away/java01437) | [C++](Q01401-Q01500/01437-Check-If-All-1s-Are-at-Least-Length-K-Places-Away/cpp01437) |
 | 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | | |
 | 1439 | [Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode-cn.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/) | | |
