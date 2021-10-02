@@ -360,7 +360,7 @@
 | 402 | [Remove K Digits](https://leetcode-cn.com/problems/remove-k-digits/) | | | |
 | | | | | |
 | 404 | [Sum of Left Leaves](https://leetcode-cn.com/problems/sum-of-left-leaves/) | [Java](Q00401-Q00500/00404-Sum-of-Left-Leaves/java00404) | [C++](Q00401-Q00500/00404-Sum-of-Left-Leaves/cpp00404) | |
-| | | | | |
+| 405 | [Convert a Number to Hexadecimal](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/) | [Java](Q00401-Q00500/00405-Convert-a-Number-toHexadecimal/java00405) | [C++](Q00401-Q00500/00405-Convert-a-Number-toHexadecimal/java00405) | |
 | 410 | [Split Array Largest Sum](https://leetcode-cn.com/problems/split-array-largest-sum/) | | | |
 | | | | | |
 | 412 | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/description/) | [Java](Q00401-Q00500/00412-Fizz-Buzz/java00412) |  |  |

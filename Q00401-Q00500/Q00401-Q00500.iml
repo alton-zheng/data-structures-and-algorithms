@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/00401-Binary-Watch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00404-Sum-of-Left-Leaves" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00412-Fizz-Buzz" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00413-Arithmetic-Slices" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00414-Third-Maximum-Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00421-Maximum-XOR-of-Two-Numbers-in-an-Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00423-Reconstruct-Original-Digits-from-English" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00429-N-ary-Tree-Level-Order-Traversal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00430-Flatten-a-Multilevel-Doubly-Linked-List" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00441-Arranging-Coins" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00443-String-Compression" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00446-Arithmetic-Slices-II-Subsequence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00447-Number-of-Boomerangs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00448-Find-All-Numbers-Disappeared-in-an-Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00451-Sort-Characters-By-Frequency" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00457-Circular-Array-Loop" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00461-Hamming-Distance" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00470-Implement-Rand10-Using-Rand7" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00474-Ones-and-Zeroes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00476- Number-Complement" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00477-Total-Hamming-Distance" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00482-License-Key-Formatting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00483-Smallest-Good-Base" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00485-Max-Consecutive-Ones" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00486-Predict-the-Winner" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00494-Target-Sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0437-Path-Sum-III" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00405-Convert-a-Number-toHexadecimal" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="algorithm-leetcode" />
+  </component>
+</module>
