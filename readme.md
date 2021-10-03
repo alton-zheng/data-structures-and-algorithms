@@ -162,6 +162,7 @@
 | 162 | [Find Peak Element](https://leetcode-cn.com/problems/find-peak-element/) | [Java](Q00101-Q00200/00162-Find-Peak-Element/java00162) | [C++](Q00101-Q00200/00162-Find-Peak-Element/cpp00162) | |
 | 163 | [Missing Ranges](https://leetcode-cn.com/problems/missing-ranges/) | | | |
 | 165 | [Compare Version Numbers](https://leetcode-cn.com/problems/compare-version-numbers/) | [Java](Q00101-Q00200/00165-Compare-Version-Numbers/java00165) | [C++](Q00101-Q00200/00165-Compare-Version-Numbers/cpp00165) | |
+| 166 | [Fraction to Recurring Decimal](https://leetcode-cn.com/problems/fraction-to-recurring-decimal/) | [Java](Q00101-Q00200/00166-Fraction-to-Recurring-Decimal/java00166) |  | |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Java](Q00101-Q00200/00167-Two-Sum-II-Input-array-is-sorted/java00167) | [C++](Q00101-Q00200/00167-Two-Sum-II-Input-array-is-sorted/cpp00167) |  |
 | 168 | [Excel Sheet Column Title](https://leetcode-cn.com/problems/excel-sheet-column-title/) | [Java](Q00101-Q00200/00168-Excel-Sheet-Column-Title/java00168) | [C++](Q00101-Q00200/00168-Excel-Sheet-Column-Title/cpp0016) | |
 | 169 | [Majority Element](https://leetcode-cn.com/problems/majority-element/description/) | [Java](Q00101-Q00200/00169-Majority-Element/java00169) | [C++](Q00101-Q00200/00169-Majority-Element/cpp00169) | |
