@@ -15,13 +15,13 @@ class Solution {
                 r++;
             }
 
-            if (res.length() != 0 && r == k) {
+            if (r == k) {
                 res.append('-');
                 r = 0;
             }
         }
 
-        String ans = res.reverse().toString();
+        String ans = res.length() != 0 ? res.reverse().toString() : "-";
         return ans.charAt(0) == '-' ? ans.substring(1) : ans;
     }
 }
