@@ -267,7 +267,7 @@
 | | | | | |
 | 282 | [Expression Add Operators](https://leetcode-cn.com/problems/expression-add-operators/description/) | | | |
 | 283 | [Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/description/) | [Java](Q00201-Q00300/00283-Move-Zeroes/java00283) | [C++](Q00201-Q00300/00283-Move-Zeroes/cpp00283) |  |
-| 284 | [Peeking Iterator](https://leetcode-cn.com/problems/peeking-iterator/) | | | |
+| 284 | [Peeking Iterator](https://leetcode-cn.com/problems/peeking-iterator/) | [Java](Q00201-Q00300/00284-Peeking-Iterator/java00284) | [C++](Q00201-Q00300/00284-Peeking-Iterator/cpp00284) | |
 | | | | | |
 | 286 | [Walls and Gates](https://leetcode-cn.com/problems/walls-and-gates/description/) | | | |
 | 287 | [Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/description/) | [Java](Q00201-Q00300/00287-Find-the-Duplicate-Number/java-00287/src) |  |  |
