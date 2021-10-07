@@ -31,6 +31,7 @@
       <sourceFolder url="file://$MODULE_DIR$/00494-Target-Sum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/0437-Path-Sum-III" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/00405-Convert-a-Number-toHexadecimal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00434-Number of-Segments-in-a-String" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
