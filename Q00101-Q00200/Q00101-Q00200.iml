@@ -28,6 +28,7 @@
       <sourceFolder url="file://$MODULE_DIR$/00190-Reverse-Bits" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/00191-Number-of-1-Bits" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/00166-Fraction-to-Recurring-Decimal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00187-Repeated-DNA-Sequences" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
