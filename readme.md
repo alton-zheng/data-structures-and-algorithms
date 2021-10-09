@@ -320,7 +320,7 @@
 | | | | | |
 | 349 | [Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/description/) | [Java](Q00301-Q00400/00349-Intersection-of-Two-Arrays/java00349) | [C++](Q00301-Q00400/00349-Intersection-of-Two-Arrays/cpp00349) |  |
 | 350 | [Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/description/) | [Java](Q00401-Q00500/0350-Intersection-of-Two-Arrays-II/java-0350/src/) |  |  |
-| | | | | |
+| 352 | [Data Stream as Disjoint Intervals](https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals/) | [Java](Q00301-Q00400/00352-Data-Stream-as-Disjoint-Intervals/java00352) | [C++](Q00301-Q00400/00352-Data-Stream-as-Disjoint-Intervals/cpp00352) | |
 | 359 | [Logger Rate Limiter](https://leetcode-cn.com/problems/logger-rate-limiter/description/) | | | |
 | 360 | [Sort Transformed Array](https://leetcode-cn.com/problems/sort-transformed-array/description/) | | | |
 | | | | | |
