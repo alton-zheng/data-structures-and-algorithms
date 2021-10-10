@@ -5,31 +5,30 @@ package java00441.m01;
  * @Date: Created in 6/27/21 10:43 AM
  * @Description:
  *
- * 441. Arranging Coins #152
+ * 441. 排列硬币
+ * 你总共有 n 枚硬币，并计划将它们按阶梯状排列。对于一个由 k 行组成的阶梯，其第 i 行必须正好有 i 枚硬币。阶梯的最后一行 可能 是不完整的。
  *
- * You have n coins and you want to build a staircase with these coins. The staircase consists of k rows where the ith row has exactly i coins. The last row of the staircase may be incomplete.
- *
- * Given the integer n, return the number of complete rows of the staircase you will build.
- *
- * Example 1:
- * Input: n = 5
- * Output: 2
- * Explanation: Because the 3rd row is incomplete, we return 2.
- * Example 2:
+ * 给你一个数字 n ，计算并返回可形成 完整阶梯行 的总行数。
  *
  *
- * Input: n = 8
- * Output: 3
- * Explanation: Because the 4th row is incomplete, we return 3.
  *
- * Constraints:
- * 1 <= n <= 2^31 - 1
+ * 示例 1：
  *
- * Time Complexity ： O(logN)
- * Space Complexity : O(1)
  *
- * Runtime: 8 ms, faster than 21.77% of Java online submissions for Arranging Coins.
- * Memory Usage: 38.3 MB, less than 9.66% of Java online submissions for Arranging Coins.
+ * 输入：n = 5
+ * 输出：2
+ * 解释：因为第三行不完整，所以返回 2 。
+ * 示例 2：
+ *
+ *
+ * 输入：n = 8
+ * 输出：3
+ * 解释：因为第四行不完整，所以返回 3 。
+ *
+ *
+ * 提示：
+ *
+ * 1 <= n <= 231 - 1
  */
 class Solution {
     public int arrangeCoins(int n) {
