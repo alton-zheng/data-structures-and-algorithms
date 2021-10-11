@@ -29,6 +29,7 @@
       <sourceFolder url="file://$MODULE_DIR$/00297-Serialize-and-Deserialize-Binary-Tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/00300-Longest-Increasing-Subsequence" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/00284-Peeking-Iterator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00273-Integer-to-English-Words" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
