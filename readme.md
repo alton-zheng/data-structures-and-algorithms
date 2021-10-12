@@ -32,7 +32,7 @@
 | 026 | [Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/) | [Java](Q00001-Q00100/00026-Remove-Duplicates-from-Sorted-Array/java-00026) |  |  |
 | 027 | [Remove Element](https://leetcode-cn.com/problems/remove-element/description/) | [Java](Q00001-Q00100/00027-Remove-Element/java-00027) |  |  |
 | 028 | [Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/description/) | [Java](Q00001-Q00100/0028-Implement-strStr/cpp-0028/main.cpp -> Q00001-Q00100/00028-Implement-strStr/java-00028) |  |  |
-| 029 | [Divide Two Integers](https://leetcode-cn.com/problems/divide-two-integers/) | | | |
+| 029 | [Divide Two Integers](https://leetcode-cn.com/problems/divide-two-integers/) | [Java](Q00001-Q00100/00029-Divide-Two-Integers/java00029) | [C++](Q00001-Q00100/00029-Divide-Two-Integers/cpp00029) | |
 | 031 | [Next Permutation](https://leetcode-cn.com/problems/next-permutation/) | [Java](Q00001-Q00100/00031-Next-Permutation/java00031) | [C++](Q00001-Q00100/00031-Next-Permutation/cpp00031) |  |
 | 032 |  |  |  |  |
 | 033 | [Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/description/) | | | |
