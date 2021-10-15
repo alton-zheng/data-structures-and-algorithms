@@ -40,7 +40,7 @@
 | 035 | [Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/) | [Java](Q00001-Q00100/00035-Search-Insert-Position/java-00035) |  |  |
 | 036 | [Valid Sudoku](https://leetcode-cn.com/problems/valid-sudoku/description/) | [Java](Q00001-Q00100/00036-Valid-Sudoku/java00036/m01) | [C++](Q00001-Q00100/00036-Valid-Sudoku/cpp00036) | |
 | 037 | [Sudoku Solver](https://leetcode-cn.com/problems/sudoku-solver/description/) | | | |
-| 038 | [Count and Say](https://leetcode-cn.com/problems/count-and-say/description/) | | | |
+| 038 | [Count and Say](https://leetcode-cn.com/problems/count-and-say/description/) | [Java](Q00001-Q00100/00038-Count-and-Say/java00038/java00038) | [C++](Q00001-Q00100/00038-Count-and-Say/java00038/cpp00038) | |
 | 039 | [Combination Sum](https://leetcode-cn.com/problems/combination-sum/description/) | | | |
 | 040 | [Combination Sum II](https://leetcode-cn.com/problems/combination-sum-ii/description/) | | | |
 | 041 | [First Missing Positive](https://leetcode-cn.com/problems/first-missing-positive/) | | | |
