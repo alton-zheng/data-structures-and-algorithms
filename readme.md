@@ -266,7 +266,7 @@
 | 278 | [First Bad Version](https://leetcode-cn.com/problems/first-bad-version/) | [Java](Q00201-Q00300/00278-First-Bad-Version/java00278/m01) | [C++](Q00201-Q00300/00278-First-Bad-Version/cpp00278) |  |
 | 279 | [Perfect Squares](https://leetcode-cn.com/problems/perfect-squares/description/) | [Java](Q00201-Q00300/00279-Perfect-Squares/java00279) | [C++](Q00201-Q00300/00279-Perfect-Squares/cpp00279) |  |
 | | | | | |
-| 282 | [Expression Add Operators](https://leetcode-cn.com/problems/expression-add-operators/description/) | | | |
+| 282 | [Expression Add Operators](https://leetcode-cn.com/problems/expression-add-operators/description/) | [Java]([Expression Add Operators](https://leetcode-cn.com/problems/expression-add-operators/java00282) | [C++]([Expression Add Operators](https://leetcode-cn.com/problems/expression-add-operators/cpp00282) | |
 | 283 | [Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/description/) | [Java](Q00201-Q00300/00283-Move-Zeroes/java00283) | [C++](Q00201-Q00300/00283-Move-Zeroes/cpp00283) |  |
 | 284 | [Peeking Iterator](https://leetcode-cn.com/problems/peeking-iterator/) | [Java](Q00201-Q00300/00284-Peeking-Iterator/java00284) | [C++](Q00201-Q00300/00284-Peeking-Iterator/cpp00284) | |
 | | | | | |
