@@ -226,7 +226,7 @@
 | 227 | [Basic Calculator II](https://leetcode-cn.com/problems/basic-calculator-ii/description/) | [Java](Q00201-Q00300/00227-Basic-Calculator-II/java00227) | [C++](Q00201-Q00300/00227-Basic-Calculator-II/cpp00227) |  |
 | 228 | [Summary Ranges](https://leetcode-cn.com/problems/summary-ranges/) | | | |
 | | | | | |
-| 230 | [Kth Smallest Element in a BST](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/description/) | [Java](Q00201-Q00300/00230-Kth-Smallest-Element-in-a-BST/java00230) | [C++](Q00201-Q00300/00230-Kth-Smallest-Element-in-a-BST/cpp00230) |  |
+| 230 | [Kth Smallest Element in a BST](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/description/) | [Java](Q00201-Q00300/00230-Kth-Smallest-Element-in-a-BST/java00230/m01) | [C++](Q00201-Q00300/00230-Kth-Smallest-Element-in-a-BST/cpp00230/m01) |  |
 | 231 | [Power of Two](https://leetcode-cn.com/problems/power-of-two/) | [Java](Q00201-Q00300/00231-Power-of-Two/java00231) | [C++](Q00201-Q00300/00231-Power-of-Two/cpp00231) |  |
 | 232 | [Implement Queue using Stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/description/) | | | |
 | 233 | [Number of Digit One](https://leetcode-cn.com/problems/number-of-digit-one/) | [Java](Q00201-Q00300/00233-Number-of-Digit-One/java00233) | [C++](Q00201-Q00300/00233-Number-of-Digit-One/cpp00233) | |

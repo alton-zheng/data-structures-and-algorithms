@@ -1,4 +1,7 @@
-package java00230;
+package java00230.m01;
+
+
+import java00000.TreeNode;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
@@ -77,3 +80,4 @@ class Solution {
         }
     }
 }
+
