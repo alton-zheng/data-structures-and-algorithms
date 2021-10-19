@@ -207,7 +207,7 @@
 | 208 | [Implement Trie (Prefix Tree)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/description/) | [Java](Q00201-Q00300/00208-Implement-Trie-Prefix-Tree/java00208) |  |  |
 | 209 | [Minimum Size Subarray Sum](https://leetcode-cn.com/problems/minimum-size-subarray-sum/description/) | [Java](Q00401-Q00500/0209-Minimum-Size-Subarray-Sum/java-0209/src/) |  |  |
 | 210 | [Course Schedule II](https://leetcode-cn.com/problems/course-schedule-ii/) | | | |
-| 211 | [Add and Search Word - Data structure design](https://leetcode-cn.com/problems/add-and-search-word-data-structure-design/description/) | [Java](Q00401-Q00500/0211-Add-and-Search-Word-Data-structure-design/java-0211/) |  |  |
+| 211 | [Add and Search Word - Data structure design](https://leetcode-cn.com/problems/add-and-search-word-data-structure-design/description/) | [Java](Q00201-Q00300/00211-Add-and-Search-Word-Data-structure-design/java00211) | [C++](Q00201-Q00300/00211-Add-and-Search-Word-Data-structure-design/cpp 00211) |  |
 | 212 | [Word Search II](https://leetcode-cn.com/problems/word-search-ii/) | [Java](Q00201-Q00300/00212-Word-Search-II/java00212) | [C++](Q00201-Q00300/00212-Word-Search-II/cpp00212) | |
 | 213 | [House Robber II](https://leetcode-cn.com/problems/house-robber-ii/description/) | | | |
 | | | | | |
