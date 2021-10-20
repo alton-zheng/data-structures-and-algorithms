@@ -395,7 +395,7 @@
 | | | | | |
 | 450 | [Delete Node in a BST](https://leetcode-cn.com/problems/delete-node-in-a-bst/) | | | |
 | 451 | [Sort Characters By Frequency](https://leetcode-cn.com/problems/sort-characters-by-frequency/description/) | [Java](Q00401-Q00500/00451-Sort-Characters-By-Frequency/java00451) | [C++](Q00401-Q00500/00451-Sort-Characters-By-Frequency/cpp00451) |  |
-| | | | | |
+| 453 | [Minimum Moves to Equal Array Elements](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/) | [Java](Q00401-Q00500/00453-Minimum-Moves-to-Equal-Array-Elements/java00453) | [C++](Q00401-Q00500/00453-Minimum-Moves-to-Equal-Array-Elements/cpp00453) | |
 | 454 | [4Sum II](https://leetcode-cn.com/problems/4sum-ii/description/) | [Java](Q00401-Q00500/0454-4Sum-II/java-0454/src/) |  |  |
 | 455 | [Assign Cookies](https://leetcode-cn.com/problems/assign-cookies/description/) | [Java](Q00401-Q00500/0455-Assign-Cookies/java-0455/src/) |  |  |
 | 457 | [Circular Array Loop](https://leetcode-cn.com/problems/circular-array-loop/) | [Java](Q00401-Q00500/00457-Circular-Array-Loop/java00457) | [C++](Q00401-Q00500/00457-Circular-Array-Loop/cpp00457) | |
