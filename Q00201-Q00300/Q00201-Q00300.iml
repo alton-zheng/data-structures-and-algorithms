@@ -32,6 +32,7 @@
       <sourceFolder url="file://$MODULE_DIR$/00273-Integer-to-English-Words" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/00282-Expression-Add-Operators" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/00211-Add-and-Search-Word-Data-structure-design" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00229-Majority-Element-II" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -225,7 +225,7 @@
 | 226 | [Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree/description/) | [Java](Q00401-Q00500/0226-Invert-Binary-Tree/java-0226/src/) |  |  |
 | 227 | [Basic Calculator II](https://leetcode-cn.com/problems/basic-calculator-ii/description/) | [Java](Q00201-Q00300/00227-Basic-Calculator-II/java00227) | [C++](Q00201-Q00300/00227-Basic-Calculator-II/cpp00227) |  |
 | 228 | [Summary Ranges](https://leetcode-cn.com/problems/summary-ranges/) | | | |
-| | | | | |
+| 229 | [Majority Element II](https://leetcode-cn.com/problems/majority-element-ii/) | [Java](Q00201-Q00300/00229-Majority-Element-II/java00229) | [C++](Q00201-Q00300/00229-Majority-Element-II/cpp00229) | |
 | 230 | [Kth Smallest Element in a BST](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/description/) | [Java](Q00201-Q00300/00230-Kth-Smallest-Element-in-a-BST/java00230/m01) | [C++](Q00201-Q00300/00230-Kth-Smallest-Element-in-a-BST/cpp00230/m01) |  |
 | 231 | [Power of Two](https://leetcode-cn.com/problems/power-of-two/) | [Java](Q00201-Q00300/00231-Power-of-Two/java00231) | [C++](Q00201-Q00300/00231-Power-of-Two/cpp00231) |  |
 | 232 | [Implement Queue using Stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/description/) | | | |
