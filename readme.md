@@ -512,7 +512,7 @@
 | 632 | [Smallest Range Covering Elements from K Lists](https://leetcode-cn.com/problems/smallest-range-covering-elements-from-k-lists/) | | | |
 | | | | | |
 | 637 | [Average of Levels in Binary Tree](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/description/) | | | |
-| | | | | |
+| 638 | [Shopping Offers](https://leetcode-cn.com/problems/shopping-offers/) | [Java](Q00601-Q00700/00638-Shopping-Offers/java00638/m01) | | |
 | 642 | [Design Search Autocomplete System](https://leetcode-cn.com/problems/design-search-autocomplete-system/) | | | |
 | 643 | [Maximum Average Subarray I](https://leetcode-cn.com/problems/maximum-average-subarray-i/) | | | |
 | 644 | [Maximum Average Subarray II](https://leetcode-cn.com/problems/maximum-average-subarray-ii/) | | | |
