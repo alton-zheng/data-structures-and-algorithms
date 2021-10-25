@@ -33,6 +33,9 @@
       <sourceFolder url="file://$MODULE_DIR$/00282-Expression-Add-Operators" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/00211-Add-and-Search-Word-Data-structure-design" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/00229-Majority-Element-II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00240-Search-a-2D-Matrix-II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0238-Product-of-Array-Except-Self" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
