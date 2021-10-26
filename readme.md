@@ -417,7 +417,7 @@
 | 490 | [The Maze](https://leetcode-cn.com/problems/the-maze/description/) | | | |
 | 492 | [Construct the Rectangle](https://leetcode-cn.com/problems/construct-the-rectangle/) | [Java]() | | |
 | 494 | [Target Sum](https://leetcode-cn.com/problems/target-sum/description/) | [Java](Q00501-Q00600/00594-Longest-Harmonious-Subsequence/java00594) | [C++](Q00401-Q00500/00494-Target-Sum/cpp00494) |  |
-| | | | | |
+| 496 | [Next Greater Element I](https://leetcode-cn.com/problems/next-greater-element-i/) | [Java](Q00401-Q00500/00496-Next-Greater-Element-I/java00496) |  | |
 | 497 | [Random Point in Non-overlapping Rectangles](https://leetcode-cn.com/problems/random-point-in-non-overlapping-rectangles/solution/) | | | |
 | 498 | [Diagonal Traverse](https://leetcode-cn.com/problems/diagonal-traverse/description/) | | | |
 | | | | | |

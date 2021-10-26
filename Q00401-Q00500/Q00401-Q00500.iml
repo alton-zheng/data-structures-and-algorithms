@@ -34,6 +34,7 @@
       <sourceFolder url="file://$MODULE_DIR$/00434-Number of-Segments-in-a-String" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/00453-Minimum-Moves-to-Equal-Array-Elements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/00492-Construct-the-Rectangle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00496-Next-Greater-Element-I" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
