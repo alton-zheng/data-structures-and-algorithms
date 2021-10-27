@@ -290,7 +290,7 @@
 | 307 | [Range Sum Query - Mutable](https://leetcode-cn.com/problems/range-sum-query-mutable/description/) | | | |
 | 308 | [Range Sum Query 2D - Mutable](https://leetcode-cn.com/problems/range-sum-query-2d-mutable/description/) | | | |
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | | | |
-| | | | | |
+| 301 | [Remove Invalid Parentheses](https://leetcode-cn.com/problems/remove-invalid-parentheses/) | [Java](Q00301-Q00400/00301-Remove-Invalid-Parentheses/java00301) | | |
 | 312 | [Burst Balloons](https://leetcode-cn.com/problems/burst-balloons/) | [Java](Q00301-Q00400/00312-Burst-Balloons/java00312) |  |  |
 | 313 | [Super Ugly Number](https://leetcode-cn.com/problems/super-ugly-number/) | [Java](Q00301-Q00400/00313-Super-Ugly-Number/java00313) | [C++](Q00301-Q00400/00313-Super-Ugly-Number/cpp00313) | |
 | 315 | [Count of Smaller Numbers After Self](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/) | | | |
