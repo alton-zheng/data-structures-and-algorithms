@@ -681,7 +681,7 @@
 | 866 | [Prime Palindrome](https://leetcode-cn.com/problems/prime-palindrome/description/) | | | |
 | 867 | [Transpose Matrix](https://leetcode-cn.com/problems/transpose-matrix/description/) | | | |
 | 868 | [Binary Gap](https://leetcode-cn.com/problems/binary-gap/description/) | [Java](Q00801-Q00900/00868-Binary-Gap/java00868) |  |  |
-| 869 | [Reordered Power of 2](https://leetcode-cn.com/problems/reordered-power-of-2/description/) | | | |
+| 869 | [Reordered Power of 2](https://leetcode-cn.com/problems/reordered-power-of-2/description/) | [Java](Q00801-Q00900/00869-Reordered-Power-of-2/java00869) | | |
 | 870 | [Advantage Shuffle](https://leetcode-cn.com/problems/advantage-shuffle/description/) | | | |
 | 871 | [Minimum Number of Refueling Stops](https://leetcode-cn.com/problems/minimum-number-of-refueling-stops/description/) | | | |
 | 872 | [Leaf-Similar Trees](https://leetcode-cn.com/problems/leaf-similar-trees/description/) | [Java](Q00801-Q00900/00872-Leaf-Similar-Trees/java-00872/) |  |  |
