@@ -43,6 +43,7 @@ import java.util.Set;
  *
  */
 class Solution {
+
     Set<String> powerOf2Digits = new HashSet<>();
 
     public boolean reorderedPowerOf2(int n) {
