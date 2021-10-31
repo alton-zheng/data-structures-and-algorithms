@@ -420,6 +420,7 @@
 | 496 | [Next Greater Element I](https://leetcode-cn.com/problems/next-greater-element-i/) | [Java](Q00401-Q00500/00496-Next-Greater-Element-I/java00496) |  | |
 | 497 | [Random Point in Non-overlapping Rectangles](https://leetcode-cn.com/problems/random-point-in-non-overlapping-rectangles/solution/) | | | |
 | 498 | [Diagonal Traverse](https://leetcode-cn.com/problems/diagonal-traverse/description/) | | | |
+| 500 | [Keyboard Row](https://leetcode-cn.com/problems/keyboard-row/) | [Java](Q00401-Q00500/00500-Keyboard-Row/java00500) | | |
 | | | | | |
 
 &nbsp;
