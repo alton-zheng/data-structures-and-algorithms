@@ -470,7 +470,7 @@
 | 557 | [Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/description/) | [Java](Q00501-Q00600/00557-Reverse-Words-in-a-String-III/java00557) | [C++](Q00501-Q00600/00557-Reverse-Words-in-a-String-III/cpp00557) | |
 | | | | | |
 | 559 | [Maximum Depth of N-ary Tree](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/description/) | [Java](Q00501-Q00600/0559-Maximum-Depth-of-N-ary-Tree/java00559) | [C++](Q00501-Q00600/0559-Maximum-Depth-of-N-ary-Tree/cpp00559) |  |
-| 00560 | [Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/) | [Java](Q00501-Q00600/00560-Subarray-Sum-Equals-K/java00560) | [C++](Q00501-Q00600/00560-Subarray-Sum-Equals-K/cpp00560) |  |
+| 560 | [Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/) | [Java](Q00501-Q00600/00560-Subarray-Sum-Equals-K/java00560) | [C++](Q00501-Q00600/00560-Subarray-Sum-Equals-K/cpp00560) |  |
 | 561 | [Array Partition I](https://leetcode-cn.com/problems/array-partition-i/description/) | [Java](Q00501-Q00600/00561-Array-Partition-I/java00561) | [C++](Q00501-Q00600/00561-Array-Partition-I/cpp00561) | |
 | | | | | |
 | 563 | [Binary Tree Tilt](https://leetcode-cn.com/problems/binary-tree-tilt/) | [Java](Q00501-Q00600/00563-Binary-Tree-Tilt/java00563) | [C++](Q00501-Q00600/00563-Binary-Tree-Tilt/cpp00563) | |
@@ -481,7 +481,7 @@
 | 572 | [Subtree of Another Tree](https://leetcode-cn.com/problems/subtree-of-another-tree/description/) | | | |
 | 573 | [Squirrel Simulation](https://leetcode-cn.com/problems/squirrel-simulation/) | | | |
 | | | | | |
-| 575 | [Distribute Candies](https://leetcode-cn.com/problems/distribute-candies/) | | | |
+| 575 | [Distribute Candies](https://leetcode-cn.com/problems/distribute-candies/) | [Java](Q00501-Q00600/00575-Distribute-Candies/java00575) | [C++](Q00501-Q00600/00575-Distribute-Candies/cpp00575) | |
 | 576 | [Out of Boundary Paths](https://leetcode-cn.com/problems/out-of-boundary-paths/) | [Java](Q00501-Q00600/00576-Out-of-Boundary-Paths/java00576) | [C++](Q00501-Q00600/00576-Out-of-Boundary-Paths/cpp00576) | |
 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/) | [Java](Q00501-Q00600/00581-Shortest-Unsorted-Continuous-Subarray/java00581) | [C++](Q00501-Q00600/00581-Shortest-Unsorted-Continuous-Subarray/cpp00581) | |
 | 582 | [Kill Process](https://leetcode-cn.com/problems/kill-process/) | | | |
