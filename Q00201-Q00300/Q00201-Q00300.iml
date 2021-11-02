@@ -37,6 +37,7 @@
       <sourceFolder url="file://$MODULE_DIR$/0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/0238-Product-of-Array-Except-Self" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/00260-Single-Number-III" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00237-Delete-Node-in-a-Linked-List" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
