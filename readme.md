@@ -991,7 +991,7 @@
 | 1215 | [Stepping Numbers](https://leetcode-cn.com/problems/stepping-numbers/) | | |
 | 1216 | [Valid Palindrome III](https://leetcode-cn.com/problems/valid-palindrome-iii/) | | |
 | 1217 | [Minimum Cost to Move Chips to The Same Position](https://leetcode-cn.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | [Java](Q01201-Q01300/01217-Minimum-Cost-to-Move-Chips-to-The-Same-Position/java01217) | [C++](Q01201-Q01300/01217-Minimum-Cost-to-Move-Chips-to-The-Same-Position/cpp01217) |
-| 1218 | [Longest Arithmetic Subsequence of Given Difference](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/) | | |
+| 1218 | [Longest Arithmetic Subsequence of Given Difference](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [Java](Q01201-Q01300/01218-Longest-Arithmetic-Subsequence-of-Given-Difference/java01218) | |
 | 1219 | [Path with Maximum Gold](https://leetcode-cn.com/problems/path-with-maximum-gold/) | | |
 | 1220 | [Count Vowels Permutation](https://leetcode-cn.com/problems/count-vowels-permutation/) | | |
 | 1221 | [Split a String in Balanced Strings](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/) | [Java](Q01201-Q01300/01221-Split-a-String-in-Balanced-Strings/java01221) | [C++](Q01201-Q01300/01221-Split-a-String-in-Balanced-Strings/cpp01221) |
