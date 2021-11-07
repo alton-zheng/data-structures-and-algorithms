@@ -495,7 +495,7 @@
 | 594 | [Longest Harmonious Subsequence](https://leetcode-cn.com/problems/longest-harmonious-subsequence/) | [Java](Q00501-Q00600/00594-Longest-Harmonious-Subsequence/java00594) | [C++](Q00501-Q00600/00594-Longest-Harmonious-Subsequence/cpp00594) | |
 | 595 | [Big Countries](https://leetcode-cn.com/problems/big-countries/) | [mysql](Q00501-Q00600/00595-Big-Countries/mysql00595) | | |
 | 596 | [Classes More Than 5 Students](https://leetcode-cn.com/problems/classes-more-than-5-students/) | [mysql](Q00501-Q00600/00596-Classes-More-Than-5-Students/mysql00596) | | |
-| 598 | [Range Addition II](https://leetcode-cn.com/problems/range-addition-ii/description/) | | | |
+| 598 | [Range Addition II](https://leetcode-cn.com/problems/range-addition-ii/description/) | [Java](Q00501-Q00600/00598-Range-Addition-II/java00598) | [C++](Q00501-Q00600/00598-Range-Addition-II/cpp00598) | |
 | 599 | [Minimum Index Sum of Two Lists](https://leetcode-cn.com/explore/learn/card/hash-table/184/comparison-with-other-data-structures/1177/) | | | |
 | 600 | [Non-negative Integers without Consecutive Ones](https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones/description/) | [Java](Q00501-Q00600/00600-Non-negative-Integers-without-Consecutive-Ones/java00600) | [C++](Q00501-Q00600/00600-Non-negative-Integers-without-Consecutive-Ones/cpp00600) | |
 | 601 | [Human Traffic of Stadium](https://leetcode-cn.com/problems/human-traffic-of-stadium/) | [mysql](Q00601-Q00700/00601-Human-Traffic-of-Stadium/mysql00601) | | |
