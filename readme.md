@@ -279,7 +279,7 @@
 | 295 | [Find Median from Data Stream](https://leetcode-cn.com/problems/find-median-from-data-stream/) | [Java](Q00201-Q00300/00295-Find-Median-from-Data-Stream/java00295) | [C++](Q00201-Q00300/00295-Find-Median-from-Data-Stream/cpp00295) | |
 | | | | | |
 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/description/) | [Java](Q00201-Q00300/00297-Serialize-and-Deserialize-Binary-Tree/java00297) | [C++](Q00201-Q00300/00297-Serialize-and-Deserialize-Binary-Tree/java00297) | |
-| | | | | |
+| 299 | [Bulls and Cows](https://leetcode-cn.com/problems/bulls-and-cows/) | [Java](Q00201-Q00300/00299-Bulls-and-Cows/java00299) | | |
 | 300 | [Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/description/) | [Java](Q00201-Q00300/00300-Longest-Increasing-Subsequence/java00300) | [C++](Q00201-Q00300/00300-Longest-Increasing-Subsequence/cpp00300) |  |
 | 301 | [0301-Remove-Invalid-Parentheses](https://leetcode-cn.com/problems/remove-invalid-parentheses/) | | | |
 | | | | | |
