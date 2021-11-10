@@ -36,6 +36,7 @@
       <sourceFolder url="file://$MODULE_DIR$/00492-Construct-the-Rectangle" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/00496-Next-Greater-Element-I" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/00500-Keyboard-Row" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00495-Teemo-Attacking" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
