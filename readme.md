@@ -4,7 +4,7 @@
 
 | ID | Problem | Java | C++ | Python |
 | --- | --- | :---: | ----- | ----- |
-| 001 | [Two Sum](https://leetcode-cn.com/problems/two-sum/description/) | [Java](Q00001-Q00100/00001-Two-Sum/java-00001/src/) |  |  |
+| 001 | [Two Sum](https://leetcode-cn.com/problems/two-sum/description/) | [Java](Q00001-Q00100/00001-Two-Sum/java00001/m01/Solution.java) | [C++](Q00001-Q00100/00001-Two-Sum/cpp00001/m01/Solution.cpp) |  |
 | 002 | [Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/description/) | [Java](Q00001-Q00100/00002-Add-Two-Numbers/java-00002/src) |  |  |
 | 003 | [Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/description/) | [Java](Q00001-Q00100/00003-Longest-Substring-Without-Repeating-Characters/java-00003/src/) |  |  |
 | 004 | [Median of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) | [Java](Q00001-Q00100/00004-Median-of-Two-Sorted-Arrays/java-00004/src) |  |  |
