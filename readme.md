@@ -4,10 +4,10 @@
 
 | ID | Problem | Java | C++ | Python |
 | --- | --- | :---: | ----- | ----- |
-| 001 | [Two Sum](https://leetcode-cn.com/problems/two-sum/description/) | [Java](Q00001-Q00100/00001-Two-Sum/java00001/m01/Solution.java) | [C++](Q00001-Q00100/00001-Two-Sum/cpp00001/m01/Solution.cpp) |  |
-| 002 | [Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/description/) | [Java](Q00001-Q00100/00002-Add-Two-Numbers/java-00002/src) |  |  |
+| 001 | [Two Sum](https://leetcode-cn.com/problems/two-sum/description/) | [Java](Q00001-Q00100/00001-Two-Sum/java00001/m01) | [C++](Q00001-Q00100/00001-Two-Sum/cpp00001/m01/java00002.m01.Solution.cpp) |  |
+| 002 | [Add Two Numbers](https://leetcode.cn/problems/add-two-numbers/) | [Java]() |  |  |
 | 003 | [Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/description/) | [Java](Q00001-Q00100/00003-Longest-Substring-Without-Repeating-Characters/java-00003/src/) |  |  |
-| 004 | [Median of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) | [Java](Q00001-Q00100/00004-Median-of-Two-Sorted-Arrays/java-00004/src) |  |  |
+| 004 | [Median of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) | [Java](Q00001-Q00100/00004-Median-of-Two-Sorted-Arrays/java00004) |  |  |
 | 005 | [Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [Java](Q00001-Q00100/00005-Longest-Palindromic-Substring/java00005) | [C++](Q00001-Q00100/00005-Longest-Palindromic-Substring/cpp00005) |  |
 | | | | | |
 | 007 | [Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/description/) | | | |
@@ -1009,7 +1009,7 @@
 | 1234 | [Replace the Substring for Balanced String](https://leetcode-cn.com/problems/replace-the-substring-for-balanced-string/) | | |
 | 1235 | [Maximum Profit in Job Scheduling](https://leetcode-cn.com/problems/maximum-profit-in-job-scheduling/) | | |
 | | | | |
-| 1237 | [Find Positive Integer Solution for a Given Equation](https://leetcode-cn.com/problems/find-positive-integer-solution-for-a-given-equation/) | | |
+| 1237 | [Find Positive Integer java00002.m01.Solution for a Given Equation](https://leetcode-cn.com/problems/find-positive-integer-solution-for-a-given-equation/) | | |
 | 1238 | [Circular Permutation in Binary Representation](https://leetcode-cn.com/problems/circular-permutation-in-binary-representation/) | | |
 | 1239 | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [Java](Q01201-Q01300/01239-Maximum-Length-of-a-Concatenated-String-with-Unique-Characters/java01239) | [C++](Q01201-Q01300/01239-Maximum-Length-of-a-Concatenated-String-with-Unique-Characters/cpp01239) |
 | 1240 | [Tiling a Rectangle with the Fewest Squares](https://leetcode-cn.com/problems/tiling-a-rectangle-with-the-fewest-squares/) | | |
