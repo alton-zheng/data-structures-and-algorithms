@@ -8,7 +8,7 @@ from typing import List
 # Time Complexity: O(n)
 # Space Complexity: O(3)
 
-class Solution:
+class java00002.m01.Solution:
     def sortColors(self, nums: List[int]) -> None:
         """
         Do not return anything, modify nums in-place instead.
@@ -29,7 +29,7 @@ class Solution:
         
 
 if __name__ == '__main__':
-	s = Solution()
+	s = java00002.m01.Solution()
 	nums = [2,0,2,1,1,0]
 	s.sortColors(nums)
 	print(nums)

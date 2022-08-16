@@ -30,6 +30,6 @@ def pre_order(node, parent_sum):
     return sum
 
 
-class Solution:
+class java00002.m01.Solution:
     def sumRootToLeaf(self, root: TreeNode) -> int:
         return pre_order(root, 0)

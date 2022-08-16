@@ -1,6 +1,6 @@
 # Runtime: 40 ms, faster than 66.30% of Python3 online submissions for Arranging Coins.
 # Memory Usage: 14.2 MB, less than 64.39% of Python3 online submissions for Arranging Coins.
-class Solution:
+class java00002.m01.Solution:
     def arrangeCoins(self, n: int) -> int:
         left = 1
         right = min([n, 66000])

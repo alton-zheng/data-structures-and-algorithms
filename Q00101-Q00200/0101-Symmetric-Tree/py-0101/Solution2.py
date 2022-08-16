@@ -13,7 +13,7 @@ class TreeNode:
         self.left = None
         self.right = None
 
-class Solution:
+class java00002.m01.Solution:
     def isSymmetric(self, root: TreeNode) -> bool:
         # Check whether left and right child are symmetic
         def symmetricEqual(left, right):

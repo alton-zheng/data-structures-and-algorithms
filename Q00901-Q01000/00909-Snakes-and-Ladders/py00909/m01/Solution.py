@@ -1,6 +1,6 @@
 # Runtime: 124 ms, faster than 50.07% of Python3 online submissions for Snakes and Ladders.
 # Memory Usage: 14.3 MB, less than 82.74% of Python3 online submissions for Snakes and Ladders.
-class Solution:
+class java00002.m01.Solution:
     def snakesAndLadders(self, board: List[List[int]]) -> int:
 
         l = len(board)

@@ -1,7 +1,7 @@
 # Runtime: 52 ms, faster than 72.43% of Python3 online submissions for Third Maximum Number.
 # Memory Usage: 14.9 MB, less than 71.99% of Python3 online submissions for Third Maximum Number.
 
-class Solution:
+class java00002.m01.Solution:
     def thirdMax(self, nums: List[int]) -> int:
 
         l  = len(nums)

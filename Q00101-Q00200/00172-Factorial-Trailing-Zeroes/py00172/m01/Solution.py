@@ -2,7 +2,7 @@
 # Memory Usage: 14.1 MB, less than 72.79% of Python3 online submissions for Factorial Trailing Zeroes.
 # Time Complexity : O(N)
 # Space Complexity : O(1)
-class Solution:
+class java00002.m01.Solution:
     def trailingZeroes(self, n: int) -> int:
         five_count = 0
         for i in range(5, n + 1, 5):

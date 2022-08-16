@@ -1,6 +1,6 @@
 ## Runtime: 508 ms, faster than 96.12% of Python3 online submissions for Make Sum Divisible by P.
 ## Memory Usage: 32.4 MB, less than 97.02% of Python3 online submissions for Make Sum Divisible by P.
-class Solution:
+class java00002.m01.Solution:
     def minSubarray(self, nums: List[int], p: int) -> int:
 
         res = l = len(nums)

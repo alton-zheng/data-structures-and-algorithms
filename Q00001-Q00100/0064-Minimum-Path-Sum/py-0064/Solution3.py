@@ -7,7 +7,7 @@ from typing import List
 # Use single list to keep accumulate dp result
 # Time Complexity: O(n*m)
 # Space Complexity: O(n)
-class Solution:
+class java00002.m01.Solution:
     def minPathSum(self, grid: List[List[int]]) -> int:
         if not grid or not grid[0]: 
             return 0
@@ -26,7 +26,7 @@ class Solution:
         return dp[m-1]
 
 if __name__ == '__main__':
-    solution = Solution()
+    solution = java00002.m01.Solution()
     grid = [
     [1,3,1],
     [1,5,1],

@@ -49,5 +49,5 @@ insertFront, insertLast, deleteFront, deleteLast, getFront, getRear, isEmpty, is
 
 &nbsp;
 
-## 方法一： 底层数组
+
 

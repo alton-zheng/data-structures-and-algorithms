@@ -8,7 +8,7 @@ from typing import List
 # Time Complexity: O(n^2)
 # Space Complexity: O(1)
 
-class Solution:
+class java00002.m01.Solution:
     def maximalSquare(self, matrix: List[List[str]]) -> int:
         if not matrix or not matrix[0]: return 0
         n = len(matrix)

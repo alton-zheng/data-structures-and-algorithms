@@ -8,7 +8,7 @@ from typing import List
 # Time Complexity: O(n)
 # Space Complexity: O(1)
 
-class Solution:
+class java00002.m01.Solution:
     def maxProduct(self, nums: List[int]) -> int:
         n = len(nums)
         minVal, maxVal = nums[0], nums[0]
@@ -25,7 +25,7 @@ class Solution:
         
 
 if __name__ == '__main__':
-	s = Solution()
+	s = java00002.m01.Solution()
 	nums = [2,3,-2,4]
 	answer = s.maxProduct(nums)
 	print(answer)
