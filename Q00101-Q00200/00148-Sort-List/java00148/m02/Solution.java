@@ -42,10 +42,6 @@ package java00148.m02;
 
 import java00000.ListNode;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
-
 /**
  * Definition for singly-linked list.
  * public class ListNode {

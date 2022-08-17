@@ -43,7 +43,6 @@ package java00148.m01;
 import java00000.ListNode;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 
