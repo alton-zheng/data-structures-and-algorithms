@@ -221,14 +221,14 @@
 | 222 | [Count Complete Tree Nodes](https://leetcode.cn/problems/count-complete-tree-nodes/description/) | | | |
 | 223 | [Rectangle Area](https://leetcode.cn/problems/rectangle-area/) | [Java]() | | |
 | 224 | [Basic Calculator](https://leetcode.cn/problems/basic-calculator/description/) | | | |
-| 225 | [Implement Stack using Queues](https://leetcode.cn/problems/implement-stack-using-queues/description/) | | | |
+| 225 | [Implement Stack using Queues](https://leetcode.cn/problems/implement-stack-using-queues/description/) | [java](Q00201-Q00300/00225-Implement-Stack-using-Queues/java00225) | | |
 | 226 | [Invert Binary Tree](https://leetcode.cn/problems/invert-binary-tree/description/) | [Java](Q00401-Q00500/0226-Invert-Binary-Tree/java-0226/src/) |  |  |
 | 227 | [Basic Calculator II](https://leetcode.cn/problems/basic-calculator-ii/description/) | [Java](Q00201-Q00300/00227-Basic-Calculator-II/java00227) | [C++](Q00201-Q00300/00227-Basic-Calculator-II/cpp00227) |  |
 | 228 | [Summary Ranges](https://leetcode.cn/problems/summary-ranges/) | | | |
 | 229 | [Majority Element II](https://leetcode.cn/problems/majority-element-ii/) | [Java](Q00201-Q00300/00229-Majority-Element-II/java00229) | [C++](Q00201-Q00300/00229-Majority-Element-II/cpp00229) | |
 | 230 | [Kth Smallest Element in a BST](https://leetcode.cn/problems/kth-smallest-element-in-a-bst/description/) | [Java](Q00201-Q00300/00230-Kth-Smallest-Element-in-a-BST/java00230/m01) | [C++](Q00201-Q00300/00230-Kth-Smallest-Element-in-a-BST/cpp00230/m01) |  |
 | 231 | [Power of Two](https://leetcode.cn/problems/power-of-two/) | [Java](Q00201-Q00300/00231-Power-of-Two/java00231) | [C++](Q00201-Q00300/00231-Power-of-Two/cpp00231) |  |
-| 232 | [Implement Queue using Stacks](https://leetcode.cn/problems/implement-queue-using-stacks/description/) | [Java](/Users/alton_z/Documents/profile/data-structures-and-algorithms/Q00201-Q00300/00232-Implement-Queue-using-Stacks/java00232) | | |
+| 232 | [Implement Queue using Stacks](https://leetcode.cn/problems/implement-queue-using-stacks/description/) | [Java](Q00201-Q00300/00232-Implement-Queue-using-Stacks/java00232) | | |
 | 233 | [Number of Digit One](https://leetcode.cn/problems/number-of-digit-one/) | [Java](Q00201-Q00300/00233-Number-of-Digit-One/java00233) | [C++](Q00201-Q00300/00233-Number-of-Digit-One/cpp00233) | |
 | 234 | [Palindrome Linked List](https://leetcode.cn/problems/palindrome-linked-list/description/) | | | |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | [Java](Q00401-Q00500/0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree/java-0235/src/) |  |  |
