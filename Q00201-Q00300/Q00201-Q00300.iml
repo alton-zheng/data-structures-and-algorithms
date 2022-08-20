@@ -38,6 +38,7 @@
       <sourceFolder url="file://$MODULE_DIR$/00297-Serialize-and-Deserialize-Binary-Tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/00299-Bulls-and-Cows" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/00300-Longest-Increasing-Subsequence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00232-Implement-Queue-using-Stacks" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
