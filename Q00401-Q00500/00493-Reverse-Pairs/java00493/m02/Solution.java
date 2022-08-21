@@ -17,134 +17,51 @@ public class Solution {
         return process(nums, 0, nums.length - 1);
     }
 
-    public static int process(int[] arr, int l, int r) {
-        if (l == r) {
+    public static int process(int[] nums, int left, int right) {
+        if (left == right) {
             return 0;
         }
-        // l < r
-        int mid = l + ((r - l) >> 1);
-        return process(arr, l, mid) + process(arr, mid + 1, r) + merge(arr, l, mid, r);
+        // left < right
+        int mid = left + ((right - left) >> 1);
+        return process(nums, left, mid) + process(nums, mid + 1, right) + merge(nums, left, mid, right);
     }
 
-    public static int merge(int[] arr, int l, int m, int r) {
-        // [l....M] [M+1....R]
+    public static int merge(int[] nums, int left, int mid, int right) {
+        // [left....M] [M+1....R]
         // 下面这部分代码是此题的求数的代码
         // 定义结果值
-        int ans = 0;
-        // 目前囊括进来的数，是从[M+1, windowR)
-        // 定义当前 r 位置，初始化为 m + 1
-        int windowR = m + 1;
+        int res = 0;
+        // 目前囊括进来的数，是从[M+1, r)
+        // 定义当前 right 位置，初始化为 mid + 1
+        int r = mid + 1;
 
         // 下面代码是此算法核心
         //
-        for (int i = l; i <= m; i++) {
-            while (windowR <= r && (long) arr[i] > (long) arr[windowR] * 2) {
-                windowR++;
+        for (int i = left; i <= mid; i++) {
+            while (r <= right && (long) nums[i] > (long) nums[r] * 2) {
+                r++;
             }
-            ans += windowR - m - 1;
+            res += r - mid - 1;
         }
 
         // 下面的代码就是普通的归并排序代码
-        int[] help = new int[r - l + 1];
+        int[] help = new int[right - left + 1];
         int i = 0;
-        int p1 = l;
-        int p2 = m + 1;
-        while (p1 <= m && p2 <= r) {
-            help[i++] = arr[p1] <= arr[p2] ? arr[p1++] : arr[p2++];
+        int p1 = left;
+        int p2 = mid + 1;
+        while (p1 <= mid && p2 <= right) {
+            help[i++] = nums[p1] <= nums[p2] ? nums[p1++] : nums[p2++];
         }
-        while (p1 <= m) {
-            help[i++] = arr[p1++];
+        while (p1 <= mid) {
+            help[i++] = nums[p1++];
         }
-        while (p2 <= r) {
-            help[i++] = arr[p2++];
+        while (p2 <= right) {
+            help[i++] = nums[p2++];
         }
         for (i = 0; i < help.length; i++) {
-            arr[l + i] = help[i];
-        }
-        return ans;
-    }
-
-    // for test
-    public static int comparator(int[] arr) {
-        int ans = 0;
-        for (int i = 0; i < arr.length; i++) {
-            for (int j = i + 1; j < arr.length; j++) {
-                if (arr[i] > (arr[j] << 1)) {
-                    ans++;
-                }
-            }
-        }
-        return ans;
-    }
-
-    // for test
-    public static int[] generateRandomArray(int maxSize, int maxValue) {
-        int[] arr = new int[(int) ((maxSize + 1) * Math.random())];
-        for (int i = 0; i < arr.length; i++) {
-            arr[i] = (int) ((maxValue + 1) * Math.random()) - (int) ((maxValue + 1) * Math.random());
-        }
-        return arr;
-    }
-
-    // for test
-    public static int[] copyArray(int[] arr) {
-        if (arr == null) {
-            return null;
-        }
-        int[] res = new int[arr.length];
-        for (int i = 0; i < arr.length; i++) {
-            res[i] = arr[i];
+            nums[left + i] = help[i];
         }
         return res;
-    }
-
-    // for test
-    public static boolean isEqual(int[] arr1, int[] arr2) {
-        if ((arr1 == null && arr2 != null) || (arr1 != null && arr2 == null)) {
-            return false;
-        }
-        if (arr1 == null && arr2 == null) {
-            return true;
-        }
-        if (arr1.length != arr2.length) {
-            return false;
-        }
-        for (int i = 0; i < arr1.length; i++) {
-            if (arr1[i] != arr2[i]) {
-                return false;
-            }
-        }
-        return true;
-    }
-
-    // for test
-    public static void printArray(int[] arr) {
-        if (arr == null) {
-            return;
-        }
-        for (int i = 0; i < arr.length; i++) {
-            System.out.print(arr[i] + " ");
-        }
-        System.out.println();
-    }
-
-    // for test
-    public static void main(String[] args) {
-        int testTime = 500000;
-        int maxSize = 100;
-        int maxValue = 100;
-        System.out.println("测试开始");
-        for (int i = 0; i < testTime; i++) {
-            int[] arr1 = generateRandomArray(maxSize, maxValue);
-            int[] arr2 = copyArray(arr1);
-            if (new Solution().reversePairs(arr1) != comparator(arr2)) {
-                System.out.println("Oops!");
-                printArray(arr1);
-                printArray(arr2);
-                break;
-            }
-        }
-        System.out.println("测试结束");
     }
 
 }
