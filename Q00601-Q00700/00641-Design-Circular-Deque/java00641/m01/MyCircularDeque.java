@@ -10,8 +10,8 @@ package java00641.m01;
  *641. Design Circular Deque #427
  *
  *
- * 时间复杂度：初始化和每项操作的时间复杂度均为 O(1)O(1)。
- * 空间复杂度：O(k)O(k)，其中 kk 为给定的队列元素数目。
+ * 时间复杂度：初始化和每项操作的时间复杂度均为 O(1)。
+ * 空间复杂度：O(k)，其中 kk 为给定的队列元素数目。
  */
 class MyCircularDeque {
     private int[] elements;
