@@ -301,6 +301,7 @@
 | 321 | [Create Maximum Number](https://leetcode.cn/problems/create-maximum-number/) | | | |
 | 322 | [Coin Change](https://leetcode.cn/problems/coin-change/description/) | | | |
 | 326 | [ Power of Three](https://leetcode.cn/problems/power-of-three/) | [Java](Q00301-Q00400/00326-Power-of-Three/java00326) | [C++](Q00301-Q00400/00326-Power-of-Three/cpp00326) | |
+| 327 | [Count of Range Sum](https://leetcode.cn/problems/count-of-range-sum/) | [Java](Q00301-Q00400/00327-Count-of-Range-Sum/java00327) |  | |
 | 328 | [Odd Even Linked List](https://leetcode.cn/problems/odd-even-linked-list/description/) | | | |
 | 329 | [Longest Increasing Path in a Matrix](https://leetcode.cn/problems/longest-increasing-path-in-a-matrix/) | | | |
 | 330 | [Patching Array](https://leetcode.cn/problems/patching-array/) | | | |
@@ -523,7 +524,7 @@
 | 649 | [Dota2 Senate](https://leetcode.cn/problems/dota2-senate/) | | | |
 | 650 | [2 Keys Keyboard](https://leetcode.cn/problems/2-keys-keyboard/) | [Java](Q00601-Q00700/00650-2-Keys-Keyboard/java00650) | [C++](Q00601-Q00700/00650-2-Keys-Keyboard/cpp00650) |  |
 | 652 | [Find Duplicate Subtrees](https://leetcode.cn/problems/find-duplicate-subtrees/description/) | | | |
-| | | | | |
+| 655 | [Print Binary Tree](https://leetcode.cn/problems/print-binary-tree/) | [Java](Q00601-Q00700/00655-Print-Binary-Tree/java00655) | | |
 | 659 | [Split Array into Consecutive Subsequences](https://leetcode.cn/problems/split-array-into-consecutive-subsequences/) | | | |
 | 661 | [Image Smoother](https://leetcode.cn/problems/image-smoother/) | [Java](Q00601-Q00700/00661-Image-Smoother/java00661) | [C++](Q00601-Q00700/00661-Image-Smoother/cpp00661) |  |
 | 664 | [Strange Printer](https://leetcode.cn/problems/strange-printer/) | [Java](Q00601-Q00700/00664-Strange-Printer/java00664) |  |  |
