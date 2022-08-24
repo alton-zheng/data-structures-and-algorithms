@@ -1174,7 +1174,7 @@
 | 1457 | [Pseudo Palindromic Paths in a Binary Tree](https://leetcode.cn/problems/pseudo-palindromic-paths-in-a-binary-tree/) |                                                                                                       | |
 | 1458 | [Max Dot Product of Two Subsequences](https://leetcode.cn/problems/max-dot-product-of-two-subsequences/) |                                                                                                       | |
 | 1459 | Database Problem: [Link](https://github.com/alton/Play-Leetcode-Database/) | -                                                                                                     |  |
-| 1460 | [Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.cn/problems/make-two-arrays-equal-by-reversing-sub-arrays/) |                                                                                                       | |
+| 1460 | [Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.cn/problems/make-two-arrays-equal-by-reversing-sub-arrays/) | [Java](Q01401-Q01500/01460-Make-Two-Arrays-Equal-by-Reversing-Sub-arrays/java01460) | |
 | 1461 | [Check If a String Contains All Binary Codes of Size K](https://leetcode.cn/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) |                                                                                                       | |
 | 1462 | [Course Schedule IV](https://leetcode.cn/problems/course-schedule-iv/) |                                                                                                       | |
 | 1463 | [Cherry Pickup II](https://leetcode.cn/problems/cherry-pickup-ii/) |                                                                                                       | |
@@ -1538,3 +1538,4 @@
 | 17.10 | [面试题 17.10. 主要元素](https://leetcode.cn/problems/find-majority-element-lcci/) | [Java](面试题/17.10-主要元素/java1710)        | [C++](面试题/17.10-主要元素/cpp1710)        |
 | 17.14 | [最小K个数](https://leetcode.cn/problems/smallest-k-lcci/)   | [Java](面试题/17.14-smallest-k-lcci/java1714) | [C++](面试题/17.14-smallest-k-lcci/cpp1714) |
 
+kyi k
