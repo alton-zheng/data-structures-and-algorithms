@@ -527,6 +527,7 @@
 | 655 | [Print Binary Tree](https://leetcode.cn/problems/print-binary-tree/) | [Java](Q00601-Q00700/00655-Print-Binary-Tree/java00655) | | |
 | 659 | [Split Array into Consecutive Subsequences](https://leetcode.cn/problems/split-array-into-consecutive-subsequences/) | | | |
 | 661 | [Image Smoother](https://leetcode.cn/problems/image-smoother/) | [Java](Q00601-Q00700/00661-Image-Smoother/java00661) | [C++](Q00601-Q00700/00661-Image-Smoother/cpp00661) |  |
+| 662 | [Maximum Width of Binary Tree](https://leetcode.cn/problems/maximum-width-of-binary-tree/) | [Java](Q00601-Q00700/00662-Maximum-Width-of-Binary-Tree/java00662) |  | |
 | 664 | [Strange Printer](https://leetcode.cn/problems/strange-printer/) | [Java](Q00601-Q00700/00664-Strange-Printer/java00664) |  |  |
 | 665 | [Non-decreasing Array](https://leetcode.cn/problems/non-decreasing-array/) | [Java]() | | |
 | | | | | |

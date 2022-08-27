@@ -1,7 +1,9 @@
 package java00001.m01;
 
+import java.util.Deque;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.concurrent.LinkedBlockingDeque;
 
 /**
  * @Description:
@@ -53,6 +55,7 @@ class Solution {
             }
 
             help.put(target - nums[i], i);
+
         }
 
         return new int[]{-1, -1};

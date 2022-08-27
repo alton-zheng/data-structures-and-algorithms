@@ -89,6 +89,8 @@ class Solution {
         int R = left;
 
         // [L, R)
+        // 因为 [mid + 1, right] 位置前缀和递增的，他们分别减去相同的 lower, upper 得到 min, max
+        // 因此 L，R 在循环的过程中，只会不断的递增，不会变小，所以 L，R 不需要每次都从 left 开始递增
         for (int i = mid + 1; i <= right; i++) {
 
             // preSum[i] 为 i 位置作为结尾的前缀和

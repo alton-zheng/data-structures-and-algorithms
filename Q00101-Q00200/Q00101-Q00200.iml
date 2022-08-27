@@ -18,20 +18,20 @@
       <sourceFolder url="file://$MODULE_DIR$/00160-Intersection-of-Two-Linked-Lists" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/00162-Find-Peak-Element" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/00165-Compare-Version-Numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00166-Fraction-to-Recurring-Decimal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/00167-Two-Sum-II-Input-array-is-sorted" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/00168-Excel-Sheet-Column-Title" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/00169-Majority-Element" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/00171-Excel-Sheet-Column" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/00172-Factorial-Trailing-Zeroes" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/00179-Largest-Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00187-Repeated-DNA-Sequences" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/00189-Rotate-Array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/00190-Reverse-Bits" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/00191-Number-of-1-Bits" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/00166-Fraction-to-Recurring-Decimal" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/00187-Repeated-DNA-Sequences" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="algorithm-leetcode" />
+    <orderEntry type="module" module-name="Q00000" />
   </component>
 </module>

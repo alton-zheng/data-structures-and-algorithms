@@ -6,32 +6,18 @@ package java00000.m2;
  * @Description:
  */
 class Solution {
-    public long minimumPerimeter(long neededApples) {
+    public int secondsToRemoveOccurrences(String s) {
 
-        long mid = 0;
-
-        if (neededApples == 1) {
-            return 8;
+        int res = 0;
+        while (s.contains("01")) {
+            s = s.replaceAll("01", "10");
+            res++;
         }
 
-        long left = 2, right = 300000;
-
-        while (left < right) {
-            mid = left + ((right - left) >> 1);
-            mid = mid % 2 == 0 ? mid : mid - 1;
-            long x = (mid/2 + 1)*(mid + 1) * mid;
-            if (x > neededApples) {
-                right = mid - 1;
-            } else {
-                left = mid + 1;
-            }
-
-        }
-
-        return mid * 4;
+        return res;
     }
 
     public static void main(String[] args) {
-        System.out.println(new Solution().minimumPerimeter(16));
+        System.out.println(new Solution().secondsToRemoveOccurrences("0110101"));
     }
 }
