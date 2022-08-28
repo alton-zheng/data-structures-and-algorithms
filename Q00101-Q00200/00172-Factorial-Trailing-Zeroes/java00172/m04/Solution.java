@@ -19,7 +19,6 @@ class Solution {
     public int trailingZeroes(int n) {
 
         int res = 0;
-
         int power5 = 5;
         while (n >= power5) {
             res += n / power5;

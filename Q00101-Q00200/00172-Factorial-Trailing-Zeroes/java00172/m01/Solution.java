@@ -8,31 +8,28 @@ import java.math.BigInteger;
  * @Description:
  * 172. Factorial Trailing Zeroes #149
  * <p>
- * Given an integer n, return the number of trailing zeroes in n!.
- * <p>
- * Follow up: Could you write a solution that works in logarithmic time complexity?
- * <p>
- * <p>
- * <p>
- * Example 1:
- * <p>
- * Input: n = 3
- * Output: 0
- * Explanation: 3! = 6, no trailing zero.
- * Example 2:
- * <p>
- * Input: n = 5
- * Output: 1
- * Explanation: 5! = 120, one trailing zero.
- * Example 3:
- * <p>
- * Input: n = 0
- * Output: 0
- * <p>
- * <p>
- * Constraints:
- * <p>
- * 0 <= n <= 104
+172. 阶乘后的零
+给定一个整数 n ，返回 n! 结果中尾随零的数量。
+
+提示 n! = n * (n - 1) * (n - 2) * ... * 3 * 2 * 1
+
+示例 1：
+
+输入：n = 3
+输出：0
+解释：3! = 6 ，不含尾随 0
+
+示例 2：
+输入：n = 5
+输出：1
+解释：5! = 120 ，有一个尾随 0
+
+示例 3：
+输入：n = 0
+输出：0
+
+提示：
+0 <= n <= 10^4
  * <p>
  * Time Complexity : O()
  * Space Complexity : O()
