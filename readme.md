@@ -1,6 +1,4 @@
-
-
-## Leetcode Problems
+# Leetcode Problems
 
 | ID | Problem | Java | C++ | Python |
 | --- | --- | :---: | ----- | ----- |
@@ -632,7 +630,7 @@
 | 790 | [Domino and Tromino Tiling](https://leetcode.cn/problems/domino-and-tromino-tiling/description/) | | | |
 | 791 | [Custom Sort String](https://leetcode.cn/problems/custom-sort-string/description/) | | | |
 | 792 | [Number of Matching Subsequences](https://leetcode.cn/problems/number-of-matching-subsequences/description/) | | | |
-| 793 | [Preimage Size of Factorial Zeroes Function](https://leetcode.cn/problems/preimage-size-of-factorial-zeroes-function/description/) | | | |
+| 793 | [Preimage Size of Factorial Zeroes Function](https://leetcode.cn/problems/preimage-size-of-factorial-zeroes-function/description/) | [Java](Q00701-Q00800/00793-Preimage-Size-of-Factorial-Zeroes-Function/java00793) | | |
 | 794 | [Valid Tic-Tac-Toe State](https://leetcode.cn/problems/valid-tic-tac-toe-state/description/) | | | |
 | 795 | [Number of Subarrays with Bounded Maximum](https://leetcode.cn/problems/number-of-subarrays-with-bounded-maximum/description/) | | | |
 | 796 | [Rotate String](https://leetcode.cn/problems/rotate-string/description/) | [Java](Q00701-Q00800/00796-Rotate-String/java00796) | [C++](Q00701-Q00800/00796-Rotate-String/cpp00796) |  |
