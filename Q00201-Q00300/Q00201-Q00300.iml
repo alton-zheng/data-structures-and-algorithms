@@ -41,6 +41,7 @@
       <sourceFolder url="file://$MODULE_DIR$/00225-Implement-Stack-using-Queues" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/00232-Implement-Queue-using-Stacks" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/00235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00236-Lowest-Common-Ancestor-of-a-Binary-Tree" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
