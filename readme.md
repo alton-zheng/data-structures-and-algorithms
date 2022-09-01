@@ -229,8 +229,8 @@
 | 232 | [Implement Queue using Stacks](https://leetcode.cn/problems/implement-queue-using-stacks/description/) | [Java](Q00201-Q00300/00232-Implement-Queue-using-Stacks/java00232) | | |
 | 233 | [Number of Digit One](https://leetcode.cn/problems/number-of-digit-one/) | [Java](Q00201-Q00300/00233-Number-of-Digit-One/java00233) | [C++](Q00201-Q00300/00233-Number-of-Digit-One/cpp00233) | |
 | 234 | [Palindrome Linked List](https://leetcode.cn/problems/palindrome-linked-list/description/) | | | |
-| 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | [Java](Q00401-Q00500/0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree/java-0235/src/) |  |  |
-| 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/description/) | | | |
+| 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | [Java](Q00201-Q00300/00235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree/java00235) |  |  |
+| 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [Java](Q00201-Q00300/00236-Lowest-Common-Ancestor-of-a-Binary-Tree/java00236) | | |
 | 237 | [Delete Node in a Linked List](https://leetcode.cn/problems/delete-node-in-a-linked-list/description/) | [Java](Q00201-Q00300/00237-Delete-Node-in-a-Linked-List/java00237) | [C++](Q00201-Q00300/00237-Delete-Node-in-a-Linked-List/cpp00237) |  |
 | 238 | [Product of Array Except Self](https://leetcode.cn/problems/product-of-array-except-self/) | | | |
 | 239 | [Sliding Window Maximum](https://leetcode.cn/problems/sliding-window-maximum/description/) | | | |
@@ -760,7 +760,7 @@
 | 943 | [Find the Shortest Superstring](https://leetcode.cn/problems/find-the-shortest-superstring/) | | | |
 | 944 | [Delete Columns to Make Sorted](https://leetcode.cn/problems/delete-columns-to-make-sorted/) | | | |
 | 945 | [Minimum Increment to Make Array Unique](https://leetcode.cn/problems/minimum-increment-to-make-array-unique/) | [Java](Q00901-Q01000/00945-Minimum-Increment-to-Make-Array-Unique/java00945) | [C++](Q00901-Q01000/00945-Minimum-Increment-to-Make-Array-Unique/cpp00945) | |
-| 946 | [Validate Stack Sequences](https://leetcode.cn/problems/validate-stack-sequences/) | | | |
+| 946 | [Validate Stack Sequences](https://leetcode.cn/problems/validate-stack-sequences/) | [Java](Q00901-Q01000/00946-Validate-Stack-Sequences) | | |
 | 947 | [Most Stones Removed with Same Row or Column](https://leetcode.cn/problems/most-stones-removed-with-same-row-or-column/) | | | |
 | 948 | [Bag of Tokens](https://leetcode.cn/problems/bag-of-tokens/) | | | |
 | 949 | [Largest Time for Given Digits](https://leetcode.cn/problems/largest-time-for-given-digits/) | | | |
