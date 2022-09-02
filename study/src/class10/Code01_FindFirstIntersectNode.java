@@ -2,16 +2,10 @@ package class10;
 
 public class Code01_FindFirstIntersectNode {
 
-	public static class Node {
-		public int value;
-		public Node next;
-
-		public Node(int data) {
-			this.value = data;
-		}
-	}
-
 	public static Node getIntersectNode(Node head1, Node head2) {
+
+		// head1 ， head2 有一个为空，直接返回 null
+		// 边界： 返回 null,不会有相交的点
 		if (head1 == null || head2 == null) {
 			return null;
 		}

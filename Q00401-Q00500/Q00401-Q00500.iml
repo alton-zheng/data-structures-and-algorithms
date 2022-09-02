@@ -38,6 +38,7 @@
       <sourceFolder url="file://$MODULE_DIR$/00500-Keyboard-Row" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/0437-Path-Sum-III" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/00493-Reverse-Pairs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00431-encode-n-ary-tree-to-binary-tree" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

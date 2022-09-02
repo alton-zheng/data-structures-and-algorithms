@@ -19,7 +19,7 @@ public class Code02_SerializeAndReconstructTree {
      *          \
      *           2
      * 补足空位置的中序遍历结果都是{ null, 1, null, 2, null}
-     *       
+     *
      * */
 	public static class Node {
 		public int value;
@@ -131,15 +131,22 @@ public class Code02_SerializeAndReconstructTree {
 			while (!queue.isEmpty()) {
 				head = queue.poll(); // head 父   子
 				if (head.left != null) {
+
+					// 子树不为空时，既要序列化也要放队列放
 					ans.add(String.valueOf(head.left.value));
 					queue.add(head.left);
 				} else {
+
+					// 为空时，只序列化
 					ans.add(null);
 				}
 				if (head.right != null) {
+					// 子树不为空时， 既要序列化也要放队列放
 					ans.add(String.valueOf(head.right.value));
 					queue.add(head.right);
 				} else {
+
+					// 不为空时，只序列化
 					ans.add(null);
 				}
 			}
@@ -148,29 +155,59 @@ public class Code02_SerializeAndReconstructTree {
 	}
 
 	public static Node buildByLevelQueue(Queue<String> levelList) {
+
+		// 队列为空时， 或者 size 为 0， 直接返回 null
 		if (levelList == null || levelList.size() == 0) {
 			return null;
 		}
+
+		// 首先创建 head 头结点
+		// 后面的流程会在 head 左右子树不断的处理
 		Node head = generateNode(levelList.poll());
+
+		// 创建 queue
 		Queue<Node> queue = new LinkedList<Node>();
+
+		//  如果头不为空
 		if (head != null) {
+
+			// 放队列
 			queue.add(head);
 		}
+
 		Node node = null;
 		while (!queue.isEmpty()) {
+
+			// 队列不为空时
+			// 从队列中取 node
 			node = queue.poll();
+
+			// 利用 levelList 取出 poll() 放入 node.left
+			// 利用 levelList 取出， 放入  node.right
 			node.left = generateNode(levelList.poll());
 			node.right = generateNode(levelList.poll());
+
+
+			// 如果 node.left 不为空时，将它也放入 queue 中备用
 			if (node.left != null) {
 				queue.add(node.left);
 			}
+
+			// 如果 node.right 不为空时，将它也放入 queue 中备用
 			if (node.right != null) {
 				queue.add(node.right);
 			}
 		}
+
+		// 返回 head
 		return head;
 	}
 
+	/**
+	 * 辅助方法， 生成树节点
+	 * @param val
+	 * @return
+	 */
 	public static Node generateNode(String val) {
 		if (val == null) {
 			return null;
@@ -259,6 +296,6 @@ public class Code02_SerializeAndReconstructTree {
 			}
 		}
 		System.out.println("test finish!");
-		
+
 	}
 }
