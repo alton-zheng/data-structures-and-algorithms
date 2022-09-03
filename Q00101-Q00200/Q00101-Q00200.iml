@@ -29,6 +29,7 @@
       <sourceFolder url="file://$MODULE_DIR$/00189-Rotate-Array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/00190-Reverse-Bits" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/00191-Number-of-1-Bits" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/00200-Number-of-Islands" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
