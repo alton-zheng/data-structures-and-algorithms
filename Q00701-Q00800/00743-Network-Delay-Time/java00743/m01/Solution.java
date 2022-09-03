@@ -9,9 +9,14 @@ import java.util.Arrays;
  *
  * 743. Network Delay Time #264
  *
- * You are given a network of n nodes, labeled from 1 to n. You are also given times, a list of travel times as directed edges times[i] = (ui, vi, wi), where ui is the source node, vi is the target node, and wi is the time it takes for a signal to travel from source to target.
+ * You are given a network of n nodes, labeled from 1 to n.
+ * You are also given times, a list of travel times as directed edges times[i] = (ui, vi, wi),
+ * where ui is the source node, vi is the target node,
+ * and wi is the time it takes for a signal to travel from source to target.
  *
- * We will send a signal from a given node k. Return the time it takes for all the n nodes to receive the signal. If it is impossible for all the n nodes to receive the signal, return -1.
+ * We will send a signal from a given node k.
+ * Return the time it takes for all the n nodes to receive the signal.
+ * If it is impossible for all the n nodes to receive the signal, return -1.
  *
  *
  *
@@ -52,16 +57,18 @@ import java.util.Arrays;
 class Solution {
     public int networkDelayTime(int[][] times, int n, int k) {
 
-        int DEFAULT = 60001;
+        int DEFAULT = 5501;
 
         int[][] help = new int[n + 1][n + 1];
 
         // 将 help 二维数组元素默认为 DEFAULT
+        // 根据题意： source -> target 最长时间为 100，这里将 help 子数组值全部更新为先默认 所有和 + 1 —》 5501
         for (int i = 0; i <= n; i++) {
             Arrays.fill(help[i], DEFAULT);
         }
 
-        // 更新信号源 -> dest : help[source][dest] 所花费时间
+        // 根据 time 信息，更新信号源 -> dest : help[source][dest] 所花费时间
+        // 执行完后， 所有的 source -> target 花费的时间都会正确的更新到 help 中
         for (int i = 0; i < times.length; i++) {
             int[] cur = times[i];
             help[cur[0]][cur[1]] = cur[2];
@@ -75,18 +82,20 @@ class Solution {
             distance[i] = DEFAULT;
         }
 
-        // 将网络节点 k 初始化 为 0， 因为此题从 k 出发
+        // 将网络节点 k 初始化 为 0， k -> k 只需要花费 0， 因为此题从 k 出发
         distance[k] = 0;
 
+        // 定义节点是否被访问到
         boolean[] visit = new boolean[n + 1];
 
+        // 开始遍历网络节点
         for (int i = 1; i <= n; i++) {
+
             int source = -1;
 
             // 每次处理时，找到当前接收到信号时间最短的网络节点
             // 首次处理时， source 肯定等于 k, 也就是上面初始时间为 0 的网络节点 k
             for (int dest = 1; dest <= n; dest++)  {
-
                 if (!visit[dest] && (source == -1 || distance[dest] < distance[source])) {
                     source = dest;
                 }
@@ -101,12 +110,17 @@ class Solution {
             }
         }
 
+        // 遍历完后，所有节点的 distance 都更新完成
+        // 定义结果变量 res
         int res = -1;
 
+        // 遍历所网络节点的 cost distance
+        // 取最大的 distance 值作为结果值
         for (int i = 1; i <= n; i++) {
             res = Math.max(res, distance[i]);
         }
 
+        // 返回结果值， DEFAULT 时，返回 -1
         return res == DEFAULT ? -1 : res;
     }
 }
