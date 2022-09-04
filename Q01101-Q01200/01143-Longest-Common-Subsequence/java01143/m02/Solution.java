@@ -1,9 +1,10 @@
-package java01143.m01;
+package java01143.m02;
 
 /**
  * @Author: alton
  * @Date: Created in 2022/9/4 16:40
  * @Description:
+ * 1143. Longest Common Subsequence #243
  *
  * Given two strings text1 and text2, return the length of their longest common subsequence. If there is no common subsequence, return 0.
  *
@@ -42,39 +43,34 @@ package java01143.m01;
  * Memory Usage: 42.8 MB, less than 63.93% of Java online submissions for Longest Common Subsequence.
  *
  * 1143. Longest Common Subsequence #463
- *
- * 这种方法会超时， 可以通过缓存值进行处理，会思考就行，不要太纠结，此题重点考察 dp, 在方法二中进行了编写
  */
 class Solution {
     public int longestCommonSubsequence(String text1, String text2) {
-        int text1Len = text1.length(), text2Len = text2.length();
 
-        // 确认边界条件
-        if (text1Len == 0 || text2Len == 0) {
-            return 0;
+        // 定义2字符长度变量
+        int t1Len = text1.length(), t2Len = text2.length();
+
+        // 将 2 个 String char 化，加快遍历速度
+        char[] charA1 = text1.toCharArray(), charA2 = text2.toCharArray();
+
+        // 定义二维 dp
+        int[][] dp = new int[t1Len + 1][t2Len + 1];
+
+        // 当字符为空时，另一个字符不管有多少位，其最长公共子序列肯定为 0, 与 dp 数组 int 类型默认值保持一致， 不需要额外的赋值
+
+        // 两字符遍历
+        for (int i = 1; i <= t1Len; i++) {
+            for (int j = 1; j <= t2Len; j++) {
+
+                // 当 i - 1, j - 1 索引位的字符相等时，其 dp[i][j] 等于其前一 dp 值加一
+                // 不相等时，此时有2 中场景，要么 选择 text1 选择，要么 选择text2
+                // 取其最大值
+                dp[i][j] = charA1[i - 1] == charA2[j - 1] ? dp[i - 1][j - 1] + 1 : Math.max(dp[i - 1][j], dp[i][j - 1]);
+
+            }
         }
 
-        char[] text1A = text1.toCharArray(), text2A = text2.toCharArray();
-        return longestCommonSubsequence(text1A, text1Len, text2A, text2Len);
-    }
-
-    private int longestCommonSubsequence(char[] text1A, int index1, char[] text2A, int index2) {
-
-        if (index1 == 0 || index2 == 0) {
-            return 0;
-        }
-
-        if (text1A[index1 - 1] == text2A[index2 - 1]) {
-            return longestCommonSubsequence(text1A, index1 - 1, text2A, index2 - 1) + 1;
-        }
-
-        return Math.max(
-                longestCommonSubsequence(text1A, index1, text2A, index2 - 1),
-                longestCommonSubsequence(text1A, index1 - 1, text2A, index2)
-        );
-    }
-
-    public static void main(String[] args) {
-        System.out.println(new Solution().longestCommonSubsequence("abcde", "ace"));
+        // 返回将字符遍历完后的最大公共子序列值
+        return dp[t1Len][t2Len];
     }
 }
