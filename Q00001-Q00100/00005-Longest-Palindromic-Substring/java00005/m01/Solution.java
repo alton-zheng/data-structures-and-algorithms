@@ -3,7 +3,7 @@ package java00005.m01;
 /**
  * @Author: alton
  * @Date: Created in 2021/8/24 4:47 下午
- * @Description: 5. Longest Palindromic Substring #337
+ * @Description: 5. Longest Palindromic Substring #465
  * <p>
  * https://leetcode-cn.com/problems/longest-palindromic-substring/
  * <p>
@@ -52,8 +52,8 @@ class Solution {
         // 将 s char[] 化
         char[] source = s.toCharArray();
 
-        // dp help 数组， 二维大小均为 len + 1， 记录是否被访问过
-        boolean[][] help = new boolean[len + 1][len + 1];
+        // dp help 数组， 二维大小均为 len， 记录left, right 范围内是否为回文
+        boolean[][] help = new boolean[len][len];
 
         // 初始化 left , right 为 0
         int left = 0, right = 0;
@@ -63,8 +63,8 @@ class Solution {
 
         // 开始遍历，r 移到最左边，向右边移动
         // l 初始化为 r, 向左边移动
-        for (int r = 1; r < len + 1; r++) {
-            for (int l = r; l >= 1; l--) {
+        for (int r = 0; r < len; r++) {
+            for (int l = r; l >= 0; l--) {
 
                 // 当 l == r 时
                 if (l == r) {
@@ -86,7 +86,7 @@ class Solution {
                     // 1. [l,r] 在相邻的两个字符
                     // 2. l + 1, r - 1 范围都属于回文
                     // 那么 [l, r] 范围内都是回文串
-                    if (source[l - 1] == source[r - 1]
+                    if (source[l] == source[r]
                             && (r - l == 1 || help[l + 1][r - 1])) {
                         help[l][r] = true;
                     }
@@ -110,7 +110,7 @@ class Solution {
         }
 
         // 返回 s 的  [left - 1, right)
-        return s.substring(left - 1, right);
+        return s.substring(left, right + 1);
 
     }
 }
