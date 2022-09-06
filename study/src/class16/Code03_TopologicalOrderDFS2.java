@@ -38,16 +38,27 @@ public class Code03_TopologicalOrderDFS2 {
 	}
 
 	public static ArrayList<DirectedGraphNode> topSort(ArrayList<DirectedGraphNode> graph) {
+
+		// 定义缓存
 		HashMap<DirectedGraphNode, Record> order = new HashMap<>();
+
+		// 遍历图，将每个节点进行缓存
+		// 每个节点的点次都会被缓存
 		for (DirectedGraphNode cur : graph) {
 			f(cur, order);
 		}
+
+		// 将记录提取出来
 		ArrayList<Record> recordArr = new ArrayList<>();
 		for (Record r : order.values()) {
 			recordArr.add(r);
 		}
+
+		// 按点次进行排序
 		recordArr.sort(new MyComparator());
-		ArrayList<DirectedGraphNode> ans = new ArrayList<DirectedGraphNode>();
+
+		// 构建结果集
+		ArrayList<DirectedGraphNode> ans = new ArrayList<>();
 		for (Record r : recordArr) {
 			ans.add(r.node);
 		}
@@ -60,15 +71,22 @@ public class Code03_TopologicalOrderDFS2 {
 	//  key : 某一个点的点次，之前算过了！
 	//  value : 点次是多少
 	public static Record f(DirectedGraphNode cur, HashMap<DirectedGraphNode, Record> order) {
+
+		// 缓存过的，直接拿
 		if (order.containsKey(cur)) {
 			return order.get(cur);
 		}
 		// cur的点次之前没算过！
+		// 所有子节点的点次，相加
 		long nodes = 0;
 		for (DirectedGraphNode next : cur.neighbors) {
 			nodes += f(next, order).nodes;
 		}
+
+		// 构建结果
 		Record ans = new Record(cur, nodes + 1);
+
+		// 进缓存
 		order.put(cur, ans);
 		return ans;
 	}

@@ -55,13 +55,19 @@ public class Code06_Dijkstra {
 	}
 
 	public static class NodeHeap {
-		private Node[] nodes; // 实际的堆结构
-		// key 某一个node， value 上面堆中的位置
+		// 实际的堆结构
+		private Node[] nodes;
+
+
+		// key 某一个 node， value 上面 nodes 堆中的位置
+		// 当被访问过，将值更新为 -1， isEntered
 		private HashMap<Node, Integer> heapIndexMap;
+
 		// key 某一个节点， value 从源节点出发到该节点的目前最小距离
 		private HashMap<Node, Integer> distanceMap;
-		private int size; // 堆上有多少个点
 
+		// 堆上有多少个点
+		private int size;
 		public NodeHeap(int size) {
 			nodes = new Node[size];
 			heapIndexMap = new HashMap<>();
@@ -76,26 +82,57 @@ public class Code06_Dijkstra {
 		// 有一个点叫node，现在发现了一个从源节点出发到达node的距离为distance
 		// 判断要不要更新，如果需要的话，就更新
 		public void addOrUpdateOrIgnore(Node node, int distance) {
+
+			// 检查是否在堆上，在对上，说明已经进来过
 			if (inHeap(node)) {
+
+				// 更新小值
 				distanceMap.put(node, Math.min(distanceMap.get(node), distance));
+
+				// 更新堆位置
 				insertHeapify(node, heapIndexMap.get(node));
 			}
+
+
+			// 没进来过
 			if (!isEntered(node)) {
+
+				// 更新到对上最后一位
 				nodes[size] = node;
+				// 更新反向索引结构
 				heapIndexMap.put(node, size);
+
+				// 距离结构新增 node 数据
 				distanceMap.put(node, distance);
+
+				// 上推，更新堆结构
 				insertHeapify(node, size++);
 			}
 		}
 
+
+		// 弹出 head
 		public NodeRecord pop() {
+
+			// 记录 nodeRecord
 			NodeRecord nodeRecord = new NodeRecord(nodes[0], distanceMap.get(nodes[0]));
+
+			// 首位置和尾位置替换
 			swap(0, size - 1);
+
+			// 更新下标 -> -1
 			heapIndexMap.put(nodes[size - 1], -1);
+
+			// node -> distance 结构中，将弹出的 node 移除
 			distanceMap.remove(nodes[size - 1]);
+
 			// free C++同学还要把原本堆顶节点析构，对java同学不必
 			nodes[size - 1] = null;
+
+			// 交换后的下推
 			heapify(0, --size);
+
+			// 返回 nodeRecord
 			return nodeRecord;
 		}
 
@@ -127,6 +164,8 @@ public class Code06_Dijkstra {
 		}
 
 		private boolean inHeap(Node node) {
+
+			// 进来过，且在 head 上的索引位置不等于 -1， -1 说明被访问过，被弹出了
 			return isEntered(node) && heapIndexMap.get(node) != -1;
 		}
 
@@ -142,17 +181,32 @@ public class Code06_Dijkstra {
 	// 改进后的dijkstra算法
 	// 从head出发，所有head能到达的节点，生成到达每个节点的最小路径记录并返回
 	public static HashMap<Node, Integer> dijkstra2(Node head, int size) {
+
+		// 先生成一个堆，大小为节点大小
 		NodeHeap nodeHeap = new NodeHeap(size);
+
+		// 加 head
 		nodeHeap.addOrUpdateOrIgnore(head, 0);
+
+		// 收集每个节点的 result
 		HashMap<Node, Integer> result = new HashMap<>();
 		while (!nodeHeap.isEmpty()) {
+
+			// 弹出堆顶
 			NodeRecord record = nodeHeap.pop();
+
+			// cur 弹出的节点和 distance
 			Node cur = record.node;
 			int distance = record.distance;
+
+			// 遍历边，放入堆中
 			for (Edge edge : cur.edges) {
 				nodeHeap.addOrUpdateOrIgnore(edge.to, edge.weight + distance);
 			}
+
+			// cur, distance -> result
 			result.put(cur, distance);
+
 		}
 		return result;
 	}

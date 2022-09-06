@@ -656,7 +656,7 @@
 | 823 | [Binary Trees With Factors](https://leetcode.cn/problems/binary-trees-with-factors/) | | | |
 | | | | | |
 | 827 | [Making A Large Island](https://leetcode.cn/problems/making-a-large-island/) | | | |
-| | | | | |
+| 828 | [Count Unique Characters of All Substrings of a Given String](https://leetcode.cn/problems/count-unique-characters-of-all-substrings-of-a-given-string/) | [Java](Q00801-Q00900/00828-count-unique-characters-of-all-substrings-of-a-given-string/java00828/m01/a.md) | [C++](Q00801-Q00900/00828-count-unique-characters-of-all-substrings-of-a-given-string/cpp00828) | |
 | 830 | [Positions of Large Groups](https://leetcode.cn/problems/positions-of-large-groups/) | | | |
 | | | | | |
 | 832 | [Flipping an Image](https://leetcode.cn/problems/flipping-an-image/) | | | |

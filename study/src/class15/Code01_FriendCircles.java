@@ -9,6 +9,9 @@ public class Code01_FriendCircles {
 		int N = M.length;
 		// {0} {1} {2} {N-1}
 		UnionFind unionFind = new UnionFind(N);
+		// 只遍历右上方区
+		// 自己认识自己忽略
+		// 右上方区和左下方区是对应的，不需要重复计算
 		for (int i = 0; i < N; i++) {
 			for (int j = i + 1; j < N; j++) {
 				if (M[i][j] == 1) { // i和j互相认识
