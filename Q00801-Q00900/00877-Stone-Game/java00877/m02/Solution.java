@@ -45,8 +45,10 @@ package java00877.m02;
 class Solution {
     public boolean stoneGame(int[] piles) {
 
+        // 石头的堆数
         int len = piles.length;
 
+        //
         int[] help = new int[len];
 
         for (int i = 0; i < len; i++) {

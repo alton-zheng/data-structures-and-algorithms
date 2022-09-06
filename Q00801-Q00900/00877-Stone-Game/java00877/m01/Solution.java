@@ -45,20 +45,29 @@ package java00877.m01;
 class Solution {
     public boolean stoneGame(int[] piles) {
 
+        // 石头的堆数
         int len = piles.length;
 
+        // dp help 数组，存储先手-后手差值
         int[][] help = new int[len][len];
 
+        // 初始化左上角到右下角对角的石碓数量
         for (int i = 0; i < len; i++) {
             help[i][i] = piles[i];
         }
 
+        // 从二维数组对角右下角往左上角推理
         for (int i = len - 2; i >= 0; i--) {
             for (int j = i + 1; j < len; j++) {
+
+                // 当先手选择 [i],  后手只能在 [i + 1, j] 选择
+                // 当先手选择 [j], 后手只能选择 [i, j -1] 选择
+                // 为什么要这么求值呢？ 因为可以直接使用已知的 help 数组来求值
                 help[i][j] = Math.max(piles[i] - help[i + 1][j], piles[j] - help[i][j - 1]);
             }
         }
 
+        // 大于 0， 赢，小于 0， 输
         return help[0][len - 1] > 0;
 
     }
