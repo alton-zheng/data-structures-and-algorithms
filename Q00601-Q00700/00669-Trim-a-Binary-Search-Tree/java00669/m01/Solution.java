@@ -1,4 +1,4 @@
-package java00669;
+package java00669.m01;
 
 /**
  * @Author: alton
@@ -52,6 +52,9 @@ package java00669;
  * Memory Usage: 42.5 MB, less than 8.29% of Java online submissions for Trim a Binary Search Tree.
  *
  */
+
+import java00000.TreeNode;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
