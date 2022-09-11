@@ -1,21 +1,45 @@
 package class25;
 
-// 测试链接：https://leetcode.com/problems/count-submatrices-with-all-ones
+// 测试链接：https://leetcode.cn/problems/count-submatrices-with-all-ones
 public class Code05_CountSubmatricesWithAllOnes {
 
 	public static int numSubmat(int[][] mat) {
+
+		/**
+		 * 边界条件：
+		 * 1. 数组为空
+		 * 2. 数组长度为 0
+		 */
 		if (mat == null || mat.length == 0 || mat[0].length == 0) {
 			return 0;
 		}
-		int nums = 0;
+
+		// 定义结果变量
+		int res = 0;
+
+		// 定义 height 数组
 		int[] height = new int[mat[0].length];
+
+		// 开始遍历二维矩阵
 		for (int i = 0; i < mat.length; i++) {
 			for (int j = 0; j < mat[0].length; j++) {
+
+				/**
+				 * 更新 height 数组对应位
+				 * 1. 当前矩阵位如果为 0， height 对应位，直接复原成 0（碰到 0， 意味着当前位上没有高度）
+				 * 2. 不为 0， 原 height + 1 赋值给 height 对应位数组
+				 */
 				height[j] = mat[i][j] == 0 ? 0 : height[j] + 1;
 			}
-			nums += countFromBottom(height);
+
+			// 每次遍历完一层， 统计一层所有的数量
+			// 并将结果值赋值给 res
+			res += countFromBottom(height);
+
 		}
-		return nums;
+
+		// 返回 res
+		return res;
 
 	}
 
@@ -45,32 +69,83 @@ public class Code05_CountSubmatricesWithAllOnes {
 	// 这么多！= 21 = (9 - 2 - 1) * (9 - 2) / 2
 	// 这就是任何一个数字从栈里弹出的时候，计算矩形数量的方式
 	public static int countFromBottom(int[] height) {
+
+		// 判断边界条件：
+		// height 数组为 null
+		// height 的长度为 0
+		// 直接返回 0
 		if (height == null || height.length == 0) {
 			return 0;
 		}
+
+		// 定义 nums ， 默认为 0
 		int nums = 0;
+
+		// 使用数组代替 stack 结构，来降低复杂度常数系数，提升性能
+		// 长度为 height 的长度
 		int[] stack = new int[height.length];
-		int si = -1;
+
+		// stack index , 初始化为 -1
+		int stackIndex = -1;
+
+		// 开始遍历 height 数组
 		for (int i = 0; i < height.length; i++) {
-			while (si != -1 && height[stack[si]] >= height[i]) {
-				int cur = stack[si--];
+
+			// 初次不会进入这里， stackIndex 为 -1
+			// 从第二个元素开始 while 循环判断，第二个元素进入这里判断时 stackIndex 为 0
+			// height stack 顶索引位元素 >= height[i]
+			while (stackIndex != -1 && height[stack[stackIndex]] >= height[i]) {
+
+				// 弹出 stack 元素，在这里直接取 stackIndex 位的数组值即可
+				// stackIndex--
+				int cur = stack[stackIndex--];
+
+				// 当 height[cur] > height[i]
 				if (height[cur] > height[i]) {
-					int left = si == -1 ? -1 : stack[si];
+
+					// 当 stackIndex 回到 -1 , 将 -1 赋值给 left
+					// 否则将上一个栈顶元素下一位索引 -> left
+					int left = stackIndex == -1 ? -1 : stack[stackIndex];
+
 					int n = i - left - 1;
+
+					// 1. 当 left 为 -1 时，说明栈里没有元素了，取 0，  否则取 height[left]
+					// 2. height[i]
+					// 取 1， 2 中的大值赋值给 down
 					int down = Math.max(left == -1 ? 0 : height[left], height[i]);
+
+					// 按照题意含义， 将符合条件的 1 矩形个数加给 nums
 					nums += (height[cur] - down) * num(n);
 				}
 
 			}
-			stack[++si] = i;
+
+			// height 首元素赋值为 i， stackIndex -> 0
+			// 将 i 索引压入栈
+			stack[++stackIndex] = i;
 		}
-		while (si != -1) {
-			int cur = stack[si--];
-			int left = si == -1  ? -1 : stack[si];
+
+		// 到最后， 如果 stackIndex 不为 -1
+		// 意味着 stack 不为空，继续逻辑处理
+		while (stackIndex != -1) {
+
+			// 当前索引位
+			int cur = stack[stackIndex--];
+
+			// left
+			int left = stackIndex == -1  ? -1 : stack[stackIndex];
+
+			// n 代表着 height 中有多少符合 1 的条件
 			int n = height.length - left - 1;
+
+			// down 为 height[left] 值
 			int down = left == -1 ? 0 : height[left];
+
+			// nums 加上将符合题意的数量
 			nums += (height[cur] - down) * num(n);
 		}
+
+		// 返回结果
 		return nums;
 	}
 
