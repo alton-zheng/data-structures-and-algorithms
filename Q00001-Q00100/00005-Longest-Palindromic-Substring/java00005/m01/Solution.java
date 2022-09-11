@@ -1,116 +1,62 @@
 package java00005.m01;
 
 /**
- * @Author: alton
- * @Date: Created in 2021/8/24 4:47 下午
- * @Description: 5. Longest Palindromic Substring #465
- * <p>
- * https://leetcode-cn.com/problems/longest-palindromic-substring/
- * <p>
- * Given a string s, return the longest palindromic substring in s.
- * <p>
- *  
- * <p>
- * Example 1:
- * <p>
- * Input: s = "babad"
- * Output: "bab"
- * Note: "aba" is also a valid answer.
- * Example 2:
- * <p>
- * Input: s = "cbbd"
- * Output: "bb"
- * Example 3:
- * <p>
- * Input: s = "a"
- * Output: "a"
- * Example 4:
- * <p>
- * Input: s = "ac"
- * Output: "a"
- *  
- * <p>
- * Constraints:
- * <p>
- * 1 <= s.length <= 1000
- * s consist of only digits and English letters.
- * <p>
- * Time Complexity: O(N^2)
- * Space Complexity: O(N)
+ * 执行用时： 24 ms , 在所有 Java 提交中击败了 88.35% 的用户
+ * 内存消耗： 38.3 MB , 在所有 Java 提交中击败了 90.62% 的用户
  */
 class Solution {
     public String longestPalindrome(String s) {
 
-        // s 长度
-        int len = s.length();
-
-        // len == 1 时，说明最长回文串就是 s
-        if (len == 1) {
-            return s;
-        }
-
-        // 将 s char[] 化
-        char[] source = s.toCharArray();
-
-        // dp help 数组， 二维大小均为 len， 记录left, right 范围内是否为回文
-        boolean[][] help = new boolean[len][len];
-
-        // 初始化 left , right 为 0
+        // 定义开始位置 left, 结束位置 right
         int left = 0, right = 0;
 
-        // 结果串长度
-        int resLen = 0;
+        // 开始遍历 s
+        for (int i = 0; i < s.length(); i++) {
 
-        // 开始遍历，r 移到最左边，向右边移动
-        // l 初始化为 r, 向左边移动
-        for (int r = 0; r < len; r++) {
-            for (int l = r; l >= 0; l--) {
 
-                // 当 l == r 时
-                if (l == r) {
+            // 原地为中心
+            int len1 = judgePalinedromeCenter(s, i, i);
 
-                    // l, r 位置相同， 记录 help[l][r] 为回文串
-                    help[l][r] = true;
+            // 原地和原地后一个字符，两者为中心
+            int len2 = judgePalinedromeCenter(s, i, i + 1);
 
-                    // 结果串长度小于 0 时，更新 left, right, resLen
-                    if (resLen < 0) {
-                        left = l;
-                        right = r;
-                        resLen = 1;
-                    }
+            // 上面两种判断方式，取大值
+            int len = Math.max(len1, len2);
 
-                } else {
 
-                    // l, r 位置值相同
-                    // 下面两种场景：
-                    // 1. [l,r] 在相邻的两个字符
-                    // 2. l + 1, r - 1 范围都属于回文
-                    // 那么 [l, r] 范围内都是回文串
-                    if (source[l] == source[r]
-                            && (r - l == 1 || help[l + 1][r - 1])) {
-                        help[l][r] = true;
-                    }
+            // 当 len > 之前 right - left 时
+            // 说明 i 位置或 i 和 i + 1 位置为中心的回文串更长
+            if (len > right - left) {
+                // 更新 left
+                left = i - (len - 1) / 2;
 
-                }
-
-                // 满足两个条件：
-                // 1. [l, r] 范围内是回文串
-                // 2. r - l + 1 大小大于之前 resLen 时，说明
-                // [l, r] 范围更大，更新 left, right, resLen
-                // 为了免除误会，这里的 l, r 比 s 的实际索引位置偏大 1
-                // 所以，回文串实际位置为 [s[l - 1], s[r - 1]] 范围内
-                if (help[l][r] && r - l + 1 > resLen) {
-                    left = l;
-                    right = r;
-                    resLen = r - l + 1;
-                }
+                // 更新 right
+                right = i + len / 2;
             }
-
-
         }
 
-        // 返回 s 的  [left - 1, right)
+        // 返回 [left, right]
         return s.substring(left, right + 1);
 
+    }
+
+    /**
+     * 返回： 回文串的长度
+     * @param s
+     * @param left
+     * @param right
+     * @return
+     */
+    private int judgePalinedromeCenter(String s, int left, int right) {
+
+        // 循环判断回文范围 [left, right] 为中心左右扩
+        // 直到扩不动为止
+        while (left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)) {
+            --left;
+            ++right;
+        }
+
+        // 返回 len 长度 right - left - 1
+        return right - left - 1;
     }
 }
