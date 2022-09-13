@@ -104,22 +104,22 @@ public class Code02_MaxTopK {
 
 	// 时间复杂度O(N)
 	public static int minKth(int[] arr, int index) {
-		int L = 0;
-		int R = arr.length - 1;
+		int left = 0;
+		int right = arr.length - 1;
 		int pivot = 0;
 		int[] range = null;
-		while (L < R) {
-			pivot = arr[L + (int) (Math.random() * (R - L + 1))];
-			range = partition(arr, L, R, pivot);
+		while (left < right) {
+			pivot = arr[left + (int) (Math.random() * (right - left + 1))];
+			range = partition(arr, left, right, pivot);
 			if (index < range[0]) {
-				R = range[0] - 1;
+				right = range[0] - 1;
 			} else if (index > range[1]) {
-				L = range[1] + 1;
+				left = range[1] + 1;
 			} else {
 				return pivot;
 			}
 		}
-		return arr[L];
+		return arr[left];
 	}
 
 	public static int[] partition(int[] arr, int L, int R, int pivot) {

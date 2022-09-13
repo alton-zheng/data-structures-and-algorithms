@@ -426,7 +426,7 @@
 &nbsp;
 
 | ID | Problem | Java | C++ | Python |
-| --- | --- | :---: | ----- | ----- |
+| -- | --- | :---: | ----- | ----- |
 | 501 | [Find Mode in Binary Search Tree](https://leetcode.cn/problems/find-mode-in-binary-search-tree/) | | | |
 | 502 | [502. IPO](https://leetcode.cn/problems/ipo/) | [Java](Q00501-Q00600/00502-IPO/java00502) | [C++](Q00501-Q00600/00502-IPO/java00502) | |
 | 503 | [Next Greater Element II](https://leetcode.cn/problems/next-greater-element-ii/) | [Java](Q00501-Q00600/00503-Next-Greater-Element-II/java00503) | [C++](Q00501-Q00600/00503-Next-Greater-Element-II/cpp00503) |  |
@@ -532,6 +532,7 @@
 | 667 | [Beautiful Arrangement II](https://leetcode.cn/problems/beautiful-arrangement-ii/) | | | |
 | 668 | [Kth Smallest Number in Multiplication Table](https://leetcode.cn/problems/kth-smallest-number-in-multiplication-table/) | | | |
 | 669 | [Trim a Binary Search Tree](https://leetcode.cn/problems/trim-a-binary-search-tree/) | [Java](Q00601-Q00700/00665-Non-decreasing-Array/java00665) | [C++](Q00601-Q00700/00665-Non-decreasing-Array/cpp00665) |  |
+| 670 | [Trim a Binary Search Tree](https://leetcode.cn/problems/maximum-swap/) | [Java](Q00601-Q00700/00670-Maximum-Swap/java00670) |  |  |
 | 671 | [Second Minimum Node In a Binary Tree](https://leetcode.cn/problems/second-minimum-node-in-a-binary-tree/) | [Java](Q00601-Q00700/00671-Second-Minimum-Node-In-a-Binary-Tree/java00671) | [C++](Q00601-Q00700/00671-Second-Minimum-Node-In-a-Binary-Tree/cpp00671) | |
 | 672 | [Bulb Switcher II](https://leetcode.cn/problems/bulb-switcher-ii/description/) | | | |
 | 673 | [Number of Longest Increasing Subsequence](https://leetcode.cn/problems/number-of-longest-increasing-subsequence/description/) | | | |

@@ -46,21 +46,28 @@ public class Code01_FindMinKth {
 
 	// arr 第k小的数
 	// process2(arr, 0, N-1, k-1)
-	// arr[L..R]  范围上，如果排序的话(不是真的去排序)，找位于index的数
-	// index [L..R]
-	public static int process2(int[] arr, int L, int R, int index) {
-		if (L == R) { // L = =R ==INDEX
-			return arr[L];
+	// arr[left..right]  范围上，如果排序的话(不是真的去排序)，找位于index的数
+	// index [left..right]
+	public static int process2(int[] arr, int left, int right, int index) {
+		if (left == right) { // left = =right ==INDEX
+			return arr[left];
 		}
-		// 不止一个数  L +  [0, R -L]
-		int pivot = arr[L + (int) (Math.random() * (R - L + 1))];
-		int[] range = partition(arr, L, R, pivot);
+		// 随机选一个数  left +  [0, right -left]
+		int pivot = arr[left + (int) (Math.random() * (right - left + 1))];
+
+		// 返回等于区域的左右边界位置,  两个元素
+		int[] range = partition(arr, left, right, pivot);
+
+		// 如果 index, 命中了, 直接返回
 		if (index >= range[0] && index <= range[1]) {
 			return arr[index];
 		} else if (index < range[0]) {
-			return process2(arr, L, range[0] - 1, index);
+
+			//  index 大，进入右边递归
+			return process2(arr, left, range[0] - 1, index);
 		} else {
-			return process2(arr, range[1] + 1, R, index);
+			// index 小，进入右边进行递归
+			return process2(arr, range[1] + 1, right, index);
 		}
 	}
 
