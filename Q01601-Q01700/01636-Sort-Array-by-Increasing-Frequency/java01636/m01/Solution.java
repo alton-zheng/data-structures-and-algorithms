@@ -44,15 +44,16 @@ import java.util.*;
 class Solution {
     public int[] frequencySort(int[] nums) {
 
-        Map<Integer, Integer> map = new HashMap<>();
+        Map<Integer, Integer> help = new HashMap<>();
 
-        // count frequency of each number
-        Arrays.stream(nums).forEach(n -> map.put(n, map.getOrDefault(n, 0) + 1));
+        // 统计每个数值的频率
+        Arrays.stream(nums).forEach(n -> help.put(n, help.getOrDefault(n, 0) + 1));
 
-        // custom sort
+        // 自定义 sort
         return Arrays.stream(nums).boxed()
-                .sorted((a,b) -> map.get(a) != map.get(b) ? map.get(a) - map.get(b) : b - a)
+                .sorted((a,b) -> !help.get(a).equals(help.get(b)) ? help.get(a) - help.get(b) : b - a)
                 .mapToInt(n -> n)
                 .toArray();
+
     }
 }
