@@ -1,4 +1,4 @@
-package class38;
+package java00001;
 
 public class Code02_EatGrass {
 
@@ -9,15 +9,15 @@ public class Code02_EatGrass {
 			return n == 0 || n == 2 ? "后手" : "先手";
 		}
 		// 进到这个过程里来，当前的先手，先选
-
+		
 		for(int want = 1; want <= n && want <= n / 4; want <<= 2) {
 			if (whoWin(n - want).equals("后手")) {
 				return "先手";
 			}
 		}
-
+		
 		return "后手";
-
+		
 	}
 
 	public static String winner1(int n) {
@@ -46,8 +46,8 @@ public class Code02_EatGrass {
 	}
 
 	public static void main(String[] args) {
-		for (int i = 0; i <= 50; i++) {
-			System.out.println(i + " : " + whoWin(i));
+		for (int i = 0; i <= 5000; i++) {
+			System.out.println(i + " : " + winner2(i));
 		}
 	}
 

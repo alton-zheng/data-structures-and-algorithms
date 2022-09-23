@@ -66,14 +66,24 @@ public class Code04_MoneyProblem {
 	}
 
 	public static long func2(int[] d, int[] p) {
+
+		// 定义总能力变量
 		int sum = 0;
+
+		// 求出所有能力值
 		for (int num : d) {
 			sum += num;
 		}
+
+		// 定义 dp
 		long[][] dp = new long[d.length + 1][sum + 1];
+
+		// base case
 		for (int i = 0; i <= sum; i++) {
 			dp[0][i] = 0;
 		}
+
+		//
 		for (int cur = d.length - 1; cur >= 0; cur--) {
 			for (int hp = 0; hp <= sum; hp++) {
 				// 如果这种情况发生，那么这个hp必然是递归过程中不会出现的状态
@@ -82,6 +92,9 @@ public class Code04_MoneyProblem {
 					continue;
 				}
 				if (hp < d[cur]) {
+
+					// 当前角色拥有能力不够当前怪兽能力时，必须花钱
+					// 因为从最后一关往前闯，因此将花费钱加上上一次闯关花费的钱
 					dp[cur][hp] = p[cur] + dp[cur + 1][hp + d[cur]];
 				} else {
 					dp[cur][hp] = Math.min(p[cur] + dp[cur + 1][hp + d[cur]], dp[cur + 1][hp]);
