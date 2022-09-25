@@ -17,6 +17,7 @@ class Solution {
                     break;
                 }
 
+                // women 没什么的
                 if (help[ch - '0'] == 1) {
                     condition2 = true;
                 }
