@@ -1,4 +1,4 @@
-package java00664;
+package java00664.m01;
 
 /**
  * @Author: alton
@@ -35,26 +35,27 @@ package java00664;
  * Space Complexity: O(N^2)
  */
 class Solution {
-    public int strangePrinter(String s) {
+    public static int strangePrinter(String str) {
 
-        int sLen = s.length();
-        int[][] dp = new int[sLen][sLen];
+        int len = str.length();
+        int[][] help = new int[len][len];
 
-        for (int i = sLen - 1; i >= 0; i--) {
-            dp[i][i] = 1;
-            for (int j = i + 1; j < sLen; j++) {
-                if (s.charAt(i) == s.charAt(j)) {
-                    dp[i][j] = dp[i][j - 1];
-                } else {
-                    int min = Integer.MAX_VALUE;
-                    for (int k = i; k < j; k++) {
-                        min = Math.min(min, dp[i][k] + dp[k + 1][j]);
-                    }
-                    dp[i][j] = min;
+        help[len - 1][len - 1] = 1;
+        for (int i = 0; i < len - 1; i++) {
+            help[i][i] = 1;
+            help[i][i + 1] = str.charAt(i) == str.charAt(i + 1) ? 1 : 2;
+        }
+
+        for (int left = len - 3; left >= 0; left--) {
+            for (int right = left + 2; right < len; right++) {
+                help[left][right] = right - left + 1;
+                for (int k = left + 1; k <= right; k++){
+                    help[left][right] =
+                            Math.min(help[left][right], help[left][k - 1] + help[k][right] - (str.charAt(left) == str.charAt(k) ? 1 : 0));
                 }
             }
         }
 
-        return dp[0][sLen - 1];
+        return help[0][len - 1];
     }
 }

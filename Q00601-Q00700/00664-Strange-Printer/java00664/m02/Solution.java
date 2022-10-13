@@ -1,4 +1,4 @@
-package java00664.m01;
+package java00664.m02;
 
 /**
  * @Author: alton
@@ -35,26 +35,26 @@ package java00664.m01;
  * Space Complexity: O(N^2)
  */
 class Solution {
+
     public int strangePrinter(String s) {
+        int len = s.length();
 
-        int sLen = s.length();
-        int[][] dp = new int[sLen][sLen];
+        int[][] help = new int[len][len];
 
-        for (int i = sLen - 1; i >= 0; i--) {
-            dp[i][i] = 1;
-            for (int j = i + 1; j < sLen; j++) {
-                if (s.charAt(i) == s.charAt(j)) {
-                    dp[i][j] = dp[i][j - 1];
+        for (int left = len - 1; left >= 0; left--) {
+            help[left][left] = 1;
+            for (int right = left + 1; right < len; right++) {
+                if (s.charAt(left) == s.charAt(right)) {
+                    help[left][right] = help[left][right - 1];
                 } else {
-                    int min = Integer.MAX_VALUE;
-                    for (int k = i; k < j; k++) {
-                        min = Math.min(min, dp[i][k] + dp[k + 1][j]);
+                    help[left][right] = right - left + 1;
+                    for (int k = left; k < right; k++) {
+                        help[left][right] = Math.min(help[left][right], help[left][k] + help[k + 1][right]);
                     }
-                    dp[i][j] = min;
                 }
             }
         }
 
-        return dp[0][sLen - 1];
+        return help[0][len - 1];
     }
 }
